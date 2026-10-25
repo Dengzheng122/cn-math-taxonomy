@@ -1,0 +1,2452 @@
+{
+  "changes": [
+    {
+      "id": "cne_h005_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "开学第一天，想问好并说出自己的名字，哪一句合适？",
+      "answer": "Hi, my name is Lin",
+      "old": "Good night, close the door",
+      "new": "Hi, your name is Lin"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想告诉同学自己在三班，哪一句合适？",
+      "answer": "I am in Class 3",
+      "old": "I am in a flood",
+      "new": "I am at Class 3"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想告诉同学自己在三班，哪一句合适？",
+      "answer": "I am in Class 3",
+      "old": "Class 3 is eating",
+      "new": "I is in Class 3"
+    },
+    {
+      "id": "cne_h005_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想告诉同学自己在三班，哪一句合适？",
+      "answer": "I am in Class 3",
+      "old": "You are my locker",
+      "new": "He is in Class 3"
+    },
+    {
+      "id": "cne_h007_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "要点：姓名林晓、三班、喜欢音乐。哪一句三个要点都有？",
+      "answer": "I am Lin Xiao in Class 3, and I like music",
+      "old": "Class 3 likes Monday",
+      "new": "I am Lin Xiao in Class 3, and I like football"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想用邮件向笔友介绍自己是新生，哪一句合适？",
+      "answer": "I am a new student at this school",
+      "old": "You are a new earthquake",
+      "new": "I is a new student at this school"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想用邮件向笔友介绍自己是新生，哪一句合适？",
+      "answer": "I am a new student at this school",
+      "old": "The locker ate Monday",
+      "new": "I am an new student at this school"
+    },
+    {
+      "id": "cne_h007_q2",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想用邮件向笔友介绍自己是新生，哪一句合适？",
+      "answer": "I am a new student at this school",
+      "old": "Please flood the name",
+      "new": "He is a new student at this school"
+    },
+    {
+      "id": "cne_h013_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说自己最喜欢英语课，哪一句合适？",
+      "answer": "My favourite course is English",
+      "old": "English is a flood",
+      "new": "Your favourite course is English"
+    },
+    {
+      "id": "cne_h013_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "同学建议你参加辩论社，你愿意，应回答什么？",
+      "answer": "That sounds good. I will join",
+      "old": "I am a drought",
+      "new": "That sounds good. I will joined"
+    },
+    {
+      "id": "cne_h013_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "同学建议你参加辩论社，你愿意，应回答什么？",
+      "answer": "That sounds good. I will join",
+      "old": "Close the hurricane",
+      "new": "That sounds good. I will to join"
+    },
+    {
+      "id": "cne_h013_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想问对方有没有加入社团，哪一句合适？",
+      "answer": "Have you joined a club",
+      "old": "You joined a earthquake",
+      "new": "Have you joined an club"
+    },
+    {
+      "id": "cne_h013_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说明参加志愿者活动让自己更自信，哪一句合适？",
+      "answer": "Volunteering makes me more confident",
+      "old": "Confident is a locker",
+      "new": "Volunteering make me more confident"
+    },
+    {
+      "id": "cne_h015_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为申请的开头？",
+      "answer": "I would like to join the debate club",
+      "old": "In conclusion the flood won",
+      "new": "I would liked to join the debate club"
+    },
+    {
+      "id": "cne_h015_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为申请的开头？",
+      "answer": "I would like to join the debate club",
+      "old": "Therefore buy a locker",
+      "new": "I would to like to join the debate club"
+    },
+    {
+      "id": "cne_h015_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "老师要求用现在时介绍自己的空闲时间，哪一句符合？",
+      "answer": "I am free on Friday afternoon",
+      "old": "Free ate the Friday",
+      "new": "I am free in Friday afternoon"
+    },
+    {
+      "id": "cne_h020_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想告诉同学周五已经订好去西安的机票，哪一句合适？",
+      "answer": "We are flying to Xi'an on Friday",
+      "old": "Xi'an is eating Friday",
+      "new": "We is flying to Xi'an on Friday"
+    },
+    {
+      "id": "cne_h020_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想告诉同学周五已经订好去西安的机票，哪一句合适？",
+      "answer": "We are flying to Xi'an on Friday",
+      "old": "Please flood the ticket",
+      "new": "We are fly to Xi'an on Friday"
+    },
+    {
+      "id": "cne_h020_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "朋友邀请你一起去看瀑布，你愿意，应回答什么？",
+      "answer": "Yes, I would love to",
+      "old": "No, I am a brochure",
+      "new": "Yes, I would loved to"
+    },
+    {
+      "id": "cne_h020_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "朋友邀请你一起去看瀑布，你愿意，应回答什么？",
+      "answer": "Yes, I would love to",
+      "old": "The temple ate me",
+      "new": "Yes, I would to love to"
+    },
+    {
+      "id": "cne_h020_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议先看行程再出发，哪一句合适？",
+      "answer": "Let's check the itinerary before we leave",
+      "old": "Itinerary ate the bus",
+      "new": "Let's to check the itinerary before we leave"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "邮件里表示已经订好车票，哪一句合适？",
+      "answer": "I have already booked the train ticket",
+      "old": "The ticket ate Friday",
+      "new": "I have already book the train ticket"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "邮件里表示已经订好车票，哪一句合适？",
+      "answer": "I have already booked the train ticket",
+      "old": "Book is a temple",
+      "new": "He have already booked the train ticket"
+    },
+    {
+      "id": "cne_h022_q2",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "邮件里表示已经订好车票，哪一句合适？",
+      "answer": "I have already booked the train ticket",
+      "old": "I book yesterday tomorrow",
+      "new": "I not have already booked the train ticket"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为行程邮件的开头？",
+      "answer": "I am writing to tell you about my trip",
+      "old": "In conclusion the flood won",
+      "new": "I am writ to tell you about my trip"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为行程邮件的开头？",
+      "answer": "I am writing to tell you about my trip",
+      "old": "Therefore close the castle",
+      "new": "I is writing to tell you about my trip"
+    },
+    {
+      "id": "cne_h022_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为行程邮件的开头？",
+      "answer": "I am writing to tell you about my trip",
+      "old": "However buy a brochure",
+      "new": "He is writing to tell you about my trip"
+    },
+    {
+      "id": "cne_h025_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句的附加问句是正确的？",
+      "answer": "He is a coach, isn't he",
+      "old": "He is a coach, is he",
+      "new": "He are a coach, isn't he"
+    },
+    {
+      "id": "cne_h025_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句的附加问句是正确的？",
+      "answer": "He is a coach, isn't he",
+      "old": "He is a coach, isn't she",
+      "new": "He is an coach, isn't he"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "朋友很少运动，你建议他每天步行，哪一句合适？",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "Walk ate the stadium",
+      "new": "You could walked for thirty minutes a day"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "朋友很少运动，你建议他每天步行，哪一句合适？",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "You are a medal",
+      "new": "You could walk for thirty minutes an day"
+    },
+    {
+      "id": "cne_h027_q1",
+      "key": "D",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "朋友很少运动，你建议他每天步行，哪一句合适？",
+      "answer": "You could walk for thirty minutes a day",
+      "old": "Please injury the diet",
+      "new": "You could to walk for thirty minutes a day"
+    },
+    {
+      "id": "cne_h027_q2",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "教练说 Don't train when you are injured. 你明白了，应回答什么？",
+      "answer": "All right, I will rest",
+      "old": "The muscle is a coach",
+      "new": "All right, I will rested"
+    },
+    {
+      "id": "cne_h027_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想邀请同学周六一起去体育场跑步，哪一句合适？",
+      "answer": "Shall we run at the stadium on Saturday",
+      "old": "The stadium ran me",
+      "new": "Shall we run at the stadium in Saturday"
+    },
+    {
+      "id": "cne_h034_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想告诉同学洪水很严重，哪一句合适？",
+      "answer": "The flood is serious and many people need help",
+      "old": "The flood is a medal",
+      "new": "The flood is serious and many people needs help"
+    },
+    {
+      "id": "cne_h034_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想告诉同学洪水很严重，哪一句合适？",
+      "answer": "The flood is serious and many people need help",
+      "old": "Please eat the warning",
+      "new": "The flood is serious and many peoples need help"
+    },
+    {
+      "id": "cne_h034_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想表达对幸存者的担心，哪一句合适？",
+      "answer": "I am worried about the survivors",
+      "old": "Survivors are lockers",
+      "new": "I is worried about the survivors"
+    },
+    {
+      "id": "cne_h034_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想表达对幸存者的担心，哪一句合适？",
+      "answer": "I am worried about the survivors",
+      "old": "I earthquake the worry",
+      "new": "He is worried about the survivors"
+    },
+    {
+      "id": "cne_h034_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "同学说救援队已经出发，你表示庆幸，应回答什么？",
+      "answer": "I am glad the rescue team has left",
+      "old": "Glad is a flood",
+      "new": "I is glad the rescue team has left"
+    },
+    {
+      "id": "cne_h034_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "同学说救援队已经出发，你表示庆幸，应回答什么？",
+      "answer": "I am glad the rescue team has left",
+      "old": "Please drought the team",
+      "new": "He is glad the rescue team has left"
+    },
+    {
+      "id": "cne_h036_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "要点：周五地震、找到二十名幸存者、警报提前十分钟。哪一句三个要点都有？",
+      "answer": "An earthquake hit on Friday, rescue teams found twenty survivors, and the warning had been sent ten minutes earlier",
+      "old": "An earthquake hit on Friday",
+      "new": "An earthquake hit on Friday, rescue teams found twenty survivors"
+    },
+    {
+      "id": "cne_h041_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说汉字很有趣但难写，哪一句合适？",
+      "answer": "Chinese characters are interesting but hard to write",
+      "old": "Characters ate the dialect",
+      "new": "Chinese characters are interest but hard to write"
+    },
+    {
+      "id": "cne_h041_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说明扩大词汇量需要阅读，哪一句合适？",
+      "answer": "Reading helps you build your vocabulary",
+      "old": "Vocabulary is a shelter",
+      "new": "Reading help you build your vocabulary"
+    },
+    {
+      "id": "cne_h044_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为计划的第一句？",
+      "answer": "My plan for learning Chinese is simple",
+      "old": "In conclusion the dialect won",
+      "new": "My plan for learning Chinese are simple"
+    },
+    {
+      "id": "cne_h044_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为计划的第一句？",
+      "answer": "My plan for learning Chinese is simple",
+      "old": "Therefore eat a character",
+      "new": "Your plan for learning Chinese is simple"
+    },
+    {
+      "id": "cne_h049_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说古庙应该被保护，哪一句合适？",
+      "answer": "I think the ancient temple should be preserved",
+      "old": "The temple ate the dynasty",
+      "new": "I thinks the ancient temple should be preserved"
+    },
+    {
+      "id": "cne_h049_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说古庙应该被保护，哪一句合适？",
+      "answer": "I think the ancient temple should be preserved",
+      "old": "Preserve is a medal",
+      "new": "I not think the ancient temple should be preserved"
+    },
+    {
+      "id": "cne_h049_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议设立参观规则，哪一句合适？",
+      "answer": "We could make rules for visitors",
+      "old": "Rules ate the temple",
+      "new": "We could maked rules for visitors"
+    },
+    {
+      "id": "cne_h049_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议设立参观规则，哪一句合适？",
+      "answer": "We could make rules for visitors",
+      "old": "Could is a relic",
+      "new": "We could to make rules for visitors"
+    },
+    {
+      "id": "cne_h056_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说明猎人才是危险的来源，哪一句合适？",
+      "answer": "Hunters are the main danger to this species",
+      "old": "Hunters are habitats",
+      "new": "Hunters is the main danger to this species"
+    },
+    {
+      "id": "cne_h056_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "对方说保护区没有用，你不同意，应回答什么？",
+      "answer": "I don't agree, because the numbers are rising",
+      "old": "I don't agree the numbers ate",
+      "new": "I don't agree, because the numbers are ris"
+    },
+    {
+      "id": "cne_h063_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "对方问为什么要用昵称，你说明理由，哪一句合适？",
+      "answer": "I use a nickname to protect my privacy",
+      "old": "Nickname ate my privacy",
+      "new": "I use an nickname to protect my privacy"
+    },
+    {
+      "id": "cne_h072_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为介绍的开头？",
+      "answer": "Let me tell you about a local tradition",
+      "old": "In conclusion the battle won",
+      "new": "Let me tell you about an local tradition"
+    },
+    {
+      "id": "cne_h079_q1",
+      "key": "C",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说乐队正在舞台上表演，哪一句合适？",
+      "answer": "The band is performing on the stage",
+      "old": "Performing ate the audience",
+      "new": "The band is perform on the stage"
+    },
+    {
+      "id": "cne_h087_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议用灯笼装饰教室，哪一句合适？",
+      "answer": "Let's decorate the classroom with lanterns",
+      "old": "Decorate ate the feast",
+      "new": "Let's to decorate the classroom with lanterns"
+    },
+    {
+      "id": "cne_h089_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为介绍的第一句？",
+      "answer": "Let me introduce a festival in my hometown",
+      "old": "In conclusion the firework won",
+      "new": "Let me introduce an festival in my hometown"
+    },
+    {
+      "id": "cne_h094_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想表扬同学诚实地交还钱包，哪一句合适？",
+      "answer": "It was honest of you to return the wallet",
+      "old": "Honest ate the wallet",
+      "new": "It not was honest of you to return the wallet"
+    },
+    {
+      "id": "cne_h094_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说明尊重别人是一种美德，哪一句合适？",
+      "answer": "Respect for others is a virtue",
+      "old": "Respect ate the courage",
+      "new": "Respect for others is an virtue"
+    },
+    {
+      "id": "cne_h096_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为评论的第一句？",
+      "answer": "Mei made a choice that shows kindness",
+      "old": "In conclusion the wallet won",
+      "new": "Mei made an choice that shows kindness"
+    },
+    {
+      "id": "cne_h101_q1",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说这个地区的服饰和自己家乡不同，哪一句合适？",
+      "answer": "The costumes in this region are different from those in my hometown",
+      "old": "Costumes ate my hometown",
+      "new": "The costumes in this region are different of those in my hometown"
+    },
+    {
+      "id": "cne_h101_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想礼貌地询问一项信仰是否可以拍照，哪一句合适？",
+      "answer": "Could you tell me if I may take photos",
+      "old": "Tell me photo or not now",
+      "new": "Could you tell me if I may taked photos"
+    },
+    {
+      "id": "cne_h101_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想礼貌地询问一项信仰是否可以拍照，哪一句合适？",
+      "answer": "Could you tell me if I may take photos",
+      "old": "May is a costume",
+      "new": "Could you tell me if I may to take photos"
+    },
+    {
+      "id": "cne_h103_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为笔记的第一句？",
+      "answer": "Today I learned about a local ethnic group",
+      "old": "In conclusion the costume won",
+      "new": "Today I learned about an local ethnic group"
+    },
+    {
+      "id": "cne_h115_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议先做预算再借钱，哪一句合适？",
+      "answer": "You should make a budget before you take a loan",
+      "old": "Budget ate the loan",
+      "new": "You should maked a budget before you take a loan"
+    },
+    {
+      "id": "cne_h115_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议先做预算再借钱，哪一句合适？",
+      "answer": "You should make a budget before you take a loan",
+      "old": "Take a loan is charity",
+      "new": "You should to make a budget before you take a loan"
+    },
+    {
+      "id": "cne_h117_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为反思的第一句？",
+      "answer": "I learned a lesson about value",
+      "old": "In conclusion the bargain won",
+      "new": "I learned an lesson about value"
+    },
+    {
+      "id": "cne_h122_q1",
+      "key": "B",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说她把一生献给了研究，哪一句合适？",
+      "answer": "She devoted her life to research",
+      "old": "Life ate the Nobel",
+      "new": "She not devoted her life to research"
+    },
+    {
+      "id": "cne_h124_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为简介的第一句？",
+      "answer": "This paragraph introduces a scientist",
+      "old": "In conclusion the Nobel ate",
+      "new": "This paragraph introduces an scientist"
+    },
+    {
+      "id": "cne_h143_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想提醒对方距离太近，哪一句合适？",
+      "answer": "Please keep a comfortable distance",
+      "old": "Distance ate the gesture",
+      "new": "Please keep an comfortable distance"
+    },
+    {
+      "id": "cne_h150_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说明有机肥可能提高产量，哪一句合适？",
+      "answer": "Organic fertilizer may increase the yield",
+      "old": "Yield ate the irrigation",
+      "new": "Organic fertilizer may increased the yield"
+    },
+    {
+      "id": "cne_h150_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说明有机肥可能提高产量，哪一句合适？",
+      "answer": "Organic fertilizer may increase the yield",
+      "old": "Increase is a crop",
+      "new": "Organic fertilizer may to increase the yield"
+    },
+    {
+      "id": "cne_h152_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为安排的第一句？",
+      "answer": "Here is the plan for the harvest",
+      "old": "Harvest ate the yield",
+      "new": "Here are the plan for the harvest"
+    },
+    {
+      "id": "cne_h157_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议先控制变量，哪一句合适？",
+      "answer": "We should control the variables first",
+      "old": "Variables ate the sample",
+      "new": "We should controled the variables first"
+    },
+    {
+      "id": "cne_h157_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议先控制变量，哪一句合适？",
+      "answer": "We should control the variables first",
+      "old": "First is a method only",
+      "new": "We should to control the variables first"
+    },
+    {
+      "id": "cne_h159_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为评论的第一句？",
+      "answer": "The hypothesis is interesting but not fully proved",
+      "old": "Hypothesis ate the data",
+      "new": "The hypothesis is interest but not fully proved"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想礼貌地承认自己还不够流利，哪一句合适？",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Fluent ate the custom",
+      "new": "I am not fluent yet, so I may misunderstanded"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想礼貌地承认自己还不够流利，哪一句合适？",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Misunderstand is a host",
+      "new": "I am not fluent yet, so I may to misunderstand"
+    },
+    {
+      "id": "cne_h164_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想礼貌地承认自己还不够流利，哪一句合适？",
+      "answer": "I am not fluent yet, so I may misunderstand",
+      "old": "Please abroad the language",
+      "new": "I is not fluent yet, so I may misunderstand"
+    },
+    {
+      "id": "cne_h164_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议交换生先了解习俗，哪一句合适？",
+      "answer": "Exchange students should learn local customs first",
+      "old": "Customs ate the host",
+      "new": "Exchange students should learned local customs first"
+    },
+    {
+      "id": "cne_h164_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议交换生先了解习俗，哪一句合适？",
+      "answer": "Exchange students should learn local customs first",
+      "old": "First is homesick",
+      "new": "Exchange students should to learn local customs first"
+    },
+    {
+      "id": "cne_h166_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为反思的第一句？",
+      "answer": "I misunderstood a custom at dinner",
+      "old": "Custom ate the host",
+      "new": "I misunderstood an custom at dinner"
+    },
+    {
+      "id": "cne_h171_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想介绍用筷子的礼仪，哪一句合适？",
+      "answer": "It is good manners not to point with chopsticks",
+      "old": "Manners ate the banquet",
+      "new": "It are good manners not to point with chopsticks"
+    },
+    {
+      "id": "cne_h171_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说这道菜会增进食欲，哪一句合适？",
+      "answer": "The flavour may improve your appetite",
+      "old": "Appetite ate the ingredient",
+      "new": "The flavour may improved your appetite"
+    },
+    {
+      "id": "cne_h171_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想说这道菜会增进食欲，哪一句合适？",
+      "answer": "The flavour may improve your appetite",
+      "old": "Flavour is a chopstick",
+      "new": "The flavour may to improve your appetite"
+    },
+    {
+      "id": "cne_h179_q4",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "火车延误时想礼貌地表示失望，哪一句合适？",
+      "answer": "I am sorry the train is delayed",
+      "old": "Delay ate my ticket",
+      "new": "I is sorry the train is delayed"
+    },
+    {
+      "id": "cne_h179_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "火车延误时想礼貌地表示失望，哪一句合适？",
+      "answer": "I am sorry the train is delayed",
+      "old": "Sorry is a carriage",
+      "new": "He is sorry the train is delayed"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to tell you about the journey",
+      "old": "Journey ate the frost",
+      "new": "I am writ to tell you about the journey"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to tell you about the journey",
+      "old": "In conclusion buy a rail",
+      "new": "I is writing to tell you about the journey"
+    },
+    {
+      "id": "cne_h181_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to tell you about the journey",
+      "old": "Therefore flood the carriage",
+      "new": "He is writing to tell you about the journey"
+    },
+    {
+      "id": "cne_h186_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议窒息时立即求助，哪一句合适？",
+      "answer": "If someone is choking, call an ambulance at once",
+      "old": "Ambulance ate the pressure",
+      "new": "If someone is chok, call an ambulance at once"
+    },
+    {
+      "id": "cne_h188_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为步骤的第一句？",
+      "answer": "Follow these steps when someone is bleeding",
+      "old": "Bleeding ate the bandage",
+      "new": "Follow these steps when someone is bleed"
+    },
+    {
+      "id": "cne_h195_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为笔记的第一句？",
+      "answer": "This note records one visit to a gallery",
+      "old": "Gallery ate the canvas",
+      "new": "This note records one visit to an gallery"
+    },
+    {
+      "id": "cne_h200_q4",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议用步行缓解焦虑，哪一句合适？",
+      "answer": "A short walk can refresh you and reduce anxiety",
+      "old": "Anxiety ate the routine",
+      "new": "A short walk can refreshed you and reduce anxiety"
+    },
+    {
+      "id": "cne_h200_q4",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想建议用步行缓解焦虑，哪一句合适？",
+      "answer": "A short walk can refresh you and reduce anxiety",
+      "old": "Refresh is nutrition",
+      "new": "A short walk can to refresh you and reduce anxiety"
+    },
+    {
+      "id": "cne_h202_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为建议的第一句？",
+      "answer": "A balanced routine can reduce stress",
+      "old": "Stress ate the garden",
+      "new": "A balanced routine can reduced stress"
+    },
+    {
+      "id": "cne_h202_q3",
+      "key": "C",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为建议的第一句？",
+      "answer": "A balanced routine can reduce stress",
+      "old": "In conclusion buy anxiety",
+      "new": "A balanced routine can to reduce stress"
+    },
+    {
+      "id": "cne_h207_q2",
+      "key": "A",
+      "difficulty": "basic",
+      "level": "h",
+      "prompt": "想说是干旱迫使人们搬家，哪一句合适？",
+      "answer": "It was the drought that forced people to move",
+      "old": "It was the drought which forced people as a relative only",
+      "new": "It not was the drought that forced people to move"
+    },
+    {
+      "id": "cne_h223_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为赏析的第一句？",
+      "answer": "The poem uses quiet imagery and a strong rhythm",
+      "old": "Imagery ate the rhyme",
+      "new": "The poem uses quiet imagery and an strong rhythm"
+    },
+    {
+      "id": "cne_h230_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为概要的第一句？",
+      "answer": "This science fiction follows an android on a spacecraft",
+      "old": "Android ate the gravity",
+      "new": "This science fiction follows an android on an spacecraft"
+    },
+    {
+      "id": "cne_h234_q4",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪里有寺庙，哪里就有游客。哪一句正确？",
+      "answer": "Where there is a temple, there are visitors",
+      "old": "There is a temple where there, visitors",
+      "new": "Where there is an temple, there are visitors"
+    },
+    {
+      "id": "cne_h235_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想介绍这座塔是城市地标，哪一句合适？",
+      "answer": "The tower is a landmark of the city",
+      "old": "Landmark ate the queue",
+      "new": "The tower is an landmark of the city"
+    },
+    {
+      "id": "cne_h249_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "想请邻居周六来帮忙，哪一句合适？",
+      "answer": "Could you volunteer on Saturday",
+      "old": "Volunteer ate the charity",
+      "new": "Could you volunteer in Saturday"
+    },
+    {
+      "id": "cne_h251_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为启事的第一句？",
+      "answer": "We need volunteers for the community shelter",
+      "old": "Shelter ate the blankets",
+      "new": "We needs volunteers for the community shelter"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "A",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to apply for the post",
+      "old": "Post ate the deadline",
+      "new": "I am writ to apply for the post"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "B",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to apply for the post",
+      "old": "In conclusion buy a résumé",
+      "new": "I is writing to apply for the post"
+    },
+    {
+      "id": "cne_h259_q3",
+      "key": "D",
+      "difficulty": "standard",
+      "level": "h",
+      "prompt": "哪一句适合作为邮件的第一句？",
+      "answer": "I am writing to apply for the post",
+      "old": "Therefore flood the interview",
+      "new": "He is writing to apply for the post"
+    }
+  ],
+  "failed": [
+    [
+      "cne_j005_q1",
+      "I am a book.",
+      "Nice to meet you, too.",
+      "初次见面，对方说 Nice to meet you. 你应回答什么？"
+    ],
+    [
+      "cne_j005_q3",
+      "Good evening is a book.",
+      "Good morning.",
+      "早上见面，哪一句是问候？"
+    ],
+    [
+      "cne_j005_q3",
+      "What is your pen?",
+      "Good morning.",
+      "早上见面，哪一句是问候？"
+    ],
+    [
+      "cne_j005_q3",
+      "Sit on the name.",
+      "Good morning.",
+      "早上见面，哪一句是问候？"
+    ],
+    [
+      "cne_h005_q1",
+      "I ate the classroom",
+      "Hi, my name is Lin",
+      "开学第一天，想问好并说出自己的名字，哪一句合适？"
+    ],
+    [
+      "cne_h005_q1",
+      "Please earthquake the book",
+      "Hi, my name is Lin",
+      "开学第一天，想问好并说出自己的名字，哪一句合适？"
+    ],
+    [
+      "cne_h005_q2",
+      "Good night is a book",
+      "Nice to meet you too",
+      "对方说 Nice to meet you. 你应回答什么？"
+    ],
+    [
+      "cne_h005_q4",
+      "Good earthquake",
+      "Good morning",
+      "早上在教学楼遇见老师，哪一句是问候？"
+    ],
+    [
+      "cne_h005_q4",
+      "Sit on the name",
+      "Good morning",
+      "早上在教学楼遇见老师，哪一句是问候？"
+    ],
+    [
+      "cne_h005_q4",
+      "I have a hurricane",
+      "Good morning",
+      "早上在教学楼遇见老师，哪一句是问候？"
+    ],
+    [
+      "cne_h007_q4",
+      "Therefore the flood ended",
+      "Hello, let me introduce myself",
+      "哪一句适合放在自我介绍的开头？"
+    ],
+    [
+      "cne_h007_q4",
+      "In conclusion, buy a locker",
+      "Hello, let me introduce myself",
+      "哪一句适合放在自我介绍的开头？"
+    ],
+    [
+      "cne_h007_q4",
+      "However, the hurricane won",
+      "Hello, let me introduce myself",
+      "哪一句适合放在自我介绍的开头？"
+    ],
+    [
+      "cne_h013_q1",
+      "I earthquake the quiz",
+      "My favourite course is English",
+      "想说自己最喜欢英语课，哪一句合适？"
+    ],
+    [
+      "cne_h013_q1",
+      "The locker is a grade",
+      "My favourite course is English",
+      "想说自己最喜欢英语课，哪一句合适？"
+    ],
+    [
+      "cne_h013_q2",
+      "Yesterday is a volunteer",
+      "That sounds good. I will join",
+      "同学建议你参加辩论社，你愿意，应回答什么？"
+    ],
+    [
+      "cne_h013_q3",
+      "Club is eating homework",
+      "Have you joined a club",
+      "想问对方有没有加入社团，哪一句合适？"
+    ],
+    [
+      "cne_h013_q3",
+      "Please grade the flood",
+      "Have you joined a club",
+      "想问对方有没有加入社团，哪一句合适？"
+    ],
+    [
+      "cne_h013_q4",
+      "The quiz ate the debate",
+      "Volunteering makes me more confident",
+      "想说明参加志愿者活动让自己更自信，哪一句合适？"
+    ],
+    [
+      "cne_h013_q4",
+      "I flood the volunteer",
+      "Volunteering makes me more confident",
+      "想说明参加志愿者活动让自己更自信，哪一句合适？"
+    ],
+    [
+      "cne_h015_q3",
+      "However the quiz ate",
+      "I would like to join the debate club",
+      "哪一句适合作为申请的开头？"
+    ],
+    [
+      "cne_h020_q2",
+      "Yesterday please",
+      "Yes, I would love to",
+      "朋友邀请你一起去看瀑布，你愿意，应回答什么？"
+    ],
+    [
+      "cne_h020_q3",
+      "Accommodation is a verb",
+      "Where is your accommodation",
+      "想问对方的住宿订在哪里，哪一句合适？"
+    ],
+    [
+      "cne_h020_q3",
+      "Where did the castle eat",
+      "Where is your accommodation",
+      "想问对方的住宿订在哪里，哪一句合适？"
+    ],
+    [
+      "cne_h020_q3",
+      "Please grade the waterfall",
+      "Where is your accommodation",
+      "想问对方的住宿订在哪里，哪一句合适？"
+    ],
+    [
+      "cne_h020_q4",
+      "Leave is a castle",
+      "Let's check the itinerary before we leave",
+      "想建议先看行程再出发，哪一句合适？"
+    ],
+    [
+      "cne_h025_q3",
+      "He is a coach, doesn't he",
+      "He is a coach, isn't he",
+      "哪一句的附加问句是正确的？"
+    ],
+    [
+      "cne_h027_q3",
+      "Saturday is eating",
+      "Shall we run at the stadium on Saturday",
+      "想邀请同学周六一起去体育场跑步，哪一句合适？"
+    ],
+    [
+      "cne_h027_q4",
+      "Diet is a marathon medal",
+      "A balanced diet helps your fitness",
+      "想说明均衡饮食对体能有帮助，哪一句合适？"
+    ],
+    [
+      "cne_h027_q4",
+      "Fitness ate the coach",
+      "A balanced diet helps your fitness",
+      "想说明均衡饮食对体能有帮助，哪一句合适？"
+    ],
+    [
+      "cne_h027_q4",
+      "Please flood the muscle",
+      "A balanced diet helps your fitness",
+      "想说明均衡饮食对体能有帮助，哪一句合适？"
+    ],
+    [
+      "cne_h029_q3",
+      "Injury is a medal",
+      "Stop training if you feel an injury",
+      "哪一句适合提醒读者注意伤病？"
+    ],
+    [
+      "cne_h029_q3",
+      "Please eat the stadium",
+      "Stop training if you feel an injury",
+      "哪一句适合提醒读者注意伤病？"
+    ],
+    [
+      "cne_h029_q3",
+      "The coach is a diet",
+      "Stop training if you feel an injury",
+      "哪一句适合提醒读者注意伤病？"
+    ],
+    [
+      "cne_h034_q1",
+      "I am a shelter",
+      "The flood is serious and many people need help",
+      "想告诉同学洪水很严重，哪一句合适？"
+    ],
+    [
+      "cne_h034_q2",
+      "Donate is a hurricane",
+      "Could you please donate some blankets",
+      "想请求对方捐出毯子，哪一句合适？"
+    ],
+    [
+      "cne_h034_q2",
+      "You are an earthquake",
+      "Could you please donate some blankets",
+      "想请求对方捐出毯子，哪一句合适？"
+    ],
+    [
+      "cne_h034_q2",
+      "Blankets ate the shelter",
+      "Could you please donate some blankets",
+      "想请求对方捐出毯子，哪一句合适？"
+    ],
+    [
+      "cne_h034_q3",
+      "Worry ate the drought",
+      "I am worried about the survivors",
+      "想表达对幸存者的担心，哪一句合适？"
+    ],
+    [
+      "cne_h035_q4",
+      "The earthquake hit on Monday",
+      "Rescue teams found twenty survivors",
+      "A strong earthquake hit the town on Frid"
+    ],
+    [
+      "cne_h035_q4",
+      "The town had no earthquake",
+      "Rescue teams found twenty survivors",
+      "A strong earthquake hit the town on Frid"
+    ],
+    [
+      "cne_h036_q3",
+      "Shelter is a medal",
+      "Please go to the nearest shelter",
+      "哪一句适合提醒读者去庇护所？"
+    ],
+    [
+      "cne_h036_q3",
+      "Eat the warning",
+      "Please go to the nearest shelter",
+      "哪一句适合提醒读者去庇护所？"
+    ],
+    [
+      "cne_h036_q3",
+      "The drought won a quiz",
+      "Please go to the nearest shelter",
+      "哪一句适合提醒读者去庇护所？"
+    ],
+    [
+      "cne_h036_q4",
+      "The station who sent the warning is a book",
+      "The station that sent the warning is local",
+      "想用定语从句说明发出警报的电台，哪一句正确？"
+    ],
+    [
+      "cne_h041_q1",
+      "I am a vocabulary",
+      "Chinese characters are interesting but hard to write",
+      "想说汉字很有趣但难写，哪一句合适？"
+    ],
+    [
+      "cne_h041_q1",
+      "Please flood the accent",
+      "Chinese characters are interesting but hard to write",
+      "想说汉字很有趣但难写，哪一句合适？"
+    ],
+    [
+      "cne_h041_q2",
+      "Dialect is a medal",
+      "Can you speak your local dialect",
+      "想问对方会不会说家乡话，哪一句合适？"
+    ],
+    [
+      "cne_h041_q2",
+      "Speak ate the accent",
+      "Can you speak your local dialect",
+      "想问对方会不会说家乡话，哪一句合适？"
+    ],
+    [
+      "cne_h041_q2",
+      "You are a character",
+      "Can you speak your local dialect",
+      "想问对方会不会说家乡话，哪一句合适？"
+    ],
+    [
+      "cne_h041_q3",
+      "Say ate the word",
+      "Could you say that again more slowly",
+      "对方口音很重，你没听清，哪一句礼貌？"
+    ],
+    [
+      "cne_h041_q3",
+      "I drought your dialect",
+      "Could you say that again more slowly",
+      "对方口音很重，你没听清，哪一句礼貌？"
+    ],
+    [
+      "cne_h041_q4",
+      "Reading ate the dialect",
+      "Reading helps you build your vocabulary",
+      "想说明扩大词汇量需要阅读，哪一句合适？"
+    ],
+    [
+      "cne_h041_q4",
+      "Please earthquake the word",
+      "Reading helps you build your vocabulary",
+      "想说明扩大词汇量需要阅读，哪一句合适？"
+    ],
+    [
+      "cne_h044_q3",
+      "However the locker passed",
+      "My plan for learning Chinese is simple",
+      "哪一句适合作为计划的第一句？"
+    ],
+    [
+      "cne_h049_q1",
+      "Please flood the relic",
+      "I think the ancient temple should be preserved",
+      "想说古庙应该被保护，哪一句合适？"
+    ],
+    [
+      "cne_h049_q2",
+      "Damage is a coach",
+      "The damage comes from visitors cutting the walls",
+      "想说明损坏来自游客乱刻，哪一句合适？"
+    ],
+    [
+      "cne_h049_q2",
+      "Visitors are earthquakes",
+      "The damage comes from visitors cutting the walls",
+      "想说明损坏来自游客乱刻，哪一句合适？"
+    ],
+    [
+      "cne_h049_q2",
+      "Walls ate the site",
+      "The damage comes from visitors cutting the walls",
+      "想说明损坏来自游客乱刻，哪一句合适？"
+    ],
+    [
+      "cne_h049_q3",
+      "Your point ate the relic",
+      "I see your point, but the site is worth it",
+      "对方认为修复太贵，你部分同意，应回答什么？"
+    ],
+    [
+      "cne_h049_q3",
+      "I am a dynasty",
+      "I see your point, but the site is worth it",
+      "对方认为修复太贵，你部分同意，应回答什么？"
+    ],
+    [
+      "cne_h049_q3",
+      "Worth is a locker",
+      "I see your point, but the site is worth it",
+      "对方认为修复太贵，你部分同意，应回答什么？"
+    ],
+    [
+      "cne_h049_q4",
+      "Visitors are droughts",
+      "We could make rules for visitors",
+      "想建议设立参观规则，哪一句合适？"
+    ],
+    [
+      "cne_h051_q3",
+      "In conclusion the relic won",
+      "I suggest we protect the old city wall",
+      "哪一句适合作为建议的第一句？"
+    ],
+    [
+      "cne_h051_q3",
+      "Therefore eat the site",
+      "I suggest we protect the old city wall",
+      "哪一句适合作为建议的第一句？"
+    ],
+    [
+      "cne_h051_q3",
+      "However the medal passed",
+      "I suggest we protect the old city wall",
+      "哪一句适合作为建议的第一句？"
+    ],
+    [
+      "cne_h056_q1",
+      "Protected is a hunter",
+      "The antelopes are being protected in the reserve",
+      "想说藏羚羊正在被保护，哪一句合适？"
+    ],
+    [
+      "cne_h056_q1",
+      "Please extinct the plain",
+      "The antelopes are being protected in the reserve",
+      "想说藏羚羊正在被保护，哪一句合适？"
+    ],
+    [
+      "cne_h056_q2",
+      "Danger ate the plain",
+      "Hunters are the main danger to this species",
+      "想说明猎人才是危险的来源，哪一句合适？"
+    ],
+    [
+      "cne_h056_q2",
+      "Species is a medal",
+      "Hunters are the main danger to this species",
+      "想说明猎人才是危险的来源，哪一句合适？"
+    ],
+    [
+      "cne_h056_q3",
+      "Agree is extinct",
+      "I don't agree, because the numbers are rising",
+      "对方说保护区没有用，你不同意，应回答什么？"
+    ],
+    [
+      "cne_h056_q3",
+      "Rising is a locker",
+      "I don't agree, because the numbers are rising",
+      "对方说保护区没有用，你不同意，应回答什么？"
+    ],
+    [
+      "cne_h056_q4",
+      "Buy is a reserve",
+      "Please do not buy products made from wild animals",
+      "想建议人们不要购买野生动物制品，哪一句合适？"
+    ],
+    [
+      "cne_h056_q4",
+      "Products ate the hunter",
+      "Please do not buy products made from wild animals",
+      "想建议人们不要购买野生动物制品，哪一句合适？"
+    ],
+    [
+      "cne_h056_q4",
+      "Do not is a plain",
+      "Please do not buy products made from wild animals",
+      "想建议人们不要购买野生动物制品，哪一句合适？"
+    ],
+    [
+      "cne_h058_q3",
+      "Antelope ate the hunter",
+      "Protect the endangered antelope",
+      "哪一句适合作为海报标题？"
+    ],
+    [
+      "cne_h058_q3",
+      "In conclusion buy fur",
+      "Protect the endangered antelope",
+      "哪一句适合作为海报标题？"
+    ],
+    [
+      "cne_h058_q3",
+      "Therefore flood the plain",
+      "Protect the endangered antelope",
+      "哪一句适合作为海报标题？"
+    ],
+    [
+      "cne_h063_q1",
+      "Password is a blog",
+      "Never post your password online",
+      "想提醒同学不要公开密码，哪一句合适？"
+    ],
+    [
+      "cne_h063_q1",
+      "Please privacy the comment",
+      "Never post your password online",
+      "想提醒同学不要公开密码，哪一句合适？"
+    ],
+    [
+      "cne_h063_q2",
+      "Deleted is an identity",
+      "The rude comment has been deleted",
+      "想说评论已经被删除，哪一句合适？"
+    ],
+    [
+      "cne_h063_q2",
+      "Comment ate the password",
+      "The rude comment has been deleted",
+      "想说评论已经被删除，哪一句合适？"
+    ],
+    [
+      "cne_h063_q3",
+      "Privacy is a stadium",
+      "I use a nickname to protect my privacy",
+      "对方问为什么要用昵称，你说明理由，哪一句合适？"
+    ],
+    [
+      "cne_h063_q3",
+      "I protect because password",
+      "I use a nickname to protect my privacy",
+      "对方问为什么要用昵称，你说明理由，哪一句合适？"
+    ],
+    [
+      "cne_h063_q4",
+      "Identity is online eating",
+      "Check the person's identity before you add them",
+      "想建议对方先核对身份再加好友，哪一句合适？"
+    ],
+    [
+      "cne_h063_q4",
+      "Add them before never",
+      "Check the person's identity before you add them",
+      "想建议对方先核对身份再加好友，哪一句合适？"
+    ],
+    [
+      "cne_h063_q4",
+      "Check ate the blog",
+      "Check the person's identity before you add them",
+      "想建议对方先核对身份再加好友，哪一句合适？"
+    ],
+    [
+      "cne_h065_q3",
+      "Identity ate the blog",
+      "Keep your identity safe online",
+      "哪一句适合作为提醒的标题？"
+    ],
+    [
+      "cne_h065_q3",
+      "In conclusion post the password",
+      "Keep your identity safe online",
+      "哪一句适合作为提醒的标题？"
+    ],
+    [
+      "cne_h065_q3",
+      "Therefore flood the comment",
+      "Keep your identity safe online",
+      "哪一句适合作为提醒的标题？"
+    ],
+    [
+      "cne_h070_q1",
+      "Ancestors ate the kingdom",
+      "On Qingming people honour their ancestors",
+      "想介绍清明纪念祖先的习俗，哪一句合适？"
+    ],
+    [
+      "cne_h070_q1",
+      "Honour is a battle",
+      "On Qingming people honour their ancestors",
+      "想介绍清明纪念祖先的习俗，哪一句合适？"
+    ],
+    [
+      "cne_h070_q1",
+      "Please poem the gathering",
+      "On Qingming people honour their ancestors",
+      "想介绍清明纪念祖先的习俗，哪一句合适？"
+    ],
+    [
+      "cne_h070_q3",
+      "Gathering is a castle",
+      "I support keeping this gathering",
+      "想表示自己支持保留这项聚会，哪一句合适？"
+    ],
+    [
+      "cne_h070_q3",
+      "Support ate the custom",
+      "I support keeping this gathering",
+      "想表示自己支持保留这项聚会，哪一句合适？"
+    ],
+    [
+      "cne_h072_q3",
+      "Therefore eat the poem",
+      "Let me tell you about a local tradition",
+      "哪一句适合作为介绍的开头？"
+    ],
+    [
+      "cne_h072_q3",
+      "However the kingdom passed the quiz",
+      "Let me tell you about a local tradition",
+      "哪一句适合作为介绍的开头？"
+    ],
+    [
+      "cne_h079_q1",
+      "Stage is a password",
+      "The band is performing on the stage",
+      "想说乐队正在舞台上表演，哪一句合适？"
+    ],
+    [
+      "cne_h079_q2",
+      "Concert ate the composer",
+      "Shall we go to the classical concert",
+      "想邀请同学去听古典音乐会，哪一句合适？"
+    ],
+    [
+      "cne_h079_q2",
+      "Shall is an instrument",
+      "Shall we go to the classical concert",
+      "想邀请同学去听古典音乐会，哪一句合适？"
+    ],
+    [
+      "cne_h079_q3",
+      "Smiling sat the song",
+      "The audience sat there, smiling",
+      "想描述听众边听边微笑，哪一句合适？"
+    ],
+    [
+      "cne_h079_q3",
+      "The audience smiling ate",
+      "The audience sat there, smiling",
+      "想描述听众边听边微笑，哪一句合适？"
+    ],
+    [
+      "cne_h081_q3",
+      "Band ate the rhythm",
+      "Student band on stage this Friday",
+      "哪一句适合作为通知标题？"
+    ],
+    [
+      "cne_h081_q3",
+      "In conclusion buy a drum",
+      "Student band on stage this Friday",
+      "哪一句适合作为通知标题？"
+    ],
+    [
+      "cne_h081_q3",
+      "Therefore flood the audience",
+      "Student band on stage this Friday",
+      "哪一句适合作为通知标题？"
+    ],
+    [
+      "cne_h087_q1",
+      "Lanterns ate the lunar calendar",
+      "During the Lantern Festival people watch lanterns",
+      "想介绍元宵节看灯笼，哪一句合适？"
+    ],
+    [
+      "cne_h087_q1",
+      "Watch is a feast",
+      "During the Lantern Festival people watch lanterns",
+      "想介绍元宵节看灯笼，哪一句合适？"
+    ],
+    [
+      "cne_h087_q1",
+      "Please origin the firework",
+      "During the Lantern Festival people watch lanterns",
+      "想介绍元宵节看灯笼，哪一句合适？"
+    ],
+    [
+      "cne_h087_q3",
+      "Origin ate the moon",
+      "The origin of the festival is connected with the moon",
+      "想说明这个节日的起源和月亮有关，哪一句合适？"
+    ],
+    [
+      "cne_h087_q3",
+      "Connected is a firework",
+      "The origin of the festival is connected with the moon",
+      "想说明这个节日的起源和月亮有关，哪一句合适？"
+    ],
+    [
+      "cne_h087_q3",
+      "Moon is used to origin",
+      "The origin of the festival is connected with the moon",
+      "想说明这个节日的起源和月亮有关，哪一句合适？"
+    ],
+    [
+      "cne_h087_q4",
+      "Classroom is a firework",
+      "Let's decorate the classroom with lanterns",
+      "想建议用灯笼装饰教室，哪一句合适？"
+    ],
+    [
+      "cne_h089_q3",
+      "Therefore eat the lantern",
+      "Let me introduce a festival in my hometown",
+      "哪一句适合作为介绍的第一句？"
+    ],
+    [
+      "cne_h089_q3",
+      "However the feast passed",
+      "Let me introduce a festival in my hometown",
+      "哪一句适合作为介绍的第一句？"
+    ],
+    [
+      "cne_h094_q1",
+      "Return is a virtue only yesterday",
+      "It was honest of you to return the wallet",
+      "想表扬同学诚实地交还钱包，哪一句合适？"
+    ],
+    [
+      "cne_h094_q1",
+      "You are a duty",
+      "It was honest of you to return the wallet",
+      "想表扬同学诚实地交还钱包，哪一句合适？"
+    ],
+    [
+      "cne_h094_q3",
+      "Virtue is a wallet",
+      "Respect for others is a virtue",
+      "想说明尊重别人是一种美德，哪一句合适？"
+    ],
+    [
+      "cne_h094_q3",
+      "Please duty the kindness",
+      "Respect for others is a virtue",
+      "想说明尊重别人是一种美德，哪一句合适？"
+    ],
+    [
+      "cne_h094_q4",
+      "Responsible ate the error",
+      "That was responsible of you",
+      "同学承认错误，你认为这很有责任心，应回答什么？"
+    ],
+    [
+      "cne_h094_q4",
+      "You are used to error",
+      "That was responsible of you",
+      "同学承认错误，你认为这很有责任心，应回答什么？"
+    ],
+    [
+      "cne_h096_q3",
+      "Therefore eat the duty",
+      "Mei made a choice that shows kindness",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h096_q3",
+      "However the courage passed",
+      "Mei made a choice that shows kindness",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h101_q1",
+      "Different is a belief",
+      "The costumes in this region are different from those in my hometown",
+      "想说这个地区的服饰和自己家乡不同，哪一句合适？"
+    ],
+    [
+      "cne_h101_q1",
+      "Please minority the cuisine",
+      "The costumes in this region are different from those in my hometown",
+      "想说这个地区的服饰和自己家乡不同，哪一句合适？"
+    ],
+    [
+      "cne_h101_q3",
+      "Photos ate the belief",
+      "Could you tell me if I may take photos",
+      "想礼貌地询问一项信仰是否可以拍照，哪一句合适？"
+    ],
+    [
+      "cne_h101_q4",
+      "Greeting means no person",
+      "A different greeting does not mean less respect",
+      "想说明问候语不一样并不代表不尊重，哪一句合适？"
+    ],
+    [
+      "cne_h101_q4",
+      "Respect ate the region",
+      "A different greeting does not mean less respect",
+      "想说明问候语不一样并不代表不尊重，哪一句合适？"
+    ],
+    [
+      "cne_h101_q4",
+      "Different is rude always",
+      "A different greeting does not mean less respect",
+      "想说明问候语不一样并不代表不尊重，哪一句合适？"
+    ],
+    [
+      "cne_h103_q3",
+      "Therefore eat the cuisine",
+      "Today I learned about a local ethnic group",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h103_q3",
+      "However the greeting passed",
+      "Today I learned about a local ethnic group",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h108_q4",
+      "Watch ate the universe",
+      "Shall we watch the rocket launch",
+      "想邀请同学一起看火箭发射，哪一句合适？"
+    ],
+    [
+      "cne_h108_q4",
+      "Shall is gravity",
+      "Shall we watch the rocket launch",
+      "想邀请同学一起看火箭发射，哪一句合适？"
+    ],
+    [
+      "cne_h110_q3",
+      "Mission ate the orbit",
+      "What I learned about the mission",
+      "哪一句适合作为笔记标题？"
+    ],
+    [
+      "cne_h110_q3",
+      "In conclusion buy a rocket",
+      "What I learned about the mission",
+      "哪一句适合作为笔记标题？"
+    ],
+    [
+      "cne_h110_q3",
+      "Therefore flood the planet",
+      "What I learned about the mission",
+      "哪一句适合作为笔记标题？"
+    ],
+    [
+      "cne_h115_q1",
+      "Bargain ate the budget",
+      "This bargain is not worth buying",
+      "想说这件便宜货不值得买，哪一句合适？"
+    ],
+    [
+      "cne_h115_q4",
+      "Charity ate the debt",
+      "Giving some money to charity is of greater value",
+      "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+    ],
+    [
+      "cne_h115_q4",
+      "Value is a bargain only",
+      "Giving some money to charity is of greater value",
+      "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+    ],
+    [
+      "cne_h115_q4",
+      "Greater money gives charity ate",
+      "Giving some money to charity is of greater value",
+      "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+    ],
+    [
+      "cne_h117_q3",
+      "Therefore eat the budget",
+      "I learned a lesson about value",
+      "哪一句适合作为反思的第一句？"
+    ],
+    [
+      "cne_h117_q3",
+      "However the debt passed the quiz",
+      "I learned a lesson about value",
+      "哪一句适合作为反思的第一句？"
+    ],
+    [
+      "cne_h122_q1",
+      "Please theory the genius",
+      "She devoted her life to research",
+      "想说她把一生献给了研究，哪一句合适？"
+    ],
+    [
+      "cne_h122_q4",
+      "Next ate the career",
+      "Next, he published the theory",
+      "想按步骤介绍人物，哪一句适合作为第二步？"
+    ],
+    [
+      "cne_h122_q4",
+      "Theory is a locker",
+      "Next, he published the theory",
+      "想按步骤介绍人物，哪一句适合作为第二步？"
+    ],
+    [
+      "cne_h124_q3",
+      "Therefore flood the theory",
+      "This paragraph introduces a scientist",
+      "哪一句适合作为简介的第一句？"
+    ],
+    [
+      "cne_h124_q3",
+      "However the genius passed the quiz",
+      "This paragraph introduces a scientist",
+      "哪一句适合作为简介的第一句？"
+    ],
+    [
+      "cne_h129_q1",
+      "First ate the robot",
+      "First, the sensor checks the food",
+      "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+    ],
+    [
+      "cne_h129_q1",
+      "Sensor is a prize",
+      "First, the sensor checks the food",
+      "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+    ],
+    [
+      "cne_h129_q1",
+      "Please predict the appliance",
+      "First, the sensor checks the food",
+      "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+    ],
+    [
+      "cne_h131_q3",
+      "Second ate the robot",
+      "Second, check whether the network is on",
+      "哪一句适合作为步骤的第二句？"
+    ],
+    [
+      "cne_h136_q2",
+      "Feed is a wetland",
+      "Feeding animals is prohibited",
+      "想说禁止投喂，哪一句合适？"
+    ],
+    [
+      "cne_h136_q2",
+      "Please ecology the trail",
+      "Feeding animals is prohibited",
+      "想说禁止投喂，哪一句合适？"
+    ],
+    [
+      "cne_h138_q3",
+      "Wetland ate the ranger",
+      "How to visit the wetland",
+      "哪一句适合作为说明的标题？"
+    ],
+    [
+      "cne_h138_q3",
+      "In conclusion buy binoculars",
+      "How to visit the wetland",
+      "哪一句适合作为说明的标题？"
+    ],
+    [
+      "cne_h138_q3",
+      "Therefore flood the boundary",
+      "How to visit the wetland",
+      "哪一句适合作为说明的标题？"
+    ],
+    [
+      "cne_h143_q1",
+      "Nod ate the distance",
+      "A nod often means agreement",
+      "想说点头常常表示同意，哪一句合适？"
+    ],
+    [
+      "cne_h143_q1",
+      "Agreement is a frown",
+      "A nod often means agreement",
+      "想说点头常常表示同意，哪一句合适？"
+    ],
+    [
+      "cne_h143_q1",
+      "Please posture the contact",
+      "A nod often means agreement",
+      "想说点头常常表示同意，哪一句合适？"
+    ],
+    [
+      "cne_h143_q4",
+      "Comfortable is a nod",
+      "Please keep a comfortable distance",
+      "想提醒对方距离太近，哪一句合适？"
+    ],
+    [
+      "cne_h145_q3",
+      "Gestures ate the frown",
+      "I watched how people used gestures",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h145_q3",
+      "In conclusion buy a nod",
+      "I watched how people used gestures",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h145_q3",
+      "Therefore flood the posture",
+      "I watched how people used gestures",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h150_q3",
+      "Please soil the organic",
+      "Organic fertilizer may increase the yield",
+      "想说明有机肥可能提高产量，哪一句合适？"
+    ],
+    [
+      "cne_h152_q3",
+      "In conclusion buy fertilizer",
+      "Here is the plan for the harvest",
+      "哪一句适合作为安排的第一句？"
+    ],
+    [
+      "cne_h152_q3",
+      "Therefore flood the soil",
+      "Here is the plan for the harvest",
+      "哪一句适合作为安排的第一句？"
+    ],
+    [
+      "cne_h157_q3",
+      "Data ate the hypothesis",
+      "The data are not enough to support the hypothesis",
+      "想指出数据还不够，哪一句合适？"
+    ],
+    [
+      "cne_h157_q3",
+      "Enough is a variable",
+      "The data are not enough to support the hypothesis",
+      "想指出数据还不够，哪一句合适？"
+    ],
+    [
+      "cne_h157_q3",
+      "Please sample the method",
+      "The data are not enough to support the hypothesis",
+      "想指出数据还不够，哪一句合适？"
+    ],
+    [
+      "cne_h159_q3",
+      "In conclusion buy a sample",
+      "The hypothesis is interesting but not fully proved",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h159_q3",
+      "Therefore flood the method",
+      "The hypothesis is interesting but not fully proved",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h166_q3",
+      "In conclusion buy clothes",
+      "I misunderstood a custom at dinner",
+      "哪一句适合作为反思的第一句？"
+    ],
+    [
+      "cne_h166_q3",
+      "Therefore flood the exchange",
+      "I misunderstood a custom at dinner",
+      "哪一句适合作为反思的第一句？"
+    ],
+    [
+      "cne_h171_q3",
+      "Chopsticks are a flavour",
+      "It is good manners not to point with chopsticks",
+      "想介绍用筷子的礼仪，哪一句合适？"
+    ],
+    [
+      "cne_h171_q3",
+      "Please appetite the spice",
+      "It is good manners not to point with chopsticks",
+      "想介绍用筷子的礼仪，哪一句合适？"
+    ],
+    [
+      "cne_h173_q3",
+      "Banquet ate the spice",
+      "This paragraph describes one banquet",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h173_q3",
+      "In conclusion buy chopsticks",
+      "This paragraph describes one banquet",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h173_q3",
+      "Therefore flood the recipe",
+      "This paragraph describes one banquet",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h179_q3",
+      "Boundless ate the carriage",
+      "The plain looked boundless",
+      "想描述一望无际的平原，哪一句合适？"
+    ],
+    [
+      "cne_h179_q3",
+      "Plain is a delay",
+      "The plain looked boundless",
+      "想描述一望无际的平原，哪一句合适？"
+    ],
+    [
+      "cne_h179_q3",
+      "Please awesome the rail",
+      "The plain looked boundless",
+      "想描述一望无际的平原，哪一句合适？"
+    ],
+    [
+      "cne_h179_q4",
+      "The frost is your fault always",
+      "I am sorry the train is delayed",
+      "火车延误时想礼貌地表示失望，哪一句合适？"
+    ],
+    [
+      "cne_h186_q1",
+      "First ate the bandage",
+      "First, put pressure on the wound",
+      "想按步骤说先按压伤口，哪一句合适？"
+    ],
+    [
+      "cne_h186_q1",
+      "Pressure is an ambulance",
+      "First, put pressure on the wound",
+      "想按步骤说先按压伤口，哪一句合适？"
+    ],
+    [
+      "cne_h186_q1",
+      "Please choke the swelling",
+      "First, put pressure on the wound",
+      "想按步骤说先按压伤口，哪一句合适？"
+    ],
+    [
+      "cne_h186_q4",
+      "At once is a wound",
+      "If someone is choking, call an ambulance at once",
+      "想建议窒息时立即求助，哪一句合适？"
+    ],
+    [
+      "cne_h188_q3",
+      "In conclusion buy pressure",
+      "Follow these steps when someone is bleeding",
+      "哪一句适合作为步骤的第一句？"
+    ],
+    [
+      "cne_h188_q3",
+      "Therefore flood the ambulance",
+      "Follow these steps when someone is bleeding",
+      "哪一句适合作为步骤的第一句？"
+    ],
+    [
+      "cne_h193_q3",
+      "Abstract ate the canvas",
+      "The painting is abstract rather than realistic",
+      "想说明这幅画是抽象的，哪一句合适？"
+    ],
+    [
+      "cne_h193_q3",
+      "Rather is a brush",
+      "The painting is abstract rather than realistic",
+      "想说明这幅画是抽象的，哪一句合适？"
+    ],
+    [
+      "cne_h193_q3",
+      "Please gallery the visual",
+      "The painting is abstract rather than realistic",
+      "想说明这幅画是抽象的，哪一句合适？"
+    ],
+    [
+      "cne_h193_q4",
+      "First ate the brush",
+      "First, look at the whole canvas",
+      "想按步骤看展览，哪一句适合作为第一步？"
+    ],
+    [
+      "cne_h193_q4",
+      "Canvas is an exhibition",
+      "First, look at the whole canvas",
+      "想按步骤看展览，哪一句适合作为第一步？"
+    ],
+    [
+      "cne_h195_q3",
+      "In conclusion buy a sculpture",
+      "This note records one visit to a gallery",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h195_q3",
+      "Therefore flood the exhibition",
+      "This note records one visit to a gallery",
+      "哪一句适合作为笔记的第一句？"
+    ],
+    [
+      "cne_h200_q4",
+      "Please balance the stress word",
+      "A short walk can refresh you and reduce anxiety",
+      "想建议用步行缓解焦虑，哪一句合适？"
+    ],
+    [
+      "cne_h202_q3",
+      "Therefore flood the nutrition",
+      "A balanced routine can reduce stress",
+      "哪一句适合作为建议的第一句？"
+    ],
+    [
+      "cne_h207_q2",
+      "The drought it was forced people",
+      "It was the drought that forced people to move",
+      "想说是干旱迫使人们搬家，哪一句合适？"
+    ],
+    [
+      "cne_h207_q2",
+      "Forced the drought people that",
+      "It was the drought that forced people to move",
+      "想说是干旱迫使人们搬家，哪一句合适？"
+    ],
+    [
+      "cne_h207_q3",
+      "Sustainable ate the carbon",
+      "The policy should be sustainable",
+      "想建议政策应当可持续，哪一句合适？"
+    ],
+    [
+      "cne_h207_q3",
+      "Policy is a melt",
+      "The policy should be sustainable",
+      "想建议政策应当可持续，哪一句合适？"
+    ],
+    [
+      "cne_h207_q3",
+      "Please emission the drought",
+      "The policy should be sustainable",
+      "想建议政策应当可持续，哪一句合适？"
+    ],
+    [
+      "cne_h209_q3",
+      "Evidence ate the carbon",
+      "The evidence points to policy, not only to weather",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h209_q3",
+      "In conclusion buy emissions",
+      "The evidence points to policy, not only to weather",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h209_q3",
+      "Therefore flood the lake",
+      "The evidence points to policy, not only to weather",
+      "哪一句适合作为评论的第一句？"
+    ],
+    [
+      "cne_h214_q3",
+      "Hope ate the ordeal",
+      "Perseverance gave them hope",
+      "想说毅力给了他们希望，哪一句合适？"
+    ],
+    [
+      "cne_h214_q3",
+      "Please despair the crew",
+      "Perseverance gave them hope",
+      "想说毅力给了他们希望，哪一句合适？"
+    ],
+    [
+      "cne_h216_q3",
+      "Adversity ate the crew",
+      "The story shows courage in adversity",
+      "哪一句适合作为读后感的第一句？"
+    ],
+    [
+      "cne_h216_q3",
+      "In conclusion buy hope",
+      "The story shows courage in adversity",
+      "哪一句适合作为读后感的第一句？"
+    ],
+    [
+      "cne_h216_q3",
+      "Therefore flood the island",
+      "The story shows courage in adversity",
+      "哪一句适合作为读后感的第一句？"
+    ],
+    [
+      "cne_h221_q3",
+      "Metaphor ate the rhyme",
+      "The metaphor carries the emotion of the verse",
+      "想说明比喻表达了情感，哪一句合适？"
+    ],
+    [
+      "cne_h221_q3",
+      "Emotion is a canvas",
+      "The metaphor carries the emotion of the verse",
+      "想说明比喻表达了情感，哪一句合适？"
+    ],
+    [
+      "cne_h221_q3",
+      "Please recite the imagery word",
+      "The metaphor carries the emotion of the verse",
+      "想说明比喻表达了情感，哪一句合适？"
+    ],
+    [
+      "cne_h223_q3",
+      "In conclusion buy a verse",
+      "The poem uses quiet imagery and a strong rhythm",
+      "哪一句适合作为赏析的第一句？"
+    ],
+    [
+      "cne_h223_q3",
+      "Therefore flood the metaphor",
+      "The poem uses quiet imagery and a strong rhythm",
+      "哪一句适合作为赏析的第一句？"
+    ],
+    [
+      "cne_h230_q3",
+      "In conclusion buy a clone",
+      "This science fiction follows an android on a spacecraft",
+      "哪一句适合作为概要的第一句？"
+    ],
+    [
+      "cne_h230_q3",
+      "Therefore flood the dimension",
+      "This science fiction follows an android on a spacecraft",
+      "哪一句适合作为概要的第一句？"
+    ],
+    [
+      "cne_h235_q3",
+      "Tower is a guide",
+      "The tower is a landmark of the city",
+      "想介绍这座塔是城市地标，哪一句合适？"
+    ],
+    [
+      "cne_h235_q3",
+      "Please statue the temple",
+      "The tower is a landmark of the city",
+      "想介绍这座塔是城市地标，哪一句合适？"
+    ],
+    [
+      "cne_h237_q3",
+      "Landmark ate the queue",
+      "This walk starts at the city landmark",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h237_q3",
+      "In conclusion buy a statue",
+      "This walk starts at the city landmark",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h237_q3",
+      "Therefore flood the temple",
+      "This walk starts at the city landmark",
+      "哪一句适合作为说明的第一句？"
+    ],
+    [
+      "cne_h244_q3",
+      "Tide ate the compass",
+      "Check the tide before the voyage",
+      "哪一句适合作为备忘的第一句？"
+    ],
+    [
+      "cne_h244_q3",
+      "In conclusion buy an anchor",
+      "Check the tide before the voyage",
+      "哪一句适合作为备忘的第一句？"
+    ],
+    [
+      "cne_h244_q3",
+      "Therefore flood the harbour",
+      "Check the tide before the voyage",
+      "哪一句适合作为备忘的第一句？"
+    ],
+    [
+      "cne_h249_q3",
+      "Saturday is a shelter",
+      "Could you volunteer on Saturday",
+      "想请邻居周六来帮忙，哪一句合适？"
+    ],
+    [
+      "cne_h249_q3",
+      "Please donate the neighbour word",
+      "Could you volunteer on Saturday",
+      "想请邻居周六来帮忙，哪一句合适？"
+    ],
+    [
+      "cne_h251_q3",
+      "In conclusion buy a neighbour",
+      "We need volunteers for the community shelter",
+      "哪一句适合作为启事的第一句？"
+    ],
+    [
+      "cne_h251_q3",
+      "Therefore flood the charity",
+      "We need volunteers for the community shelter",
+      "哪一句适合作为启事的第一句？"
+    ],
+    [
+      "cne_h257_q3",
+      "Interview ate the deadline",
+      "Could I come for an interview before Friday",
+      "想礼貌地问能否在周五前面试，哪一句合适？"
+    ],
+    [
+      "cne_h257_q3",
+      "Friday is a résumé",
+      "Could I come for an interview before Friday",
+      "想礼貌地问能否在周五前面试，哪一句合适？"
+    ],
+    [
+      "cne_h257_q3",
+      "Please employ the word applicant",
+      "Could I come for an interview before Friday",
+      "想礼貌地问能否在周五前面试，哪一句合适？"
+    ]
+  ]
+}

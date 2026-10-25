@@ -1,0 +1,14 @@
+{
+  "edition": "hujiao_math",
+  "label": "沪教版（上海教育出版社）数学",
+  "status": "example",
+  "note": "仅演示格式，不是真实对照表：grade、term、unit、chapter 都是占位值，没有对照沪教版教材目录核对，不得当作沪教版目录引用，前端也不读取这个文件。真实对照请按 docs/edition-mappings.md 另提 PR，文件名 hujiao_math.json，并在 source 里写明对照依据。",
+  "entries": [
+    {"topicId": "cnm_p001", "grade": 1, "term": "上", "unit": "示例单元名（占位）", "chapter": "示例章节名（占位）"},
+    {"topicId": "cnm_p002", "grade": 1, "term": "上", "note": "示例：unit、chapter 都可以省略"},
+    {"topicId": "cnm_p029", "grade": 1, "term": "下"},
+    {"topicId": "cnm_p054", "grade": 2, "term": "下"},
+    {"topicId": "cnm_p158", "grade": 5, "term": "上", "note": "示例：演示 grade/term 与人教版不同时的写法（人教版在五年级下册），数值是占位，不是真实对照"},
+    {"topicId": "cnm_p188", "grade": 6, "term": "上"}
+  ]
+}

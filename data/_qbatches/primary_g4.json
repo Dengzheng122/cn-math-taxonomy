@@ -1,0 +1,2064 @@
+[
+ {
+  "id": "cnm_p096_q1",
+  "topicId": "cnm_p096",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "10000 的千位是几？",
+  "answer": "0",
+  "explanation": "10000 的千位是 0，万位是 1。",
+  "verify": "0"
+ },
+ {
+  "id": "cnm_p096_q2",
+  "topicId": "cnm_p096",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：10000＋2000＝？",
+  "answer": "12000",
+  "explanation": "1 万加 2 千是 12000。",
+  "verify": "10000+2000"
+ },
+ {
+  "id": "cnm_p096_q3",
+  "topicId": "cnm_p096",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "30500 的百位是几？",
+  "answer": "5",
+  "explanation": "30500 的百位是 5。",
+  "verify": "5"
+ },
+ {
+  "id": "cnm_p096_q4",
+  "topicId": "cnm_p096",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一所学校约 2000 人，另一所约 3000 人。两所大约一共多少人？计算：2000＋3000＝？",
+  "answer": "5000",
+  "explanation": "2000＋3000＝5000。",
+  "verify": "2000+3000"
+ },
+ {
+  "id": "cnm_p097_q1",
+  "topicId": "cnm_p097",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：230000÷10000＝？",
+  "answer": "23",
+  "explanation": "230000＝23 万。",
+  "verify": "230000/10000"
+ },
+ {
+  "id": "cnm_p097_q2",
+  "topicId": "cnm_p097",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：48000÷10000＝？（用小数作答）",
+  "answer": "4.8",
+  "explanation": "48000 是 4.8 万。",
+  "verify": "48000/10000"
+ },
+ {
+  "id": "cnm_p097_q3",
+  "topicId": "cnm_p097",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一座城市约 1260000 人。改写成用万作单位是多少万？计算：1260000÷10000＝？",
+  "answer": "126",
+  "explanation": "1260000＝126 万。",
+  "verify": "1260000/10000"
+ },
+ {
+  "id": "cnm_p097_q4",
+  "topicId": "cnm_p097",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：3500÷1000＝？（用小数作答）",
+  "answer": "3.5",
+  "explanation": "精确到千位时，3500 本身就是 3.5 个千。",
+  "verify": "3500/1000"
+ },
+ {
+  "id": "cnm_p098_q1",
+  "topicId": "cnm_p098",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "公顷是什么单位？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "面积单位"
+   },
+   {
+    "key": "B",
+    "text": "质量单位"
+   },
+   {
+    "key": "C",
+    "text": "时间单位"
+   }
+  ],
+  "answer": "A",
+  "explanation": "公顷用来计量较大的土地面积。",
+  "verify": "'面积单位'"
+ },
+ {
+  "id": "cnm_p098_q2",
+  "topicId": "cnm_p098",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 公顷是多少平方米？",
+  "answer": "20000",
+  "explanation": "1 公顷＝10000 平方米。",
+  "verify": "2*10000"
+ },
+ {
+  "id": "cnm_p098_q3",
+  "topicId": "cnm_p098",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3 公顷是多少平方米？",
+  "answer": "30000",
+  "explanation": "3×10000＝30000。",
+  "verify": "3*10000"
+ },
+ {
+  "id": "cnm_p098_q4",
+  "topicId": "cnm_p098",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "公园占地 4 公顷，学校占地 1 公顷。公园比学校大多少公顷？计算：4－1＝？",
+  "answer": "3",
+  "explanation": "4－1＝3。",
+  "verify": "4-1"
+ },
+ {
+  "id": "cnm_p099_q1",
+  "topicId": "cnm_p099",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "周长是图形一周边线的长度。线段和直线相比，线段有几个端点？下面哪句说的是线段？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "图形一周边线的长度"
+   },
+   {
+    "key": "B",
+    "text": "面积单位"
+   },
+   {
+    "key": "C",
+    "text": "质量单位"
+   }
+  ],
+  "answer": "A",
+  "explanation": "线段可以量出长度，周长就是若干线段长度的和。",
+  "verify": "'图形一周边线的长度'"
+ },
+ {
+  "id": "cnm_p099_q2",
+  "topicId": "cnm_p099",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8－3＝？",
+  "answer": "5",
+  "explanation": "两点间有一条 8 厘米的弯路和一条 3 厘米的线段，线段更短，短 5 厘米。",
+  "verify": "8-3"
+ },
+ {
+  "id": "cnm_p099_q3",
+  "topicId": "cnm_p099",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "从家到学校，沿街走 400 米，抄近路走 250 米。近路少走多少米？计算：400－250＝？",
+  "answer": "150",
+  "explanation": "两点之间线段最短，400－250＝150。",
+  "verify": "400-250"
+ },
+ {
+  "id": "cnm_p099_q4",
+  "topicId": "cnm_p099",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：5＋5＝？",
+  "answer": "10",
+  "explanation": "把两条 5 厘米的线段接在一条直线上，总长 10 厘米。",
+  "verify": "5+5"
+ },
+ {
+  "id": "cnm_p100_q1",
+  "topicId": "cnm_p100",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：90－30＝？",
+  "answer": "60",
+  "explanation": "直角 90 度，30 度的角比直角小 60 度。",
+  "verify": "90-30"
+ },
+ {
+  "id": "cnm_p100_q2",
+  "topicId": "cnm_p100",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：180－90＝？",
+  "answer": "90",
+  "explanation": "平角 180 度，平角里有 2 个直角。",
+  "verify": "180-90"
+ },
+ {
+  "id": "cnm_p100_q3",
+  "topicId": "cnm_p100",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个角是 35 度，另一个角是 20 度。两个角拼起来是多少度？计算：35＋20＝？",
+  "answer": "55",
+  "explanation": "35＋20＝55。",
+  "verify": "35+20"
+ },
+ {
+  "id": "cnm_p100_q4",
+  "topicId": "cnm_p100",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "把一个 80 度的角平均分成 2 份。每份多少度？计算：80÷2＝？",
+  "answer": "40",
+  "explanation": "80÷2＝40。",
+  "verify": "80/2"
+ },
+ {
+  "id": "cnm_p101_q1",
+  "topicId": "cnm_p101",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "直角比锐角怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "直角比锐角大"
+   },
+   {
+    "key": "B",
+    "text": "直角比锐角小"
+   },
+   {
+    "key": "C",
+    "text": "直角和锐角一样大"
+   }
+  ],
+  "answer": "A",
+  "explanation": "锐角小于直角。",
+  "verify": "'直角比锐角大'"
+ },
+ {
+  "id": "cnm_p101_q2",
+  "topicId": "cnm_p101",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "钝角比直角怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "钝角比直角大"
+   },
+   {
+    "key": "B",
+    "text": "钝角比直角小"
+   },
+   {
+    "key": "C",
+    "text": "钝角等于直角"
+   }
+  ],
+  "answer": "A",
+  "explanation": "钝角大于 90 度、小于 180 度。",
+  "verify": "'钝角比直角大'"
+ },
+ {
+  "id": "cnm_p101_q3",
+  "topicId": "cnm_p101",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：90－45＝？",
+  "answer": "45",
+  "explanation": "45 度是锐角，比直角小 45 度。",
+  "verify": "90-45"
+ },
+ {
+  "id": "cnm_p101_q4",
+  "topicId": "cnm_p101",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：120－90＝？",
+  "answer": "30",
+  "explanation": "120 度是钝角，比直角大 30 度。",
+  "verify": "120-90"
+ },
+ {
+  "id": "cnm_p102_q1",
+  "topicId": "cnm_p102",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：123×10＝？",
+  "answer": "1230",
+  "explanation": "123×10＝1230。",
+  "verify": "123*10"
+ },
+ {
+  "id": "cnm_p102_q2",
+  "topicId": "cnm_p102",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：200×12＝？",
+  "answer": "2400",
+  "explanation": "200×12＝2400。",
+  "verify": "200*12"
+ },
+ {
+  "id": "cnm_p102_q3",
+  "topicId": "cnm_p102",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每箱 125 瓶，16 箱一共多少瓶？计算：125×16＝？",
+  "answer": "2000",
+  "explanation": "125×16＝2000。",
+  "verify": "125*16"
+ },
+ {
+  "id": "cnm_p102_q4",
+  "topicId": "cnm_p102",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：308×24＝？",
+  "answer": "7392",
+  "explanation": "308×24＝7392。",
+  "verify": "308*24"
+ },
+ {
+  "id": "cnm_p103_q1",
+  "topicId": "cnm_p103",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "两条直线相交成直角，它们的位置关系是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "互相垂直"
+   },
+   {
+    "key": "B",
+    "text": "互相平行"
+   },
+   {
+    "key": "C",
+    "text": "重合"
+   }
+  ],
+  "answer": "A",
+  "explanation": "相交成直角就互相垂直。",
+  "verify": "'互相垂直'"
+ },
+ {
+  "id": "cnm_p103_q2",
+  "topicId": "cnm_p103",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：90－0＝？",
+  "answer": "90",
+  "explanation": "垂直时夹角是 90 度。",
+  "verify": "90-0"
+ },
+ {
+  "id": "cnm_p103_q3",
+  "topicId": "cnm_p103",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一根旗杆和地面相交成直角。这个角是多少度？计算：45＋45＝？",
+  "answer": "90",
+  "explanation": "直角是 90 度。",
+  "verify": "45+45"
+ },
+ {
+  "id": "cnm_p103_q4",
+  "topicId": "cnm_p103",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：180－90＝？",
+  "answer": "90",
+  "explanation": "直线是 180 度，垂直把一边分成 90 度。",
+  "verify": "180-90"
+ },
+ {
+  "id": "cnm_p104_q1",
+  "topicId": "cnm_p104",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "同一平面内，不相交的两条直线怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "互相平行"
+   },
+   {
+    "key": "B",
+    "text": "互相垂直"
+   },
+   {
+    "key": "C",
+    "text": "一定重合"
+   }
+  ],
+  "answer": "A",
+  "explanation": "同一平面内不相交的两条直线互相平行。",
+  "verify": "'互相平行'"
+ },
+ {
+  "id": "cnm_p104_q2",
+  "topicId": "cnm_p104",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2＋2＝？",
+  "answer": "4",
+  "explanation": "两条平行线之间可以作许多相等的垂线段。",
+  "verify": "2+2"
+ },
+ {
+  "id": "cnm_p104_q3",
+  "topicId": "cnm_p104",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "铁轨的两根钢轨平行。若一段长 20 米，另一段也是 20 米。两段相差多少米？计算：20－20＝？",
+  "answer": "0",
+  "explanation": "平行线段可以一样长，差是 0。",
+  "verify": "20-20"
+ },
+ {
+  "id": "cnm_p104_q4",
+  "topicId": "cnm_p104",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：5－5＝？",
+  "answer": "0",
+  "explanation": "平行线不会相交，延长后再比长度差仍可以是 0。",
+  "verify": "5-5"
+ },
+ {
+  "id": "cnm_p105_q1",
+  "topicId": "cnm_p105",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "平行四边形的对边怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "对边平行且相等"
+   },
+   {
+    "key": "B",
+    "text": "四条边都不平行"
+   },
+   {
+    "key": "C",
+    "text": "只有一条边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "平行四边形两组对边分别平行并且相等。",
+  "verify": "'对边平行且相等'"
+ },
+ {
+  "id": "cnm_p105_q2",
+  "topicId": "cnm_p105",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "梯形只有什么特点？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "一组对边平行"
+   },
+   {
+    "key": "B",
+    "text": "四条边都相等"
+   },
+   {
+    "key": "C",
+    "text": "没有平行的边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "梯形只有一组对边平行。",
+  "verify": "'一组对边平行'"
+ },
+ {
+  "id": "cnm_p105_q3",
+  "topicId": "cnm_p105",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：6＋6＝？",
+  "answer": "12",
+  "explanation": "平行四边形一组对边都是 6 厘米，这两条边一共 12 厘米。",
+  "verify": "6+6"
+ },
+ {
+  "id": "cnm_p105_q4",
+  "topicId": "cnm_p105",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：10－4＝？",
+  "answer": "6",
+  "explanation": "梯形的两底分别是 10 厘米和 4 厘米，相差 6 厘米。",
+  "verify": "10-4"
+ },
+ {
+  "id": "cnm_p106_q1",
+  "topicId": "cnm_p106",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：96÷12＝？",
+  "answer": "8",
+  "explanation": "96÷12＝8。",
+  "verify": "96/12"
+ },
+ {
+  "id": "cnm_p106_q2",
+  "topicId": "cnm_p106",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：150÷25＝？",
+  "answer": "6",
+  "explanation": "150÷25＝6。",
+  "verify": "150/25"
+ },
+ {
+  "id": "cnm_p106_q3",
+  "topicId": "cnm_p106",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "288 本本子，每 16 本捆一捆。可以捆多少捆？计算：288÷16＝？",
+  "answer": "18",
+  "explanation": "288÷16＝18。",
+  "verify": "288/16"
+ },
+ {
+  "id": "cnm_p106_q4",
+  "topicId": "cnm_p106",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：420÷15＝？",
+  "answer": "28",
+  "explanation": "420÷15＝28。",
+  "verify": "420/15"
+ },
+ {
+  "id": "cnm_p107_q1",
+  "topicId": "cnm_p107",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：80÷20＝？",
+  "answer": "4",
+  "explanation": "80÷20＝4，被除数和除数都缩小 10 倍后 8÷2 仍是 4。",
+  "verify": "80/20"
+ },
+ {
+  "id": "cnm_p107_q2",
+  "topicId": "cnm_p107",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8÷2＝？",
+  "answer": "4",
+  "explanation": "8÷2＝4，和 80÷20 的商相同。",
+  "verify": "8/2"
+ },
+ {
+  "id": "cnm_p107_q3",
+  "topicId": "cnm_p107",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "600÷30 可以同时去掉一个 0，先算 60÷3。60÷3 是多少？计算：60÷3＝？",
+  "answer": "20",
+  "explanation": "60÷3＝20，所以 600÷30＝20。",
+  "verify": "60/3"
+ },
+ {
+  "id": "cnm_p107_q4",
+  "topicId": "cnm_p107",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：120÷40＝？",
+  "answer": "3",
+  "explanation": "120÷40＝3。",
+  "verify": "120/40"
+ },
+ {
+  "id": "cnm_p108_q1",
+  "topicId": "cnm_p108",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "条形统计图适合看什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "数量的多少"
+   },
+   {
+    "key": "B",
+    "text": "数量怎样变化"
+   },
+   {
+    "key": "C",
+    "text": "各部分占总数的百分之几"
+   }
+  ],
+  "answer": "A",
+  "explanation": "直条的高矮表示数量多少。",
+  "verify": "'数量的多少'"
+ },
+ {
+  "id": "cnm_p108_q2",
+  "topicId": "cnm_p108",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12－7＝？",
+  "answer": "5",
+  "explanation": "最高的直条是 12，另一条是 7，相差 5。",
+  "verify": "12-7"
+ },
+ {
+  "id": "cnm_p108_q3",
+  "topicId": "cnm_p108",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "喜欢苹果的有 15 人，喜欢香蕉的有 9 人。苹果比香蕉多几人？计算：15－9＝？",
+  "answer": "6",
+  "explanation": "15－9＝6。",
+  "verify": "15-9"
+ },
+ {
+  "id": "cnm_p108_q4",
+  "topicId": "cnm_p108",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "四天借书本数是 8、6、10、4。哪两天合起来是 14 本？先算 8＋6。计算：8＋6＝？",
+  "answer": "14",
+  "explanation": "8＋6＝14，是第一天和第二天。",
+  "verify": "8+6"
+ },
+ {
+  "id": "cnm_p109_q1",
+  "topicId": "cnm_p109",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "优化问题要怎样安排？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "把几件事安排得更节省"
+   },
+   {
+    "key": "B",
+    "text": "所有事情都分开做，越慢越好"
+   },
+   {
+    "key": "C",
+    "text": "只做一件事"
+   }
+  ],
+  "answer": "A",
+  "explanation": "能同时做的就不要排队做。",
+  "verify": "'把几件事安排得更节省'"
+ },
+ {
+  "id": "cnm_p109_q2",
+  "topicId": "cnm_p109",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8＋1＝？",
+  "answer": "9",
+  "explanation": "烧水 8 分，洗茶杯 1 分。若洗茶杯在烧水时完成，总时间仍约 8 分，这里先算 8＋1 看看分开做要 9 分。",
+  "verify": "8+1"
+ },
+ {
+  "id": "cnm_p109_q3",
+  "topicId": "cnm_p109",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "烙一张饼要 3 分，锅里同时可以烙 2 张。烙 2 张至少要多少分？计算：3＋0＝？",
+  "answer": "3",
+  "explanation": "两张同时烙，只要 3 分。",
+  "verify": "3+0"
+ },
+ {
+  "id": "cnm_p109_q4",
+  "topicId": "cnm_p109",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "走路 10 分，买票 2 分。如果一个人先去买票，两件事一前一后，一共多少分？计算：10＋2＝？",
+  "answer": "12",
+  "explanation": "10＋2＝12。",
+  "verify": "10+2"
+ },
+ {
+  "id": "cnm_p110_q1",
+  "topicId": "cnm_p110",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：36－15＝？",
+  "answer": "21",
+  "explanation": "和是 36，一个加数是 15，另一个加数是 21。",
+  "verify": "36-15"
+ },
+ {
+  "id": "cnm_p110_q2",
+  "topicId": "cnm_p110",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：48÷6＝？",
+  "answer": "8",
+  "explanation": "积是 48，一个因数是 6，另一个因数是 8。",
+  "verify": "48/6"
+ },
+ {
+  "id": "cnm_p110_q3",
+  "topicId": "cnm_p110",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "两个数相加得 70，其中一个是 28。另一个是多少？计算：70－28＝？",
+  "answer": "42",
+  "explanation": "70－28＝42。",
+  "verify": "70-28"
+ },
+ {
+  "id": "cnm_p110_q4",
+  "topicId": "cnm_p110",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "90÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "16"
+   },
+   {
+    "key": "B",
+    "text": "19"
+   },
+   {
+    "key": "C",
+    "text": "18"
+   },
+   {
+    "key": "D",
+    "text": "20"
+   }
+  ],
+  "answer": "C",
+  "explanation": "90÷5＝18。",
+  "verify": "90/5"
+ },
+ {
+  "id": "cnm_p111_q1",
+  "topicId": "cnm_p111",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8×6＝？",
+  "answer": "48",
+  "explanation": "单价 8 元，买 6 个，总价 48 元。",
+  "verify": "8*6"
+ },
+ {
+  "id": "cnm_p111_q2",
+  "topicId": "cnm_p111",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：60×3＝？",
+  "answer": "180",
+  "explanation": "每小时 60 千米，行 3 小时，路程 180 千米。",
+  "verify": "60*3"
+ },
+ {
+  "id": "cnm_p111_q3",
+  "topicId": "cnm_p111",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "故事书 24 本，科技书 18 本。两类书一共多少本？计算：24＋18＝？",
+  "answer": "42",
+  "explanation": "总量等于两个分量相加，24＋18＝42。",
+  "verify": "24+18"
+ },
+ {
+  "id": "cnm_p111_q4",
+  "topicId": "cnm_p111",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12×5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "50"
+   },
+   {
+    "key": "B",
+    "text": "55"
+   },
+   {
+    "key": "C",
+    "text": "70"
+   },
+   {
+    "key": "D",
+    "text": "60"
+   }
+  ],
+  "answer": "D",
+  "explanation": "每盒 12 支，5 盒是 60 支。",
+  "verify": "12*5"
+ },
+ {
+  "id": "cnm_p112_q1",
+  "topicId": "cnm_p112",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "小括号要怎样算？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "先算小括号里面的"
+   },
+   {
+    "key": "B",
+    "text": "先算加减再算括号"
+   },
+   {
+    "key": "C",
+    "text": "小括号可以跳过"
+   }
+  ],
+  "answer": "A",
+  "explanation": "括号优先，然后才是先乘除、后加减。",
+  "verify": "'先算小括号里面的'"
+ },
+ {
+  "id": "cnm_p112_q2",
+  "topicId": "cnm_p112",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：（12＋8）×3＝？",
+  "answer": "60",
+  "explanation": "先算 12＋8＝20，再算 20×3＝60。",
+  "verify": "(12+8)*3"
+ },
+ {
+  "id": "cnm_p112_q3",
+  "topicId": "cnm_p112",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：96÷4－7＝？",
+  "answer": "17",
+  "explanation": "先算 96÷4＝24，再算 24－7＝17。",
+  "verify": "96/4-7"
+ },
+ {
+  "id": "cnm_p112_q4",
+  "topicId": "cnm_p112",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3 盒笔，每盒 12 支，又拿出 6 支。一共多少支？计算：12×3＋6＝？",
+  "answer": "42",
+  "explanation": "先算 12×3＝36，再加 6 得 42。",
+  "verify": "12*3+6"
+ },
+ {
+  "id": "cnm_p113_q1",
+  "topicId": "cnm_p113",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "从正面、侧面、上面看同一个物体，看到的形状怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "看到的形状可能不一样"
+   },
+   {
+    "key": "B",
+    "text": "一定是同一个形状"
+   },
+   {
+    "key": "C",
+    "text": "只能看到正面"
+   }
+  ],
+  "answer": "A",
+  "explanation": "同一个物体，方向不同，看到的形状可以不同。",
+  "verify": "'看到的形状可能不一样'"
+ },
+ {
+  "id": "cnm_p113_q2",
+  "topicId": "cnm_p113",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4＋2＝？",
+  "answer": "6",
+  "explanation": "前面看到 4 个方块，上面又露出 2 个，合起来按 4＋2 数是 6。",
+  "verify": "4+2"
+ },
+ {
+  "id": "cnm_p113_q3",
+  "topicId": "cnm_p113",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "从正面看有 5 个小方块，从侧面看有 3 个。正面比侧面多看到几个？计算：5－3＝？",
+  "answer": "2",
+  "explanation": "5－3＝2。",
+  "verify": "5-3"
+ },
+ {
+  "id": "cnm_p113_q4",
+  "topicId": "cnm_p113",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：6－2＝？",
+  "answer": "4",
+  "explanation": "搭了 6 个，拿走 2 个，还剩 4 个。",
+  "verify": "6-2"
+ },
+ {
+  "id": "cnm_p114_q1",
+  "topicId": "cnm_p114",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：28＋72＝？",
+  "answer": "100",
+  "explanation": "28＋72＝100，交换位置 72＋28 仍是 100。",
+  "verify": "28+72"
+ },
+ {
+  "id": "cnm_p114_q2",
+  "topicId": "cnm_p114",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：135＋65＝？",
+  "answer": "200",
+  "explanation": "先把 135 和 65 合成 200。",
+  "verify": "135+65"
+ },
+ {
+  "id": "cnm_p114_q3",
+  "topicId": "cnm_p114",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算 46＋98 时，可以先算 46＋100 再减 2。46＋100 是多少？计算：46＋100＝？",
+  "answer": "146",
+  "explanation": "46＋100＝146，再减 2 才是 144。这里先算 46＋100。",
+  "verify": "46+100"
+ },
+ {
+  "id": "cnm_p114_q4",
+  "topicId": "cnm_p114",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "17＋83 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "90"
+   },
+   {
+    "key": "B",
+    "text": "110"
+   },
+   {
+    "key": "C",
+    "text": "100"
+   },
+   {
+    "key": "D",
+    "text": "183"
+   }
+  ],
+  "answer": "C",
+  "explanation": "17＋83＝100。",
+  "verify": "17+83"
+ },
+ {
+  "id": "cnm_p115_q1",
+  "topicId": "cnm_p115",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25×4＝？",
+  "answer": "100",
+  "explanation": "25×4＝100，4×25 也是 100。",
+  "verify": "25*4"
+ },
+ {
+  "id": "cnm_p115_q2",
+  "topicId": "cnm_p115",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：5×8×2＝？",
+  "answer": "80",
+  "explanation": "先算 5×2＝10，再乘 8 得 80。",
+  "verify": "5*8*2"
+ },
+ {
+  "id": "cnm_p115_q3",
+  "topicId": "cnm_p115",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每排 25 人，有 4 排。一共多少人？计算：25×4＝？",
+  "answer": "100",
+  "explanation": "25×4＝100。",
+  "verify": "25*4"
+ },
+ {
+  "id": "cnm_p115_q4",
+  "topicId": "cnm_p115",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "125×8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "800"
+   },
+   {
+    "key": "B",
+    "text": "900"
+   },
+   {
+    "key": "C",
+    "text": "1000"
+   },
+   {
+    "key": "D",
+    "text": "1008"
+   }
+  ],
+  "answer": "C",
+  "explanation": "125×8＝1000。",
+  "verify": "125*8"
+ },
+ {
+  "id": "cnm_p116_q1",
+  "topicId": "cnm_p116",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25×4＋25×6＝？",
+  "answer": "250",
+  "explanation": "25×4＝100，25×6＝150，相加 250，也可以先算 25×（4＋6）。",
+  "verify": "25*4+25*6"
+ },
+ {
+  "id": "cnm_p116_q2",
+  "topicId": "cnm_p116",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25×（4＋6）＝？",
+  "answer": "250",
+  "explanation": "4＋6＝10，25×10＝250，和分开乘再加的结果一样。",
+  "verify": "25*(4+6)"
+ },
+ {
+  "id": "cnm_p116_q3",
+  "topicId": "cnm_p116",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "买 4 支笔和 6 支笔，每支 8 元。一共多少元？计算：8×（4＋6）＝？",
+  "answer": "80",
+  "explanation": "先算 4＋6＝10，再算 8×10＝80。",
+  "verify": "8*(4+6)"
+ },
+ {
+  "id": "cnm_p116_q4",
+  "topicId": "cnm_p116",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12×5＋12×5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "100"
+   },
+   {
+    "key": "B",
+    "text": "110"
+   },
+   {
+    "key": "C",
+    "text": "130"
+   },
+   {
+    "key": "D",
+    "text": "120"
+   }
+  ],
+  "answer": "D",
+  "explanation": "12×5＝60，60＋60＝120。",
+  "verify": "12*5+12*5"
+ },
+ {
+  "id": "cnm_p117_q1",
+  "topicId": "cnm_p117",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：99×5＝？",
+  "answer": "495",
+  "explanation": "99×5 可以想成（100－1）×5＝500－5＝495。",
+  "verify": "99*5"
+ },
+ {
+  "id": "cnm_p117_q2",
+  "topicId": "cnm_p117",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：36＋64＋50＝？",
+  "answer": "150",
+  "explanation": "36＋64＝100，再加 50 得 150。",
+  "verify": "36+64+50"
+ },
+ {
+  "id": "cnm_p117_q3",
+  "topicId": "cnm_p117",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每本 48 元，买 2 本。可以先算 50×2 再减 2×2。50×2 是多少？计算：50×2＝？",
+  "answer": "100",
+  "explanation": "50×2＝100，再减 4 才是 96。",
+  "verify": "50*2"
+ },
+ {
+  "id": "cnm_p117_q4",
+  "topicId": "cnm_p117",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "25×12 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "250"
+   },
+   {
+    "key": "B",
+    "text": "275"
+   },
+   {
+    "key": "C",
+    "text": "300"
+   },
+   {
+    "key": "D",
+    "text": "312"
+   }
+  ],
+  "answer": "C",
+  "explanation": "25×12＝25×4×3＝300。",
+  "verify": "25*12"
+ },
+ {
+  "id": "cnm_p118_q1",
+  "topicId": "cnm_p118",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.3＋0.4＝？（用小数作答）",
+  "answer": "0.7",
+  "explanation": "0.3 是 3 个 0.1，0.4 是 4 个 0.1，合起来 0.7。",
+  "verify": "0.3+0.4"
+ },
+ {
+  "id": "cnm_p118_q2",
+  "topicId": "cnm_p118",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.0－0.6＝？（用小数作答）",
+  "answer": "0.4",
+  "explanation": "1.0－0.6＝0.4。",
+  "verify": "1.0-0.6"
+ },
+ {
+  "id": "cnm_p118_q3",
+  "topicId": "cnm_p118",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "把 1 米平均分成 10 份，取 7 份。用一位小数表示是多少米？计算：0.1×7＝？（用小数作答）",
+  "answer": "0.7",
+  "explanation": "7 个 0.1 米是 0.7 米。",
+  "verify": "0.1*7"
+ },
+ {
+  "id": "cnm_p118_q4",
+  "topicId": "cnm_p118",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "0.5＋0.5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0.8"
+   },
+   {
+    "key": "B",
+    "text": "0.9"
+   },
+   {
+    "key": "C",
+    "text": "1.1"
+   },
+   {
+    "key": "D",
+    "text": "1"
+   }
+  ],
+  "answer": "D",
+  "explanation": "0.5＋0.5＝1。",
+  "verify": "0.5+0.5"
+ },
+ {
+  "id": "cnm_p119_q1",
+  "topicId": "cnm_p119",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3.5－2.8＝？（用小数作答）",
+  "answer": "0.7",
+  "explanation": "3.5 比 2.8 大，相差 0.7。",
+  "verify": "3.5-2.8"
+ },
+ {
+  "id": "cnm_p119_q2",
+  "topicId": "cnm_p119",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.6－1.2＝？（用小数作答）",
+  "answer": "0.4",
+  "explanation": "整数部分都是 1，十分位 6 比 2 大，相差 0.4。",
+  "verify": "1.6-1.2"
+ },
+ {
+  "id": "cnm_p119_q3",
+  "topicId": "cnm_p119",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一根绳子 2.4 米，另一根 1.9 米。长的比短的多多少米？计算：2.4－1.9＝？（用小数作答）",
+  "answer": "0.5",
+  "explanation": "2.4－1.9＝0.5。",
+  "verify": "2.4-1.9"
+ },
+ {
+  "id": "cnm_p119_q4",
+  "topicId": "cnm_p119",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4.0－1.5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2.0"
+   },
+   {
+    "key": "B",
+    "text": "2.5"
+   },
+   {
+    "key": "C",
+    "text": "3.5"
+   },
+   {
+    "key": "D",
+    "text": "5.5"
+   }
+  ],
+  "answer": "B",
+  "explanation": "4.0－1.5＝2.5。",
+  "verify": "4.0-1.5"
+ },
+ {
+  "id": "cnm_p120_q1",
+  "topicId": "cnm_p120",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.2×10＝？（用小数作答）",
+  "answer": "12",
+  "explanation": "1.2 的小数点向右移一位是 12。",
+  "verify": "1.2*10"
+ },
+ {
+  "id": "cnm_p120_q2",
+  "topicId": "cnm_p120",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：35÷10＝？（用小数作答）",
+  "answer": "3.5",
+  "explanation": "35 的小数点向左移一位是 3.5。",
+  "verify": "35/10"
+ },
+ {
+  "id": "cnm_p120_q3",
+  "topicId": "cnm_p120",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "0.8 扩大到 100 倍是多少？计算：0.8×100＝？（用小数作答）",
+  "answer": "80",
+  "explanation": "小数点向右移两位，0.8 变成 80。",
+  "verify": "0.8*100"
+ },
+ {
+  "id": "cnm_p120_q4",
+  "topicId": "cnm_p120",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6.4×10 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0.64"
+   },
+   {
+    "key": "B",
+    "text": "64"
+   },
+   {
+    "key": "C",
+    "text": "6.4"
+   },
+   {
+    "key": "D",
+    "text": "640"
+   }
+  ],
+  "answer": "B",
+  "explanation": "6.4×10＝64。",
+  "verify": "6.4*10"
+ },
+ {
+  "id": "cnm_p121_q1",
+  "topicId": "cnm_p121",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "3.8 四舍五入到个位，看十分位。十分位是 8，要进 1。个位 3 加 1 是多少？计算：3＋1＝？",
+  "answer": "4",
+  "explanation": "十分位满 5 向个位进 1，近似数是 4。",
+  "verify": "3+1"
+ },
+ {
+  "id": "cnm_p121_q2",
+  "topicId": "cnm_p121",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "6.3 四舍五入到个位，十分位是 3，不去进位。近似数的个位是多少？计算：6＋0＝？",
+  "answer": "6",
+  "explanation": "十分位小于 5，近似数是 6。",
+  "verify": "6+0"
+ },
+ {
+  "id": "cnm_p121_q3",
+  "topicId": "cnm_p121",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "2.46 保留一位小数，看百分位 6，要向十分位进 1。十分位 4 加 1 是多少？计算：4＋1＝？",
+  "answer": "5",
+  "explanation": "百分位满 5 向十分位进 1，近似数是 2.5。",
+  "verify": "4+1"
+ },
+ {
+  "id": "cnm_p121_q4",
+  "topicId": "cnm_p121",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9＋1 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "11"
+   },
+   {
+    "key": "D",
+    "text": "19"
+   }
+  ],
+  "answer": "A",
+  "explanation": "7.96 保留一位小数，百分位 6 要进位，十分位 9 再进到个位，近似数是 8.0。这里先算进位用的 9＋1。",
+  "verify": "9+1"
+ },
+ {
+  "id": "cnm_p122_q1",
+  "topicId": "cnm_p122",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "直角比锐角怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "直角比锐角大"
+   },
+   {
+    "key": "B",
+    "text": "直角比锐角小"
+   },
+   {
+    "key": "C",
+    "text": "直角和锐角一样大"
+   }
+  ],
+  "answer": "A",
+  "explanation": "有一个直角的三角形是直角三角形。",
+  "verify": "'直角比锐角大'"
+ },
+ {
+  "id": "cnm_p122_q2",
+  "topicId": "cnm_p122",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "钝角比直角怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "钝角比直角大"
+   },
+   {
+    "key": "B",
+    "text": "钝角比直角小"
+   },
+   {
+    "key": "C",
+    "text": "钝角就是直角"
+   }
+  ],
+  "answer": "A",
+  "explanation": "有一个钝角的三角形是钝角三角形。",
+  "verify": "'钝角比直角大'"
+ },
+ {
+  "id": "cnm_p122_q3",
+  "topicId": "cnm_p122",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：3＋3＝？",
+  "answer": "6",
+  "explanation": "等腰三角形有两条边相等。若腰是 3 厘米，两条腰合起来是 6 厘米。",
+  "verify": "3+3"
+ },
+ {
+  "id": "cnm_p122_q4",
+  "topicId": "cnm_p122",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5＋5＋5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "12"
+   },
+   {
+    "key": "C",
+    "text": "20"
+   },
+   {
+    "key": "D",
+    "text": "15"
+   }
+  ],
+  "answer": "D",
+  "explanation": "等边三角形三条边都是 5 厘米，周长 15 厘米。",
+  "verify": "5+5+5"
+ },
+ {
+  "id": "cnm_p123_q1",
+  "topicId": "cnm_p123",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "三角形里，任意两边之和与第三边比，应当怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "大于第三边"
+   },
+   {
+    "key": "B",
+    "text": "等于第三边"
+   },
+   {
+    "key": "C",
+    "text": "小于第三边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两边之和不大于第三边，就围不成三角形。",
+  "verify": "'大于第三边'"
+ },
+ {
+  "id": "cnm_p123_q2",
+  "topicId": "cnm_p123",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3＋4＝？",
+  "answer": "7",
+  "explanation": "3 和 4 的和是 7，比第三边 5 大，可以围成。",
+  "verify": "3+4"
+ },
+ {
+  "id": "cnm_p123_q3",
+  "topicId": "cnm_p123",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "两条边是 2 厘米和 3 厘米。它们的和是多少厘米？计算：2＋3＝？",
+  "answer": "5",
+  "explanation": "2＋3＝5。如果第三边不小于 5，就围不成。",
+  "verify": "2+3"
+ },
+ {
+  "id": "cnm_p123_q4",
+  "topicId": "cnm_p123",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6＋2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "C",
+  "explanation": "6＋2＝8。",
+  "verify": "6+2"
+ },
+ {
+  "id": "cnm_p124_q1",
+  "topicId": "cnm_p124",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "三角形内角和是多少度？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "180度"
+   },
+   {
+    "key": "B",
+    "text": "90度"
+   },
+   {
+    "key": "C",
+    "text": "360度"
+   }
+  ],
+  "answer": "A",
+  "explanation": "三个内角加起来是 180 度。",
+  "verify": "'180度'"
+ },
+ {
+  "id": "cnm_p124_q2",
+  "topicId": "cnm_p124",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：180－60－40＝？",
+  "answer": "80",
+  "explanation": "180－60＝120，120－40＝80，未知角是 80 度。",
+  "verify": "180-60-40"
+ },
+ {
+  "id": "cnm_p124_q3",
+  "topicId": "cnm_p124",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "直角三角形的一个锐角是 35 度。另一个锐角是多少度？计算：90－35＝？",
+  "answer": "55",
+  "explanation": "直角是 90 度，另一个锐角是 90－35＝55 度。",
+  "verify": "90-35"
+ },
+ {
+  "id": "cnm_p124_q4",
+  "topicId": "cnm_p124",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "180－90－30 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "50"
+   },
+   {
+    "key": "B",
+    "text": "70"
+   },
+   {
+    "key": "C",
+    "text": "60"
+   },
+   {
+    "key": "D",
+    "text": "90"
+   }
+  ],
+  "answer": "C",
+  "explanation": "180－90－30＝60。",
+  "verify": "180-90-30"
+ },
+ {
+  "id": "cnm_p125_q1",
+  "topicId": "cnm_p125",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.25＋0.4＝？（用小数作答）",
+  "answer": "1.65",
+  "explanation": "小数点对齐，1.25＋0.40＝1.65。",
+  "verify": "1.25+0.4"
+ },
+ {
+  "id": "cnm_p125_q2",
+  "topicId": "cnm_p125",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3.6－1.8＝？（用小数作答）",
+  "answer": "1.8",
+  "explanation": "3.6－1.8＝1.8。",
+  "verify": "3.6-1.8"
+ },
+ {
+  "id": "cnm_p125_q3",
+  "topicId": "cnm_p125",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一本笔记本 3.5 元，一块橡皮 0.8 元。一共多少元？计算：3.5＋0.8＝？（用小数作答）",
+  "answer": "4.3",
+  "explanation": "3.5＋0.8＝4.3。",
+  "verify": "3.5+0.8"
+ },
+ {
+  "id": "cnm_p125_q4",
+  "topicId": "cnm_p125",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "2.4－0.7 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1.3"
+   },
+   {
+    "key": "B",
+    "text": "1.7"
+   },
+   {
+    "key": "C",
+    "text": "2.1"
+   },
+   {
+    "key": "D",
+    "text": "3.1"
+   }
+  ],
+  "answer": "B",
+  "explanation": "2.4－0.7＝1.7。",
+  "verify": "2.4-0.7"
+ },
+ {
+  "id": "cnm_p126_q1",
+  "topicId": "cnm_p126",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：10－3.6＝？（用小数作答）",
+  "answer": "6.4",
+  "explanation": "10 元买东西用去 3.6 元，找回 6.4 元。",
+  "verify": "10-3.6"
+ },
+ {
+  "id": "cnm_p126_q2",
+  "topicId": "cnm_p126",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2.5＋1.5＝？（用小数作答）",
+  "answer": "4",
+  "explanation": "2.5＋1.5＝4。",
+  "verify": "2.5+1.5"
+ },
+ {
+  "id": "cnm_p126_q3",
+  "topicId": "cnm_p126",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "跳绳 1.8 米，另一个人跳 1.2 米。两人一共跳了多少米？计算：1.8＋1.2＝？（用小数作答）",
+  "answer": "3",
+  "explanation": "1.8＋1.2＝3。",
+  "verify": "1.8+1.2"
+ },
+ {
+  "id": "cnm_p126_q4",
+  "topicId": "cnm_p126",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5.0－2.4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2.4"
+   },
+   {
+    "key": "B",
+    "text": "2.6"
+   },
+   {
+    "key": "C",
+    "text": "2.8"
+   },
+   {
+    "key": "D",
+    "text": "3.6"
+   }
+  ],
+  "answer": "B",
+  "explanation": "5.0－2.4＝2.6。",
+  "verify": "5.0-2.4"
+ },
+ {
+  "id": "cnm_p127_q1",
+  "topicId": "cnm_p127",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "轴对称图形有什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "对称轴"
+   },
+   {
+    "key": "B",
+    "text": "一定有直角"
+   },
+   {
+    "key": "C",
+    "text": "一定是圆形"
+   }
+  ],
+  "answer": "A",
+  "explanation": "沿对称轴对折，两边重合。",
+  "verify": "'对称轴'"
+ },
+ {
+  "id": "cnm_p127_q2",
+  "topicId": "cnm_p127",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4＋4＝？",
+  "answer": "8",
+  "explanation": "对称轴左边 4 格，右边也是 4 格，一共 8 格。",
+  "verify": "4+4"
+ },
+ {
+  "id": "cnm_p127_q3",
+  "topicId": "cnm_p127",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "图形左边有 5 个小方格，右边应对称地再画同样多。一共要画多少格？计算：5＋5＝？",
+  "answer": "10",
+  "explanation": "5＋5＝10。",
+  "verify": "5+5"
+ },
+ {
+  "id": "cnm_p127_q4",
+  "topicId": "cnm_p127",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6＋6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "12"
+   },
+   {
+    "key": "B",
+    "text": "10"
+   },
+   {
+    "key": "C",
+    "text": "11"
+   },
+   {
+    "key": "D",
+    "text": "16"
+   }
+  ],
+  "answer": "A",
+  "explanation": "左右各 6 格，一共 12 格。",
+  "verify": "6+6"
+ },
+ {
+  "id": "cnm_p128_q1",
+  "topicId": "cnm_p128",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "平移之后，图形的大小和形状怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "大小和形状都不变"
+   },
+   {
+    "key": "B",
+    "text": "变得更大"
+   },
+   {
+    "key": "C",
+    "text": "形状一定改变"
+   }
+  ],
+  "answer": "A",
+  "explanation": "平移只改变位置。",
+  "verify": "'大小和形状都不变'"
+ },
+ {
+  "id": "cnm_p128_q2",
+  "topicId": "cnm_p128",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3＋4＝？",
+  "answer": "7",
+  "explanation": "向右平移 3 格、再向上平移 4 格，格数相加是 7。",
+  "verify": "3+4"
+ },
+ {
+  "id": "cnm_p128_q3",
+  "topicId": "cnm_p128",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个点在第 2 格，向右平移 5 格。到了第几格？计算：2＋5＝？",
+  "answer": "7",
+  "explanation": "2＋5＝7。",
+  "verify": "2+5"
+ },
+ {
+  "id": "cnm_p128_q4",
+  "topicId": "cnm_p128",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8－3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "6"
+   },
+   {
+    "key": "C",
+    "text": "11"
+   },
+   {
+    "key": "D",
+    "text": "5"
+   }
+  ],
+  "answer": "D",
+  "explanation": "向左平移 3 格，从第 8 格到第 5 格。",
+  "verify": "8-3"
+ },
+ {
+  "id": "cnm_p129_q1",
+  "topicId": "cnm_p129",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "平均数表示的是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "一组数的平均水平"
+   },
+   {
+    "key": "B",
+    "text": "这一组里最大的数"
+   },
+   {
+    "key": "C",
+    "text": "这一组数的个数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "平均数把总数平均分给每一份。",
+  "verify": "'一组数的平均水平'"
+ },
+ {
+  "id": "cnm_p129_q2",
+  "topicId": "cnm_p129",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "一组数 4、6、8 的平均数是多少？",
+  "answer": "6",
+  "explanation": "（4＋6＋8）÷3＝6。",
+  "verify": "Fraction(4+6+8,3)"
+ },
+ {
+  "id": "cnm_p129_q3",
+  "topicId": "cnm_p129",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一组数 5、7、9 的平均数是多少？",
+  "answer": "7",
+  "explanation": "（5＋7＋9）÷3＝7。",
+  "verify": "Fraction(5+7+9,3)"
+ },
+ {
+  "id": "cnm_p129_q4",
+  "topicId": "cnm_p129",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "三次成绩是 80、90、100。总分是多少？计算：80＋90＋100＝？",
+  "answer": "270",
+  "explanation": "80＋90＋100＝270，再除以 3 才是平均数 90。这里先求总和。",
+  "verify": "80+90+100"
+ },
+ {
+  "id": "cnm_p130_q1",
+  "topicId": "cnm_p130",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18－12＝？",
+  "answer": "6",
+  "explanation": "同一项目上，甲是 18、乙是 12，甲比乙多 6。",
+  "verify": "18-12"
+ },
+ {
+  "id": "cnm_p130_q2",
+  "topicId": "cnm_p130",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：9＋15＝？",
+  "answer": "24",
+  "explanation": "两组分别是 9 和 15，合起来是 24。",
+  "verify": "9+15"
+ },
+ {
+  "id": "cnm_p130_q3",
+  "topicId": "cnm_p130",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一班喜欢跳绳的有 16 人，二班有 11 人。一班比二班多几人？计算：16－11＝？",
+  "answer": "5",
+  "explanation": "16－11＝5。",
+  "verify": "16-11"
+ },
+ {
+  "id": "cnm_p130_q4",
+  "topicId": "cnm_p130",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "20＋14 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "24"
+   },
+   {
+    "key": "B",
+    "text": "30"
+   },
+   {
+    "key": "C",
+    "text": "34"
+   },
+   {
+    "key": "D",
+    "text": "36"
+   }
+  ],
+  "answer": "C",
+  "explanation": "20＋14＝34。",
+  "verify": "20+14"
+ },
+ {
+  "id": "cnm_p131_q1",
+  "topicId": "cnm_p131",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "鸡兔同笼用的是什么方法？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "假设全部是鸡，再调整"
+   },
+   {
+    "key": "B",
+    "text": "把鸡和兔的只数直接相乘"
+   },
+   {
+    "key": "C",
+    "text": "只数鸡、不数腿"
+   }
+  ],
+  "answer": "A",
+  "explanation": "多出的腿是因为把兔当成了鸡。",
+  "verify": "'假设全部是鸡，再调整'"
+ },
+ {
+  "id": "cnm_p131_q2",
+  "topicId": "cnm_p131",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8×2＝？",
+  "answer": "16",
+  "explanation": "假设 8 只全是鸡，应有 16 条腿。",
+  "verify": "8*2"
+ },
+ {
+  "id": "cnm_p131_q3",
+  "topicId": "cnm_p131",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "实际有 26 条腿，假设全是鸡只有 16 条。多出多少条？计算：26－16＝？",
+  "answer": "10",
+  "explanation": "26－16＝10。每把一只鸡换成兔会多 2 条腿。",
+  "verify": "26-16"
+ },
+ {
+  "id": "cnm_p131_q4",
+  "topicId": "cnm_p131",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "10÷2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "5"
+   },
+   {
+    "key": "B",
+    "text": "4"
+   },
+   {
+    "key": "C",
+    "text": "6"
+   },
+   {
+    "key": "D",
+    "text": "8"
+   }
+  ],
+  "answer": "A",
+  "explanation": "多出 10 条腿，每只兔多 2 条，兔有 5 只。",
+  "verify": "10/2"
+ }
+]

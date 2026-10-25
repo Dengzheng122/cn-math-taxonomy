@@ -1,0 +1,1996 @@
+{
+ "changes": [
+  [
+   "cne_p052_q1",
+   "C",
+   "caties",
+   "cat's",
+   "cats",
+   "cat 的复数是哪一个？"
+  ],
+  [
+   "cne_p181_q4",
+   "C",
+   "heavyler",
+   "heaviest",
+   "heavier",
+   "heavy 的比较级是哪一个？"
+  ],
+  [
+   "cne_p189_q2",
+   "C",
+   "seeed",
+   "sees",
+   "saw",
+   "see 的过去式是哪一个？"
+  ],
+  [
+   "cne_j005_q3",
+   "C",
+   "Good moning.",
+   "Good night.",
+   "Good morning.",
+   "早上见面，哪一句是问候？"
+  ],
+  [
+   "cne_j005_q3",
+   "D",
+   "Good monring.",
+   "Good afternoon.",
+   "Good morning.",
+   "早上见面，哪一句是问候？"
+  ],
+  [
+   "cne_j009_q3",
+   "D",
+   "familis",
+   "family's",
+   "families",
+   "family 的复数是哪一个？"
+  ],
+  [
+   "cne_j009_q4",
+   "C",
+   "I have two sisteres.",
+   "I have two sister's.",
+   "I have two sisters.",
+   "哪一句的名词复数是正确的？"
+  ],
+  [
+   "cne_j009_q4",
+   "D",
+   "I have two sisteries.",
+   "I have two sisters'.",
+   "I have two sisters.",
+   "哪一句的名词复数是正确的？"
+  ],
+  [
+   "cne_j023_q4",
+   "C",
+   "He have volleyballs a.",
+   "He is have a volleyball.",
+   "He has a volleyball.",
+   "哪一句是正确的？"
+  ],
+  [
+   "cne_j025_q3",
+   "C",
+   "We play the volleyballs at school always the.",
+   "We play the volleyball at school.",
+   "We play volleyball at school.",
+   "想说我们在学校打排球，哪一句合适？"
+  ],
+  [
+   "cne_j028_q1",
+   "A",
+   "I like a bananaes.",
+   "I like a bananas.",
+   "I like bananas.",
+   "banana 是可数名词。哪一句正确？"
+  ],
+  [
+   "cne_j028_q1",
+   "C",
+   "I like bananaes.",
+   "I likes bananas.",
+   "I like bananas.",
+   "banana 是可数名词。哪一句正确？"
+  ],
+  [
+   "cne_j028_q3",
+   "A",
+   "I want a salades.",
+   "I want a salads.",
+   "I want some salad.",
+   "想要一些沙拉，哪一句正确？"
+  ],
+  [
+   "cne_j030_q2",
+   "C",
+   "I like bananaes.",
+   "I like banana's.",
+   "I like bananas.",
+   "你喜欢香蕉，应怎么说？"
+  ],
+  [
+   "cne_j064_q2",
+   "D",
+   "The elephant is friendlyly.",
+   "The elephant is a friendly.",
+   "The elephant is friendly.",
+   "这只大象很友好。哪一句正确？"
+  ],
+  [
+   "cne_j068_q4",
+   "C",
+   "swimminging",
+   "swims",
+   "swimming",
+   "swim 的 -ing 形式是哪一个？"
+  ],
+  [
+   "cne_j089_q4",
+   "C",
+   "We visited a museum yesterdayed.",
+   "We visited a museum tomorrow.",
+   "We visited a museum yesterday.",
+   "昨天我们参观了博物馆。哪一句正确？"
+  ],
+  [
+   "cne_j091_q4",
+   "B",
+   "We milked a cow yesterdayed.",
+   "We did milked a cow.",
+   "We milked a cow.",
+   "想说我们给奶牛挤了奶，哪一句合适？"
+  ],
+  [
+   "cne_j095_q4",
+   "C",
+   "We had a good time yesterdayed.",
+   "We had have a good time.",
+   "We had a good time.",
+   "我们过得很愉快。哪一句正确？"
+  ],
+  [
+   "cne_j096_q4",
+   "C",
+   "The visitors played badminton yesterdayed.",
+   "The visitors were played badminton.",
+   "The visitors played badminton.",
+   "想说访客们打了羽毛球，哪一句合适？"
+  ],
+  [
+   "cne_j115_q1",
+   "D",
+   "Which theater has the most comfortable seatest?",
+   "Which theater has the more comfortable seats?",
+   "Which theater has the most comfortable seats?",
+   "想问哪家影院最舒服，哪一句合适？"
+  ],
+  [
+   "cne_j126_q4",
+   "A",
+   "willn't doed",
+   "will don't",
+   "will not",
+   "will 的否定式是哪一个？"
+  ],
+  [
+   "cne_j221_q4",
+   "D",
+   "whosever",
+   "which",
+   "who",
+   "修饰人时，哪一个关系词最合适？"
+  ],
+  [
+   "cne_h005_q4",
+   "C",
+   "Good moning",
+   "Good night",
+   "Good morning",
+   "早上在教学楼遇见老师，哪一句是问候？"
+  ],
+  [
+   "cne_h005_q4",
+   "D",
+   "Good monring",
+   "Good afternoon",
+   "Good morning",
+   "早上在教学楼遇见老师，哪一句是问候？"
+  ],
+  [
+   "cne_h007_q4",
+   "A",
+   "Hello, let me itnroduce myself",
+   "Hello, let me to introduce myself",
+   "Hello, let me introduce myself",
+   "哪一句适合放在自我介绍的开头？"
+  ],
+  [
+   "cne_h007_q4",
+   "B",
+   "Hello, let me introdcue myself",
+   "Hello, let me introducing myself",
+   "Hello, let me introduce myself",
+   "哪一句适合放在自我介绍的开头？"
+  ],
+  [
+   "cne_h007_q4",
+   "C",
+   "Hello, let me inroduce myself",
+   "Hello, let me introduce me",
+   "Hello, let me introduce myself",
+   "哪一句适合放在自我介绍的开头？"
+  ],
+  [
+   "cne_h013_q1",
+   "B",
+   "My fvaourite course is English",
+   "My favourite course are English",
+   "My favourite course is English",
+   "想说自己最喜欢英语课，哪一句合适？"
+  ],
+  [
+   "cne_h013_q1",
+   "D",
+   "My favourtie course is English",
+   "My favorites course is English",
+   "My favourite course is English",
+   "想说自己最喜欢英语课，哪一句合适？"
+  ],
+  [
+   "cne_h013_q2",
+   "C",
+   "That suonds good. I will join",
+   "That sounds good. I will joins",
+   "That sounds good. I will join",
+   "同学建议你参加辩论社，你愿意，应回答什么？"
+  ],
+  [
+   "cne_h013_q3",
+   "C",
+   "Have you jioned a club",
+   "Have you jailed a club",
+   "Have you joined a club",
+   "想问对方有没有加入社团，哪一句合适？"
+  ],
+  [
+   "cne_h013_q3",
+   "D",
+   "Have you joiend a club",
+   "Have you joinned a club",
+   "Have you joined a club",
+   "想问对方有没有加入社团，哪一句合适？"
+  ],
+  [
+   "cne_h013_q4",
+   "C",
+   "Vlounteering makes me more confident",
+   "Vollunteering makes me more confident",
+   "Volunteering makes me more confident",
+   "想说明参加志愿者活动让自己更自信，哪一句合适？"
+  ],
+  [
+   "cne_h013_q4",
+   "D",
+   "Volunteernig makes me more confident",
+   "Volunteering makes I more confident",
+   "Volunteering makes me more confident",
+   "想说明参加志愿者活动让自己更自信，哪一句合适？"
+  ],
+  [
+   "cne_h020_q2",
+   "D",
+   "Yes, I wuold love to",
+   "Yes, I would loves to",
+   "Yes, I would love to",
+   "朋友邀请你一起去看瀑布，你愿意，应回答什么？"
+  ],
+  [
+   "cne_h020_q3",
+   "A",
+   "Where is your accommodatoin",
+   "Where are your accommodation",
+   "Where is your accommodation",
+   "想问对方的住宿订在哪里，哪一句合适？"
+  ],
+  [
+   "cne_h020_q3",
+   "B",
+   "Where is your acommodation",
+   "Where is your accommodasion",
+   "Where is your accommodation",
+   "想问对方的住宿订在哪里，哪一句合适？"
+  ],
+  [
+   "cne_h020_q4",
+   "C",
+   "Let's check the iitnerary before we leave",
+   "Let's check the itinerery before we leave",
+   "Let's check the itinerary before we leave",
+   "想建议先看行程再出发，哪一句合适？"
+  ],
+  [
+   "cne_h022_q2",
+   "D",
+   "I have arleady booked the train ticket",
+   "I have alreedy booked the train ticket",
+   "I have already booked the train ticket",
+   "邮件里表示已经订好车票，哪一句合适？"
+  ],
+  [
+   "cne_h027_q3",
+   "B",
+   "Shall we run at the stadium on Staurday",
+   "Shall we run at the stadium on Satturday",
+   "Shall we run at the stadium on Saturday",
+   "想邀请同学周六一起去体育场跑步，哪一句合适？"
+  ],
+  [
+   "cne_h027_q4",
+   "B",
+   "A blaanced diet helps your fitness",
+   "An balanced diet helps your fitness",
+   "A balanced diet helps your fitness",
+   "想说明均衡饮食对体能有帮助，哪一句合适？"
+  ],
+  [
+   "cne_h027_q4",
+   "C",
+   "A balanecd diet helps your fitness",
+   "A balenced diet helps your fitness",
+   "A balanced diet helps your fitness",
+   "想说明均衡饮食对体能有帮助，哪一句合适？"
+  ],
+  [
+   "cne_h029_q3",
+   "B",
+   "Stop tarining if you feel an injury",
+   "Stop training if you feel a injury",
+   "Stop training if you feel an injury",
+   "哪一句适合提醒读者注意伤病？"
+  ],
+  [
+   "cne_h029_q3",
+   "C",
+   "Stop trainnig if you feel an injury",
+   "Stop trailing if you feel an injury",
+   "Stop training if you feel an injury",
+   "哪一句适合提醒读者注意伤病？"
+  ],
+  [
+   "cne_h029_q3",
+   "D",
+   "Stop trining if you feel an injury",
+   "Stop trading if you feel an injury",
+   "Stop training if you feel an injury",
+   "哪一句适合提醒读者注意伤病？"
+  ],
+  [
+   "cne_h034_q1",
+   "C",
+   "The flood is sreious and many people need help",
+   "The flood is seniors and many people need help",
+   "The flood is serious and many people need help",
+   "想告诉同学洪水很严重，哪一句合适？"
+  ],
+  [
+   "cne_h034_q2",
+   "B",
+   "Could you please donate some balnkets",
+   "Could you please donate some bankers",
+   "Could you please donate some blankets",
+   "想请求对方捐出毯子，哪一句合适？"
+  ],
+  [
+   "cne_h034_q2",
+   "C",
+   "Could you please donate some blanktes",
+   "Could you please donate some brackets",
+   "Could you please donate some blankets",
+   "想请求对方捐出毯子，哪一句合适？"
+  ],
+  [
+   "cne_h034_q2",
+   "D",
+   "Could you please donate some blnkets",
+   "Could you please donate some baskets",
+   "Could you please donate some blankets",
+   "想请求对方捐出毯子，哪一句合适？"
+  ],
+  [
+   "cne_h034_q3",
+   "D",
+   "I am worried about the sruvivors",
+   "I am worried about the surveyors",
+   "I am worried about the survivors",
+   "想表达对幸存者的担心，哪一句合适？"
+  ],
+  [
+   "cne_h036_q3",
+   "A",
+   "Please go to the naerest shelter",
+   "Please go to the neerest shelter",
+   "Please go to the nearest shelter",
+   "哪一句适合提醒读者去庇护所？"
+  ],
+  [
+   "cne_h036_q3",
+   "B",
+   "Please go to the nearset shelter",
+   "Please go to the nearrest shelter",
+   "Please go to the nearest shelter",
+   "哪一句适合提醒读者去庇护所？"
+  ],
+  [
+   "cne_h036_q3",
+   "C",
+   "Please go to the nerest shelter",
+   "Please go to the most near shelter",
+   "Please go to the nearest shelter",
+   "哪一句适合提醒读者去庇护所？"
+  ],
+  [
+   "cne_h036_q4",
+   "B",
+   "The sattion that sent the warning is local",
+   "The station that sent the warning are local",
+   "The station that sent the warning is local",
+   "想用定语从句说明发出警报的电台，哪一句正确？"
+  ],
+  [
+   "cne_h041_q2",
+   "A",
+   "Can you speak your local dailect",
+   "Can you speak your local direct",
+   "Can you speak your local dialect",
+   "想问对方会不会说家乡话，哪一句合适？"
+  ],
+  [
+   "cne_h041_q2",
+   "B",
+   "Can you speak your local dialcet",
+   "Can you speak your local deflect",
+   "Can you speak your local dialect",
+   "想问对方会不会说家乡话，哪一句合适？"
+  ],
+  [
+   "cne_h041_q2",
+   "C",
+   "Can you speak your local dilect",
+   "Can you speak your local diallect",
+   "Can you speak your local dialect",
+   "想问对方会不会说家乡话，哪一句合适？"
+  ],
+  [
+   "cne_h041_q3",
+   "C",
+   "Could you say that again more solwly",
+   "Could you say that again more snowy",
+   "Could you say that again more slowly",
+   "对方口音很重，你没听清，哪一句礼貌？"
+  ],
+  [
+   "cne_h041_q3",
+   "D",
+   "Could you say that again more slolwy",
+   "Could you say that again more showy",
+   "Could you say that again more slowly",
+   "对方口音很重，你没听清，哪一句礼貌？"
+  ],
+  [
+   "cne_h041_q4",
+   "C",
+   "Reading helps you build your vcoabulary",
+   "Reading helps you build your vocabulery",
+   "Reading helps you build your vocabulary",
+   "想说明扩大词汇量需要阅读，哪一句合适？"
+  ],
+  [
+   "cne_h041_q4",
+   "D",
+   "Reading helps you build your vocabulray",
+   "Reading helps you build your vocabullary",
+   "Reading helps you build your vocabulary",
+   "想说明扩大词汇量需要阅读，哪一句合适？"
+  ],
+  [
+   "cne_h044_q3",
+   "B",
+   "My plan for laerning Chinese is simple",
+   "My plan for leaning Chinese is simple",
+   "My plan for learning Chinese is simple",
+   "哪一句适合作为计划的第一句？"
+  ],
+  [
+   "cne_h044_q3",
+   "C",
+   "My plan for learnnig Chinese is simple",
+   "My plan for leading Chinese is simple",
+   "My plan for learning Chinese is simple",
+   "哪一句适合作为计划的第一句？"
+  ],
+  [
+   "cne_h049_q1",
+   "D",
+   "I think the ancient temple should be perserved",
+   "I think the ancient temple should be preserve",
+   "I think the ancient temple should be preserved",
+   "想说古庙应该被保护，哪一句合适？"
+  ],
+  [
+   "cne_h049_q2",
+   "C",
+   "The damage comes from vsiitors cutting the walls",
+   "The damage comes from victors cutting the walls",
+   "The damage comes from visitors cutting the walls",
+   "想说明损坏来自游客乱刻，哪一句合适？"
+  ],
+  [
+   "cne_h049_q3",
+   "B",
+   "I see your piont, but the site is worth it",
+   "I see your point, but the site are worth it",
+   "I see your point, but the site is worth it",
+   "对方认为修复太贵，你部分同意，应回答什么？"
+  ],
+  [
+   "cne_h049_q3",
+   "C",
+   "I see your poit, but the site is worth it",
+   "I see your print, but the site is worth it",
+   "I see your point, but the site is worth it",
+   "对方认为修复太贵，你部分同意，应回答什么？"
+  ],
+  [
+   "cne_h049_q3",
+   "D",
+   "I see your point, but the site is worh it",
+   "I see your point, but the site is width it",
+   "I see your point, but the site is worth it",
+   "对方认为修复太贵，你部分同意，应回答什么？"
+  ],
+  [
+   "cne_h049_q4",
+   "D",
+   "We could make rules for vsiitors",
+   "We could makes rules for visitors",
+   "We could make rules for visitors",
+   "想建议设立参观规则，哪一句合适？"
+  ],
+  [
+   "cne_h051_q3",
+   "A",
+   "I sgugest we protect the old city wall",
+   "I surges we protect the old city wall",
+   "I suggest we protect the old city wall",
+   "哪一句适合作为建议的第一句？"
+  ],
+  [
+   "cne_h051_q3",
+   "B",
+   "I suggset we protect the old city wall",
+   "I suggesting we protect the old city wall",
+   "I suggest we protect the old city wall",
+   "哪一句适合作为建议的第一句？"
+  ],
+  [
+   "cne_h056_q1",
+   "C",
+   "The atnelopes are being protected in the reserve",
+   "The antelopes is being protected in the reserve",
+   "The antelopes are being protected in the reserve",
+   "想说藏羚羊正在被保护，哪一句合适？"
+  ],
+  [
+   "cne_h056_q1",
+   "D",
+   "The anteloeps are being protected in the reserve",
+   "The antellopes are being protected in the reserve",
+   "The antelopes are being protected in the reserve",
+   "想说藏羚羊正在被保护，哪一句合适？"
+  ],
+  [
+   "cne_h056_q2",
+   "B",
+   "Hnuters are the main danger to this species",
+   "Haters are the main danger to this species",
+   "Hunters are the main danger to this species",
+   "想说明猎人才是危险的来源，哪一句合适？"
+  ],
+  [
+   "cne_h056_q2",
+   "D",
+   "Huntres are the main danger to this species",
+   "Hitters are the main danger to this species",
+   "Hunters are the main danger to this species",
+   "想说明猎人才是危险的来源，哪一句合适？"
+  ],
+  [
+   "cne_h056_q3",
+   "B",
+   "I don't agree, because the nmubers are rising",
+   "I don't agree, because the numbers is rising",
+   "I don't agree, because the numbers are rising",
+   "对方说保护区没有用，你不同意，应回答什么？"
+  ],
+  [
+   "cne_h056_q3",
+   "C",
+   "I don't agree, because the numbres are rising",
+   "I don't agree, because the number are rising",
+   "I don't agree, because the numbers are rising",
+   "对方说保护区没有用，你不同意，应回答什么？"
+  ],
+  [
+   "cne_h056_q4",
+   "B",
+   "Please do not buy porducts made from wild animals",
+   "Please do not buy projects made from wild animals",
+   "Please do not buy products made from wild animals",
+   "想建议人们不要购买野生动物制品，哪一句合适？"
+  ],
+  [
+   "cne_h056_q4",
+   "C",
+   "Please do not buy produtcs made from wild animals",
+   "Please do not buy protects made from wild animals",
+   "Please do not buy products made from wild animals",
+   "想建议人们不要购买野生动物制品，哪一句合适？"
+  ],
+  [
+   "cne_h056_q4",
+   "D",
+   "Please do not buy prducts made from wild animals",
+   "Please do not buy predicts made from wild animals",
+   "Please do not buy products made from wild animals",
+   "想建议人们不要购买野生动物制品，哪一句合适？"
+  ],
+  [
+   "cne_h058_q3",
+   "A",
+   "Protect the ednangered antelope",
+   "Protect the endangerred antelope",
+   "Protect the endangered antelope",
+   "哪一句适合作为海报标题？"
+  ],
+  [
+   "cne_h058_q3",
+   "C",
+   "Protect the endangeerd antelope",
+   "Protect the endangering antelope",
+   "Protect the endangered antelope",
+   "哪一句适合作为海报标题？"
+  ],
+  [
+   "cne_h058_q3",
+   "D",
+   "Protect the enangered antelope",
+   "Protect the danger antelope",
+   "Protect the endangered antelope",
+   "哪一句适合作为海报标题？"
+  ],
+  [
+   "cne_h063_q1",
+   "C",
+   "Never post your psasword online",
+   "Never post your pasword online",
+   "Never post your password online",
+   "想提醒同学不要公开密码，哪一句合适？"
+  ],
+  [
+   "cne_h063_q1",
+   "D",
+   "Never post your passwrod online",
+   "Never post you password online",
+   "Never post your password online",
+   "想提醒同学不要公开密码，哪一句合适？"
+  ],
+  [
+   "cne_h063_q2",
+   "C",
+   "The rude cmoment has been deleted",
+   "The rude comment have been deleted",
+   "The rude comment has been deleted",
+   "想说评论已经被删除，哪一句合适？"
+  ],
+  [
+   "cne_h063_q2",
+   "D",
+   "The rude commnet has been deleted",
+   "The rude consent has been deleted",
+   "The rude comment has been deleted",
+   "想说评论已经被删除，哪一句合适？"
+  ],
+  [
+   "cne_h063_q4",
+   "A",
+   "Check the person's iedntity before you add them",
+   "Check the person's idantity before you add them",
+   "Check the person's identity before you add them",
+   "想建议对方先核对身份再加好友，哪一句合适？"
+  ],
+  [
+   "cne_h063_q4",
+   "B",
+   "Check the person's identtiy before you add them",
+   "Check the persons identity before you add them",
+   "Check the person's identity before you add them",
+   "想建议对方先核对身份再加好友，哪一句合适？"
+  ],
+  [
+   "cne_h063_q4",
+   "C",
+   "Check the person's idntity before you add them",
+   "Check the person's identify before you add them",
+   "Check the person's identity before you add them",
+   "想建议对方先核对身份再加好友，哪一句合适？"
+  ],
+  [
+   "cne_h065_q3",
+   "B",
+   "Keep your iedntity safe online",
+   "Keep your idantity safe online",
+   "Keep your identity safe online",
+   "哪一句适合作为提醒的标题？"
+  ],
+  [
+   "cne_h065_q3",
+   "C",
+   "Keep your identtiy safe online",
+   "Keep your identify safe online",
+   "Keep your identity safe online",
+   "哪一句适合作为提醒的标题？"
+  ],
+  [
+   "cne_h065_q3",
+   "D",
+   "Keep your idntity safe online",
+   "Keep you identity safe online",
+   "Keep your identity safe online",
+   "哪一句适合作为提醒的标题？"
+  ],
+  [
+   "cne_h070_q1",
+   "A",
+   "On Qingming people honour their acnestors",
+   "On Qingming people honours their ancestors",
+   "On Qingming people honour their ancestors",
+   "想介绍清明纪念祖先的习俗，哪一句合适？"
+  ],
+  [
+   "cne_h070_q1",
+   "B",
+   "On Qingming people honour their ancestros",
+   "On Qingming people honour they ancestors",
+   "On Qingming people honour their ancestors",
+   "想介绍清明纪念祖先的习俗，哪一句合适？"
+  ],
+  [
+   "cne_h070_q1",
+   "C",
+   "On Qingming people honour their anestors",
+   "On Qingming people honour their ancestor's",
+   "On Qingming people honour their ancestors",
+   "想介绍清明纪念祖先的习俗，哪一句合适？"
+  ],
+  [
+   "cne_h070_q3",
+   "C",
+   "I support keeping this gtahering",
+   "I support keeping this garnering",
+   "I support keeping this gathering",
+   "想表示自己支持保留这项聚会，哪一句合适？"
+  ],
+  [
+   "cne_h070_q3",
+   "D",
+   "I support keeping this gathernig",
+   "I support keeping this gatherring",
+   "I support keeping this gathering",
+   "想表示自己支持保留这项聚会，哪一句合适？"
+  ],
+  [
+   "cne_h072_q3",
+   "B",
+   "Let me tell you about a local tardition",
+   "Let me to tell you about a local tradition",
+   "Let me tell you about a local tradition",
+   "哪一句适合作为介绍的开头？"
+  ],
+  [
+   "cne_h072_q3",
+   "C",
+   "Let me tell you about a local traditoin",
+   "Let me tell you about a local transition",
+   "Let me tell you about a local tradition",
+   "哪一句适合作为介绍的开头？"
+  ],
+  [
+   "cne_h079_q1",
+   "D",
+   "The band is performnig on the stage",
+   "The band is performing in the stage",
+   "The band is performing on the stage",
+   "想说乐队正在舞台上表演，哪一句合适？"
+  ],
+  [
+   "cne_h079_q2",
+   "A",
+   "Shall we go to the calssical concert",
+   "Shall we go to the clasical concert",
+   "Shall we go to the classical concert",
+   "想邀请同学去听古典音乐会，哪一句合适？"
+  ],
+  [
+   "cne_h079_q2",
+   "C",
+   "Shall we go to the classiacl concert",
+   "Shall we going to the classical concert",
+   "Shall we go to the classical concert",
+   "想邀请同学去听古典音乐会，哪一句合适？"
+  ],
+  [
+   "cne_h079_q3",
+   "B",
+   "The aduience sat there, smiling",
+   "The ambience sat there, smiling",
+   "The audience sat there, smiling",
+   "想描述听众边听边微笑，哪一句合适？"
+  ],
+  [
+   "cne_h079_q3",
+   "D",
+   "The audiecne sat there, smiling",
+   "The audeince sat there, smiling",
+   "The audience sat there, smiling",
+   "想描述听众边听边微笑，哪一句合适？"
+  ],
+  [
+   "cne_h081_q3",
+   "B",
+   "Sutdent band on stage this Friday",
+   "Studant band on stage this Friday",
+   "Student band on stage this Friday",
+   "哪一句适合作为通知标题？"
+  ],
+  [
+   "cne_h081_q3",
+   "C",
+   "Studnet band on stage this Friday",
+   "Student band on stages this Friday",
+   "Student band on stage this Friday",
+   "哪一句适合作为通知标题？"
+  ],
+  [
+   "cne_h081_q3",
+   "D",
+   "Stdent band on stage this Friday",
+   "Student band in stage this Friday",
+   "Student band on stage this Friday",
+   "哪一句适合作为通知标题？"
+  ],
+  [
+   "cne_h087_q1",
+   "B",
+   "During the Lantern Fsetival people watch lanterns",
+   "During the Lantern Festival people watches lanterns",
+   "During the Lantern Festival people watch lanterns",
+   "想介绍元宵节看灯笼，哪一句合适？"
+  ],
+  [
+   "cne_h087_q1",
+   "C",
+   "During the Lantern Festiavl people watch lanterns",
+   "During the Lantern Festival people watch lantern",
+   "During the Lantern Festival people watch lanterns",
+   "想介绍元宵节看灯笼，哪一句合适？"
+  ],
+  [
+   "cne_h087_q1",
+   "D",
+   "During the Lantern Fetival people watch lanterns",
+   "In the Lantern Festival people watching lanterns",
+   "During the Lantern Festival people watch lanterns",
+   "想介绍元宵节看灯笼，哪一句合适？"
+  ],
+  [
+   "cne_h087_q3",
+   "A",
+   "The origin of the festival is cnonected with the moon",
+   "The origin of the festival are connected with the moon",
+   "The origin of the festival is connected with the moon",
+   "想说明这个节日的起源和月亮有关，哪一句合适？"
+  ],
+  [
+   "cne_h087_q3",
+   "B",
+   "The origin of the festival is connecetd with the moon",
+   "The origin of the festival is collected with the moon",
+   "The origin of the festival is connected with the moon",
+   "想说明这个节日的起源和月亮有关，哪一句合适？"
+  ],
+  [
+   "cne_h087_q3",
+   "D",
+   "The origin of the festival is conected with the moon",
+   "The origin of the festival is connect with the moon",
+   "The origin of the festival is connected with the moon",
+   "想说明这个节日的起源和月亮有关，哪一句合适？"
+  ],
+  [
+   "cne_h087_q4",
+   "C",
+   "Let's decorate the calssroom with lanterns",
+   "Let's decorate the clasroom with lanterns",
+   "Let's decorate the classroom with lanterns",
+   "想建议用灯笼装饰教室，哪一句合适？"
+  ],
+  [
+   "cne_h089_q3",
+   "C",
+   "Let me itnroduce a festival in my hometown",
+   "Let me to introduce a festival in my hometown",
+   "Let me introduce a festival in my hometown",
+   "哪一句适合作为介绍的第一句？"
+  ],
+  [
+   "cne_h089_q3",
+   "D",
+   "Let me introdcue a festival in my hometown",
+   "Let me introduces a festival in my hometown",
+   "Let me introduce a festival in my hometown",
+   "哪一句适合作为介绍的第一句？"
+  ],
+  [
+   "cne_h094_q1",
+   "B",
+   "It was hnoest of you to return the wallet",
+   "It were honest of you to return the wallet",
+   "It was honest of you to return the wallet",
+   "想表扬同学诚实地交还钱包，哪一句合适？"
+  ],
+  [
+   "cne_h094_q1",
+   "C",
+   "It was honset of you to return the wallet",
+   "It was hottest of you to return the wallet",
+   "It was honest of you to return the wallet",
+   "想表扬同学诚实地交还钱包，哪一句合适？"
+  ],
+  [
+   "cne_h094_q3",
+   "C",
+   "Rsepect for others is a virtue",
+   "Respect for others are a virtue",
+   "Respect for others is a virtue",
+   "想说明尊重别人是一种美德，哪一句合适？"
+  ],
+  [
+   "cne_h094_q3",
+   "D",
+   "Respcet for others is a virtue",
+   "Repeat for others is a virtue",
+   "Respect for others is a virtue",
+   "想说明尊重别人是一种美德，哪一句合适？"
+  ],
+  [
+   "cne_h094_q4",
+   "A",
+   "That was rseponsible of you",
+   "That were responsible of you",
+   "That was responsible of you",
+   "同学承认错误，你认为这很有责任心，应回答什么？"
+  ],
+  [
+   "cne_h094_q4",
+   "B",
+   "That was responsilbe of you",
+   "That was responsibly of you",
+   "That was responsible of you",
+   "同学承认错误，你认为这很有责任心，应回答什么？"
+  ],
+  [
+   "cne_h094_q4",
+   "D",
+   "That was reponsible of you",
+   "That was responsibility of you",
+   "That was responsible of you",
+   "同学承认错误，你认为这很有责任心，应回答什么？"
+  ],
+  [
+   "cne_h096_q3",
+   "C",
+   "Mei made a choice that shows knidness",
+   "Mei made a choice that shows kidneys",
+   "Mei made a choice that shows kindness",
+   "哪一句适合作为评论的第一句？"
+  ],
+  [
+   "cne_h101_q1",
+   "B",
+   "The costumes in this region are dfiferent from those in my hometown",
+   "The costumes in this region is different from those in my hometown",
+   "The costumes in this region are different from those in my hometown",
+   "想说这个地区的服饰和自己家乡不同，哪一句合适？"
+  ],
+  [
+   "cne_h101_q1",
+   "D",
+   "The costumes in this region are differnet from those in my hometown",
+   "The costumes in this region are difference from those in my hometown",
+   "The costumes in this region are different from those in my hometown",
+   "想说这个地区的服饰和自己家乡不同，哪一句合适？"
+  ],
+  [
+   "cne_h101_q3",
+   "D",
+   "Could you tell me if I may take pohtos",
+   "Could you tell me if may I take photos",
+   "Could you tell me if I may take photos",
+   "想礼貌地询问一项信仰是否可以拍照，哪一句合适？"
+  ],
+  [
+   "cne_h101_q4",
+   "C",
+   "A dfiferent greeting does not mean less respect",
+   "An different greeting does not mean less respect",
+   "A different greeting does not mean less respect",
+   "想说明问候语不一样并不代表不尊重，哪一句合适？"
+  ],
+  [
+   "cne_h101_q4",
+   "D",
+   "A differnet greeting does not mean less respect",
+   "A different greeting do not mean less respect",
+   "A different greeting does not mean less respect",
+   "想说明问候语不一样并不代表不尊重，哪一句合适？"
+  ],
+  [
+   "cne_h103_q3",
+   "B",
+   "Today I laerned about a local ethnic group",
+   "Today I loaned about a local ethnic group",
+   "Today I learned about a local ethnic group",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h103_q3",
+   "D",
+   "Today I learend about a local ethnic group",
+   "Today I leerned about a local ethnic group",
+   "Today I learned about a local ethnic group",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h108_q4",
+   "B",
+   "Shall we watch the rcoket launch",
+   "Shall we watch the racket launch",
+   "Shall we watch the rocket launch",
+   "想邀请同学一起看火箭发射，哪一句合适？"
+  ],
+  [
+   "cne_h108_q4",
+   "C",
+   "Shall we watch the rocekt launch",
+   "Shall we watch the racked launch",
+   "Shall we watch the rocket launch",
+   "想邀请同学一起看火箭发射，哪一句合适？"
+  ],
+  [
+   "cne_h110_q3",
+   "A",
+   "What I laerned about the mission",
+   "What I loaned about the mission",
+   "What I learned about the mission",
+   "哪一句适合作为笔记标题？"
+  ],
+  [
+   "cne_h110_q3",
+   "C",
+   "What I learend about the mission",
+   "What I leerned about the mission",
+   "What I learned about the mission",
+   "哪一句适合作为笔记标题？"
+  ],
+  [
+   "cne_h110_q3",
+   "D",
+   "What I lerned about the mission",
+   "What I have learn about the mission",
+   "What I learned about the mission",
+   "哪一句适合作为笔记标题？"
+  ],
+  [
+   "cne_h115_q1",
+   "D",
+   "This bragain is not worth buying",
+   "This bargain are not worth buying",
+   "This bargain is not worth buying",
+   "想说这件便宜货不值得买，哪一句合适？"
+  ],
+  [
+   "cne_h115_q4",
+   "A",
+   "Giving some money to cahrity is of greater value",
+   "Giving some money to charity are of greater value",
+   "Giving some money to charity is of greater value",
+   "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+  ],
+  [
+   "cne_h115_q4",
+   "B",
+   "Giving some money to chartiy is of greater value",
+   "Giving some money to clarity is of greater value",
+   "Giving some money to charity is of greater value",
+   "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+  ],
+  [
+   "cne_h115_q4",
+   "C",
+   "Giving some money to chrity is of greater value",
+   "Giving some money to charrity is of greater value",
+   "Giving some money to charity is of greater value",
+   "想说明把一部分钱捐给慈善更有价值，哪一句合适？"
+  ],
+  [
+   "cne_h117_q3",
+   "C",
+   "I laerned a lesson about value",
+   "I loaned a lesson about value",
+   "I learned a lesson about value",
+   "哪一句适合作为反思的第一句？"
+  ],
+  [
+   "cne_h117_q3",
+   "D",
+   "I learend a lesson about value",
+   "I leerned a lesson about value",
+   "I learned a lesson about value",
+   "哪一句适合作为反思的第一句？"
+  ],
+  [
+   "cne_h122_q1",
+   "C",
+   "She devoted her life to rseearch",
+   "She devoted her life to reseerch",
+   "She devoted her life to research",
+   "想说她把一生献给了研究，哪一句合适？"
+  ],
+  [
+   "cne_h122_q4",
+   "A",
+   "Next, he pbulished the theory",
+   "Next, he punished the theory",
+   "Next, he published the theory",
+   "想按步骤介绍人物，哪一句适合作为第二步？"
+  ],
+  [
+   "cne_h122_q4",
+   "D",
+   "Next, he publisehd the theory",
+   "Next, he polished the theory",
+   "Next, he published the theory",
+   "想按步骤介绍人物，哪一句适合作为第二步？"
+  ],
+  [
+   "cne_h124_q3",
+   "C",
+   "This paragraph itnroduces a scientist",
+   "This paragraph introducing a scientist",
+   "This paragraph introduces a scientist",
+   "哪一句适合作为简介的第一句？"
+  ],
+  [
+   "cne_h129_q1",
+   "A",
+   "First, the snesor checks the food",
+   "First, the sensor check the food",
+   "First, the sensor checks the food",
+   "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+  ],
+  [
+   "cne_h129_q1",
+   "B",
+   "First, the senosr checks the food",
+   "First, the season checks the food",
+   "First, the sensor checks the food",
+   "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+  ],
+  [
+   "cne_h129_q1",
+   "D",
+   "First, the sesor checks the food",
+   "First, the sector checks the food",
+   "First, the sensor checks the food",
+   "想按步骤说明机器人如何做饭，哪一句适合作为第一步？"
+  ],
+  [
+   "cne_h131_q3",
+   "A",
+   "Second, check wehther the network is on",
+   "Second, check whether the network are on",
+   "Second, check whether the network is on",
+   "哪一句适合作为步骤的第二句？"
+  ],
+  [
+   "cne_h136_q2",
+   "B",
+   "Feeding animals is porhibited",
+   "Feeding animals are prohibited",
+   "Feeding animals is prohibited",
+   "想说禁止投喂，哪一句合适？"
+  ],
+  [
+   "cne_h136_q2",
+   "D",
+   "Feeding animals is prohibietd",
+   "Feeding animals is prohibitted",
+   "Feeding animals is prohibited",
+   "想说禁止投喂，哪一句合适？"
+  ],
+  [
+   "cne_h138_q3",
+   "D",
+   "How to visit the wteland",
+   "How to visit to the wetland",
+   "How to visit the wetland",
+   "哪一句适合作为说明的标题？"
+  ],
+  [
+   "cne_h143_q1",
+   "C",
+   "A nod often means argeement",
+   "An nod often means agreement",
+   "A nod often means agreement",
+   "想说点头常常表示同意，哪一句合适？"
+  ],
+  [
+   "cne_h143_q1",
+   "D",
+   "A nod often means agreemnet",
+   "A nod often means agreemant",
+   "A nod often means agreement",
+   "想说点头常常表示同意，哪一句合适？"
+  ],
+  [
+   "cne_h143_q4",
+   "C",
+   "Please keep a cmofortable distance",
+   "Please keep a comfortible distance",
+   "Please keep a comfortable distance",
+   "想提醒对方距离太近，哪一句合适？"
+  ],
+  [
+   "cne_h145_q3",
+   "B",
+   "I watched how people used gsetures",
+   "I watched how people used gesters",
+   "I watched how people used gestures",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h145_q3",
+   "C",
+   "I watched how people used gestuers",
+   "I watched how people used gesturres",
+   "I watched how people used gestures",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h145_q3",
+   "D",
+   "I watched how people used getures",
+   "I watched how did people use gestures",
+   "I watched how people used gestures",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h150_q3",
+   "D",
+   "Organic fretilizer may increase the yield",
+   "Organic fertilizer may increases the yield",
+   "Organic fertilizer may increase the yield",
+   "想说明有机肥可能提高产量，哪一句合适？"
+  ],
+  [
+   "cne_h152_q3",
+   "B",
+   "Here is the plan for the hravest",
+   "Here is the plan for the hardest",
+   "Here is the plan for the harvest",
+   "哪一句适合作为安排的第一句？"
+  ],
+  [
+   "cne_h152_q3",
+   "C",
+   "Here is the plan for the harvset",
+   "Here is the plan for the harness",
+   "Here is the plan for the harvest",
+   "哪一句适合作为安排的第一句？"
+  ],
+  [
+   "cne_h157_q3",
+   "B",
+   "The data are not enough to support the hpyothesis",
+   "The data are not enough to support the hypothessis",
+   "The data are not enough to support the hypothesis",
+   "想指出数据还不够，哪一句合适？"
+  ],
+  [
+   "cne_h157_q3",
+   "C",
+   "The data are not enough to support the hypotheiss",
+   "The data are not enough to supporting the hypothesis",
+   "The data are not enough to support the hypothesis",
+   "想指出数据还不够，哪一句合适？"
+  ],
+  [
+   "cne_h157_q3",
+   "D",
+   "The data are not enough to support the hyothesis",
+   "The data are not enough support the hypothesis",
+   "The data are not enough to support the hypothesis",
+   "想指出数据还不够，哪一句合适？"
+  ],
+  [
+   "cne_h159_q3",
+   "B",
+   "The hypothesis is itneresting but not fully proved",
+   "The hypothesis are interesting but not fully proved",
+   "The hypothesis is interesting but not fully proved",
+   "哪一句适合作为评论的第一句？"
+  ],
+  [
+   "cne_h159_q3",
+   "D",
+   "The hypothesis is interestnig but not fully proved",
+   "The hypothesis is interested but not fully proved",
+   "The hypothesis is interesting but not fully proved",
+   "哪一句适合作为评论的第一句？"
+  ],
+  [
+   "cne_h166_q3",
+   "C",
+   "I msiunderstood a custom at dinner",
+   "I missunderstood a custom at dinner",
+   "I misunderstood a custom at dinner",
+   "哪一句适合作为反思的第一句？"
+  ],
+  [
+   "cne_h166_q3",
+   "D",
+   "I miunderstood a custom at dinner",
+   "I misunderstanding a custom at dinner",
+   "I misunderstood a custom at dinner",
+   "哪一句适合作为反思的第一句？"
+  ],
+  [
+   "cne_h171_q3",
+   "B",
+   "It is good manners not to point with cohpsticks",
+   "It is good manners not to point with chopstiks",
+   "It is good manners not to point with chopsticks",
+   "想介绍用筷子的礼仪，哪一句合适？"
+  ],
+  [
+   "cne_h171_q3",
+   "D",
+   "It is good manners not to point with chopstikcs",
+   "It is good manners not to pointing with chopsticks",
+   "It is good manners not to point with chopsticks",
+   "想介绍用筷子的礼仪，哪一句合适？"
+  ],
+  [
+   "cne_h173_q3",
+   "C",
+   "This praagraph describes one banquet",
+   "This paragraf describes one banquet",
+   "This paragraph describes one banquet",
+   "哪一句适合作为说明的第一句？"
+  ],
+  [
+   "cne_h173_q3",
+   "D",
+   "This paragrpah describes one banquet",
+   "This parragraph describes one banquet",
+   "This paragraph describes one banquet",
+   "哪一句适合作为说明的第一句？"
+  ],
+  [
+   "cne_h179_q3",
+   "A",
+   "The plain looked buondless",
+   "The plain looked boneless",
+   "The plain looked boundless",
+   "想描述一望无际的平原，哪一句合适？"
+  ],
+  [
+   "cne_h179_q3",
+   "B",
+   "The plain looked boundlses",
+   "The plain looked boundles",
+   "The plain looked boundless",
+   "想描述一望无际的平原，哪一句合适？"
+  ],
+  [
+   "cne_h179_q3",
+   "D",
+   "The plain looked bondless",
+   "The plain looked boundlessly",
+   "The plain looked boundless",
+   "想描述一望无际的平原，哪一句合适？"
+  ],
+  [
+   "cne_h179_q4",
+   "C",
+   "I am sorry the train is dleayed",
+   "I am sorry the train are delayed",
+   "I am sorry the train is delayed",
+   "火车延误时想礼貌地表示失望，哪一句合适？"
+  ],
+  [
+   "cne_h186_q1",
+   "A",
+   "First, put perssure on the wound",
+   "First, put pleasure on the wound",
+   "First, put pressure on the wound",
+   "想按步骤说先按压伤口，哪一句合适？"
+  ],
+  [
+   "cne_h186_q1",
+   "B",
+   "First, put pressrue on the wound",
+   "First, put pressurre on the wound",
+   "First, put pressure on the wound",
+   "想按步骤说先按压伤口，哪一句合适？"
+  ],
+  [
+   "cne_h186_q1",
+   "C",
+   "First, put prssure on the wound",
+   "First, put pressure in the wound",
+   "First, put pressure on the wound",
+   "想按步骤说先按压伤口，哪一句合适？"
+  ],
+  [
+   "cne_h186_q4",
+   "D",
+   "If someone is choking, call an abmulance at once",
+   "If someone are choking, call an ambulance at once",
+   "If someone is choking, call an ambulance at once",
+   "想建议窒息时立即求助，哪一句合适？"
+  ],
+  [
+   "cne_h188_q3",
+   "B",
+   "Follow these steps when someone is beleding",
+   "Follow these steps when someone are bleeding",
+   "Follow these steps when someone is bleeding",
+   "哪一句适合作为步骤的第一句？"
+  ],
+  [
+   "cne_h188_q3",
+   "C",
+   "Follow these steps when someone is bleednig",
+   "Follow these steps when someone is breeding",
+   "Follow these steps when someone is bleeding",
+   "哪一句适合作为步骤的第一句？"
+  ],
+  [
+   "cne_h193_q3",
+   "C",
+   "The painting is abstract rather than raelistic",
+   "The painting is abstract rather than reelistic",
+   "The painting is abstract rather than realistic",
+   "想说明这幅画是抽象的，哪一句合适？"
+  ],
+  [
+   "cne_h193_q3",
+   "D",
+   "The painting is abstract rather than realisitc",
+   "The painting is abstract rather than reallistic",
+   "The painting is abstract rather than realistic",
+   "想说明这幅画是抽象的，哪一句合适？"
+  ],
+  [
+   "cne_h193_q4",
+   "A",
+   "First, look at the whole cnavas",
+   "First, look at the whole calves",
+   "First, look at the whole canvas",
+   "想按步骤看展览，哪一句适合作为第一步？"
+  ],
+  [
+   "cne_h193_q4",
+   "D",
+   "First, look at the whole canavs",
+   "First, look at the whole canvases",
+   "First, look at the whole canvas",
+   "想按步骤看展览，哪一句适合作为第一步？"
+  ],
+  [
+   "cne_h195_q3",
+   "D",
+   "This note rceords one visit to a gallery",
+   "This note regards one visit to a gallery",
+   "This note records one visit to a gallery",
+   "哪一句适合作为笔记的第一句？"
+  ],
+  [
+   "cne_h200_q4",
+   "D",
+   "A short walk can rferesh you and reduce anxiety",
+   "An short walk can refresh you and reduce anxiety",
+   "A short walk can refresh you and reduce anxiety",
+   "想建议用步行缓解焦虑，哪一句合适？"
+  ],
+  [
+   "cne_h202_q3",
+   "D",
+   "A blaanced routine can reduce stress",
+   "An balanced routine can reduce stress",
+   "A balanced routine can reduce stress",
+   "哪一句适合作为建议的第一句？"
+  ],
+  [
+   "cne_h207_q3",
+   "A",
+   "The policy should be ssutainable",
+   "The policy should be sustainible",
+   "The policy should be sustainable",
+   "想建议政策应当可持续，哪一句合适？"
+  ],
+  [
+   "cne_h207_q3",
+   "B",
+   "The policy should be sustainalbe",
+   "The policy should be sustainnable",
+   "The policy should be sustainable",
+   "想建议政策应当可持续，哪一句合适？"
+  ],
+  [
+   "cne_h209_q3",
+   "C",
+   "The eivdence points to policy, not only to weather",
+   "The eminence points to policy, not only to weather",
+   "The evidence points to policy, not only to weather",
+   "哪一句适合作为评论的第一句？"
+  ],
+  [
+   "cne_h209_q3",
+   "D",
+   "The evidecne points to policy, not only to weather",
+   "The evidance points to policy, not only to weather",
+   "The evidence points to policy, not only to weather",
+   "哪一句适合作为评论的第一句？"
+  ],
+  [
+   "cne_h214_q3",
+   "A",
+   "Preseverance gave them hope",
+   "Perseverrance gave them hope",
+   "Perseverance gave them hope",
+   "想说毅力给了他们希望，哪一句合适？"
+  ],
+  [
+   "cne_h214_q3",
+   "D",
+   "Perseveracne gave them hope",
+   "Persevere gave them hope",
+   "Perseverance gave them hope",
+   "想说毅力给了他们希望，哪一句合适？"
+  ],
+  [
+   "cne_h216_q3",
+   "B",
+   "The story shows courage in avdersity",
+   "The story shows courage in adverse",
+   "The story shows courage in adversity",
+   "哪一句适合作为读后感的第一句？"
+  ],
+  [
+   "cne_h216_q3",
+   "C",
+   "The story shows courage in adverstiy",
+   "The story shows courage on adversity",
+   "The story shows courage in adversity",
+   "哪一句适合作为读后感的第一句？"
+  ],
+  [
+   "cne_h221_q3",
+   "C",
+   "The mteaphor carries the emotion of the verse",
+   "The metafor carries the emotion of the verse",
+   "The metaphor carries the emotion of the verse",
+   "想说明比喻表达了情感，哪一句合适？"
+  ],
+  [
+   "cne_h221_q3",
+   "D",
+   "The metapohr carries the emotion of the verse",
+   "The mettaphor carries the emotion of the verse",
+   "The metaphor carries the emotion of the verse",
+   "想说明比喻表达了情感，哪一句合适？"
+  ],
+  [
+   "cne_h223_q3",
+   "B",
+   "The poem uses quiet iamgery and a strong rhythm",
+   "The poem uses quiet immagery and a strong rhythm",
+   "The poem uses quiet imagery and a strong rhythm",
+   "哪一句适合作为赏析的第一句？"
+  ],
+  [
+   "cne_h223_q3",
+   "D",
+   "The poem uses quiet imagrey and a strong rhythm",
+   "The poem uses quiet imaginary and a strong rhythm",
+   "The poem uses quiet imagery and a strong rhythm",
+   "哪一句适合作为赏析的第一句？"
+  ],
+  [
+   "cne_h230_q3",
+   "D",
+   "This science fiction follows an android on a sapcecraft",
+   "This science fiction follows a android on a spacecraft",
+   "This science fiction follows an android on a spacecraft",
+   "哪一句适合作为概要的第一句？"
+  ],
+  [
+   "cne_h235_q3",
+   "D",
+   "The tower is a lnadmark of the city",
+   "The tower is the landmarks of the city",
+   "The tower is a landmark of the city",
+   "想介绍这座塔是城市地标，哪一句合适？"
+  ],
+  [
+   "cne_h237_q3",
+   "C",
+   "This walk starts at the city lnadmark",
+   "This walk starting at the city landmark",
+   "This walk starts at the city landmark",
+   "哪一句适合作为说明的第一句？"
+  ],
+  [
+   "cne_h237_q3",
+   "D",
+   "This walk starts at the city landmrak",
+   "This walk starts at the city land",
+   "This walk starts at the city landmark",
+   "哪一句适合作为说明的第一句？"
+  ],
+  [
+   "cne_h244_q3",
+   "A",
+   "Check the tide before the vyoage",
+   "Check the tide before the voltage",
+   "Check the tide before the voyage",
+   "哪一句适合作为备忘的第一句？"
+  ],
+  [
+   "cne_h244_q3",
+   "B",
+   "Check the tide before the voygae",
+   "Check the tide before the visage",
+   "Check the tide before the voyage",
+   "哪一句适合作为备忘的第一句？"
+  ],
+  [
+   "cne_h244_q3",
+   "C",
+   "Check the tide before the voage",
+   "Check the tide before the voyager",
+   "Check the tide before the voyage",
+   "哪一句适合作为备忘的第一句？"
+  ],
+  [
+   "cne_h249_q3",
+   "C",
+   "Could you vlounteer on Saturday",
+   "Could you vollunteer on Saturday",
+   "Could you volunteer on Saturday",
+   "想请邻居周六来帮忙，哪一句合适？"
+  ],
+  [
+   "cne_h249_q3",
+   "D",
+   "Could you vounteer on Saturday",
+   "Could you volunteering on Saturday",
+   "Could you volunteer on Saturday",
+   "想请邻居周六来帮忙，哪一句合适？"
+  ],
+  [
+   "cne_h251_q3",
+   "B",
+   "We need vlounteers for the community shelter",
+   "We need vollunteers for the community shelter",
+   "We need volunteers for the community shelter",
+   "哪一句适合作为启事的第一句？"
+  ],
+  [
+   "cne_h251_q3",
+   "D",
+   "We need volunteres for the community shelter",
+   "We need volunteer for the community shelter",
+   "We need volunteers for the community shelter",
+   "哪一句适合作为启事的第一句？"
+  ],
+  [
+   "cne_h257_q3",
+   "B",
+   "Could I come for an itnerview before Friday",
+   "Could I come for a interview before Friday",
+   "Could I come for an interview before Friday",
+   "想礼貌地问能否在周五前面试，哪一句合适？"
+  ],
+  [
+   "cne_h257_q3",
+   "C",
+   "Could I come for an interveiw before Friday",
+   "Could I come for an interviews before Friday",
+   "Could I come for an interview before Friday",
+   "想礼貌地问能否在周五前面试，哪一句合适？"
+  ],
+  [
+   "cne_h257_q3",
+   "D",
+   "Could I come for an inerview before Friday",
+   "Could I came for an interview before Friday",
+   "Could I come for an interview before Friday",
+   "想礼貌地问能否在周五前面试，哪一句合适？"
+  ]
+ ],
+ "kept": [
+  [
+   "cne_p052_q2",
+   "A",
+   "boxs",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_p052_q2",
+   "B",
+   "boxies",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_p181_q1",
+   "D",
+   "tallier",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_p181_q2",
+   "B",
+   "He is tallier.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_p181_q3",
+   "D",
+   "longger",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_p181_q4",
+   "D",
+   "heavyer",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j009_q1",
+   "A",
+   "bookes",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j009_q2",
+   "A",
+   "boxs",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j009_q2",
+   "B",
+   "boxies",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j009_q3",
+   "C",
+   "familyes",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j068_q4",
+   "B",
+   "swiming",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j088_q1",
+   "D",
+   "The school trip was greated.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j089_q1",
+   "A",
+   "plaied",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j089_q1",
+   "B",
+   "playd",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j089_q3",
+   "B",
+   "studyed",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j089_q3",
+   "C",
+   "studed",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j095_q4",
+   "A",
+   "We haved a good time.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j096_q4",
+   "D",
+   "The visitors plaied badminton.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j100_q2",
+   "B",
+   "She taked photos on the beach.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j109_q2",
+   "A",
+   "outgoinger",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j109_q2",
+   "B",
+   "more outgoinger",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j109_q2",
+   "C",
+   "outgoingest",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j110_q1",
+   "A",
+   "She is more outgoinger than her sister.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j111_q1",
+   "B",
+   "My friend is seriouser than me.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j111_q1",
+   "C",
+   "My friend is more seriouser than me.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j114_q2",
+   "B",
+   "the popularer",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j114_q2",
+   "C",
+   "the most popularer",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j114_q2",
+   "D",
+   "popularest",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j115_q1",
+   "B",
+   "Which theater has the comfortablest seats?",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j202_q2",
+   "C",
+   "He is humorouser than he used to be.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j202_q2",
+   "D",
+   "He is more humorouser than he use to be.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j229_q4",
+   "C",
+   "The king's decision made the queen palely.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j234_q2",
+   "B",
+   "It was totally unexpectedness.",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_h051_q3",
+   "D",
+   "I sugest we protect the old city wall",
+   "无可用的合规替换"
+  ],
+  [
+   "cne_h101_q3",
+   "B",
+   "Could you tell me if I may taked photos",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_h164_q3",
+   "A",
+   "I am not fluent yet, so I may misunderstanded",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_h207_q3",
+   "D",
+   "The policy should be sutainable",
+   "无可用的合规替换"
+  ],
+  [
+   "cne_h259_q3",
+   "D",
+   "I am writing to applys for the post",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j246_q1",
+   "B",
+   "Lucys",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j246_q1",
+   "D",
+   "Lucys'",
+   "常见学习者错误形式（过度规则化等），保留"
+  ],
+  [
+   "cne_j246_q2",
+   "A",
+   "my parents's room",
+   "常见学习者错误形式（过度规则化等），保留"
+  ]
+ ]
+}

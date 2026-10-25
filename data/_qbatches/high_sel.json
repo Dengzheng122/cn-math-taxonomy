@@ -1,0 +1,8218 @@
+[
+  {
+    "id": "cnm_h144_q1",
+    "topicId": "cnm_h144",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "下面哪一项符合空间向量的含义？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只有长度、没有方向的量"
+      },
+      {
+        "key": "B",
+        "text": "既有大小又有方向的量"
+      },
+      {
+        "key": "C",
+        "text": "只有位置、没有大小的点"
+      },
+      {
+        "key": "D",
+        "text": "一条不标方向的线段"
+      }
+    ],
+    "answer": "B",
+    "explanation": "向量要同时有大小和方向。不标方向的线段不是向量。",
+    "verify": "\"既有大小又有方向的量\""
+  },
+  {
+    "id": "cnm_h144_q2",
+    "topicId": "cnm_h144",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，0，0)，b=(2，0，0)。两个向量方向相同，|b| 是 |a| 的几倍？",
+    "answer": "2",
+    "explanation": "模分别是 1 和 2，所以 |b| 是 |a| 的 2 倍。方向相同但模不同，两个向量不相等。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h144_q3",
+    "topicId": "cnm_h144",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "零向量的模是多少？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等于 1"
+      },
+      {
+        "key": "B",
+        "text": "等于任意非零向量的模"
+      },
+      {
+        "key": "C",
+        "text": "没有确定的模"
+      },
+      {
+        "key": "D",
+        "text": "等于 0"
+      }
+    ],
+    "answer": "D",
+    "explanation": "零向量长度是 0，方向不定，模确定为 0。",
+    "verify": "\"等于 0\""
+  },
+  {
+    "id": "cnm_h144_q4",
+    "topicId": "cnm_h144",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A(0，0，0)，B(0，3，0)。有向线段 AB 对应向量的纵坐标是多少？",
+    "answer": "3",
+    "explanation": "终点纵坐标减去起点纵坐标：3−0=3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h145_q1",
+    "topicId": "cnm_h145",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，0，2)，b=(3，4，−1)。a+b 的横坐标是多少？",
+    "answer": "4",
+    "explanation": "坐标分别相加，横坐标是 1+3=4。",
+    "verify": "1+3"
+  },
+  {
+    "id": "cnm_h145_q2",
+    "topicId": "cnm_h145",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(2，−1，4)，b=(2，3，1)。a−b 的竖坐标是多少？",
+    "answer": "3",
+    "explanation": "竖坐标相减：4−1=3。",
+    "verify": "4-1"
+  },
+  {
+    "id": "cnm_h145_q3",
+    "topicId": "cnm_h145",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=(1，−2，3)。3a 的纵坐标是多少？",
+    "answer": "-6",
+    "explanation": "数乘时每个坐标都乘 3，纵坐标是 3×(−2)=−6。",
+    "verify": "3*(-2)"
+  },
+  {
+    "id": "cnm_h145_q4",
+    "topicId": "cnm_h145",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "空间向量的加法适合用哪一种法则？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只能把坐标全部相乘"
+      },
+      {
+        "key": "B",
+        "text": "三角形法则或平行四边形法则"
+      },
+      {
+        "key": "C",
+        "text": "只能用于共面的零向量"
+      },
+      {
+        "key": "D",
+        "text": "两个向量相加一定得到零向量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "空间向量加法仍可用三角形法则或平行四边形法则，和平面向量一样。",
+    "verify": "\"三角形法则或平行四边形法则\""
+  },
+  {
+    "id": "cnm_h146_q1",
+    "topicId": "cnm_h146",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，2，2)，b=(2，0，1)。a·b 等于多少？",
+    "answer": "4",
+    "explanation": "数量积是对应坐标相乘再相加：2+0+2=4。",
+    "verify": "1*2+2*0+2*1"
+  },
+  {
+    "id": "cnm_h146_q2",
+    "topicId": "cnm_h146",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，0，−1)，b=(2，5，2)。a·b 等于多少？",
+    "answer": "0",
+    "explanation": "2+0−2=0，两个向量垂直。",
+    "verify": "1*2+0*5+(-1)*2"
+  },
+  {
+    "id": "cnm_h146_q3",
+    "topicId": "cnm_h146",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两个非零空间向量的数量积等于 0，说明什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个向量平行"
+      },
+      {
+        "key": "B",
+        "text": "两个向量垂直"
+      },
+      {
+        "key": "C",
+        "text": "两个向量模相等"
+      },
+      {
+        "key": "D",
+        "text": "两个向量一定是零向量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "非零向量数量积为 0，夹角余弦为 0，夹角是直角。",
+    "verify": "\"两个向量垂直\""
+  },
+  {
+    "id": "cnm_h146_q4",
+    "topicId": "cnm_h146",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=(3，1，0)，b=(1，1，4)。a·b 等于多少？",
+    "answer": "4",
+    "explanation": "对应坐标相乘再相加：3+1+0=4。",
+    "verify": "3*1+1*1+0*4"
+  },
+  {
+    "id": "cnm_h147_q1",
+    "topicId": "cnm_h147",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(2，3，6)。|a| 等于多少？",
+    "answer": "7",
+    "explanation": "模等于坐标平方和的算术平方根：√(4+9+36)=√49=7。",
+    "verify": "isqrt(2*2+3*3+6*6)"
+  },
+  {
+    "id": "cnm_h147_q2",
+    "topicId": "cnm_h147",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，2，2)，b=(2，1，−2)。a·b 等于多少？",
+    "answer": "0",
+    "explanation": "数量积是 2+2−4=0，所以夹角是直角。",
+    "verify": "1*2+2*1+2*(-2)"
+  },
+  {
+    "id": "cnm_h147_q3",
+    "topicId": "cnm_h147",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "a·b>0 且 a、b 都不是零向量时，夹角是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "直角"
+      },
+      {
+        "key": "B",
+        "text": "钝角"
+      },
+      {
+        "key": "C",
+        "text": "锐角"
+      },
+      {
+        "key": "D",
+        "text": "一定是 0 度"
+      }
+    ],
+    "answer": "C",
+    "explanation": "数量积等于 |a||b|cosθ。模为正，数量积为正，则 cosθ>0，夹角是锐角。",
+    "verify": "\"锐角\""
+  },
+  {
+    "id": "cnm_h147_q4",
+    "topicId": "cnm_h147",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=(0，3，4)。|a| 等于多少？",
+    "answer": "5",
+    "explanation": "√(9+16)=√25=5。",
+    "verify": "isqrt(0+9+16)"
+  },
+  {
+    "id": "cnm_h148_q1",
+    "topicId": "cnm_h148",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "b=(2，4，−6)，a=(1，2，−3)。若 b=λa，λ 等于多少？",
+    "answer": "2",
+    "explanation": "每个坐标都是 a 的 2 倍，所以 λ=2，两个向量共线。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h148_q2",
+    "topicId": "cnm_h148",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "a=(1，0，2)，b=(2，0，4)。这两个向量的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "垂直但不共线"
+      },
+      {
+        "key": "B",
+        "text": "既不共线也不垂直"
+      },
+      {
+        "key": "C",
+        "text": "共线"
+      },
+      {
+        "key": "D",
+        "text": "一定垂直"
+      }
+    ],
+    "answer": "C",
+    "explanation": "b=2a，所以共线。数量积 2+0+8≠0，并不垂直。",
+    "verify": "\"共线\""
+  },
+  {
+    "id": "cnm_h148_q3",
+    "topicId": "cnm_h148",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=(1，2，k)，b=(2，4，6) 共线。k 等于多少？",
+    "answer": "3",
+    "explanation": "坐标成比例：1/2=2/4=k/6，所以 k=3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h148_q4",
+    "topicId": "cnm_h148",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "零向量与任意空间向量是否共线？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "共线，因为 0=0·a"
+      },
+      {
+        "key": "B",
+        "text": "只有与单位向量才共线"
+      },
+      {
+        "key": "C",
+        "text": "一定不共线"
+      },
+      {
+        "key": "D",
+        "text": "只有在坐标轴上才共线"
+      }
+    ],
+    "answer": "A",
+    "explanation": "零向量等于任意向量乘 0，所以与任意向量共线。",
+    "verify": "\"共线，因为 0=0·a\""
+  },
+  {
+    "id": "cnm_h149_q1",
+    "topicId": "cnm_h149",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "空间向量基本定理里，基底通常要有几个不共面的向量？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2 个"
+      },
+      {
+        "key": "B",
+        "text": "4 个"
+      },
+      {
+        "key": "C",
+        "text": "3 个"
+      },
+      {
+        "key": "D",
+        "text": "1 个"
+      }
+    ],
+    "answer": "C",
+    "explanation": "平面基底用 2 个不共线向量，空间基底用 3 个不共面向量。",
+    "verify": "\"3 个\""
+  },
+  {
+    "id": "cnm_h149_q2",
+    "topicId": "cnm_h149",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "三个向量都在同一个平面内，能不能作为空间的一组基底？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "能，只要都不是零向量"
+      },
+      {
+        "key": "B",
+        "text": "能，只要两两垂直"
+      },
+      {
+        "key": "C",
+        "text": "不能，因为空间向量不能相加"
+      },
+      {
+        "key": "D",
+        "text": "不能，因为它们共面"
+      }
+    ],
+    "answer": "D",
+    "explanation": "共面的三个向量不能唯一表示空间中的任意向量。",
+    "verify": "\"不能，因为它们共面\""
+  },
+  {
+    "id": "cnm_h149_q3",
+    "topicId": "cnm_h149",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "e1、e2、e3 是一组基底，a=2e1−e2+3e3。e3 前面的系数是多少？",
+    "answer": "3",
+    "explanation": "线性表示 a=2e1+(−1)e2+3e3，e3 的系数是 3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h149_q4",
+    "topicId": "cnm_h149",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一组基底对空间中每个向量的线性表示是否唯一？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "至少有两种表示"
+      },
+      {
+        "key": "B",
+        "text": "唯一"
+      },
+      {
+        "key": "C",
+        "text": "只有单位向量才唯一"
+      },
+      {
+        "key": "D",
+        "text": "系数可以随意更换"
+      }
+    ],
+    "answer": "B",
+    "explanation": "基本定理说：对一组确定的基底，表示系数是唯一的。",
+    "verify": "\"唯一\""
+  },
+  {
+    "id": "cnm_h150_q1",
+    "topicId": "cnm_h150",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "正交分解所用的三个方向需要满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两两平行"
+      },
+      {
+        "key": "B",
+        "text": "长度必须都等于 2"
+      },
+      {
+        "key": "C",
+        "text": "必须共面"
+      },
+      {
+        "key": "D",
+        "text": "两两垂直"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正交就是互相垂直。三个方向两两垂直，才能按垂直方向分解。",
+    "verify": "\"两两垂直\""
+  },
+  {
+    "id": "cnm_h150_q2",
+    "topicId": "cnm_h150",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "i、j、k 两两垂直且都是单位向量。a=3i−2j+k 在 k 方向上的系数是多少？",
+    "answer": "1",
+    "explanation": "a 已经写成正交分解，k 的系数是 1。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h150_q3",
+    "topicId": "cnm_h150",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=4i+j−2k，i、j、k 是两两垂直的单位向量。a·i 等于多少？",
+    "answer": "4",
+    "explanation": "单位正交基底下，a·i 就是 i 方向的系数 4。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h150_q4",
+    "topicId": "cnm_h150",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "把向量分解到两两垂直的三个方向上，这种分解叫什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只叫共线分解"
+      },
+      {
+        "key": "B",
+        "text": "只叫数量积"
+      },
+      {
+        "key": "C",
+        "text": "正交分解"
+      },
+      {
+        "key": "D",
+        "text": "随机分解"
+      }
+    ],
+    "answer": "C",
+    "explanation": "沿互相垂直方向的分解叫做正交分解。",
+    "verify": "\"正交分解\""
+  },
+  {
+    "id": "cnm_h151_q1",
+    "topicId": "cnm_h151",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "点 P(3，−1，5) 的竖坐标是多少？",
+    "answer": "5",
+    "explanation": "有序三元数的第三个分量是竖坐标，等于 5。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h151_q2",
+    "topicId": "cnm_h151",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "点 (0，0，4) 在哪一条坐标轴上？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x 轴"
+      },
+      {
+        "key": "B",
+        "text": "z 轴"
+      },
+      {
+        "key": "C",
+        "text": "y 轴"
+      },
+      {
+        "key": "D",
+        "text": "不在任何坐标轴上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "x=0 且 y=0，点在 z 轴上，竖坐标是 4。",
+    "verify": "\"z 轴\""
+  },
+  {
+    "id": "cnm_h151_q3",
+    "topicId": "cnm_h151",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "空间直角坐标系的三条轴之间的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两两平行"
+      },
+      {
+        "key": "B",
+        "text": "一定共面且重合"
+      },
+      {
+        "key": "C",
+        "text": "两两垂直"
+      },
+      {
+        "key": "D",
+        "text": "相交但不垂直"
+      }
+    ],
+    "answer": "C",
+    "explanation": "右手系里 x 轴、y 轴、z 轴交于原点并且两两垂直。",
+    "verify": "\"两两垂直\""
+  },
+  {
+    "id": "cnm_h151_q4",
+    "topicId": "cnm_h151",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "点 A(2，0，0) 到原点的距离是多少？",
+    "answer": "2",
+    "explanation": "点在 x 轴上，到原点的距离就是横坐标的绝对值 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h152_q1",
+    "topicId": "cnm_h152",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(1，2，0)，B(4，2，5)。向量 AB 的横坐标是多少？",
+    "answer": "3",
+    "explanation": "终点横坐标减起点横坐标：4−1=3。",
+    "verify": "4-1"
+  },
+  {
+    "id": "cnm_h152_q2",
+    "topicId": "cnm_h152",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(0，1，2)，B(0，1，6)。向量 AB 的竖坐标是多少？",
+    "answer": "4",
+    "explanation": "竖坐标之差是 6−2=4，另外两个分量都是 0。",
+    "verify": "6-2"
+  },
+  {
+    "id": "cnm_h152_q3",
+    "topicId": "cnm_h152",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "向量 a=(3，−2，1) 的纵坐标是多少？",
+    "answer": "-2",
+    "explanation": "第二个分量就是纵坐标 −2。",
+    "verify": "-2"
+  },
+  {
+    "id": "cnm_h152_q4",
+    "topicId": "cnm_h152",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "相等的空间向量，它们的坐标必须怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "三个分量分别相等"
+      },
+      {
+        "key": "B",
+        "text": "只要模相等"
+      },
+      {
+        "key": "C",
+        "text": "只要横坐标相等"
+      },
+      {
+        "key": "D",
+        "text": "坐标可以差一个常数"
+      }
+    ],
+    "answer": "A",
+    "explanation": "向量相等当且仅当对应分量都相等。",
+    "verify": "\"三个分量分别相等\""
+  },
+  {
+    "id": "cnm_h153_q1",
+    "topicId": "cnm_h153",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，0，2)，b=(3，4，−1)。2a+b 的横坐标是多少？",
+    "answer": "5",
+    "explanation": "2a=(2，0，4)，再加 b，横坐标是 2+3=5。",
+    "verify": "2*1+3"
+  },
+  {
+    "id": "cnm_h153_q2",
+    "topicId": "cnm_h153",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=(1，2，2)，b=(2，−1，3)。a·b 等于多少？",
+    "answer": "6",
+    "explanation": "2−2+6=6。",
+    "verify": "1*2+2*(-1)+2*3"
+  },
+  {
+    "id": "cnm_h153_q3",
+    "topicId": "cnm_h153",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=(2，−1，2)。|a|² 等于多少？",
+    "answer": "9",
+    "explanation": "模的平方就是坐标平方和：4+1+4=9。",
+    "verify": "2*2+(-1)*(-1)+2*2"
+  },
+  {
+    "id": "cnm_h153_q4",
+    "topicId": "cnm_h153",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "坐标运算里，两个向量相加时应该怎么做？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "分量全部相乘"
+      },
+      {
+        "key": "B",
+        "text": "对应分量分别相加"
+      },
+      {
+        "key": "C",
+        "text": "只把模相加"
+      },
+      {
+        "key": "D",
+        "text": "把三个分量加到第一个分量上"
+      }
+    ],
+    "answer": "B",
+    "explanation": "加法、减法和数乘都是按分量进行的。",
+    "verify": "\"对应分量分别相加\""
+  },
+  {
+    "id": "cnm_h154_q1",
+    "topicId": "cnm_h154",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(0，0，0)，B(2，3，6)。AB 的长度是多少？",
+    "answer": "7",
+    "explanation": "√(4+9+36)=√49=7。",
+    "verify": "isqrt(4+9+36)"
+  },
+  {
+    "id": "cnm_h154_q2",
+    "topicId": "cnm_h154",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(1，2，2)，B(1，6，2)。AB 的长度是多少？",
+    "answer": "4",
+    "explanation": "只有纵坐标差 4，距离是 4。",
+    "verify": "isqrt(0+16+0)"
+  },
+  {
+    "id": "cnm_h154_q3",
+    "topicId": "cnm_h154",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A(1，1，1)，B(2，2，2)。AB 的长度的平方是多少？",
+    "answer": "3",
+    "explanation": "三个坐标差都是 1，距离的平方是 3。",
+    "verify": "1+1+1"
+  },
+  {
+    "id": "cnm_h154_q4",
+    "topicId": "cnm_h154",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "空间两点距离公式，本质上用的是哪一条定理？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "三角形内角和"
+      },
+      {
+        "key": "B",
+        "text": "平行线分线段成比例"
+      },
+      {
+        "key": "C",
+        "text": "勾股定理"
+      },
+      {
+        "key": "D",
+        "text": "圆周角定理"
+      }
+    ],
+    "answer": "C",
+    "explanation": "三个互相垂直的坐标差构成直角关系，距离由勾股定理得到。",
+    "verify": "\"勾股定理\""
+  },
+  {
+    "id": "cnm_h155_q1",
+    "topicId": "cnm_h155",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线过 A(1，2，3) 和 B(4，6，3)。一个方向向量的横坐标是多少？",
+    "answer": "3",
+    "explanation": "AB=(3，4，0)，横坐标是 3。",
+    "verify": "4-1"
+  },
+  {
+    "id": "cnm_h155_q2",
+    "topicId": "cnm_h155",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "d 是直线 l 的方向向量。下面哪一个也一定是 l 的方向向量？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "零向量"
+      },
+      {
+        "key": "B",
+        "text": "3d"
+      },
+      {
+        "key": "C",
+        "text": "与 d 垂直的非零向量"
+      },
+      {
+        "key": "D",
+        "text": "长度等于 0 的向量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "非零实数乘方向向量后仍与直线平行，所以仍是方向向量。零向量不能作方向向量。",
+    "verify": "\"3d\""
+  },
+  {
+    "id": "cnm_h155_q3",
+    "topicId": "cnm_h155",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "方向向量 d=(2，−2，4)。与它共线的向量 (1，−1，k) 中，k 等于多少？",
+    "answer": "2",
+    "explanation": "(2，−2，4)=2(1，−1，2)，所以 k=2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h155_q4",
+    "topicId": "cnm_h155",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一条直线的方向向量是否只有一个？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "是，只能有一个"
+      },
+      {
+        "key": "B",
+        "text": "是，必须是单位向量"
+      },
+      {
+        "key": "C",
+        "text": "不是，但必须互相垂直"
+      },
+      {
+        "key": "D",
+        "text": "不是，非零倍数都可以"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方向向量不唯一，任何一个非零倍数都表示同一条直线的方向。",
+    "verify": "\"不是，非零倍数都可以\""
+  },
+  {
+    "id": "cnm_h156_q1",
+    "topicId": "cnm_h156",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "平面的法向量与这个平面是什么关系？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平行"
+      },
+      {
+        "key": "B",
+        "text": "垂直"
+      },
+      {
+        "key": "C",
+        "text": "一定在平面内"
+      },
+      {
+        "key": "D",
+        "text": "与平面成 45 度"
+      }
+    ],
+    "answer": "B",
+    "explanation": "法向量垂直于平面，因此垂直于平面内的每一条直线。",
+    "verify": "\"垂直\""
+  },
+  {
+    "id": "cnm_h156_q2",
+    "topicId": "cnm_h156",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "n=(1，2，2) 是某平面的法向量，平面内向量 a=(2，0，k) 与 n 垂直。k 等于多少？",
+    "answer": "-1",
+    "explanation": "数量积 1×2+2×0+2k=0，所以 2+2k=0，k=−1。",
+    "verify": "-1"
+  },
+  {
+    "id": "cnm_h156_q3",
+    "topicId": "cnm_h156",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "n=(0，0，3)。它作为法向量时，与平面内向量 (1，2，0) 的数量积是多少？",
+    "answer": "0",
+    "explanation": "0×1+0×2+3×0=0，这个向量确实与法向量垂直。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h156_q4",
+    "topicId": "cnm_h156",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "n 是平面的法向量。下面哪一个也是这个平面的法向量？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "−2n"
+      },
+      {
+        "key": "B",
+        "text": "零向量"
+      },
+      {
+        "key": "C",
+        "text": "平面内的一条非零直线的方向向量"
+      },
+      {
+        "key": "D",
+        "text": "与 n 垂直的非零向量"
+      }
+    ],
+    "answer": "A",
+    "explanation": "法向量的非零倍数仍垂直于平面。平面内的方向向量与平面平行，不是法向量。",
+    "verify": "\"−2n\""
+  },
+  {
+    "id": "cnm_h157_q1",
+    "topicId": "cnm_h157",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "方向向量 d=(1，−1，0)，法向量 n=(1，1，1)。d·n 等于多少？",
+    "answer": "0",
+    "explanation": "1−1+0=0，方向向量与法向量垂直。",
+    "verify": "1*1+(-1)*1+0*1"
+  },
+  {
+    "id": "cnm_h157_q2",
+    "topicId": "cnm_h157",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "直线不在平面内，且方向向量与法向量的数量积为 0。直线与平面的关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "相交"
+      },
+      {
+        "key": "B",
+        "text": "直线一定在平面内"
+      },
+      {
+        "key": "C",
+        "text": "垂直"
+      },
+      {
+        "key": "D",
+        "text": "平行"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方向与法向量垂直，说明直线与平面没有交点方向上的倾斜；又已知不在平面内，所以平行。",
+    "verify": "\"平行\""
+  },
+  {
+    "id": "cnm_h157_q3",
+    "topicId": "cnm_h157",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "d=(2，1，k)，n=(1，−2，2)，且 d·n=0。k 等于多少？",
+    "answer": "0",
+    "explanation": "2×1+1×(−2)+2k=0，即 2−2+2k=0，k=0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h157_q4",
+    "topicId": "cnm_h157",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方向向量与法向量的数量积不为 0 时，直线和平面会怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一定平行"
+      },
+      {
+        "key": "B",
+        "text": "相交"
+      },
+      {
+        "key": "C",
+        "text": "一定重合"
+      },
+      {
+        "key": "D",
+        "text": "一定没有公共点"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方向不与法向量垂直，直线会穿过平面，所以相交。",
+    "verify": "\"相交\""
+  },
+  {
+    "id": "cnm_h158_q1",
+    "topicId": "cnm_h158",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "n1=(1，−2，2)，n2=(2，−4，4)。n2 是 n1 的几倍？",
+    "answer": "2",
+    "explanation": "每个分量都是 2 倍，两个法向量共线。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h158_q2",
+    "topicId": "cnm_h158",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "两个不重合平面的法向量共线，这两个平面的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平行"
+      },
+      {
+        "key": "B",
+        "text": "垂直"
+      },
+      {
+        "key": "C",
+        "text": "相交成 60 度"
+      },
+      {
+        "key": "D",
+        "text": "一定重合"
+      }
+    ],
+    "answer": "A",
+    "explanation": "法向量共线说明两个平面的倾斜方向相同；题目已说明不重合，所以平行。",
+    "verify": "\"平行\""
+  },
+  {
+    "id": "cnm_h158_q3",
+    "topicId": "cnm_h158",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "n1=(1，0，−1)，n2=(k，0，−3) 共线，且 k>0。k 等于多少？",
+    "answer": "3",
+    "explanation": "由第三分量，n2=3n1，所以 k=3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h158_q4",
+    "topicId": "cnm_h158",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两个平面的法向量不共线，这两个平面会怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一定平行"
+      },
+      {
+        "key": "B",
+        "text": "一定重合"
+      },
+      {
+        "key": "C",
+        "text": "相交"
+      },
+      {
+        "key": "D",
+        "text": "一定垂直"
+      }
+    ],
+    "answer": "C",
+    "explanation": "法向量不共线，两个平面的方向不同，一定会相交。垂直还要看数量积是不是 0。",
+    "verify": "\"相交\""
+  },
+  {
+    "id": "cnm_h159_q1",
+    "topicId": "cnm_h159",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线方向向量 d=(2，−2，4)，平面法向量 n=(1，−1，2)。d 是 n 的几倍？",
+    "answer": "2",
+    "explanation": "d=2n，两个向量共线，直线垂直于平面。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h159_q2",
+    "topicId": "cnm_h159",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "直线的方向向量与平面的法向量共线，直线与平面的关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平行"
+      },
+      {
+        "key": "B",
+        "text": "垂直"
+      },
+      {
+        "key": "C",
+        "text": "在平面内"
+      },
+      {
+        "key": "D",
+        "text": "既不垂直也不相交"
+      }
+    ],
+    "answer": "B",
+    "explanation": "直线方向与法向量相同或相反，就是垂直于平面。",
+    "verify": "\"垂直\""
+  },
+  {
+    "id": "cnm_h159_q3",
+    "topicId": "cnm_h159",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "d=(1，k，2) 与 n=(2，4，4) 共线。k 等于多少？",
+    "answer": "2",
+    "explanation": "d=(1/2)n，所以 k=4×(1/2)=2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h159_q4",
+    "topicId": "cnm_h159",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "线面垂直时，直线的方向向量还必须是单位向量吗？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "必须"
+      },
+      {
+        "key": "B",
+        "text": "必须模等于 2"
+      },
+      {
+        "key": "C",
+        "text": "必须是零向量"
+      },
+      {
+        "key": "D",
+        "text": "不必须"
+      }
+    ],
+    "answer": "D",
+    "explanation": "共线即可，方向向量的长度可以不是 1。",
+    "verify": "\"不必须\""
+  },
+  {
+    "id": "cnm_h160_q1",
+    "topicId": "cnm_h160",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "n1=(1，0，1)，n2=(1，2，−1)。n1·n2 等于多少？",
+    "answer": "0",
+    "explanation": "1+0−1=0，两个法向量垂直，两个平面垂直。",
+    "verify": "1*1+0*2+1*(-1)"
+  },
+  {
+    "id": "cnm_h160_q2",
+    "topicId": "cnm_h160",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "两个平面的法向量数量积为 0，这两个平面的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平行"
+      },
+      {
+        "key": "B",
+        "text": "重合"
+      },
+      {
+        "key": "C",
+        "text": "垂直"
+      },
+      {
+        "key": "D",
+        "text": "没有确定关系"
+      }
+    ],
+    "answer": "C",
+    "explanation": "法向量垂直等价于两个平面垂直。",
+    "verify": "\"垂直\""
+  },
+  {
+    "id": "cnm_h160_q3",
+    "topicId": "cnm_h160",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "n1=(2，1，0)，n2=(1，k，3)，且 n1·n2=0。k 等于多少？",
+    "answer": "-2",
+    "explanation": "2×1+1×k+0×3=0，所以 k=−2。",
+    "verify": "-2"
+  },
+  {
+    "id": "cnm_h160_q4",
+    "topicId": "cnm_h160",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "面面垂直，是看哪两个向量垂直？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个平面的法向量"
+      },
+      {
+        "key": "B",
+        "text": "两个平面各取一条方向向量并且必须平行"
+      },
+      {
+        "key": "C",
+        "text": "两个平面的任意向量"
+      },
+      {
+        "key": "D",
+        "text": "原点到两个平面的向量"
+      }
+    ],
+    "answer": "A",
+    "explanation": "判定时用法向量：法向量垂直，则平面垂直。",
+    "verify": "\"两个平面的法向量\""
+  },
+  {
+    "id": "cnm_h161_q1",
+    "topicId": "cnm_h161",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两条直线的方向向量是 d1=(1，0，0) 和 d2=(0，1，0)。d1·d2 等于多少？",
+    "answer": "0",
+    "explanation": "数量积是 0，两条直线的方向垂直，夹角是 90 度。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h161_q2",
+    "topicId": "cnm_h161",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "两条直线的方向向量数量积为正，它们的夹角取锐角时是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "直角"
+      },
+      {
+        "key": "B",
+        "text": "钝角"
+      },
+      {
+        "key": "C",
+        "text": "0 度"
+      },
+      {
+        "key": "D",
+        "text": "锐角"
+      }
+    ],
+    "answer": "D",
+    "explanation": "夹角通常取不大于 90 度的角。数量积为正时，这个夹角是锐角。",
+    "verify": "\"锐角\""
+  },
+  {
+    "id": "cnm_h161_q3",
+    "topicId": "cnm_h161",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "d=(0，3，4)，n=(0，0，1)。d·n 等于多少？",
+    "answer": "4",
+    "explanation": "0×0+3×0+4×1=4。线面角要再除以两个模，本题只求数量积。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h161_q4",
+    "topicId": "cnm_h161",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "求两条异面直线的夹角，可以先找什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个平面的任意法向量并且忽略方向"
+      },
+      {
+        "key": "B",
+        "text": "各自的一个方向向量"
+      },
+      {
+        "key": "C",
+        "text": "两条直线的中点"
+      },
+      {
+        "key": "D",
+        "text": "一个与两条直线都垂直的零向量"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方向向量确定直线的方向，夹角由这两个向量决定。",
+    "verify": "\"各自的一个方向向量\""
+  },
+  {
+    "id": "cnm_h162_q1",
+    "topicId": "cnm_h162",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两个半平面的法向量 n1=(1，0，0)，n2=(0，1，0)。n1·n2 等于多少？",
+    "answer": "0",
+    "explanation": "数量积为 0，两个法向量垂直。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h162_q2",
+    "topicId": "cnm_h162",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "用法向量求二面角时，法向量的夹角和二面角的平面角可能是什么关系？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "相等或互补"
+      },
+      {
+        "key": "B",
+        "text": "一定相差 45 度"
+      },
+      {
+        "key": "C",
+        "text": "一定没有关系"
+      },
+      {
+        "key": "D",
+        "text": "一定都是 0 度"
+      }
+    ],
+    "answer": "A",
+    "explanation": "法向量指向半平面的哪一侧不同，夹角可能是二面角本身，也可能是它的补角。",
+    "verify": "\"相等或互补\""
+  },
+  {
+    "id": "cnm_h162_q3",
+    "topicId": "cnm_h162",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "n1=(0，0，1)，n2=(0，0，5)。n1·n2 等于多少？",
+    "answer": "5",
+    "explanation": "0+0+1×5=5。两个法向量都沿 z 轴，方向相同。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h162_q4",
+    "topicId": "cnm_h162",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "二面角是哪一种角？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两条异面直线的距离"
+      },
+      {
+        "key": "B",
+        "text": "点到平面的距离"
+      },
+      {
+        "key": "C",
+        "text": "两个半平面所成的角"
+      },
+      {
+        "key": "D",
+        "text": "圆的圆心角"
+      }
+    ],
+    "answer": "C",
+    "explanation": "二面角由一条棱和从棱出发的两个半平面组成。",
+    "verify": "\"两个半平面所成的角\""
+  },
+  {
+    "id": "cnm_h163_q1",
+    "topicId": "cnm_h163",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "平面 x+2y+2z−6=0，点 (1，1，1) 到平面的距离是多少？",
+    "answer": "1/3",
+    "explanation": "分子 |1+2+2−6|=1，分母 √(1+4+4)=3，距离是 1/3。",
+    "verify": "Fraction(abs(1+2*1+2*1-6), isqrt(1+4+4))"
+  },
+  {
+    "id": "cnm_h163_q2",
+    "topicId": "cnm_h163",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "平面 x+2y+2z−6=0，原点到平面的距离是多少？",
+    "answer": "2",
+    "explanation": "分子是 6，分母是 3，距离是 2。",
+    "verify": "Fraction(abs(0+0+0-6), isqrt(1+4+4))"
+  },
+  {
+    "id": "cnm_h163_q3",
+    "topicId": "cnm_h163",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "平面 2x−y+2z+3=0 的法向量 (2，−1，2) 的模是多少？",
+    "answer": "3",
+    "explanation": "√(4+1+4)=√9=3，这就是距离公式的分母。",
+    "verify": "isqrt(4+1+4)"
+  },
+  {
+    "id": "cnm_h163_q4",
+    "topicId": "cnm_h163",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "点在平面上时，点到平面的距离是多少？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等于法向量的模"
+      },
+      {
+        "key": "B",
+        "text": "等于 1"
+      },
+      {
+        "key": "C",
+        "text": "无法计算"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answer": "D",
+    "explanation": "点满足平面方程，分子是 0，距离是 0。",
+    "verify": "\"0\""
+  },
+  {
+    "id": "cnm_h164_q1",
+    "topicId": "cnm_h164",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "长方体中一条棱的方向向量是 (4，0，0)，另一条棱的方向向量是 (0，3，0)。它们的数量积是多少？",
+    "answer": "0",
+    "explanation": "4×0+0×3+0×0=0，两条棱垂直。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h164_q2",
+    "topicId": "cnm_h164",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "点 (0，0，2) 到平面 z=0 的距离是多少？",
+    "answer": "2",
+    "explanation": "平面 z=0 就是 xy 平面，点的高度就是距离 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h164_q3",
+    "topicId": "cnm_h164",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "用向量证明线面平行，通常要证明方向向量与法向量怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "数量积为 1"
+      },
+      {
+        "key": "B",
+        "text": "模一定相等"
+      },
+      {
+        "key": "C",
+        "text": "坐标全部相等"
+      },
+      {
+        "key": "D",
+        "text": "数量积为 0"
+      }
+    ],
+    "answer": "D",
+    "explanation": "数量积为 0 说明方向与法向量垂直，再说明直线不在平面内，即可得到平行。",
+    "verify": "\"数量积为 0\""
+  },
+  {
+    "id": "cnm_h164_q4",
+    "topicId": "cnm_h164",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "方向向量 d=(1，1，1)，法向量 n=(1，−1，0)。d·n 等于多少？",
+    "answer": "0",
+    "explanation": "1−1+0=0，这条直线与该平面要么平行，要么在平面内。",
+    "verify": "1*1+1*(-1)+1*0"
+  },
+  {
+    "id": "cnm_h165_q1",
+    "topicId": "cnm_h165",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "直线倾斜角的取值范围是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "大于等于 0 度且小于等于 90 度"
+      },
+      {
+        "key": "B",
+        "text": "大于 0 度且小于 360 度"
+      },
+      {
+        "key": "C",
+        "text": "大于等于 0 度且小于 180 度"
+      },
+      {
+        "key": "D",
+        "text": "任意实数"
+      }
+    ],
+    "answer": "C",
+    "explanation": "倾斜角取直线向上方向与 x 轴正方向的最小正角，范围是 [0，180) 度。",
+    "verify": "\"大于等于 0 度且小于 180 度\""
+  },
+  {
+    "id": "cnm_h165_q2",
+    "topicId": "cnm_h165",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "与 x 轴平行且向右的直线，倾斜角是多少？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "90 度"
+      },
+      {
+        "key": "B",
+        "text": "180 度"
+      },
+      {
+        "key": "C",
+        "text": "45 度"
+      },
+      {
+        "key": "D",
+        "text": "0 度"
+      }
+    ],
+    "answer": "D",
+    "explanation": "直线方向与 x 轴正方向相同，倾斜角是 0 度。",
+    "verify": "\"0 度\""
+  },
+  {
+    "id": "cnm_h165_q3",
+    "topicId": "cnm_h165",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "一条直线的倾斜角是 90 度。它与 y 轴的夹角是多少度？",
+    "answer": "0",
+    "explanation": "倾斜角 90 度的直线垂直于 x 轴，与 y 轴方向相同，夹角是 0 度。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h165_q4",
+    "topicId": "cnm_h165",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "倾斜角是 120 度的直线，从左到右看是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "上升的"
+      },
+      {
+        "key": "B",
+        "text": "下降的"
+      },
+      {
+        "key": "C",
+        "text": "与 x 轴平行"
+      },
+      {
+        "key": "D",
+        "text": "与 y 轴平行"
+      }
+    ],
+    "answer": "B",
+    "explanation": "倾斜角大于 90 度且小于 180 度时，直线从左到右下降。",
+    "verify": "\"下降的\""
+  },
+  {
+    "id": "cnm_h166_q1",
+    "topicId": "cnm_h166",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "斜率存在时，它等于什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "倾斜角的正弦"
+      },
+      {
+        "key": "B",
+        "text": "倾斜角本身"
+      },
+      {
+        "key": "C",
+        "text": "倾斜角的余弦"
+      },
+      {
+        "key": "D",
+        "text": "倾斜角的正切"
+      }
+    ],
+    "answer": "D",
+    "explanation": "斜率 k=tanα，α 是倾斜角。",
+    "verify": "\"倾斜角的正切\""
+  },
+  {
+    "id": "cnm_h166_q2",
+    "topicId": "cnm_h166",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "垂直于 x 轴的直线，斜率怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不存在"
+      },
+      {
+        "key": "B",
+        "text": "等于 0"
+      },
+      {
+        "key": "C",
+        "text": "等于 1"
+      },
+      {
+        "key": "D",
+        "text": "等于 −1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "倾斜角是 90 度，正切没有意义，所以斜率不存在。",
+    "verify": "\"不存在\""
+  },
+  {
+    "id": "cnm_h166_q3",
+    "topicId": "cnm_h166",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线从左到右上升，经过横坐标增加 2、纵坐标增加 2 的两点。斜率是多少？",
+    "answer": "1",
+    "explanation": "斜率等于纵坐标增量除以横坐标增量：2/2=1。",
+    "verify": "Fraction(2,2)"
+  },
+  {
+    "id": "cnm_h166_q4",
+    "topicId": "cnm_h166",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "斜率为 0 的直线与 x 轴的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "垂直"
+      },
+      {
+        "key": "B",
+        "text": "相交成 45 度"
+      },
+      {
+        "key": "C",
+        "text": "平行或重合"
+      },
+      {
+        "key": "D",
+        "text": "斜率不存在"
+      }
+    ],
+    "answer": "C",
+    "explanation": "斜率为 0 时倾斜角是 0 度，直线平行于 x 轴。",
+    "verify": "\"平行或重合\""
+  },
+  {
+    "id": "cnm_h167_q1",
+    "topicId": "cnm_h167",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线过 (1，1) 和 (4，7)。斜率是多少？",
+    "answer": "2",
+    "explanation": "(7−1)/(4−1)=6/3=2。",
+    "verify": "Fraction(7-1, 4-1)"
+  },
+  {
+    "id": "cnm_h167_q2",
+    "topicId": "cnm_h167",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线过 (0，2) 和 (3，−4)。斜率是多少？",
+    "answer": "-2",
+    "explanation": "(−4−2)/(3−0)=−6/3=−2。",
+    "verify": "Fraction(-4-2, 3-0)"
+  },
+  {
+    "id": "cnm_h167_q3",
+    "topicId": "cnm_h167",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两点 (2，1) 和 (2，5) 的连线，斜率怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等于 0"
+      },
+      {
+        "key": "B",
+        "text": "等于 2"
+      },
+      {
+        "key": "C",
+        "text": "不存在"
+      },
+      {
+        "key": "D",
+        "text": "等于 4"
+      }
+    ],
+    "answer": "C",
+    "explanation": "横坐标相同，直线垂直于 x 轴，斜率不存在。",
+    "verify": "\"不存在\""
+  },
+  {
+    "id": "cnm_h167_q4",
+    "topicId": "cnm_h167",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线过 (−1，3) 和 (3，3)。斜率是多少？",
+    "answer": "0",
+    "explanation": "纵坐标没有变化，斜率是 0。",
+    "verify": "Fraction(3-3, 3-(-1))"
+  },
+  {
+    "id": "cnm_h168_q1",
+    "topicId": "cnm_h168",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "两条不重合的直线斜率都是 3。它们的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "垂直"
+      },
+      {
+        "key": "B",
+        "text": "平行"
+      },
+      {
+        "key": "C",
+        "text": "一定重合"
+      },
+      {
+        "key": "D",
+        "text": "相交成 60 度"
+      }
+    ],
+    "answer": "B",
+    "explanation": "斜率相等且都存在，两条直线平行。题目已说明两条直线不重合。",
+    "verify": "\"平行\""
+  },
+  {
+    "id": "cnm_h168_q2",
+    "topicId": "cnm_h168",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "一条直线斜率为 2，另一条与它垂直且斜率存在。另一条斜率是多少？",
+    "answer": "-1/2",
+    "explanation": "两条斜率之积为 −1，所以另一条斜率是 −1/2。",
+    "verify": "Fraction(-1,2)"
+  },
+  {
+    "id": "cnm_h168_q3",
+    "topicId": "cnm_h168",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一条直线斜率不存在，另一条斜率为 0。它们的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平行"
+      },
+      {
+        "key": "B",
+        "text": "重合"
+      },
+      {
+        "key": "C",
+        "text": "无法判断"
+      },
+      {
+        "key": "D",
+        "text": "垂直"
+      }
+    ],
+    "answer": "D",
+    "explanation": "斜率不存在的直线垂直于 x 轴，斜率为 0 的直线平行于 x 轴，两者垂直。",
+    "verify": "\"垂直\""
+  },
+  {
+    "id": "cnm_h168_q4",
+    "topicId": "cnm_h168",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "l1 的斜率是 −3，l2 与 l1 平行。l2 的斜率是多少？",
+    "answer": "-3",
+    "explanation": "平行且斜率存在时，斜率相等，仍是 −3。",
+    "verify": "-3"
+  },
+  {
+    "id": "cnm_h169_q1",
+    "topicId": "cnm_h169",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线过 (1，2)，斜率是 3。它在 y 轴上的截距是多少？",
+    "answer": "-1",
+    "explanation": "y−2=3(x−1)。x=0 时 y=2−3=−1。",
+    "verify": "2+3*(0-1)"
+  },
+  {
+    "id": "cnm_h169_q2",
+    "topicId": "cnm_h169",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 y−4=2(x−1)。斜率是多少？",
+    "answer": "2",
+    "explanation": "点斜式里 x 的系数就是斜率 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h169_q3",
+    "topicId": "cnm_h169",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线过 (0，−1)，斜率是 −2。当 x=3 时，y 是多少？",
+    "answer": "-7",
+    "explanation": "y+1=−2(x−0)，x=3 时 y=−1−6=−7。",
+    "verify": "-1+(-2)*(3-0)"
+  },
+  {
+    "id": "cnm_h169_q4",
+    "topicId": "cnm_h169",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "点斜式不能直接表示哪一种直线？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "斜率为 0 的直线"
+      },
+      {
+        "key": "B",
+        "text": "垂直于 x 轴、斜率不存在的直线"
+      },
+      {
+        "key": "C",
+        "text": "过原点且斜率为 1 的直线"
+      },
+      {
+        "key": "D",
+        "text": "斜率为 −1 的直线"
+      }
+    ],
+    "answer": "B",
+    "explanation": "点斜式先要有斜率。垂直于 x 轴的直线没有斜率，要用 x=x0。",
+    "verify": "\"垂直于 x 轴、斜率不存在的直线\""
+  },
+  {
+    "id": "cnm_h170_q1",
+    "topicId": "cnm_h170",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 x/2+y/3=1 的纵截距是多少？",
+    "answer": "3",
+    "explanation": "y 下面的分母就是纵截距 3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h170_q2",
+    "topicId": "cnm_h170",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 x/4+y/5=1 的横截距是多少？",
+    "answer": "4",
+    "explanation": "x 下面的分母就是横截距 4。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h170_q3",
+    "topicId": "cnm_h170",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "过原点的直线能不能写成截距式 x/a+y/b=1？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "能，只要斜率为 1"
+      },
+      {
+        "key": "B",
+        "text": "不能，两个截距里至少有一个是 0"
+      },
+      {
+        "key": "C",
+        "text": "能，a 和 b 都写成 0"
+      },
+      {
+        "key": "D",
+        "text": "不能，因为原点没有坐标"
+      }
+    ],
+    "answer": "B",
+    "explanation": "截距式要求两个截距都不为 0。过原点时至少有一个截距是 0。",
+    "verify": "\"不能，两个截距里至少有一个是 0\""
+  },
+  {
+    "id": "cnm_h170_q4",
+    "topicId": "cnm_h170",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线横截距是 6，纵截距是 2。横截距与纵截距的和是多少？",
+    "answer": "8",
+    "explanation": "截距式是 x/6+y/2=1，两个截距之和是 8。",
+    "verify": "6+2"
+  },
+  {
+    "id": "cnm_h171_q1",
+    "topicId": "cnm_h171",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 2x−y+4=0 的斜率是多少？",
+    "answer": "2",
+    "explanation": "写成 y=2x+4，斜率是 2。也可以用 −A/B=−2/(−1)=2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h171_q2",
+    "topicId": "cnm_h171",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 x+2y−6=0 的斜率是多少？",
+    "answer": "-1/2",
+    "explanation": "y=−x/2+3，斜率是 −1/2。",
+    "verify": "Fraction(-1,2)"
+  },
+  {
+    "id": "cnm_h171_q3",
+    "topicId": "cnm_h171",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线 3x+4y−12=0 与 y 轴交点的纵坐标是多少？",
+    "answer": "3",
+    "explanation": "x=0 时 4y=12，y=3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h171_q4",
+    "topicId": "cnm_h171",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方程 Ax+By+C=0 表示直线时，A 和 B 必须满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "必须都等于 1"
+      },
+      {
+        "key": "B",
+        "text": "必须 A=B"
+      },
+      {
+        "key": "C",
+        "text": "必须 C=0"
+      },
+      {
+        "key": "D",
+        "text": "不能同时为 0"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A、B 同时为 0 时不再是关于 x、y 的一次方程，不能表示直线。",
+    "verify": "\"不能同时为 0\""
+  },
+  {
+    "id": "cnm_h172_q1",
+    "topicId": "cnm_h172",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 x+y=5 与 x−y=1 的交点横坐标是多少？",
+    "answer": "3",
+    "explanation": "两式相加得 2x=6，x=3。纵坐标是 2。",
+    "verify": "solve2(1,1,5,1,-1,1)[0]"
+  },
+  {
+    "id": "cnm_h172_q2",
+    "topicId": "cnm_h172",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "直线 x+y=5 与 x−y=1 的交点纵坐标是多少？",
+    "answer": "2",
+    "explanation": "两式相减得 2y=4，y=2。",
+    "verify": "solve2(1,1,5,1,-1,1)[1]"
+  },
+  {
+    "id": "cnm_h172_q3",
+    "topicId": "cnm_h172",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线 y=2x 与 y=x+3 的交点横坐标是多少？",
+    "answer": "3",
+    "explanation": "2x=x+3，所以 x=3，y=6。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h172_q4",
+    "topicId": "cnm_h172",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两条斜率都存在且相等的不重合直线，交点有几个？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0 个"
+      },
+      {
+        "key": "B",
+        "text": "恰好 1 个"
+      },
+      {
+        "key": "C",
+        "text": "恰好 2 个"
+      },
+      {
+        "key": "D",
+        "text": "无穷多个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "斜率相等且不是同一条直线，两条直线平行，没有交点。",
+    "verify": "\"0 个\""
+  },
+  {
+    "id": "cnm_h173_q1",
+    "topicId": "cnm_h173",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(1，2) 与 (4，6) 的距离是多少？",
+    "answer": "5",
+    "explanation": "横差 3，纵差 4，距离 √(9+16)=5。",
+    "verify": "isqrt((4-1)**2+(6-2)**2)"
+  },
+  {
+    "id": "cnm_h173_q2",
+    "topicId": "cnm_h173",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(0，0) 与 (5，12) 的距离是多少？",
+    "answer": "13",
+    "explanation": "√(25+144)=√169=13。",
+    "verify": "isqrt(25+144)"
+  },
+  {
+    "id": "cnm_h173_q3",
+    "topicId": "cnm_h173",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "(−1，2) 与 (2，2) 的距离是多少？",
+    "answer": "3",
+    "explanation": "纵坐标相同，距离就是横坐标之差的绝对值 3。",
+    "verify": "isqrt((2-(-1))**2+(2-2)**2)"
+  },
+  {
+    "id": "cnm_h173_q4",
+    "topicId": "cnm_h173",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两点距离公式直接依靠的是哪一条定理？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "正弦定理"
+      },
+      {
+        "key": "B",
+        "text": "勾股定理"
+      },
+      {
+        "key": "C",
+        "text": "切割线定理"
+      },
+      {
+        "key": "D",
+        "text": "中位线定理"
+      }
+    ],
+    "answer": "B",
+    "explanation": "横差和纵差是直角边，距离是斜边。",
+    "verify": "\"勾股定理\""
+  },
+  {
+    "id": "cnm_h174_q1",
+    "topicId": "cnm_h174",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "原点到直线 3x+4y−10=0 的距离是多少？",
+    "answer": "2",
+    "explanation": "分子是 10，分母是 5，距离是 2。",
+    "verify": "Fraction(abs(3*0+4*0-10), isqrt(9+16))"
+  },
+  {
+    "id": "cnm_h174_q2",
+    "topicId": "cnm_h174",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "点 (1，1) 到直线 x+y−2=0 的距离是多少？",
+    "answer": "0",
+    "explanation": "分子是 0，点在直线上，距离是 0。",
+    "verify": "Fraction(abs(1+1-2), isqrt(1+1))"
+  },
+  {
+    "id": "cnm_h174_q3",
+    "topicId": "cnm_h174",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "点 (1，2) 到直线 x−y+1=0 的距离的分子绝对值是多少？",
+    "answer": "0",
+    "explanation": "代入得 |1−2+1|=0。分母是 √2，距离本身是 0。",
+    "verify": "abs(1-2+1)"
+  },
+  {
+    "id": "cnm_h174_q4",
+    "topicId": "cnm_h174",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "点在直线上时，点到直线的距离是多少？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等于 1"
+      },
+      {
+        "key": "B",
+        "text": "等于直线的斜率"
+      },
+      {
+        "key": "C",
+        "text": "0"
+      },
+      {
+        "key": "D",
+        "text": "不能用公式"
+      }
+    ],
+    "answer": "C",
+    "explanation": "点的坐标满足直线方程，分子是 0，距离是 0。",
+    "verify": "\"0\""
+  },
+  {
+    "id": "cnm_h175_q1",
+    "topicId": "cnm_h175",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "平行直线 3x+4y−1=0 与 3x+4y−11=0 的距离是多少？",
+    "answer": "2",
+    "explanation": "分子 |−1+11|=10，分母 5，距离是 2。",
+    "verify": "Fraction(abs(-1-(-11)), isqrt(9+16))"
+  },
+  {
+    "id": "cnm_h175_q2",
+    "topicId": "cnm_h175",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "平行直线 x−y+1=0 与 x−y−3=0 的距离，分子 |C1−C2| 是多少？",
+    "answer": "4",
+    "explanation": "常数项分别是 1 和 −3，差的绝对值是 4。",
+    "verify": "abs(1-(-3))"
+  },
+  {
+    "id": "cnm_h175_q3",
+    "topicId": "cnm_h175",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两条直线不平行时，还能谈它们之间的距离吗？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "能，仍用平行线公式"
+      },
+      {
+        "key": "B",
+        "text": "能，距离一定是 0"
+      },
+      {
+        "key": "C",
+        "text": "不能，相交直线没有统一距离"
+      },
+      {
+        "key": "D",
+        "text": "能，距离一定是 1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "只有平行直线上的点到另一条直线的距离才处处相等。",
+    "verify": "\"不能，相交直线没有统一距离\""
+  },
+  {
+    "id": "cnm_h175_q4",
+    "topicId": "cnm_h175",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "平行直线 5x+12y+1=0 与 5x+12y−25=0 的距离是多少？",
+    "answer": "2",
+    "explanation": "分子 26，分母 13，距离是 2。",
+    "verify": "Fraction(abs(1-(-25)), isqrt(25+144))"
+  },
+  {
+    "id": "cnm_h176_q1",
+    "topicId": "cnm_h176",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 (x−2)²+(y+1)²=25 的半径是多少？",
+    "answer": "5",
+    "explanation": "右边是半径的平方 25，半径是 5。",
+    "verify": "isqrt(25)"
+  },
+  {
+    "id": "cnm_h176_q2",
+    "topicId": "cnm_h176",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 (x−2)²+(y+1)²=25 的圆心横坐标是多少？",
+    "answer": "2",
+    "explanation": "标准式 (x−a)² 中 a 是圆心横坐标，这里是 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h176_q3",
+    "topicId": "cnm_h176",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "圆心 (0，0)、半径 6 的圆，方程右边的数是多少？",
+    "answer": "36",
+    "explanation": "方程是 x²+y²=36，右边是半径的平方 36。",
+    "verify": "6*6"
+  },
+  {
+    "id": "cnm_h176_q4",
+    "topicId": "cnm_h176",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "点 (5，0) 在圆 x²+y²=25 上吗？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "在圆上"
+      },
+      {
+        "key": "B",
+        "text": "在圆内"
+      },
+      {
+        "key": "C",
+        "text": "在圆外"
+      },
+      {
+        "key": "D",
+        "text": "是圆心"
+      }
+    ],
+    "answer": "A",
+    "explanation": "5²+0²=25，满足方程，点在圆上。",
+    "verify": "\"在圆上\""
+  },
+  {
+    "id": "cnm_h177_q1",
+    "topicId": "cnm_h177",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 x²+y²−4x+2y−4=0 的半径是多少？",
+    "answer": "3",
+    "explanation": "配方得 (x−2)²+(y+1)²=9，半径是 3。",
+    "verify": "isqrt((4//2)**2+(2//2)**2-(-4))"
+  },
+  {
+    "id": "cnm_h177_q2",
+    "topicId": "cnm_h177",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 x²+y²−4x+2y−4=0 的圆心横坐标是多少？",
+    "answer": "2",
+    "explanation": "D=−4，圆心横坐标是 −D/2=2。",
+    "verify": "4//2"
+  },
+  {
+    "id": "cnm_h177_q3",
+    "topicId": "cnm_h177",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "方程 x²+y²+2x+2y+2=0 中，D²+E²−4F 等于多少？",
+    "answer": "0",
+    "explanation": "D=2，E=2，F=2，得 4+4−8=0，它表示一个点，不是普通的圆。",
+    "verify": "4+4-4*2"
+  },
+  {
+    "id": "cnm_h177_q4",
+    "topicId": "cnm_h177",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "x²+y²+Dx+Ey+F=0 表示半径为正的圆，需要什么条件？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "D²+E²−4F<0"
+      },
+      {
+        "key": "B",
+        "text": "D²+E²−4F>0"
+      },
+      {
+        "key": "C",
+        "text": "F 必须等于 0"
+      },
+      {
+        "key": "D",
+        "text": "D 和 E 必须为 0"
+      }
+    ],
+    "answer": "B",
+    "explanation": "配方后右边必须为正，半径才是正数。等于 0 时是一个点，小于 0 时没有轨迹。",
+    "verify": "\"D²+E²−4F>0\""
+  },
+  {
+    "id": "cnm_h178_q1",
+    "topicId": "cnm_h178",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆心在原点，圆经过 (3，4)。半径是多少？",
+    "answer": "5",
+    "explanation": "原点到 (3，4) 的距离是 5，半径就是 5。",
+    "verify": "isqrt(9+16)"
+  },
+  {
+    "id": "cnm_h178_q2",
+    "topicId": "cnm_h178",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 (x−1)²+(y−2)²=r² 经过 (1，5)。r² 等于多少？",
+    "answer": "9",
+    "explanation": "把点代入，r²=0+9=9。",
+    "verify": "(1-1)**2+(5-2)**2"
+  },
+  {
+    "id": "cnm_h178_q3",
+    "topicId": "cnm_h178",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "圆心 (2，0)，半径 5。圆与 x 轴正半轴交点的横坐标是多少？",
+    "answer": "7",
+    "explanation": "圆心在 x 轴上，右侧交点横坐标是 2+5=7。",
+    "verify": "2+5"
+  },
+  {
+    "id": "cnm_h178_q4",
+    "topicId": "cnm_h178",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "确定一个圆，下面哪一组条件是够用的？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只知道圆心"
+      },
+      {
+        "key": "B",
+        "text": "只知道半径"
+      },
+      {
+        "key": "C",
+        "text": "圆心和半径"
+      },
+      {
+        "key": "D",
+        "text": "只知道圆上一个点"
+      }
+    ],
+    "answer": "C",
+    "explanation": "圆心定位置，半径定大小，两者一起才能确定圆。",
+    "verify": "\"圆心和半径\""
+  },
+  {
+    "id": "cnm_h179_q1",
+    "topicId": "cnm_h179",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 x²+y²=25，直线 x=3。圆心到直线的距离是多少？",
+    "answer": "3",
+    "explanation": "圆心是原点，到直线 x=3 的距离是 3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h179_q2",
+    "topicId": "cnm_h179",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "圆 x²+y²=25，直线 x=3。直线与圆的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "相切"
+      },
+      {
+        "key": "B",
+        "text": "相交"
+      },
+      {
+        "key": "C",
+        "text": "相离"
+      },
+      {
+        "key": "D",
+        "text": "直线经过圆心"
+      }
+    ],
+    "answer": "B",
+    "explanation": "d=3，r=5，d<r，直线与圆有两个公共点。",
+    "verify": "\"相交\""
+  },
+  {
+    "id": "cnm_h179_q3",
+    "topicId": "cnm_h179",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "圆 x²+y²=25，直线 x=5。圆心到直线的距离是多少？",
+    "answer": "5",
+    "explanation": "距离等于半径 5，直线与圆相切。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h179_q4",
+    "topicId": "cnm_h179",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "圆心到直线的距离大于半径时，直线与圆怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "相交于两点"
+      },
+      {
+        "key": "B",
+        "text": "相切"
+      },
+      {
+        "key": "C",
+        "text": "直线经过圆心"
+      },
+      {
+        "key": "D",
+        "text": "相离"
+      }
+    ],
+    "answer": "D",
+    "explanation": "d>r 时没有公共点，叫做相离。",
+    "verify": "\"相离\""
+  },
+  {
+    "id": "cnm_h180_q1",
+    "topicId": "cnm_h180",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆 x²+y²=25，直线 x=3。弦长是多少？",
+    "answer": "8",
+    "explanation": "弦心距 3，半弦长 √(25−9)=4，弦长是 8。",
+    "verify": "2*isqrt(25-9)"
+  },
+  {
+    "id": "cnm_h180_q2",
+    "topicId": "cnm_h180",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "半径 5，弦心距 4。半弦长是多少？",
+    "answer": "3",
+    "explanation": "√(25−16)=3。",
+    "verify": "isqrt(25-16)"
+  },
+  {
+    "id": "cnm_h180_q3",
+    "topicId": "cnm_h180",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "半径 13，弦心距 5。弦长是多少？",
+    "answer": "24",
+    "explanation": "半弦长 √(169−25)=√144=12，弦长是 24。",
+    "verify": "2*isqrt(169-25)"
+  },
+  {
+    "id": "cnm_h180_q4",
+    "topicId": "cnm_h180",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "直线与圆相切时，弦长是多少？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "0"
+      },
+      {
+        "key": "B",
+        "text": "等于半径"
+      },
+      {
+        "key": "C",
+        "text": "等于直径"
+      },
+      {
+        "key": "D",
+        "text": "等于弦心距"
+      }
+    ],
+    "answer": "A",
+    "explanation": "相切只有一个公共点，弦长是 0。",
+    "verify": "\"0\""
+  },
+  {
+    "id": "cnm_h181_q1",
+    "topicId": "cnm_h181",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两圆圆心距是 5，半径是 3 和 4。公共点有几个？",
+    "answer": "2",
+    "explanation": "|3−4|<5<3+4，两圆相交，有 2 个公共点。",
+    "verify": "2 if abs(3-4)<5<3+4 else (1 if 5==abs(3-4) or 5==3+4 else 0)"
+  },
+  {
+    "id": "cnm_h181_q2",
+    "topicId": "cnm_h181",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两圆半径都是 3，圆心距是 6。公共点有几个？",
+    "answer": "1",
+    "explanation": "圆心距等于半径之和，两圆外切，有 1 个公共点。",
+    "verify": "2 if abs(3-3)<6<3+3 else (1 if 6==abs(3-3) or 6==3+3 else 0)"
+  },
+  {
+    "id": "cnm_h181_q3",
+    "topicId": "cnm_h181",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "圆心距大于两个半径之和时，两圆的位置关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "外离"
+      },
+      {
+        "key": "B",
+        "text": "外切"
+      },
+      {
+        "key": "C",
+        "text": "相交"
+      },
+      {
+        "key": "D",
+        "text": "内含"
+      }
+    ],
+    "answer": "A",
+    "explanation": "圆心离得比两半径之和还远，两圆没有公共点，并且各自在对方外部。",
+    "verify": "\"外离\""
+  },
+  {
+    "id": "cnm_h181_q4",
+    "topicId": "cnm_h181",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "两圆半径 5 和 3，圆心距 2。|r1−r2| 等于多少？",
+    "answer": "2",
+    "explanation": "半径差的绝对值是 2，等于圆心距，两圆内切。",
+    "verify": "abs(5-3)"
+  },
+  {
+    "id": "cnm_h182_q1",
+    "topicId": "cnm_h182",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "圆形喷灌区圆心在原点，半径 10。笔直管道沿直线 x=6。圆心到管道的距离是多少？",
+    "answer": "6",
+    "explanation": "管道是直线 x=6，原点到它的距离是 6，小于半径，管道穿过喷灌区。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h182_q2",
+    "topicId": "cnm_h182",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "半径 10、弦心距 6 时，管道在圆内的那一段长度是多少？",
+    "answer": "16",
+    "explanation": "半弦长 √(100−36)=8，弦长是 16。",
+    "verify": "2*isqrt(100-36)"
+  },
+  {
+    "id": "cnm_h182_q3",
+    "topicId": "cnm_h182",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "圆形禁区半径 5，直线道路到圆心的距离是 5。道路与禁区边界怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "穿过禁区内部"
+      },
+      {
+        "key": "B",
+        "text": "相切"
+      },
+      {
+        "key": "C",
+        "text": "与禁区相离"
+      },
+      {
+        "key": "D",
+        "text": "经过圆心"
+      }
+    ],
+    "answer": "B",
+    "explanation": "距离等于半径，道路与圆相切，只有一个公共点。",
+    "verify": "\"相切\""
+  },
+  {
+    "id": "cnm_h182_q4",
+    "topicId": "cnm_h182",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "半径 5 的圆，一条弦的弦心距是 3。弦长比直径少多少？",
+    "answer": "2",
+    "explanation": "直径 10，弦长 8，差是 2。",
+    "verify": "10-2*isqrt(25-9)"
+  },
+  {
+    "id": "cnm_h183_q1",
+    "topicId": "cnm_h183",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "椭圆定义里，动点到两个焦点的距离有什么关系？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "和等于一个大于焦距的常数"
+      },
+      {
+        "key": "B",
+        "text": "差等于常数"
+      },
+      {
+        "key": "C",
+        "text": "积等于常数"
+      },
+      {
+        "key": "D",
+        "text": "和等于焦距"
+      }
+    ],
+    "answer": "A",
+    "explanation": "和为常数，并且常数要大于两焦点之间的距离，轨迹才是椭圆。",
+    "verify": "\"和等于一个大于焦距的常数\""
+  },
+  {
+    "id": "cnm_h183_q2",
+    "topicId": "cnm_h183",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆上任意一点到两个焦点的距离之和是 10。这个和等于 2a 时，a 是多少？",
+    "answer": "5",
+    "explanation": "2a=10，a=5。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h183_q3",
+    "topicId": "cnm_h183",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "若距离之和等于两焦点间的距离，轨迹是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "椭圆"
+      },
+      {
+        "key": "B",
+        "text": "双曲线"
+      },
+      {
+        "key": "C",
+        "text": "两焦点之间的线段"
+      },
+      {
+        "key": "D",
+        "text": "整个平面"
+      }
+    ],
+    "answer": "C",
+    "explanation": "和等于焦距时，点只能落在两焦点的连线段上，不能形成椭圆。",
+    "verify": "\"两焦点之间的线段\""
+  },
+  {
+    "id": "cnm_h183_q4",
+    "topicId": "cnm_h183",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "焦点在 x 轴上，a=5。椭圆上的点到两焦点的距离之和是多少？",
+    "answer": "10",
+    "explanation": "由定义，距离之和是 2a=10。",
+    "verify": "2*5"
+  },
+  {
+    "id": "cnm_h184_q1",
+    "topicId": "cnm_h184",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/25+y²/16=1 中，a 等于多少？",
+    "answer": "5",
+    "explanation": "x² 下面是 a²=25，a=5。",
+    "verify": "isqrt(25)"
+  },
+  {
+    "id": "cnm_h184_q2",
+    "topicId": "cnm_h184",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/25+y²/16=1 中，b 等于多少？",
+    "answer": "4",
+    "explanation": "y² 下面是 b²=16，b=4。",
+    "verify": "isqrt(16)"
+  },
+  {
+    "id": "cnm_h184_q3",
+    "topicId": "cnm_h184",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=3，b=2，焦点在 x 轴上。标准方程中 a² 是多少？",
+    "answer": "9",
+    "explanation": "方程是 x²/9+y²/4=1，a²=9。",
+    "verify": "3*3"
+  },
+  {
+    "id": "cnm_h184_q4",
+    "topicId": "cnm_h184",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方程 x²/9+y²/4=1 表示的曲线是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "焦点在 x 轴上的椭圆"
+      },
+      {
+        "key": "B",
+        "text": "焦点在 y 轴上的椭圆"
+      },
+      {
+        "key": "C",
+        "text": "双曲线"
+      },
+      {
+        "key": "D",
+        "text": "抛物线"
+      }
+    ],
+    "answer": "A",
+    "explanation": "两项都是正的且等于 1，x² 的分母更大，焦点在 x 轴上。",
+    "verify": "\"焦点在 x 轴上的椭圆\""
+  },
+  {
+    "id": "cnm_h185_q1",
+    "topicId": "cnm_h185",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 a=5，b=4。c 等于多少？",
+    "answer": "3",
+    "explanation": "c²=a²−b²=25−16=9，c=3。",
+    "verify": "isqrt(25-16)"
+  },
+  {
+    "id": "cnm_h185_q2",
+    "topicId": "cnm_h185",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 a=5，c=3。离心率是多少？",
+    "answer": "3/5",
+    "explanation": "离心率 e=c/a=3/5。",
+    "verify": "Fraction(3,5)"
+  },
+  {
+    "id": "cnm_h185_q3",
+    "topicId": "cnm_h185",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "椭圆 a=13，b=5。焦距 2c 是多少？",
+    "answer": "24",
+    "explanation": "c²=169−25=144，c=12，焦距是 24。",
+    "verify": "2*isqrt(169-25)"
+  },
+  {
+    "id": "cnm_h185_q4",
+    "topicId": "cnm_h185",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "椭圆离心率的范围是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "大于 1"
+      },
+      {
+        "key": "B",
+        "text": "大于 0 且小于 1"
+      },
+      {
+        "key": "C",
+        "text": "等于 1"
+      },
+      {
+        "key": "D",
+        "text": "小于 0"
+      }
+    ],
+    "answer": "B",
+    "explanation": "0<c<a，所以 0<e<1。e 越接近 1，椭圆越扁。",
+    "verify": "\"大于 0 且小于 1\""
+  },
+  {
+    "id": "cnm_h186_q1",
+    "topicId": "cnm_h186",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/25+y²/9=1 的长轴长是多少？",
+    "answer": "10",
+    "explanation": "a=5，长轴长 2a=10。",
+    "verify": "2*5"
+  },
+  {
+    "id": "cnm_h186_q2",
+    "topicId": "cnm_h186",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/25+y²/9=1 的短轴长是多少？",
+    "answer": "6",
+    "explanation": "b=3，短轴长 2b=6。",
+    "verify": "2*3"
+  },
+  {
+    "id": "cnm_h186_q3",
+    "topicId": "cnm_h186",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "椭圆 x²/25+y²/9=1 上点的横坐标最大是多少？",
+    "answer": "5",
+    "explanation": "x 的范围是 −5 到 5，最大横坐标是 5。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h186_q4",
+    "topicId": "cnm_h186",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "焦点在 x 轴上的椭圆，长轴在哪一条直线上？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "y 轴"
+      },
+      {
+        "key": "B",
+        "text": "直线 y=x"
+      },
+      {
+        "key": "C",
+        "text": "x 轴"
+      },
+      {
+        "key": "D",
+        "text": "任意直线"
+      }
+    ],
+    "answer": "C",
+    "explanation": "焦点所在的轴是长轴，这里长轴在 x 轴上。",
+    "verify": "\"x 轴\""
+  },
+  {
+    "id": "cnm_h187_q1",
+    "topicId": "cnm_h187",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆形跑道可看成椭圆，长半轴 5，短半轴 4。轨道上一点到两个焦点的距离之和是多少？",
+    "answer": "10",
+    "explanation": "定义给出距离之和等于 2a=10。",
+    "verify": "2*5"
+  },
+  {
+    "id": "cnm_h187_q2",
+    "topicId": "cnm_h187",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "长半轴 5、短半轴 4 的椭圆，焦点到中心的距离是多少？",
+    "answer": "3",
+    "explanation": "c=√(25−16)=3。",
+    "verify": "isqrt(25-16)"
+  },
+  {
+    "id": "cnm_h187_q3",
+    "topicId": "cnm_h187",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "椭圆镜片 a=10，b=8。离心率的分子 c 是多少？",
+    "answer": "6",
+    "explanation": "c=√(100−64)=√36=6。",
+    "verify": "isqrt(100-64)"
+  },
+  {
+    "id": "cnm_h187_q4",
+    "topicId": "cnm_h187",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "用椭圆描述行星轨道时，太阳通常放在哪里？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "长轴的端点上"
+      },
+      {
+        "key": "B",
+        "text": "短轴的端点上"
+      },
+      {
+        "key": "C",
+        "text": "椭圆外部"
+      },
+      {
+        "key": "D",
+        "text": "一个焦点上"
+      }
+    ],
+    "answer": "D",
+    "explanation": "这是椭圆定义的一个常见应用：到两焦点距离之和为定值，太阳在其中一个焦点。",
+    "verify": "\"一个焦点上\""
+  },
+  {
+    "id": "cnm_h188_q1",
+    "topicId": "cnm_h188",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "双曲线定义比较的是动点到两焦点距离的什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "和"
+      },
+      {
+        "key": "B",
+        "text": "差的绝对值"
+      },
+      {
+        "key": "C",
+        "text": "积"
+      },
+      {
+        "key": "D",
+        "text": "商"
+      }
+    ],
+    "answer": "B",
+    "explanation": "双曲线是距离之差的绝对值为常数，椭圆才是距离之和为常数。",
+    "verify": "\"差的绝对值\""
+  },
+  {
+    "id": "cnm_h188_q2",
+    "topicId": "cnm_h188",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线上的点到两焦点距离之差的绝对值是 6。2a=6 时，a 是多少？",
+    "answer": "3",
+    "explanation": "这个常数是 2a，所以 a=3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h188_q3",
+    "topicId": "cnm_h188",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "若距离之差的绝对值等于两焦点间的距离，轨迹是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "双曲线"
+      },
+      {
+        "key": "B",
+        "text": "椭圆"
+      },
+      {
+        "key": "C",
+        "text": "一个圆"
+      },
+      {
+        "key": "D",
+        "text": "两条射线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "差的绝对值等于焦距时，点落在两焦点连线的延长线上，是两条射线。",
+    "verify": "\"两条射线\""
+  },
+  {
+    "id": "cnm_h188_q4",
+    "topicId": "cnm_h188",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=4 的双曲线，定义中的常数是多少？",
+    "answer": "8",
+    "explanation": "常数是 2a=8。",
+    "verify": "2*4"
+  },
+  {
+    "id": "cnm_h189_q1",
+    "topicId": "cnm_h189",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线 x²/9−y²/16=1 中，a 等于多少？",
+    "answer": "3",
+    "explanation": "x² 下面是 a²=9，a=3。",
+    "verify": "isqrt(9)"
+  },
+  {
+    "id": "cnm_h189_q2",
+    "topicId": "cnm_h189",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线 x²/9−y²/16=1 中，b² 等于多少？",
+    "answer": "16",
+    "explanation": "y² 项的分母是 b²=16。",
+    "verify": "16"
+  },
+  {
+    "id": "cnm_h189_q3",
+    "topicId": "cnm_h189",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方程 x²/4−y²/9=1 表示什么曲线？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "焦点在 x 轴上的双曲线"
+      },
+      {
+        "key": "B",
+        "text": "椭圆"
+      },
+      {
+        "key": "C",
+        "text": "焦点在 y 轴上的双曲线"
+      },
+      {
+        "key": "D",
+        "text": "抛物线"
+      }
+    ],
+    "answer": "A",
+    "explanation": "两项相减并且等于 1，x² 在前面，焦点在 x 轴上。",
+    "verify": "\"焦点在 x 轴上的双曲线\""
+  },
+  {
+    "id": "cnm_h189_q4",
+    "topicId": "cnm_h189",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a=5，b=12。标准方程里 a² 是多少？",
+    "answer": "25",
+    "explanation": "方程是 x²/25−y²/144=1。",
+    "verify": "25"
+  },
+  {
+    "id": "cnm_h190_q1",
+    "topicId": "cnm_h190",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线 a=3，b=4。c 等于多少？",
+    "answer": "5",
+    "explanation": "双曲线里 c²=a²+b²=9+16=25，c=5。",
+    "verify": "isqrt(9+16)"
+  },
+  {
+    "id": "cnm_h190_q2",
+    "topicId": "cnm_h190",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线 a=3，b=4。实轴长是多少？",
+    "answer": "6",
+    "explanation": "实轴长是 2a=6。",
+    "verify": "2*3"
+  },
+  {
+    "id": "cnm_h190_q3",
+    "topicId": "cnm_h190",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "双曲线 a=5，c=13。b² 等于多少？",
+    "answer": "144",
+    "explanation": "b²=c²−a²=169−25=144。",
+    "verify": "13*13-5*5"
+  },
+  {
+    "id": "cnm_h190_q4",
+    "topicId": "cnm_h190",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "双曲线的离心率 c/a 与 1 的大小关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "大于 0 且小于 1"
+      },
+      {
+        "key": "B",
+        "text": "等于 1"
+      },
+      {
+        "key": "C",
+        "text": "大于 1"
+      },
+      {
+        "key": "D",
+        "text": "小于 0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "c²=a²+b²>a²，所以 c>a，离心率大于 1。",
+    "verify": "\"大于 1\""
+  },
+  {
+    "id": "cnm_h191_q1",
+    "topicId": "cnm_h191",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "双曲线 x²/9−y²/16=1 的一条渐近线斜率的绝对值是多少？",
+    "answer": "4/3",
+    "explanation": "b=4，a=3，斜率的绝对值是 b/a=4/3。",
+    "verify": "Fraction(4,3)"
+  },
+  {
+    "id": "cnm_h191_q2",
+    "topicId": "cnm_h191",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a=5，b=5 的双曲线，渐近线斜率的绝对值是多少？",
+    "answer": "1",
+    "explanation": "b/a=1，渐近线是 y=x 和 y=−x。",
+    "verify": "Fraction(5,5)"
+  },
+  {
+    "id": "cnm_h191_q3",
+    "topicId": "cnm_h191",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "双曲线 x²/a²−y²/b²=1 有几条渐近线？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1 条"
+      },
+      {
+        "key": "B",
+        "text": "4 条"
+      },
+      {
+        "key": "C",
+        "text": "2 条"
+      },
+      {
+        "key": "D",
+        "text": "没有渐近线"
+      }
+    ],
+    "answer": "C",
+    "explanation": "两条直线 y=±(b/a)x。",
+    "verify": "\"2 条\""
+  },
+  {
+    "id": "cnm_h191_q4",
+    "topicId": "cnm_h191",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "渐近线为 y=±2x 的双曲线若 a=3，则 b 是多少？",
+    "answer": "6",
+    "explanation": "b/a=2，b=6。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h192_q1",
+    "topicId": "cnm_h192",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "抛物线定义比较的是哪两个距离？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "到两个焦点的距离之和"
+      },
+      {
+        "key": "B",
+        "text": "到焦点的距离和到准线的距离"
+      },
+      {
+        "key": "C",
+        "text": "到两个焦点的距离之差"
+      },
+      {
+        "key": "D",
+        "text": "到圆心的距离"
+      }
+    ],
+    "answer": "B",
+    "explanation": "抛物线没有两个焦点。它是到焦点和到准线距离相等的点的轨迹。",
+    "verify": "\"到焦点的距离和到准线的距离\""
+  },
+  {
+    "id": "cnm_h192_q2",
+    "topicId": "cnm_h192",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "抛物线上一点到焦点的距离是 6。它到准线的距离是多少？",
+    "answer": "6",
+    "explanation": "定义要求这两个距离相等，所以也是 6。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h192_q3",
+    "topicId": "cnm_h192",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "抛物线的准线是什么图形？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一个点"
+      },
+      {
+        "key": "B",
+        "text": "一个圆"
+      },
+      {
+        "key": "C",
+        "text": "一条抛物线"
+      },
+      {
+        "key": "D",
+        "text": "一条直线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "准线是定直线，焦点是定点。",
+    "verify": "\"一条直线\""
+  },
+  {
+    "id": "cnm_h192_q4",
+    "topicId": "cnm_h192",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "点到焦点的距离是 4，到准线的距离也是 4。这两个距离的差是多少？",
+    "answer": "0",
+    "explanation": "相等，差是 0，这个点可以落在抛物线上。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h193_q1",
+    "topicId": "cnm_h193",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "抛物线 y²=8x。焦点的横坐标是多少？",
+    "answer": "2",
+    "explanation": "2p=8，p=4，焦点是 (p/2，0)=(2，0)。",
+    "verify": "8//4"
+  },
+  {
+    "id": "cnm_h193_q2",
+    "topicId": "cnm_h193",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "抛物线 y²=4x。方程里的 2p 是多少？",
+    "answer": "4",
+    "explanation": "与 y²=2px 比较，2p=4。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h193_q3",
+    "topicId": "cnm_h193",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方程 y²=4x 的开口方向是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "向右"
+      },
+      {
+        "key": "B",
+        "text": "向左"
+      },
+      {
+        "key": "C",
+        "text": "向上"
+      },
+      {
+        "key": "D",
+        "text": "向下"
+      }
+    ],
+    "answer": "A",
+    "explanation": "y² 等于正数乘 x，焦点在 x 轴正半轴，开口向右。",
+    "verify": "\"向右\""
+  },
+  {
+    "id": "cnm_h193_q4",
+    "topicId": "cnm_h193",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "焦点为 (3，0)、顶点在原点且开口向右的抛物线，2p 等于多少？",
+    "answer": "12",
+    "explanation": "焦点横坐标是 p/2=3，所以 p=6，2p=12，方程是 y²=12x。",
+    "verify": "12"
+  },
+  {
+    "id": "cnm_h194_q1",
+    "topicId": "cnm_h194",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "抛物线 y²=8x 的准线方程中，x 等于多少？",
+    "answer": "-2",
+    "explanation": "p/2=2，准线是 x=−p/2，即 x=−2。",
+    "verify": "-2"
+  },
+  {
+    "id": "cnm_h194_q2",
+    "topicId": "cnm_h194",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "抛物线 y²=4x 上，x 的最小值是多少？",
+    "answer": "0",
+    "explanation": "开口向右，顶点在原点，x≥0，最小值是 0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h194_q3",
+    "topicId": "cnm_h194",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "抛物线 y²=2px（p>0）的对称轴是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "y 轴"
+      },
+      {
+        "key": "B",
+        "text": "x 轴"
+      },
+      {
+        "key": "C",
+        "text": "直线 y=x"
+      },
+      {
+        "key": "D",
+        "text": "准线"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方程只用 y²，关于 x 轴对称。",
+    "verify": "\"x 轴\""
+  },
+  {
+    "id": "cnm_h194_q4",
+    "topicId": "cnm_h194",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "y²=12x 的焦点到准线的距离是多少？",
+    "answer": "6",
+    "explanation": "p/2=3，焦点到准线的距离是 p=6。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h195_q1",
+    "topicId": "cnm_h195",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "天线截面是 y²=16x，单位为米。焦点到顶点的距离是多少？",
+    "answer": "4",
+    "explanation": "2p=16，p=8，焦点到顶点的距离是 p/2=4 米。",
+    "verify": "16//4"
+  },
+  {
+    "id": "cnm_h195_q2",
+    "topicId": "cnm_h195",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "截面 y²=16x 上一点到焦点的距离是 9 米。它到准线的距离是多少米？",
+    "answer": "9",
+    "explanation": "抛物线定义保证这两个距离相等。",
+    "verify": "9"
+  },
+  {
+    "id": "cnm_h195_q3",
+    "topicId": "cnm_h195",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "开口向右的抛物线焦点在 (2，0)。2p 等于多少？",
+    "answer": "8",
+    "explanation": "p/2=2，p=4，2p=8。",
+    "verify": "8"
+  },
+  {
+    "id": "cnm_h195_q4",
+    "topicId": "cnm_h195",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "平行于抛物面对称轴的光线反射后会汇到哪里？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "顶点"
+      },
+      {
+        "key": "B",
+        "text": "准线上的任意点"
+      },
+      {
+        "key": "C",
+        "text": "圆心"
+      },
+      {
+        "key": "D",
+        "text": "焦点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "这是抛物线的光学性质，也是探照灯和天线的简单模型。",
+    "verify": "\"焦点\""
+  },
+  {
+    "id": "cnm_h196_q1",
+    "topicId": "cnm_h196",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/4+y²/3=1 与直线 y=x 的交点有几个？",
+    "answer": "2",
+    "explanation": "代入后 (1/4+1/3)x²=1，即 7x²/12=1，有两个实根，所以有 2 个交点。",
+    "verify": "len(roots2(Fraction(7,12), 0, -1))"
+  },
+  {
+    "id": "cnm_h196_q2",
+    "topicId": "cnm_h196",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "椭圆 x²/4+y²/1=1 与直线 y=2 的交点有几个？",
+    "answer": "0",
+    "explanation": "椭圆上 |y|≤1，直线 y=2 在椭圆上方，没有交点。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h196_q3",
+    "topicId": "cnm_h196",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "椭圆 x²/4+y²/1=1 与直线 y=1 的交点有几个？",
+    "answer": "1",
+    "explanation": "y=1 时 x=0，只有一个交点 (0，1)，直线与椭圆相切。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h196_q4",
+    "topicId": "cnm_h196",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "直线代入椭圆后得到的二次方程有两个不相等实根，说明什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "有两个交点"
+      },
+      {
+        "key": "B",
+        "text": "没有交点"
+      },
+      {
+        "key": "C",
+        "text": "有一个交点"
+      },
+      {
+        "key": "D",
+        "text": "直线经过两个焦点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "每个实根对应一个交点的横坐标。两个不等实根就是两个交点。",
+    "verify": "\"有两个交点\""
+  },
+  {
+    "id": "cnm_h197_q1",
+    "topicId": "cnm_h197",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "下面哪一项最能说明数列和数集的差别？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "数列不能有重复的数"
+      },
+      {
+        "key": "B",
+        "text": "数列必须有无穷多项"
+      },
+      {
+        "key": "C",
+        "text": "数列讲究顺序，数集不讲究顺序"
+      },
+      {
+        "key": "D",
+        "text": "数列的每一项必须是正数"
+      }
+    ],
+    "answer": "C",
+    "explanation": "数列按顺序排列。同样的数换顺序，一般是不同的数列。",
+    "verify": "\"数列讲究顺序，数集不讲究顺序\""
+  },
+  {
+    "id": "cnm_h197_q2",
+    "topicId": "cnm_h197",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "数列 3，5，7，9 的第 3 项是多少？",
+    "answer": "7",
+    "explanation": "从第 1 项数起，第 3 项是 7。",
+    "verify": "7"
+  },
+  {
+    "id": "cnm_h197_q3",
+    "topicId": "cnm_h197",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "数列 2，4，6，8，10 一共有多少项？",
+    "answer": "5",
+    "explanation": "写出的五项都要数进去。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h197_q4",
+    "topicId": "cnm_h197",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "数列 1，1，1，1 是不是一个数列？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不是，因为有重复"
+      },
+      {
+        "key": "B",
+        "text": "是，各项相等也可以"
+      },
+      {
+        "key": "C",
+        "text": "不是，因为没有递增"
+      },
+      {
+        "key": "D",
+        "text": "不是，因为通项不存在"
+      }
+    ],
+    "answer": "B",
+    "explanation": "常数列也是数列，每一项都是 1。",
+    "verify": "\"是，各项相等也可以\""
+  },
+  {
+    "id": "cnm_h198_q1",
+    "topicId": "cnm_h198",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "通项公式 a_n=2n+1。第 4 项是多少？",
+    "answer": "9",
+    "explanation": "把 n=4 代入，得 8+1=9。",
+    "verify": "2*4+1"
+  },
+  {
+    "id": "cnm_h198_q2",
+    "topicId": "cnm_h198",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "数列的图象通常是什么样子？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一串孤立的点"
+      },
+      {
+        "key": "B",
+        "text": "一条连续直线"
+      },
+      {
+        "key": "C",
+        "text": "一条抛物线的全部"
+      },
+      {
+        "key": "D",
+        "text": "一个圆"
+      }
+    ],
+    "answer": "A",
+    "explanation": "序号是正整数，所以图象只在正整数处有点，不是连续曲线。",
+    "verify": "\"一串孤立的点\""
+  },
+  {
+    "id": "cnm_h198_q3",
+    "topicId": "cnm_h198",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "数列前四项是 1，3，5，7。第 1 项与第 4 项的和是多少？",
+    "answer": "8",
+    "explanation": "1+7=8。",
+    "verify": "1+7"
+  },
+  {
+    "id": "cnm_h198_q4",
+    "topicId": "cnm_h198",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "用通项公式表示数列时，n 通常取什么数？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "任意实数"
+      },
+      {
+        "key": "B",
+        "text": "任意负数"
+      },
+      {
+        "key": "C",
+        "text": "正整数"
+      },
+      {
+        "key": "D",
+        "text": "只取 0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "项的序号从 1 开始，是正整数。",
+    "verify": "\"正整数\""
+  },
+  {
+    "id": "cnm_h199_q1",
+    "topicId": "cnm_h199",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_n=3n−1。a_4 等于多少？",
+    "answer": "11",
+    "explanation": "3×4−1=11。",
+    "verify": "3*4-1"
+  },
+  {
+    "id": "cnm_h199_q2",
+    "topicId": "cnm_h199",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_n=n²。a_5 等于多少？",
+    "answer": "25",
+    "explanation": "5 的平方是 25。",
+    "verify": "5*5"
+  },
+  {
+    "id": "cnm_h199_q3",
+    "topicId": "cnm_h199",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a_n=10−n。a_3 等于多少？",
+    "answer": "7",
+    "explanation": "10−3=7。",
+    "verify": "10-3"
+  },
+  {
+    "id": "cnm_h199_q4",
+    "topicId": "cnm_h199",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "通项公式 a_n=2n 的前三项是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "1，2，3"
+      },
+      {
+        "key": "B",
+        "text": "2，3，4"
+      },
+      {
+        "key": "C",
+        "text": "1，3，5"
+      },
+      {
+        "key": "D",
+        "text": "2，4，6"
+      }
+    ],
+    "answer": "D",
+    "explanation": "n=1、2、3 时分别得 2、4、6。",
+    "verify": "\"2，4，6\""
+  },
+  {
+    "id": "cnm_h200_q1",
+    "topicId": "cnm_h200",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_1=3，a_{n+1}=a_n+4。a_2 等于多少？",
+    "answer": "7",
+    "explanation": "后一项比前一项大 4，a_2=7。",
+    "verify": "3+4"
+  },
+  {
+    "id": "cnm_h200_q2",
+    "topicId": "cnm_h200",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_1=2，a_{n+1}=3a_n。a_3 等于多少？",
+    "answer": "18",
+    "explanation": "a_2=6，a_3=18。",
+    "verify": "2*3*3"
+  },
+  {
+    "id": "cnm_h200_q3",
+    "topicId": "cnm_h200",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "a_1=5，a_{n+1}=a_n−1。a_4 等于多少？",
+    "answer": "2",
+    "explanation": "从第 1 项到第 4 项减了 3 次，得 2。",
+    "verify": "5-3"
+  },
+  {
+    "id": "cnm_h200_q4",
+    "topicId": "cnm_h200",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "a_{n+1}=a_n+2 给出的是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "递推关系"
+      },
+      {
+        "key": "B",
+        "text": "直接写出任意一项的通项，不需要首项"
+      },
+      {
+        "key": "C",
+        "text": "数列的和"
+      },
+      {
+        "key": "D",
+        "text": "函数的导数"
+      }
+    ],
+    "answer": "A",
+    "explanation": "它用前一项表示后一项，还要知道首项才能确定整个数列。",
+    "verify": "\"递推关系\""
+  },
+  {
+    "id": "cnm_h201_q1",
+    "topicId": "cnm_h201",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差数列 3，7，11，15 的公差是多少？",
+    "answer": "4",
+    "explanation": "后一项减前一项：7−3=4。",
+    "verify": "7-3"
+  },
+  {
+    "id": "cnm_h201_q2",
+    "topicId": "cnm_h201",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "数列 2，5，8，11 是不是等差数列？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不是，因为各项都是正数"
+      },
+      {
+        "key": "B",
+        "text": "不是，因为项数有限"
+      },
+      {
+        "key": "C",
+        "text": "是，公差为 2"
+      },
+      {
+        "key": "D",
+        "text": "是，公差为 3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "相邻差都是 3，所以是公差为 3 的等差数列。",
+    "verify": "\"是，公差为 3\""
+  },
+  {
+    "id": "cnm_h201_q3",
+    "topicId": "cnm_h201",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "等差数列的首项是 6，公差是 −2。第 2 项是多少？",
+    "answer": "4",
+    "explanation": "6−2=4。",
+    "verify": "6+(-2)"
+  },
+  {
+    "id": "cnm_h201_q4",
+    "topicId": "cnm_h201",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "常数列 5，5，5，5 是不是等差数列？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不是，公差必须是正数"
+      },
+      {
+        "key": "B",
+        "text": "是，公差为 0"
+      },
+      {
+        "key": "C",
+        "text": "不是，因为差是 0"
+      },
+      {
+        "key": "D",
+        "text": "是，公差为 5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "相邻差都是 0，公差为 0，仍然是等差数列。",
+    "verify": "\"是，公差为 0\""
+  },
+  {
+    "id": "cnm_h202_q1",
+    "topicId": "cnm_h202",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差数列 a_1=3，d=4。a_6 等于多少？",
+    "answer": "23",
+    "explanation": "a_6=3+(6−1)×4=23。",
+    "verify": "3+5*4"
+  },
+  {
+    "id": "cnm_h202_q2",
+    "topicId": "cnm_h202",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差数列 a_1=10，d=−3。a_4 等于多少？",
+    "answer": "1",
+    "explanation": "10+(4−1)×(−3)=1。",
+    "verify": "10+3*(-3)"
+  },
+  {
+    "id": "cnm_h202_q3",
+    "topicId": "cnm_h202",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "等差数列 a_3=8，a_7=20。公差是多少？",
+    "answer": "3",
+    "explanation": "中间隔 4 个公差，(20−8)/4=3。",
+    "verify": "Fraction(20-8, 7-3)"
+  },
+  {
+    "id": "cnm_h202_q4",
+    "topicId": "cnm_h202",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "等差数列的通项公式是一次式。n 增加 1 时，项怎么变？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "变成原来的 2 倍"
+      },
+      {
+        "key": "B",
+        "text": "一定不变"
+      },
+      {
+        "key": "C",
+        "text": "增加一个公差"
+      },
+      {
+        "key": "D",
+        "text": "变成平方"
+      }
+    ],
+    "answer": "C",
+    "explanation": "相邻两项相差 d，序号每增加 1，项就加一个公差。",
+    "verify": "\"增加一个公差\""
+  },
+  {
+    "id": "cnm_h203_q1",
+    "topicId": "cnm_h203",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "5 和 11 的等差中项是多少？",
+    "answer": "8",
+    "explanation": "(5+11)/2=8。",
+    "verify": "Fraction(5+11, 2)"
+  },
+  {
+    "id": "cnm_h203_q2",
+    "topicId": "cnm_h203",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差中项是 6，前一个数是 2。后一个数是多少？",
+    "answer": "10",
+    "explanation": "2×6=2+后一个数，后一个数是 10。",
+    "verify": "2*6-2"
+  },
+  {
+    "id": "cnm_h203_q3",
+    "topicId": "cnm_h203",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "三个数 4，k，10 成等差数列。k 等于多少？",
+    "answer": "7",
+    "explanation": "2k=14，k=7。",
+    "verify": "Fraction(4+10, 2)"
+  },
+  {
+    "id": "cnm_h203_q4",
+    "topicId": "cnm_h203",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "a、b、c 成等差数列，等价于哪一个等式？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2b=ac"
+      },
+      {
+        "key": "B",
+        "text": "b=a+c"
+      },
+      {
+        "key": "C",
+        "text": "b²=ac"
+      },
+      {
+        "key": "D",
+        "text": "2b=a+c"
+      }
+    ],
+    "answer": "D",
+    "explanation": "中间项的 2 倍等于两端之和。b²=ac 是等比中项的关系。",
+    "verify": "\"2b=a+c\""
+  },
+  {
+    "id": "cnm_h204_q1",
+    "topicId": "cnm_h204",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差数列 a_1=3，a_6=23。前 6 项和是多少？",
+    "answer": "78",
+    "explanation": "S_6=6×(3+23)/2=78。",
+    "verify": "6*(3+23)//2"
+  },
+  {
+    "id": "cnm_h204_q2",
+    "topicId": "cnm_h204",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等差数列 a_1=2，d=3。前 5 项和是多少？",
+    "answer": "40",
+    "explanation": "S_5=5×2+5×4×3/2=10+30=40。",
+    "verify": "5*2+5*4*3//2"
+  },
+  {
+    "id": "cnm_h204_q3",
+    "topicId": "cnm_h204",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "等差数列前 10 项和是 100，前 9 项和是 81。第 10 项是多少？",
+    "answer": "19",
+    "explanation": "第 10 项等于 S_10−S_9=19。",
+    "verify": "100-81"
+  },
+  {
+    "id": "cnm_h204_q4",
+    "topicId": "cnm_h204",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "求等差数列前 n 项和时，首项加末项再乘项数，还要怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "再除以 2"
+      },
+      {
+        "key": "B",
+        "text": "再乘 2"
+      },
+      {
+        "key": "C",
+        "text": "再平方"
+      },
+      {
+        "key": "D",
+        "text": "不用再运算"
+      }
+    ],
+    "answer": "A",
+    "explanation": "公式是 n 乘首末两项之和，再除以 2。",
+    "verify": "\"再除以 2\""
+  },
+  {
+    "id": "cnm_h205_q1",
+    "topicId": "cnm_h205",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "通项 a_n=4n−1。公差是多少？",
+    "answer": "4",
+    "explanation": "一次项系数 4 就是公差。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h205_q2",
+    "topicId": "cnm_h205",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "通项 a_n=4n−1。首项是多少？",
+    "answer": "3",
+    "explanation": "n=1 时得 3。",
+    "verify": "4*1-1"
+  },
+  {
+    "id": "cnm_h205_q3",
+    "topicId": "cnm_h205",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "等差数列的图象落在哪一种函数图象上？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一次函数的图象"
+      },
+      {
+        "key": "B",
+        "text": "指数函数的图象"
+      },
+      {
+        "key": "C",
+        "text": "反比例函数的图象"
+      },
+      {
+        "key": "D",
+        "text": "一个圆"
+      }
+    ],
+    "answer": "A",
+    "explanation": "通项是 n 的一次式，这些点在一条直线上。",
+    "verify": "\"一次函数的图象\""
+  },
+  {
+    "id": "cnm_h205_q4",
+    "topicId": "cnm_h205",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "公差是 −2、首项是 9 的等差数列，a_n 的一次项系数是多少？",
+    "answer": "-2",
+    "explanation": "a_n=−2n+常数，一次项系数就是公差 −2。",
+    "verify": "-2"
+  },
+  {
+    "id": "cnm_h206_q1",
+    "topicId": "cnm_h206",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "剧场第 1 排 20 个座位，往后每排多 2 个。第 6 排有多少个座位？",
+    "answer": "30",
+    "explanation": "这是 a_1=20、d=2 的等差数列，a_6=30。",
+    "verify": "20+5*2"
+  },
+  {
+    "id": "cnm_h206_q2",
+    "topicId": "cnm_h206",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "剧场第 1 排 20 个座位，往后每排多 2 个。前 6 排一共多少个座位？",
+    "answer": "150",
+    "explanation": "末项 30，S_6=6×50/2=150。",
+    "verify": "6*(20+30)//2"
+  },
+  {
+    "id": "cnm_h206_q3",
+    "topicId": "cnm_h206",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "每月存款比上个月多 10 元，第 1 个月存 100 元。第 4 个月存多少元？",
+    "answer": "130",
+    "explanation": "a_4=100+3×10=130。",
+    "verify": "100+3*10"
+  },
+  {
+    "id": "cnm_h206_q4",
+    "topicId": "cnm_h206",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "每天比前一天多走固定的步数，总步数适合用什么求和？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等比数列的前 n 项和"
+      },
+      {
+        "key": "B",
+        "text": "只把第一天乘天数"
+      },
+      {
+        "key": "C",
+        "text": "等差数列的前 n 项和"
+      },
+      {
+        "key": "D",
+        "text": "导数的平均值"
+      }
+    ],
+    "answer": "C",
+    "explanation": "每天增加的量固定，是等差数列。",
+    "verify": "\"等差数列的前 n 项和\""
+  },
+  {
+    "id": "cnm_h207_q1",
+    "topicId": "cnm_h207",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等比数列 2，6，18，54 的公比是多少？",
+    "answer": "3",
+    "explanation": "后一项除以前一项：6/2=3。",
+    "verify": "6//2"
+  },
+  {
+    "id": "cnm_h207_q2",
+    "topicId": "cnm_h207",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "数列 5，5，5，5 是不是等比数列？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不是，公比不能是 1"
+      },
+      {
+        "key": "B",
+        "text": "是，公比为 1"
+      },
+      {
+        "key": "C",
+        "text": "不是，因为差是 0"
+      },
+      {
+        "key": "D",
+        "text": "是，公比为 5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "相邻比都是 1，公比为 1，它同时是等差数列和等比数列。",
+    "verify": "\"是，公比为 1\""
+  },
+  {
+    "id": "cnm_h207_q3",
+    "topicId": "cnm_h207",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "首项是 3，公比是 −2。第 2 项是多少？",
+    "answer": "-6",
+    "explanation": "3×(−2)=−6。",
+    "verify": "3*(-2)"
+  },
+  {
+    "id": "cnm_h207_q4",
+    "topicId": "cnm_h207",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "等比数列的各项可以有 0 吗？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "可以，公比为 0"
+      },
+      {
+        "key": "B",
+        "text": "可以，只要项数有限"
+      },
+      {
+        "key": "C",
+        "text": "必须每一项都是 0"
+      },
+      {
+        "key": "D",
+        "text": "不可以，否则后一项与前一项的比没有意义或不能保持同一公比"
+      }
+    ],
+    "answer": "D",
+    "explanation": "若某一项是 0，下一项与它的比不能是固定的非零常数。教材要求公比不为 0，各项也不为 0。",
+    "verify": "\"不可以，否则后一项与前一项的比没有意义或不能保持同一公比\""
+  },
+  {
+    "id": "cnm_h208_q1",
+    "topicId": "cnm_h208",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等比数列 a_1=2，q=3。a_4 等于多少？",
+    "answer": "54",
+    "explanation": "a_4=2×3³=54。",
+    "verify": "2*3**3"
+  },
+  {
+    "id": "cnm_h208_q2",
+    "topicId": "cnm_h208",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等比数列 a_1=5，q=2。a_3 等于多少？",
+    "answer": "20",
+    "explanation": "5×4=20。",
+    "verify": "5*2**2"
+  },
+  {
+    "id": "cnm_h208_q3",
+    "topicId": "cnm_h208",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "等比数列 a_2=6，a_5=48，公比为正。公比是多少？",
+    "answer": "2",
+    "explanation": "a_5=a_2·q³，48=6q³，q³=8，q=2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h208_q4",
+    "topicId": "cnm_h208",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "公比是 −1 的等比数列，相邻两项怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "互为相反数"
+      },
+      {
+        "key": "B",
+        "text": "始终相等"
+      },
+      {
+        "key": "C",
+        "text": "每一项都是 0"
+      },
+      {
+        "key": "D",
+        "text": "公差是 −1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "乘 −1 后变号，所以相邻两项互为相反数。",
+    "verify": "\"互为相反数\""
+  },
+  {
+    "id": "cnm_h209_q1",
+    "topicId": "cnm_h209",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "2 和 8 的正等比中项是多少？",
+    "answer": "4",
+    "explanation": "G²=16，取正数 G=4。",
+    "verify": "isqrt(2*8)"
+  },
+  {
+    "id": "cnm_h209_q2",
+    "topicId": "cnm_h209",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "正数 3 和 12 的等比中项是多少？",
+    "answer": "6",
+    "explanation": "G²=36，G=6。",
+    "verify": "isqrt(3*12)"
+  },
+  {
+    "id": "cnm_h209_q3",
+    "topicId": "cnm_h209",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两个正数的等比中项满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "平方等于这两个数的积"
+      },
+      {
+        "key": "B",
+        "text": "二倍等于这两个数的和"
+      },
+      {
+        "key": "C",
+        "text": "等于这两个数的差"
+      },
+      {
+        "key": "D",
+        "text": "等于这两个数的和"
+      }
+    ],
+    "answer": "A",
+    "explanation": "G²=ab。二倍等于两端之和的是等差中项。",
+    "verify": "\"平方等于这两个数的积\""
+  },
+  {
+    "id": "cnm_h209_q4",
+    "topicId": "cnm_h209",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "三个正数 4，k，16 成等比数列。k 等于多少？",
+    "answer": "8",
+    "explanation": "k²=64，k=8。",
+    "verify": "isqrt(4*16)"
+  },
+  {
+    "id": "cnm_h210_q1",
+    "topicId": "cnm_h210",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等比数列 a_1=2，q=3。前 4 项和是多少？",
+    "answer": "80",
+    "explanation": "S_4=2×(81−1)/2=80。",
+    "verify": "2*(3**4-1)//(3-1)"
+  },
+  {
+    "id": "cnm_h210_q2",
+    "topicId": "cnm_h210",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "等比数列 a_1=5，q=1。前 4 项和是多少？",
+    "answer": "20",
+    "explanation": "公比是 1 时每项都是 5，和是 20。",
+    "verify": "4*5"
+  },
+  {
+    "id": "cnm_h210_q3",
+    "topicId": "cnm_h210",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "等比数列 a_1=1，q=2。前 5 项和是多少？",
+    "answer": "31",
+    "explanation": "S_5=1×(32−1)/1=31。",
+    "verify": "(2**5-1)//(2-1)"
+  },
+  {
+    "id": "cnm_h210_q4",
+    "topicId": "cnm_h210",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "公比 q=1 时，为什么不能直接用 S_n=a1(q^n−1)/(q−1)？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "公比等于 1 的数列不存在"
+      },
+      {
+        "key": "B",
+        "text": "首项必须是 0"
+      },
+      {
+        "key": "C",
+        "text": "分母是 0"
+      },
+      {
+        "key": "D",
+        "text": "项数必须是无穷"
+      }
+    ],
+    "answer": "C",
+    "explanation": "q−1=0，公式的分母没有意义，要改用 S_n=na1。",
+    "verify": "\"分母是 0\""
+  },
+  {
+    "id": "cnm_h211_q1",
+    "topicId": "cnm_h211",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_n=3×2^(n−1)。公比是多少？",
+    "answer": "2",
+    "explanation": "每一项乘 2 得到下一项，公比是 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h211_q2",
+    "topicId": "cnm_h211",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "a_n=3×2^(n−1)。a_1 等于多少？",
+    "answer": "3",
+    "explanation": "2^0=1，首项是 3。",
+    "verify": "3*2**0"
+  },
+  {
+    "id": "cnm_h211_q3",
+    "topicId": "cnm_h211",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "等比数列的项和指数函数 y=a1·q^(x−1) 相比，主要差别是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "数列的底数必须是负数"
+      },
+      {
+        "key": "B",
+        "text": "指数函数不能取正值"
+      },
+      {
+        "key": "C",
+        "text": "数列的自变量只取正整数"
+      },
+      {
+        "key": "D",
+        "text": "两者完全没有关系"
+      }
+    ],
+    "answer": "C",
+    "explanation": "通项公式的形状一样，但 n 只取正整数，图象是孤立的点。",
+    "verify": "\"数列的自变量只取正整数\""
+  },
+  {
+    "id": "cnm_h211_q4",
+    "topicId": "cnm_h211",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "公比是 4、首项是 1 的等比数列，a_3 等于多少？",
+    "answer": "16",
+    "explanation": "a_3=4²=16。",
+    "verify": "1*4**2"
+  },
+  {
+    "id": "cnm_h212_q1",
+    "topicId": "cnm_h212",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "一种细菌每小时数量变为原来的 2 倍，开始有 3 个。3 小时后有多少个？",
+    "answer": "24",
+    "explanation": "经过 3 次加倍，3×2³=24。若把开始记为第 1 项，3 小时后是第 4 项。",
+    "verify": "3*2**3"
+  },
+  {
+    "id": "cnm_h212_q2",
+    "topicId": "cnm_h212",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "存款每年变为原来的 2 倍，第 1 年末是 100 元。第 3 年末是多少元？",
+    "answer": "400",
+    "explanation": "从第 1 年末到第 3 年末乘了两次 2，得 400。",
+    "verify": "100*2**2"
+  },
+  {
+    "id": "cnm_h212_q3",
+    "topicId": "cnm_h212",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "纸每次对折，层数变为 2 倍。对折 1 次是 2 层。对折 4 次是多少层？",
+    "answer": "16",
+    "explanation": "对折 4 次是 16 层。",
+    "verify": "2**4"
+  },
+  {
+    "id": "cnm_h212_q4",
+    "topicId": "cnm_h212",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "每年都乘同一个增长率，这类问题适合用什么模型？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "等比数列"
+      },
+      {
+        "key": "B",
+        "text": "公差不为 0 的等差数列"
+      },
+      {
+        "key": "C",
+        "text": "只用来平均数"
+      },
+      {
+        "key": "D",
+        "text": "一次函数的斜率"
+      }
+    ],
+    "answer": "A",
+    "explanation": "相邻两项的比固定，是等比数列。",
+    "verify": "\"等比数列\""
+  },
+  {
+    "id": "cnm_h213_q1",
+    "topicId": "cnm_h213",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "数学归纳法的第一步通常做什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "直接假设对所有正整数都成立"
+      },
+      {
+        "key": "B",
+        "text": "先求导数"
+      },
+      {
+        "key": "C",
+        "text": "验证起始的正整数成立"
+      },
+      {
+        "key": "D",
+        "text": "先画图而不验证"
+      }
+    ],
+    "answer": "C",
+    "explanation": "要先确认起点，例如 n=1 时命题成立。",
+    "verify": "\"验证起始的正整数成立\""
+  },
+  {
+    "id": "cnm_h213_q2",
+    "topicId": "cnm_h213",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "第二步要证明的是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "若 n=k 时成立，则 n=1 时成立"
+      },
+      {
+        "key": "B",
+        "text": "只验证 n=2 和 n=3"
+      },
+      {
+        "key": "C",
+        "text": "证明公差为 0"
+      },
+      {
+        "key": "D",
+        "text": "若 n=k 时成立，则 n=k+1 时也成立"
+      }
+    ],
+    "answer": "D",
+    "explanation": "这一步是从任意一个成立的 k 推到下一项。",
+    "verify": "\"若 n=k 时成立，则 n=k+1 时也成立\""
+  },
+  {
+    "id": "cnm_h213_q3",
+    "topicId": "cnm_h213",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "用归纳法证明前 n 个正奇数的和是 n²。n=1 时，这个和是多少？",
+    "answer": "1",
+    "explanation": "第一个正奇数是 1，1²=1，起点成立。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h213_q4",
+    "topicId": "cnm_h213",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "只算出 n=1、2、3、4 都成立，能不能代替数学归纳法？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "能，四个例子就够了"
+      },
+      {
+        "key": "B",
+        "text": "不能，有限个例子不是证明"
+      },
+      {
+        "key": "C",
+        "text": "能，只要都是正数"
+      },
+      {
+        "key": "D",
+        "text": "不能，因为归纳法不许验证起点"
+      }
+    ],
+    "answer": "B",
+    "explanation": "归纳法要用递推把起点以后的所有正整数都盖住，不能只抽查几项。",
+    "verify": "\"不能，有限个例子不是证明\""
+  },
+  {
+    "id": "cnm_h214_q1",
+    "topicId": "cnm_h214",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "前 n 个正整数的和是 n(n+1)/2。n=5 时，这个和是多少？",
+    "answer": "15",
+    "explanation": "公式给出 15。直接相加 1+2+3+4+5 也是 15。",
+    "verify": "5*6//2"
+  },
+  {
+    "id": "cnm_h214_q2",
+    "topicId": "cnm_h214",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "命题「n²+n 是偶数」。n=4 时，n²+n 等于多少？",
+    "answer": "20",
+    "explanation": "16+4=20，确实是偶数。归纳证明还要再写从 k 到 k+1。",
+    "verify": "4*4+4"
+  },
+  {
+    "id": "cnm_h214_q3",
+    "topicId": "cnm_h214",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "归纳步骤里，哪一句可以直接当作已知？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "n=k+1 时命题已经成立"
+      },
+      {
+        "key": "B",
+        "text": "n=k 时命题成立"
+      },
+      {
+        "key": "C",
+        "text": "对所有实数都成立"
+      },
+      {
+        "key": "D",
+        "text": "公差是 1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "这就是归纳假设。目标是推出 n=k+1。",
+    "verify": "\"n=k 时命题成立\""
+  },
+  {
+    "id": "cnm_h214_q4",
+    "topicId": "cnm_h214",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "前 n 个正奇数的和是 n²。n=6 时，和是多少？",
+    "answer": "36",
+    "explanation": "6²=36。",
+    "verify": "6*6"
+  },
+  {
+    "id": "cnm_h215_q1",
+    "topicId": "cnm_h215",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²。从 x=1 到 x=3 的平均变化率是多少？",
+    "answer": "4",
+    "explanation": "(9−1)/(3−1)=4。",
+    "verify": "Fraction(3*3-1*1, 3-1)"
+  },
+  {
+    "id": "cnm_h215_q2",
+    "topicId": "cnm_h215",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=2x+1。从 x=0 到 x=4 的平均变化率是多少？",
+    "answer": "2",
+    "explanation": "一次函数的平均变化率就是斜率 2。",
+    "verify": "Fraction((2*4+1)-(2*0+1), 4-0)"
+  },
+  {
+    "id": "cnm_h215_q3",
+    "topicId": "cnm_h215",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "路程从 t=0 的 0 米变为 t=5 的 20 米。平均速度是多少？",
+    "answer": "4",
+    "explanation": "20/5=4，单位是米每秒。",
+    "verify": "Fraction(20-0, 5-0)"
+  },
+  {
+    "id": "cnm_h215_q4",
+    "topicId": "cnm_h215",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "平均变化率对应函数图象上的哪一条线的斜率？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "过其中一点的切线"
+      },
+      {
+        "key": "B",
+        "text": "垂直于 x 轴的直线"
+      },
+      {
+        "key": "C",
+        "text": "渐近线"
+      },
+      {
+        "key": "D",
+        "text": "两个端点的割线"
+      }
+    ],
+    "answer": "D",
+    "explanation": "割线连接区间两端的图象点，它的斜率就是平均变化率。",
+    "verify": "\"两个端点的割线\""
+  },
+  {
+    "id": "cnm_h216_q1",
+    "topicId": "cnm_h216",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²。从 2 到 2.5 的平均变化率是多少？",
+    "answer": "9/2",
+    "explanation": "f(2.5)=6.25，f(2)=4，增量 2.25，除以 0.5 得 4.5。",
+    "verify": "Fraction(Fraction(5,2)**2-4, Fraction(1,2))"
+  },
+  {
+    "id": "cnm_h216_q2",
+    "topicId": "cnm_h216",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²。从 2 到 2 的右邻点若增量为 0 的极限意义下，瞬时变化率等于 f 在 2 处的导数。2x 在 x=2 的值是多少？",
+    "answer": "4",
+    "explanation": "x² 的导数是 2x，在 x=2 处是 4。平均变化率会随着增量变小而靠近 4。",
+    "verify": "2*2"
+  },
+  {
+    "id": "cnm_h216_q3",
+    "topicId": "cnm_h216",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "瞬时变化率是怎样得到的？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "任意一个平均变化率"
+      },
+      {
+        "key": "B",
+        "text": "函数值本身"
+      },
+      {
+        "key": "C",
+        "text": "定义域的长度"
+      },
+      {
+        "key": "D",
+        "text": "平均变化率在增量趋于 0 时的极限"
+      }
+    ],
+    "answer": "D",
+    "explanation": "先算平均变化率，再让区间长度趋于 0。这就是导数里的极限思想。",
+    "verify": "\"平均变化率在增量趋于 0 时的极限\""
+  },
+  {
+    "id": "cnm_h216_q4",
+    "topicId": "cnm_h216",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=x² 在 x=1 附近，增量 h=1 时平均变化率是多少？",
+    "answer": "3",
+    "explanation": "(4−1)/1=3。h 再变小，结果会靠近导数 2。",
+    "verify": "Fraction((1+1)**2-1, 1)"
+  },
+  {
+    "id": "cnm_h217_q1",
+    "topicId": "cnm_h217",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²，则 f'(x)=2x。f'(3) 等于多少？",
+    "answer": "6",
+    "explanation": "把 x=3 代入导函数，得 6。",
+    "verify": "2*3"
+  },
+  {
+    "id": "cnm_h217_q2",
+    "topicId": "cnm_h217",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x³，则 f'(x)=3x²。f'(2) 等于多少？",
+    "answer": "12",
+    "explanation": "3×4=12。",
+    "verify": "3*2*2"
+  },
+  {
+    "id": "cnm_h217_q3",
+    "topicId": "cnm_h217",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "导数 f'(x) 是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "关于自变量的一个函数"
+      },
+      {
+        "key": "B",
+        "text": "一个与 x 无关的固定线段"
+      },
+      {
+        "key": "C",
+        "text": "函数的定义域"
+      },
+      {
+        "key": "D",
+        "text": "函数图象本身"
+      }
+    ],
+    "answer": "A",
+    "explanation": "每一点可以有一个导数值，这些值又组成导函数。",
+    "verify": "\"关于自变量的一个函数\""
+  },
+  {
+    "id": "cnm_h217_q4",
+    "topicId": "cnm_h217",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "常函数 f(x)=5 的导数是 0。f'(4) 等于多少？",
+    "answer": "0",
+    "explanation": "常函数没有变化，任意一点的导数都是 0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h218_q1",
+    "topicId": "cnm_h218",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f'(x)=3x²−3。f'(2) 等于多少？",
+    "answer": "9",
+    "explanation": "3×4−3=9。",
+    "verify": "3*2*2-3"
+  },
+  {
+    "id": "cnm_h218_q2",
+    "topicId": "cnm_h218",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f'(x)=4x。f'(0) 等于多少？",
+    "answer": "0",
+    "explanation": "4×0=0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h218_q3",
+    "topicId": "cnm_h218",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "f(x)=x² 与 f'(x)=2x 的关系是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个函数是同一个函数"
+      },
+      {
+        "key": "B",
+        "text": "2x 是 x² 的导函数"
+      },
+      {
+        "key": "C",
+        "text": "2x 是 x² 的定义域"
+      },
+      {
+        "key": "D",
+        "text": "2x 是 x² 的图象"
+      }
+    ],
+    "answer": "B",
+    "explanation": "导函数由原函数求得，一般是另一个函数。",
+    "verify": "\"2x 是 x² 的导函数\""
+  },
+  {
+    "id": "cnm_h218_q4",
+    "topicId": "cnm_h218",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f'(x)=−2x+4。f'(1) 等于多少？",
+    "answer": "2",
+    "explanation": "−2+4=2。",
+    "verify": "-2*1+4"
+  },
+  {
+    "id": "cnm_h219_q1",
+    "topicId": "cnm_h219",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "曲线 y=x² 在 x=1 处的导数是 2。切线斜率是多少？",
+    "answer": "2",
+    "explanation": "导数就是切线斜率，所以斜率是 2。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h219_q2",
+    "topicId": "cnm_h219",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "f'(x0)>0 时，曲线在对应点的切线怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "从左到右下降"
+      },
+      {
+        "key": "B",
+        "text": "从左到右上升"
+      },
+      {
+        "key": "C",
+        "text": "垂直于 x 轴"
+      },
+      {
+        "key": "D",
+        "text": "与曲线没有交点"
+      }
+    ],
+    "answer": "B",
+    "explanation": "斜率为正，切线上升。",
+    "verify": "\"从左到右上升\""
+  },
+  {
+    "id": "cnm_h219_q3",
+    "topicId": "cnm_h219",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f'(x)=2x。曲线在 x=−1 处的切线斜率是多少？",
+    "answer": "-2",
+    "explanation": "斜率是 −2，切线下降。",
+    "verify": "2*(-1)"
+  },
+  {
+    "id": "cnm_h219_q4",
+    "topicId": "cnm_h219",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "导数不存在，可能对应切线的什么情况？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "切线斜率一定是 0"
+      },
+      {
+        "key": "B",
+        "text": "曲线一定没有定义"
+      },
+      {
+        "key": "C",
+        "text": "切线一定经过原点"
+      },
+      {
+        "key": "D",
+        "text": "切线垂直于 x 轴，斜率不存在"
+      }
+    ],
+    "answer": "D",
+    "explanation": "例如尖点或铅直切线。斜率不存在时，不能把导数写成一个实数。",
+    "verify": "\"切线垂直于 x 轴，斜率不存在\""
+  },
+  {
+    "id": "cnm_h220_q1",
+    "topicId": "cnm_h220",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "曲线 y=x² 在点 (1，1) 处的切线斜率是 2。切线在 y 轴上的截距是多少？",
+    "answer": "-1",
+    "explanation": "y−1=2(x−1)。x=0 时 y=−1。",
+    "verify": "1+2*(0-1)"
+  },
+  {
+    "id": "cnm_h220_q2",
+    "topicId": "cnm_h220",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "曲线 y=x² 在 x=0 处的切线斜率是多少？",
+    "answer": "0",
+    "explanation": "导数 2x 在 0 处是 0，切线是水平的 y=0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h220_q3",
+    "topicId": "cnm_h220",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=x³，f'(x)=3x²。x=1 时切线斜率是多少？",
+    "answer": "3",
+    "explanation": "3×1=3。",
+    "verify": "3*1*1"
+  },
+  {
+    "id": "cnm_h220_q4",
+    "topicId": "cnm_h220",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "写切线方程时，点斜式里的点必须用什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "切点"
+      },
+      {
+        "key": "B",
+        "text": "原点，不论切点在哪里"
+      },
+      {
+        "key": "C",
+        "text": "与曲线无关的任意点"
+      },
+      {
+        "key": "D",
+        "text": "焦点"
+      }
+    ],
+    "answer": "A",
+    "explanation": "切线过切点，斜率是该点的导数。",
+    "verify": "\"切点\""
+  },
+  {
+    "id": "cnm_h221_q1",
+    "topicId": "cnm_h221",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x³ 的导函数在 x=2 的值是多少？",
+    "answer": "12",
+    "explanation": "(x³)'=3x²，在 x=2 处是 12。",
+    "verify": "3*2**2"
+  },
+  {
+    "id": "cnm_h221_q2",
+    "topicId": "cnm_h221",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x^4。f'(1) 等于多少？",
+    "answer": "4",
+    "explanation": "4x³ 在 x=1 处是 4。",
+    "verify": "4*1**3"
+  },
+  {
+    "id": "cnm_h221_q3",
+    "topicId": "cnm_h221",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=7。f'(5) 等于多少？",
+    "answer": "0",
+    "explanation": "常数的导数是 0。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h221_q4",
+    "topicId": "cnm_h221",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "(x²)' 等于哪一个函数？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x²"
+      },
+      {
+        "key": "B",
+        "text": "2x"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "x"
+      }
+    ],
+    "answer": "B",
+    "explanation": "幂的指数放到前面，指数再减 1：2x。",
+    "verify": "\"2x\""
+  },
+  {
+    "id": "cnm_h222_q1",
+    "topicId": "cnm_h222",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²+3x。f'(1) 等于多少？",
+    "answer": "5",
+    "explanation": "f'(x)=2x+3，在 x=1 处是 5。",
+    "verify": "2*1+3"
+  },
+  {
+    "id": "cnm_h222_q2",
+    "topicId": "cnm_h222",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=4x³−x。f'(1) 等于多少？",
+    "answer": "11",
+    "explanation": "f'(x)=12x²−1，在 x=1 处是 11。",
+    "verify": "12*1**2-1"
+  },
+  {
+    "id": "cnm_h222_q3",
+    "topicId": "cnm_h222",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=5x²。f'(2) 等于多少？",
+    "answer": "20",
+    "explanation": "(5x²)'=10x，在 x=2 处是 20。",
+    "verify": "10*2"
+  },
+  {
+    "id": "cnm_h222_q4",
+    "topicId": "cnm_h222",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "和的导数等于什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "导数的积"
+      },
+      {
+        "key": "B",
+        "text": "导数的商"
+      },
+      {
+        "key": "C",
+        "text": "导数的和"
+      },
+      {
+        "key": "D",
+        "text": "原来两个函数的积"
+      }
+    ],
+    "answer": "C",
+    "explanation": "(u+v)'=u'+v'。",
+    "verify": "\"导数的和\""
+  },
+  {
+    "id": "cnm_h223_q1",
+    "topicId": "cnm_h223",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "y=(2x+1)²。在 x=1 处的导数是多少？",
+    "answer": "12",
+    "explanation": "外层 2(2x+1)，再乘内层导数 2。x=1 时是 2×3×2=12。",
+    "verify": "2*(2*1+1)*2"
+  },
+  {
+    "id": "cnm_h223_q2",
+    "topicId": "cnm_h223",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "y=(3x−1)²。在 x=1 处的导数是多少？",
+    "answer": "12",
+    "explanation": "2×2×3=12。",
+    "verify": "2*(3*1-1)*3"
+  },
+  {
+    "id": "cnm_h223_q3",
+    "topicId": "cnm_h223",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=x²，y=f(2x)。y 在 x=1 处的导数是多少？",
+    "answer": "8",
+    "explanation": "(x²)' 在 2x 处是 2×(2x)，再乘 2。x=1 时是 8。",
+    "verify": "2*(2*1)*2"
+  },
+  {
+    "id": "cnm_h223_q4",
+    "topicId": "cnm_h223",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "求 (ax+b) 的平方的导数时，最后还要乘上什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一定乘 0"
+      },
+      {
+        "key": "B",
+        "text": "一定除以 a"
+      },
+      {
+        "key": "C",
+        "text": "不用再乘"
+      },
+      {
+        "key": "D",
+        "text": "内层的系数 a"
+      }
+    ],
+    "answer": "D",
+    "explanation": "复合函数求导要把内层导数乘上去，这里内层导数是 a。",
+    "verify": "\"内层的系数 a\""
+  },
+  {
+    "id": "cnm_h224_q1",
+    "topicId": "cnm_h224",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²，f'(x)=2x。f'(−1) 等于多少？",
+    "answer": "-2",
+    "explanation": "−2<0，所以 x² 在 x=−1 附近是递减的。",
+    "verify": "2*(-1)"
+  },
+  {
+    "id": "cnm_h224_q2",
+    "topicId": "cnm_h224",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "在一个开区间上恒有 f'(x)>0，函数在这个区间上怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "递减"
+      },
+      {
+        "key": "B",
+        "text": "是常函数"
+      },
+      {
+        "key": "C",
+        "text": "递增"
+      },
+      {
+        "key": "D",
+        "text": "没有单调性"
+      }
+    ],
+    "answer": "C",
+    "explanation": "导数为正，函数值随自变量增大而增大。",
+    "verify": "\"递增\""
+  },
+  {
+    "id": "cnm_h224_q3",
+    "topicId": "cnm_h224",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f'(x)=−2x。f'(3) 等于多少？",
+    "answer": "-6",
+    "explanation": "−6<0，函数在 x=3 附近递减。",
+    "verify": "-2*3"
+  },
+  {
+    "id": "cnm_h224_q4",
+    "topicId": "cnm_h224",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "f'(x) 在区间上为负，函数图象从左到右怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "下降"
+      },
+      {
+        "key": "B",
+        "text": "上升"
+      },
+      {
+        "key": "C",
+        "text": "保持水平"
+      },
+      {
+        "key": "D",
+        "text": "变成圆"
+      }
+    ],
+    "answer": "A",
+    "explanation": "导数为负对应递减，图象下降。",
+    "verify": "\"下降\""
+  },
+  {
+    "id": "cnm_h225_q1",
+    "topicId": "cnm_h225",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²−4x。f'(x)=0 时，x 等于多少？",
+    "answer": "2",
+    "explanation": "f'(x)=2x−4=0，x=2。左边递减，右边递增。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h225_q2",
+    "topicId": "cnm_h225",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x³−3x。f'(1) 等于多少？",
+    "answer": "0",
+    "explanation": "f'(x)=3x²−3=3(x²−1)，在 x=1 处是 0。",
+    "verify": "3*1*1-3"
+  },
+  {
+    "id": "cnm_h225_q3",
+    "topicId": "cnm_h225",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=x³−3x。f'(2) 等于多少？",
+    "answer": "9",
+    "explanation": "3×4−3=9>0，所以在 x=2 附近递增。",
+    "verify": "3*4-3"
+  },
+  {
+    "id": "cnm_h225_q4",
+    "topicId": "cnm_h225",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "f'(x)=2x−4。f'(x)>0 的解是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x<2"
+      },
+      {
+        "key": "B",
+        "text": "x>2"
+      },
+      {
+        "key": "C",
+        "text": "x=2"
+      },
+      {
+        "key": "D",
+        "text": "任意实数"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2x−4>0，得 x>2，这就是递增区间。",
+    "verify": "\"x>2\""
+  },
+  {
+    "id": "cnm_h226_q1",
+    "topicId": "cnm_h226",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²−4x+1。可能的极值点横坐标是多少？",
+    "answer": "2",
+    "explanation": "f'(x)=2x−4=0，x=2。左侧导数为负、右侧为正，是极小值点。",
+    "verify": "2"
+  },
+  {
+    "id": "cnm_h226_q2",
+    "topicId": "cnm_h226",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²−4x+1 在 x=2 处的函数值是多少？",
+    "answer": "-3",
+    "explanation": "4−8+1=−3。",
+    "verify": "2*2-4*2+1"
+  },
+  {
+    "id": "cnm_h226_q3",
+    "topicId": "cnm_h226",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "可导函数在极值点处，导数通常怎样？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一定大于 0"
+      },
+      {
+        "key": "B",
+        "text": "等于 0"
+      },
+      {
+        "key": "C",
+        "text": "一定小于 0"
+      },
+      {
+        "key": "D",
+        "text": "一定不存在"
+      }
+    ],
+    "answer": "B",
+    "explanation": "极值的必要条件是导数为 0。反过来，导数为 0 不一定是极值，还要看两侧是否变号。",
+    "verify": "\"等于 0\""
+  },
+  {
+    "id": "cnm_h226_q4",
+    "topicId": "cnm_h226",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "左侧导数为正、右侧导数为负的点是？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "极小值点"
+      },
+      {
+        "key": "B",
+        "text": "一定不是极值"
+      },
+      {
+        "key": "C",
+        "text": "极大值点"
+      },
+      {
+        "key": "D",
+        "text": "间断点"
+      }
+    ],
+    "answer": "C",
+    "explanation": "函数先增后减，这个点是极大值点。",
+    "verify": "\"极大值点\""
+  },
+  {
+    "id": "cnm_h227_q1",
+    "topicId": "cnm_h227",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²−2x 在 [0，3] 上的最大值是多少？",
+    "answer": "3",
+    "explanation": "f'(x)=2x−2，驻点 x=1。f(0)=0，f(1)=−1，f(3)=3，最大值是 3。",
+    "verify": "max(0*0-2*0, 1*1-2*1, 3*3-2*3)"
+  },
+  {
+    "id": "cnm_h227_q2",
+    "topicId": "cnm_h227",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x²−2x 在 [0，3] 上的最小值是多少？",
+    "answer": "-1",
+    "explanation": "三个候选值是 0、−1、3，最小值是 −1。",
+    "verify": "min(0, 1-2, 9-6)"
+  },
+  {
+    "id": "cnm_h227_q3",
+    "topicId": "cnm_h227",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=−x²+4 在 [−1，1] 上，端点 x=1 的函数值是多少？",
+    "answer": "3",
+    "explanation": "−1+4=3。顶点 x=0 的函数值是 4，更大。",
+    "verify": "-(1*1)+4"
+  },
+  {
+    "id": "cnm_h227_q4",
+    "topicId": "cnm_h227",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "闭区间上求最值，除了导数为 0 的点，还要比较什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只比较原点"
+      },
+      {
+        "key": "B",
+        "text": "只比较导数为 1 的点"
+      },
+      {
+        "key": "C",
+        "text": "不用再比较"
+      },
+      {
+        "key": "D",
+        "text": "区间的两个端点"
+      }
+    ],
+    "answer": "D",
+    "explanation": "最值可能出现在端点，不能只看驻点。",
+    "verify": "\"区间的两个端点\""
+  },
+  {
+    "id": "cnm_h228_q1",
+    "topicId": "cnm_h228",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "矩形周长是 20。当长和宽相等时面积最大。这个最大面积是多少？",
+    "answer": "25",
+    "explanation": "正方形边长是 5，面积是 25。",
+    "verify": "(20//4)**2"
+  },
+  {
+    "id": "cnm_h228_q2",
+    "topicId": "cnm_h228",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "矩形周长是 20，一边长 x，另一边长 10−x。面积 S=x(10−x)。S'(x)=0 时 x 等于多少？",
+    "answer": "5",
+    "explanation": "S=10x−x²，S'=10−2x=0，x=5。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h228_q3",
+    "topicId": "cnm_h228",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "一边靠墙，另外三边总长 24 米围矩形。垂直于墙的边长是 x，平行于墙的边长是 24−2x。面积最大时 x 等于多少？",
+    "answer": "6",
+    "explanation": "S=x(24−2x)=24x−2x²，S'=24−4x=0，x=6。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h228_q4",
+    "topicId": "cnm_h228",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "用导数做优化，最后一步要做什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "比较驻点和定义域端点的函数值"
+      },
+      {
+        "key": "B",
+        "text": "只把导数设为 1"
+      },
+      {
+        "key": "C",
+        "text": "只看定义域的长度"
+      },
+      {
+        "key": "D",
+        "text": "把函数换成它的导数后不再计算"
+      }
+    ],
+    "answer": "A",
+    "explanation": "实际问题的最值要落在允许的范围内，驻点还要检验是不是最大或最小。",
+    "verify": "\"比较驻点和定义域端点的函数值\""
+  },
+  {
+    "id": "cnm_h229_q1",
+    "topicId": "cnm_h229",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x³−3x+1。f'(0) 等于多少？",
+    "answer": "-3",
+    "explanation": "f'(x)=3x²−3，在 0 处是 −3。",
+    "verify": "0-3"
+  },
+  {
+    "id": "cnm_h229_q2",
+    "topicId": "cnm_h229",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "f(x)=x³−3x。f'(x)=0 时，正的那个 x 是多少？",
+    "answer": "1",
+    "explanation": "3x²−3=0，x²=1，正根是 1。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h229_q3",
+    "topicId": "cnm_h229",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "f(x)=2x³。f'(1) 等于多少？",
+    "answer": "6",
+    "explanation": "(2x³)'=6x²，在 x=1 处是 6。",
+    "verify": "6*1*1"
+  },
+  {
+    "id": "cnm_h229_q4",
+    "topicId": "cnm_h229",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "三次多项式的导函数是几次多项式？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "三次"
+      },
+      {
+        "key": "B",
+        "text": "二次"
+      },
+      {
+        "key": "C",
+        "text": "一次"
+      },
+      {
+        "key": "D",
+        "text": "常数"
+      }
+    ],
+    "answer": "B",
+    "explanation": "求导后次数降 1，三次变成二次。",
+    "verify": "\"二次\""
+  },
+  {
+    "id": "cnm_h230_q1",
+    "topicId": "cnm_h230",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从甲地到乙地，汽车有 3 班，火车有 2 班，两类不能同时乘坐。一共有多少种走法？",
+    "answer": "5",
+    "explanation": "两类互斥，办法数相加：3+2=5。",
+    "verify": "3+2"
+  },
+  {
+    "id": "cnm_h230_q2",
+    "topicId": "cnm_h230",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "书架上有数学书 4 本、语文书 5 本。只取 1 本，有多少种取法？",
+    "answer": "9",
+    "explanation": "取数学书或取语文书，两类相加得 9。",
+    "verify": "4+5"
+  },
+  {
+    "id": "cnm_h230_q3",
+    "topicId": "cnm_h230",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "分类加法计数原理适用于哪种情形？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "必须把每一类都做一遍"
+      },
+      {
+        "key": "B",
+        "text": "若干类办法互斥，完成这件事只要选用其中一类"
+      },
+      {
+        "key": "C",
+        "text": "每一步都要接着做下一步"
+      },
+      {
+        "key": "D",
+        "text": "办法可以同时属于两类还要相加"
+      }
+    ],
+    "answer": "B",
+    "explanation": "分类时各类互斥，做完其中一类就算完成。重叠时不能直接相加。",
+    "verify": "\"若干类办法互斥，完成这件事只要选用其中一类\""
+  },
+  {
+    "id": "cnm_h230_q4",
+    "topicId": "cnm_h230",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "报名唱歌的有 6 人，报名跳舞的有 4 人，没有人两项都报。报名的一共有多少人？",
+    "answer": "10",
+    "explanation": "两类没有交集，6+4=10。",
+    "verify": "6+4"
+  },
+  {
+    "id": "cnm_h231_q1",
+    "topicId": "cnm_h231",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "有 3 件上衣、4 条裤子。上衣和裤子各选 1 件，有多少种搭配？",
+    "answer": "12",
+    "explanation": "先选上衣再选裤子，3×4=12。",
+    "verify": "3*4"
+  },
+  {
+    "id": "cnm_h231_q2",
+    "topicId": "cnm_h231",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从 A 到 B 有 2 条路，从 B 到 C 有 3 条路。从 A 经过 B 到 C，有多少种走法？",
+    "answer": "6",
+    "explanation": "两步相乘：2×3=6。",
+    "verify": "2*3"
+  },
+  {
+    "id": "cnm_h231_q3",
+    "topicId": "cnm_h231",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "分步乘法计数原理适用于哪种情形？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只要完成其中一步即可"
+      },
+      {
+        "key": "B",
+        "text": "各步的办法数应该相加"
+      },
+      {
+        "key": "C",
+        "text": "必须依次完成每一步，事情才算完成"
+      },
+      {
+        "key": "D",
+        "text": "各步可以颠倒成互斥的类别"
+      }
+    ],
+    "answer": "C",
+    "explanation": "分步时每一步都要做。总办法数是各步办法数的乘积。",
+    "verify": "\"必须依次完成每一步，事情才算完成\""
+  },
+  {
+    "id": "cnm_h231_q4",
+    "topicId": "cnm_h231",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "一个三位密码，每一位都可以是 0 到 9 这 10 个数字，允许重复。一共有多少个密码？",
+    "answer": "1000",
+    "explanation": "三位各自独立选取，10×10×10=1000。",
+    "verify": "10*10*10"
+  },
+  {
+    "id": "cnm_h232_q1",
+    "topicId": "cnm_h232",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从 3 名男生和 2 名女生中选 1 人做代表，再从 4 本笔记本中选 1 本发给代表。一共有多少种做法？",
+    "answer": "20",
+    "explanation": "选人是分类相加，得到 5；再选笔记本是下一步，5×4=20。",
+    "verify": "(3+2)*4"
+  },
+  {
+    "id": "cnm_h232_q2",
+    "topicId": "cnm_h232",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "去北京可以坐 2 班飞机或 3 班高铁，到达后从 4 家旅馆中选 1 家。一共有多少种安排？",
+    "answer": "20",
+    "explanation": "交通方式相加得 5，再乘旅馆数 4，得 20。",
+    "verify": "(2+3)*4"
+  },
+  {
+    "id": "cnm_h232_q3",
+    "topicId": "cnm_h232",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "先选交通方式、再选旅馆，交通方式有飞机和高铁两类。计数时应怎样做？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "把交通方式和旅馆的数目全部相加"
+      },
+      {
+        "key": "B",
+        "text": "只计算旅馆的数目"
+      },
+      {
+        "key": "C",
+        "text": "把飞机班次和高铁班次相乘后再加旅馆"
+      },
+      {
+        "key": "D",
+        "text": "交通方式的数目相加，再与旅馆的数目相乘"
+      }
+    ],
+    "answer": "D",
+    "explanation": "交通方式互斥，用加法；选完交通还要选旅馆，用乘法。",
+    "verify": "\"交通方式的数目相加，再与旅馆的数目相乘\""
+  },
+  {
+    "id": "cnm_h232_q4",
+    "topicId": "cnm_h232",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "早餐有 2 种，午餐有 3 种。早餐和午餐各选 1 种，有多少种搭配？",
+    "answer": "6",
+    "explanation": "两步都要完成，2×3=6。",
+    "verify": "2*3"
+  },
+  {
+    "id": "cnm_h233_q1",
+    "topicId": "cnm_h233",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "下面哪一项是排列？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "从 4 名同学中选 2 名组成一组，不计顺序"
+      },
+      {
+        "key": "B",
+        "text": "把 4 本书并成一堆，不区分左右"
+      },
+      {
+        "key": "C",
+        "text": "从 4 名同学中选 2 名排成先后顺序"
+      },
+      {
+        "key": "D",
+        "text": "只关心选出了哪些人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "排列要排成顺序。只分组、不计顺序，是组合。",
+    "verify": "\"从 4 名同学中选 2 名排成先后顺序\""
+  },
+  {
+    "id": "cnm_h233_q2",
+    "topicId": "cnm_h233",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从 4 个不同元素中取出 2 个排成一列。有多少种排法？",
+    "answer": "12",
+    "explanation": "先选第一个有 4 种，再选第二个有 3 种，4×3=12。",
+    "verify": "perm(4,2)"
+  },
+  {
+    "id": "cnm_h233_q3",
+    "topicId": "cnm_h233",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "字母 A、B、C 都不相同，把它们全部排成一列。有多少种排法？",
+    "answer": "6",
+    "explanation": "3×2×1=6。",
+    "verify": "perm(3,3)"
+  },
+  {
+    "id": "cnm_h233_q4",
+    "topicId": "cnm_h233",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两个排列相同，需要满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只要取出的元素相同"
+      },
+      {
+        "key": "B",
+        "text": "取出的元素相同，而且顺序也相同"
+      },
+      {
+        "key": "C",
+        "text": "只要元素个数相同"
+      },
+      {
+        "key": "D",
+        "text": "只要第一个位置相同"
+      }
+    ],
+    "answer": "B",
+    "explanation": "排列既看元素，也看每个位置上是谁。",
+    "verify": "\"取出的元素相同，而且顺序也相同\""
+  },
+  {
+    "id": "cnm_h234_q1",
+    "topicId": "cnm_h234",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(6,2) 等于多少？",
+    "answer": "30",
+    "explanation": "6×5=30。",
+    "verify": "perm(6,2)"
+  },
+  {
+    "id": "cnm_h234_q2",
+    "topicId": "cnm_h234",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A(5,1) 等于多少？",
+    "answer": "5",
+    "explanation": "只取 1 个，有 5 种。",
+    "verify": "perm(5,1)"
+  },
+  {
+    "id": "cnm_h234_q3",
+    "topicId": "cnm_h234",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "A(4,4) 等于多少？",
+    "answer": "24",
+    "explanation": "4 个元素全排列：4×3×2×1=24。",
+    "verify": "factorial(4)"
+  },
+  {
+    "id": "cnm_h234_q4",
+    "topicId": "cnm_h234",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "A(n,k) 的一种写法是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "n 的阶乘乘以 k 的阶乘"
+      },
+      {
+        "key": "B",
+        "text": "k 的阶乘除以 n 的阶乘"
+      },
+      {
+        "key": "C",
+        "text": "n 的阶乘除以 (n−k) 的阶乘"
+      },
+      {
+        "key": "D",
+        "text": "n 与 k 的和"
+      }
+    ],
+    "answer": "C",
+    "explanation": "A(n,k)=n!/(n−k)!，其中 k 不能大于 n。",
+    "verify": "\"n 的阶乘除以 (n−k) 的阶乘\""
+  },
+  {
+    "id": "cnm_h235_q1",
+    "topicId": "cnm_h235",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "5 名同学站成一排拍照，每人都要站。有多少种站法？",
+    "answer": "120",
+    "explanation": "5 人全排列：5×4×3×2×1=120。",
+    "verify": "factorial(5)"
+  },
+  {
+    "id": "cnm_h235_q2",
+    "topicId": "cnm_h235",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "7 本不同的书分给甲、乙、丙三人，每人 1 本。有多少种分法？",
+    "answer": "210",
+    "explanation": "人不同，书的分配有顺序，A(7,3)=7×6×5=210。",
+    "verify": "perm(7,3)"
+  },
+  {
+    "id": "cnm_h235_q3",
+    "topicId": "cnm_h235",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "用数字 1、2、3、4，每个数字最多用一次，能组成多少个三位数？",
+    "answer": "24",
+    "explanation": "百位、十位、个位是排列，A(4,3)=24。",
+    "verify": "perm(4,3)"
+  },
+  {
+    "id": "cnm_h235_q4",
+    "topicId": "cnm_h235",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "把 3 本不同的书分给 3 个不同的人，每人 1 本。这是哪一种计数？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "从 3 本里选 1 本的组合"
+      },
+      {
+        "key": "B",
+        "text": "把 3 本书的数目相加"
+      },
+      {
+        "key": "C",
+        "text": "不计谁拿到哪一本"
+      },
+      {
+        "key": "D",
+        "text": "3 个元素的全排列"
+      }
+    ],
+    "answer": "D",
+    "explanation": "人不同，谁拿哪一本要区分，所以是全排列。",
+    "verify": "\"3 个元素的全排列\""
+  },
+  {
+    "id": "cnm_h236_q1",
+    "topicId": "cnm_h236",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "下面哪一项是组合？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "从 4 名同学中选 2 名排成一队"
+      },
+      {
+        "key": "B",
+        "text": "从 4 名同学中选 2 名参加会议，不计先后"
+      },
+      {
+        "key": "C",
+        "text": "用 3 个不同数字组成三位数"
+      },
+      {
+        "key": "D",
+        "text": "5 个人站成前后不同的一排"
+      }
+    ],
+    "answer": "B",
+    "explanation": "组合只关心选了哪些人，不排列顺序。",
+    "verify": "\"从 4 名同学中选 2 名参加会议，不计先后\""
+  },
+  {
+    "id": "cnm_h236_q2",
+    "topicId": "cnm_h236",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从 4 个不同元素中取出 2 个，不计顺序。有多少种取法？",
+    "answer": "6",
+    "explanation": "有顺序时是 12 种，去掉顺序后每种组合对应 2 种排列，12/2=6。",
+    "verify": "comb(4,2)"
+  },
+  {
+    "id": "cnm_h236_q3",
+    "topicId": "cnm_h236",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "从 5 名同学中选 2 名值日，不计谁先谁后。有多少种选法？",
+    "answer": "10",
+    "explanation": "C(5,2)=10。",
+    "verify": "comb(5,2)"
+  },
+  {
+    "id": "cnm_h236_q4",
+    "topicId": "cnm_h236",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一组元素如果只是交换顺序，作为组合应当怎样算？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "仍然是同一种组合"
+      },
+      {
+        "key": "B",
+        "text": "变成另一种组合"
+      },
+      {
+        "key": "C",
+        "text": "变成排列数的阶乘"
+      },
+      {
+        "key": "D",
+        "text": "不能再称为组合"
+      }
+    ],
+    "answer": "A",
+    "explanation": "组合不区分顺序。交换顺序不产生新的组合。",
+    "verify": "\"仍然是同一种组合\""
+  },
+  {
+    "id": "cnm_h237_q1",
+    "topicId": "cnm_h237",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "C(6,2) 等于多少？",
+    "answer": "15",
+    "explanation": "6×5/2=15。",
+    "verify": "comb(6,2)"
+  },
+  {
+    "id": "cnm_h237_q2",
+    "topicId": "cnm_h237",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "C(5,0) 等于多少？",
+    "answer": "1",
+    "explanation": "一个都不取，只有 1 种空的取法。",
+    "verify": "comb(5,0)"
+  },
+  {
+    "id": "cnm_h237_q3",
+    "topicId": "cnm_h237",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "C(10,3) 等于多少？",
+    "answer": "120",
+    "explanation": "10×9×8/(3×2×1)=120。",
+    "verify": "comb(10,3)"
+  },
+  {
+    "id": "cnm_h237_q4",
+    "topicId": "cnm_h237",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "C(n,k) 和 A(n,k) 的关系是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "组合数等于排列数乘以 k"
+      },
+      {
+        "key": "B",
+        "text": "组合数等于排列数除以 k 的阶乘"
+      },
+      {
+        "key": "C",
+        "text": "组合数等于 n 的阶乘"
+      },
+      {
+        "key": "D",
+        "text": "两者总是相等"
+      }
+    ],
+    "answer": "B",
+    "explanation": "每种组合内部还有 k! 种排列，所以 C(n,k)=A(n,k)/k!。",
+    "verify": "\"组合数等于排列数除以 k 的阶乘\""
+  },
+  {
+    "id": "cnm_h238_q1",
+    "topicId": "cnm_h238",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "已知 C(8,3)=C(8,5)。C(8,5) 等于多少？",
+    "answer": "56",
+    "explanation": "C(8,5)=C(8,3)=56。",
+    "verify": "comb(8,5)"
+  },
+  {
+    "id": "cnm_h238_q2",
+    "topicId": "cnm_h238",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "C(6,2)+C(6,3) 等于多少？",
+    "answer": "35",
+    "explanation": "15+20=35，也等于 C(7,3)。",
+    "verify": "comb(6,2)+comb(6,3)"
+  },
+  {
+    "id": "cnm_h238_q3",
+    "topicId": "cnm_h238",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "C(n,k) 等于下面哪一个？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "C(k,n)"
+      },
+      {
+        "key": "B",
+        "text": "C(n,n−k)"
+      },
+      {
+        "key": "C",
+        "text": "C(n,k)+n"
+      },
+      {
+        "key": "D",
+        "text": "A(n,n−k)"
+      }
+    ],
+    "answer": "B",
+    "explanation": "取出 k 个和留下 k 个是同一件事的两面，所以 C(n,k)=C(n,n−k)。",
+    "verify": "\"C(n,n−k)\""
+  },
+  {
+    "id": "cnm_h238_q4",
+    "topicId": "cnm_h238",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "C(5,1)+C(5,2) 等于多少？",
+    "answer": "15",
+    "explanation": "5+10=15。",
+    "verify": "comb(5,1)+comb(5,2)"
+  },
+  {
+    "id": "cnm_h239_q1",
+    "topicId": "cnm_h239",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "从 6 名同学中选 3 人参加活动，不计顺序。有多少种选法？",
+    "answer": "20",
+    "explanation": "C(6,3)=20。",
+    "verify": "comb(6,3)"
+  },
+  {
+    "id": "cnm_h239_q2",
+    "topicId": "cnm_h239",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "5 名男生、4 名女生中，选 2 名男生和 1 名女生。有多少种选法？",
+    "answer": "40",
+    "explanation": "男生 C(5,2)=10，女生 C(4,1)=4，相乘得 40。",
+    "verify": "comb(5,2)*comb(4,1)"
+  },
+  {
+    "id": "cnm_h239_q3",
+    "topicId": "cnm_h239",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "10 件产品里有 2 件次品。抽 3 件，恰有 1 件次品的抽法有多少种？",
+    "answer": "56",
+    "explanation": "次品里选 1 件有 2 种，合格品里选 2 件有 28 种，2×28=56。",
+    "verify": "comb(2,1)*comb(8,2)"
+  },
+  {
+    "id": "cnm_h239_q4",
+    "topicId": "cnm_h239",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "从 8 人中选 3 人组成小组，不设职务。应该用什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "排列数 A(8,3)"
+      },
+      {
+        "key": "B",
+        "text": "8+3"
+      },
+      {
+        "key": "C",
+        "text": "8 的阶乘"
+      },
+      {
+        "key": "D",
+        "text": "组合数 C(8,3)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "小组内部不计顺序，也不设不同职务，所以用组合。",
+    "verify": "\"组合数 C(8,3)\""
+  },
+  {
+    "id": "cnm_h240_q1",
+    "topicId": "cnm_h240",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(1+x)^3 的展开式中，x² 的系数是多少？",
+    "answer": "3",
+    "explanation": "对应 k=2 的二项式系数 C(3,2)=3。",
+    "verify": "comb(3,2)"
+  },
+  {
+    "id": "cnm_h240_q2",
+    "topicId": "cnm_h240",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(a+b)^4 的展开式一共有多少项？",
+    "answer": "5",
+    "explanation": "k 从 0 到 4，共 5 项。",
+    "verify": "4+1"
+  },
+  {
+    "id": "cnm_h240_q3",
+    "topicId": "cnm_h240",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "二项式定理展开 (a+b)^n，一般项是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "a 的 n 次方加上 b 的 n 次方"
+      },
+      {
+        "key": "B",
+        "text": "n 乘以 a 乘以 b"
+      },
+      {
+        "key": "C",
+        "text": "只有 a 的 n 次方和 b 的 n 次方两项"
+      },
+      {
+        "key": "D",
+        "text": "C(n,k) 乘以 a 的 (n−k) 次方再乘以 b 的 k 次方"
+      }
+    ],
+    "answer": "D",
+    "explanation": "每一项都带一个组合数，a、b 的指数之和是 n。",
+    "verify": "\"C(n,k) 乘以 a 的 (n−k) 次方再乘以 b 的 k 次方\""
+  },
+  {
+    "id": "cnm_h240_q4",
+    "topicId": "cnm_h240",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "(a+b)^2 展开后，ab 的系数是多少？",
+    "answer": "2",
+    "explanation": "(a+b)^2=a²+2ab+b²，ab 的系数是 2。",
+    "verify": "comb(2,1)"
+  },
+  {
+    "id": "cnm_h241_q1",
+    "topicId": "cnm_h241",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(a+b)^5 按 a 的降幂排列，第 3 项的二项式系数是多少？",
+    "answer": "10",
+    "explanation": "第 3 项对应 k=2，C(5,2)=10。",
+    "verify": "comb(5,2)"
+  },
+  {
+    "id": "cnm_h241_q2",
+    "topicId": "cnm_h241",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(2x+1)^4 的展开式中，x² 的系数是多少？",
+    "answer": "24",
+    "explanation": "x 的指数为 2 时，(2x) 的指数是 2，k=2。C(4,2)×2²=6×4=24。",
+    "verify": "comb(4,2)*2**2"
+  },
+  {
+    "id": "cnm_h241_q3",
+    "topicId": "cnm_h241",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "(x+1)^6 的展开式中，常数项是多少？",
+    "answer": "1",
+    "explanation": "常数项不含 x，即 x 的指数为 0，系数 C(6,6)=1。",
+    "verify": "comb(6,6)"
+  },
+  {
+    "id": "cnm_h241_q4",
+    "topicId": "cnm_h241",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "通项 T_(k+1) 里，a 和 b 的指数有什么关系？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个指数都等于 k"
+      },
+      {
+        "key": "B",
+        "text": "两个指数相加等于 n"
+      },
+      {
+        "key": "C",
+        "text": "两个指数相乘等于 n"
+      },
+      {
+        "key": "D",
+        "text": "两个指数相加等于 k"
+      }
+    ],
+    "answer": "B",
+    "explanation": "a 的指数是 n−k，b 的指数是 k，和为 n。",
+    "verify": "\"两个指数相加等于 n\""
+  },
+  {
+    "id": "cnm_h242_q1",
+    "topicId": "cnm_h242",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(a+b)^4 的全部二项式系数之和是多少？",
+    "answer": "16",
+    "explanation": "令 a=b=1，左边是 2^4=16。",
+    "verify": "2**4"
+  },
+  {
+    "id": "cnm_h242_q2",
+    "topicId": "cnm_h242",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "(a+b)^6 的全部二项式系数之和是多少？",
+    "answer": "64",
+    "explanation": "2^6=64。",
+    "verify": "2**6"
+  },
+  {
+    "id": "cnm_h242_q3",
+    "topicId": "cnm_h242",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "把 (1+1)^n 展开，左边等于什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "n 的阶乘"
+      },
+      {
+        "key": "B",
+        "text": "2 的 n 次方"
+      },
+      {
+        "key": "C",
+        "text": "n"
+      },
+      {
+        "key": "D",
+        "text": "0"
+      }
+    ],
+    "answer": "B",
+    "explanation": "(1+1)^n=2^n，右边正好是全部二项式系数的和。",
+    "verify": "\"2 的 n 次方\""
+  },
+  {
+    "id": "cnm_h242_q4",
+    "topicId": "cnm_h242",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "C(4,0)+C(4,1)+C(4,2)+C(4,3)+C(4,4) 等于多少？",
+    "answer": "16",
+    "explanation": "这是 (a+b)^4 的系数和，等于 16。",
+    "verify": "sum(comb(4,k) for k in range(5))"
+  },
+  {
+    "id": "cnm_h243_q1",
+    "topicId": "cnm_h243",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "把 (a+b)^n 的二项式系数排成一行，n 从 0 开始。n=5 这一行、从左数第 3 个数（对应 k=2）是多少？",
+    "answer": "10",
+    "explanation": "这个位置是 C(5,2)=10。",
+    "verify": "comb(5,2)"
+  },
+  {
+    "id": "cnm_h243_q2",
+    "topicId": "cnm_h243",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "n=4 这一行所有数相加，和是多少？",
+    "answer": "16",
+    "explanation": "二项式系数之和是 2^4=16。",
+    "verify": "2**4"
+  },
+  {
+    "id": "cnm_h243_q3",
+    "topicId": "cnm_h243",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "杨辉三角中，C(5,1)+C(5,2) 等于下一行的哪一个组合数的值？先算出这个和。",
+    "answer": "15",
+    "explanation": "C(6,2)=C(5,1)+C(5,2)=5+10=15。",
+    "verify": "comb(5,1)+comb(5,2)"
+  },
+  {
+    "id": "cnm_h243_q4",
+    "topicId": "cnm_h243",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "杨辉三角和二项式定理是什么关系？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "每一行都是自然数 1、2、3 的依次排列"
+      },
+      {
+        "key": "B",
+        "text": "它只用来计算等差数列的和"
+      },
+      {
+        "key": "C",
+        "text": "它与组合数没有关系"
+      },
+      {
+        "key": "D",
+        "text": "每一行就是一次二项式展开的系数"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第 n 行（从 0 数）正是 (a+b)^n 的二项式系数。",
+    "verify": "\"每一行就是一次二项式展开的系数\""
+  },
+  {
+    "id": "cnm_h244_q1",
+    "topicId": "cnm_h244",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "袋中有 5 个红球、3 个蓝球。已经取出 1 个红球并且不放回。再取 1 个球，取到红球的概率是多少？",
+    "answer": "1/2",
+    "explanation": "剩下 4 个红球、3 个蓝球，共 8 个。取到红球的概率是 4/8=1/2。",
+    "verify": "Fraction(4,8)"
+  },
+  {
+    "id": "cnm_h244_q2",
+    "topicId": "cnm_h244",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "掷一枚均匀骰子，已知点数是偶数。在这个条件下，点数大于 3 的概率是多少？",
+    "answer": "2/3",
+    "explanation": "偶数结果是 2、4、6。其中大于 3 的是 4 和 6，概率是 2/3。",
+    "verify": "Fraction(2,3)"
+  },
+  {
+    "id": "cnm_h244_q3",
+    "topicId": "cnm_h244",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "P(A|B) 的定义是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "P(A) 除以 P(B)"
+      },
+      {
+        "key": "B",
+        "text": "P(A) 加上 P(B)"
+      },
+      {
+        "key": "C",
+        "text": "P(A) 乘以 P(B) 之后再加 1"
+      },
+      {
+        "key": "D",
+        "text": "P(A 与 B 同时发生) 除以 P(B)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "条件概率把样本空间缩小到 B 已经发生的部分。",
+    "verify": "\"P(A 与 B 同时发生) 除以 P(B)\""
+  },
+  {
+    "id": "cnm_h244_q4",
+    "topicId": "cnm_h244",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "一次试验有 8 个等可能结果。事件 B 含 4 个结果，A 与 B 的公共结果有 1 个。P(A|B) 是多少？",
+    "answer": "1/4",
+    "explanation": "在 B 的 4 个结果里，属于 A 的有 1 个，概率是 1/4。",
+    "verify": "Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h245_q1",
+    "topicId": "cnm_h245",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "P(A)=1/2，P(B|A)=1/3。P(A 与 B 同时发生) 是多少？",
+    "answer": "1/6",
+    "explanation": "乘法公式：1/2×1/3=1/6。",
+    "verify": "Fraction(1,2)*Fraction(1,3)"
+  },
+  {
+    "id": "cnm_h245_q2",
+    "topicId": "cnm_h245",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "袋中 5 个红球、5 个蓝球，共 10 个。不放回地依次抽 2 个。先红后蓝的概率是多少？",
+    "answer": "5/18",
+    "explanation": "第一次红是 5/10，第二次蓝是 5/9，相乘得 5/18。",
+    "verify": "Fraction(5,10)*Fraction(5,9)"
+  },
+  {
+    "id": "cnm_h245_q3",
+    "topicId": "cnm_h245",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "乘法公式 P(A∩B)=P(A)P(B|A) 里，第二个因数是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "在 A 已经发生的条件下 B 的概率"
+      },
+      {
+        "key": "B",
+        "text": "B 的对立事件的概率"
+      },
+      {
+        "key": "C",
+        "text": "A 与 B 的和"
+      },
+      {
+        "key": "D",
+        "text": "样本点的个数"
+      }
+    ],
+    "answer": "A",
+    "explanation": "先发生 A，再在这个条件下看 B。",
+    "verify": "\"在 A 已经发生的条件下 B 的概率\""
+  },
+  {
+    "id": "cnm_h245_q4",
+    "topicId": "cnm_h245",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "每次试验成功的概率都是 1/2，两次试验互不影响。两次都成功的概率是多少？",
+    "answer": "1/4",
+    "explanation": "第二次在第一次成功的条件下仍是 1/2，相乘得 1/4。",
+    "verify": "Fraction(1,2)*Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h246_q1",
+    "topicId": "cnm_h246",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "甲箱有 2 个红球、1 个白球，乙箱有 1 个红球、2 个白球。等可能地先选一箱，再从该箱抽 1 球。抽到红球的概率是多少？",
+    "answer": "1/2",
+    "explanation": "选甲再抽红是 1/3，选乙再抽红是 1/6，相加得 1/2。",
+    "verify": "Fraction(1,2)*Fraction(2,3)+Fraction(1,2)*Fraction(1,3)"
+  },
+  {
+    "id": "cnm_h246_q2",
+    "topicId": "cnm_h246",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "机器 A 生产全部产品的 3/5，次品率 1/10；机器 B 生产 2/5，次品率 1/5。任取 1 件是次品的概率是多少？",
+    "answer": "7/50",
+    "explanation": "3/50+4/50=7/50。",
+    "verify": "Fraction(3,5)*Fraction(1,10)+Fraction(2,5)*Fraction(1,5)"
+  },
+  {
+    "id": "cnm_h246_q3",
+    "topicId": "cnm_h246",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "使用全概率公式时，那些原因应当满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "可以互相重叠"
+      },
+      {
+        "key": "B",
+        "text": "互斥，并且并起来是全部可能"
+      },
+      {
+        "key": "C",
+        "text": "每个原因的概率都必须相等"
+      },
+      {
+        "key": "D",
+        "text": "只能有一个原因"
+      }
+    ],
+    "answer": "B",
+    "explanation": "先把情况分成没有重叠、又没有遗漏的几类，再加权相加。",
+    "verify": "\"互斥，并且并起来是全部可能\""
+  },
+  {
+    "id": "cnm_h246_q4",
+    "topicId": "cnm_h246",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "三条通道被选中的概率分别是 1/2、1/3、1/6，通过率分别是 1、1/2、0。总的通过概率是多少？",
+    "answer": "2/3",
+    "explanation": "1/2+1/6+0=2/3。",
+    "verify": "Fraction(1,2)*1+Fraction(1,3)*Fraction(1,2)+Fraction(1,6)*0"
+  },
+  {
+    "id": "cnm_h247_q1",
+    "topicId": "cnm_h247",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "机器 A 生产 3/5，次品率 1/10；机器 B 生产 2/5，次品率 1/5。已知取出的 1 件是次品，它来自 A 的概率是多少？",
+    "answer": "3/7",
+    "explanation": "分子是 3/50，分母是 7/50，结果是 3/7。",
+    "verify": "Fraction(Fraction(3,5)*Fraction(1,10), Fraction(3,5)*Fraction(1,10)+Fraction(2,5)*Fraction(1,5))"
+  },
+  {
+    "id": "cnm_h247_q2",
+    "topicId": "cnm_h247",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "甲箱红球概率 2/3，乙箱红球概率 1/3，两箱等可能。已知抽到红球，它来自甲箱的概率是多少？",
+    "answer": "2/3",
+    "explanation": "分子 1/3，分母 1/2，结果是 2/3。",
+    "verify": "Fraction(Fraction(1,2)*Fraction(2,3), Fraction(1,2)*Fraction(2,3)+Fraction(1,2)*Fraction(1,3))"
+  },
+  {
+    "id": "cnm_h247_q3",
+    "topicId": "cnm_h247",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "贝叶斯公式主要用来做什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只计算原因发生之前的概率"
+      },
+      {
+        "key": "B",
+        "text": "把所有概率都加到大于 1"
+      },
+      {
+        "key": "C",
+        "text": "在结果已经发生后，计算它来自某个原因的概率"
+      },
+      {
+        "key": "D",
+        "text": "代替排列数公式"
+      }
+    ],
+    "answer": "C",
+    "explanation": "它把条件概率的方向倒过来：由结果推原因。",
+    "verify": "\"在结果已经发生后，计算它来自某个原因的概率\""
+  },
+  {
+    "id": "cnm_h247_q4",
+    "topicId": "cnm_h247",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "P(D)=1/5，P(阳性|D)=4/5，P(阳性|不是 D)=1/5，且不是 D 的概率是 4/5。已知阳性，真有 D 的概率是多少？",
+    "answer": "1/2",
+    "explanation": "分子和另一部分都是 4/25，条件概率是 1/2。",
+    "verify": "Fraction(Fraction(1,5)*Fraction(4,5), Fraction(1,5)*Fraction(4,5)+Fraction(4,5)*Fraction(1,5))"
+  },
+  {
+    "id": "cnm_h248_q1",
+    "topicId": "cnm_h248",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A 与 B 相互独立，P(B)=1/3。P(B|A) 是多少？",
+    "answer": "1/3",
+    "explanation": "独立时，条件概率等于事件自己的概率，仍是 1/3。",
+    "verify": "Fraction(1,3)"
+  },
+  {
+    "id": "cnm_h248_q2",
+    "topicId": "cnm_h248",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "A 与 B 相互独立，P(A)=1/2，P(B)=1/4。P(A 与 B 同时发生) 是多少？",
+    "answer": "1/8",
+    "explanation": "独立时可以相乘：1/8。",
+    "verify": "Fraction(1,2)*Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h248_q3",
+    "topicId": "cnm_h248",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "相互独立的两个事件，条件概率有什么特点？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "P(B|A) 一定等于 0"
+      },
+      {
+        "key": "B",
+        "text": "P(B|A) 一定等于 1"
+      },
+      {
+        "key": "C",
+        "text": "P(A 与 B 同时发生) 一定等于 0"
+      },
+      {
+        "key": "D",
+        "text": "P(B|A) 等于 P(B)"
+      }
+    ],
+    "answer": "D",
+    "explanation": "A 的发生不改变 B 的概率。同时发生的概率为 0 是互斥，不是独立。",
+    "verify": "\"P(B|A) 等于 P(B)\""
+  },
+  {
+    "id": "cnm_h248_q4",
+    "topicId": "cnm_h248",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "互斥和独立是一回事吗？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不是。互斥说的是不能同时发生，独立说的是发生与否互不影响"
+      },
+      {
+        "key": "B",
+        "text": "是，两个词完全同义"
+      },
+      {
+        "key": "C",
+        "text": "是，互斥就一定独立"
+      },
+      {
+        "key": "D",
+        "text": "不是，独立是指两个事件的概率相等"
+      }
+    ],
+    "answer": "A",
+    "explanation": "概率都为正时，互斥事件不能独立，因为一个发生后另一个的条件概率变成 0。",
+    "verify": "\"不是。互斥说的是不能同时发生，独立说的是发生与否互不影响\""
+  },
+  {
+    "id": "cnm_h249_q1",
+    "topicId": "cnm_h249",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "掷一枚均匀骰子，用 X 表示点数。X 有多少个不同的可能取值？",
+    "answer": "6",
+    "explanation": "点数可以是 1 到 6，共 6 个值。",
+    "verify": "6"
+  },
+  {
+    "id": "cnm_h249_q2",
+    "topicId": "cnm_h249",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "离散型随机变量的取值有什么特点？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "可以取到某一区间里的每一个实数"
+      },
+      {
+        "key": "B",
+        "text": "不能用数字表示"
+      },
+      {
+        "key": "C",
+        "text": "取值必须是负数"
+      },
+      {
+        "key": "D",
+        "text": "只取有限个或者可以逐个列出的值"
+      }
+    ],
+    "answer": "D",
+    "explanation": "骰子点数、次品件数都是离散型。一段区间上的全部实数则不是。",
+    "verify": "\"只取有限个或者可以逐个列出的值\""
+  },
+  {
+    "id": "cnm_h249_q3",
+    "topicId": "cnm_h249",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "抛一枚均匀硬币 2 次，X 表示正面朝上的次数。X 有多少个不同的可能取值？",
+    "answer": "3",
+    "explanation": "可以是 0 次、1 次或 2 次。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h249_q4",
+    "topicId": "cnm_h249",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "袋中球的标号只有 1、2、3，抽出 1 个并用 X 表示标号。X=2 对应多少个标号？",
+    "answer": "1",
+    "explanation": "标号 2 只有一个，这个取值对应一种结果。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h250_q1",
+    "topicId": "cnm_h250",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 的取值是 1、2、3。P(X=1)=1/2，P(X=2)=1/3。P(X=3) 是多少？",
+    "answer": "1/6",
+    "explanation": "三项概率之和为 1，所以第三项是 1/6。",
+    "verify": "1-Fraction(1,2)-Fraction(1,3)"
+  },
+  {
+    "id": "cnm_h250_q2",
+    "topicId": "cnm_h250",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 只取 0 和 1，P(X=0)=1/4。P(X=1) 是多少？",
+    "answer": "3/4",
+    "explanation": "1−1/4=3/4。",
+    "verify": "1-Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h250_q3",
+    "topicId": "cnm_h250",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "一个分布列必须满足什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "每个概率都大于 1"
+      },
+      {
+        "key": "B",
+        "text": "每个概率不小于 0，并且全部概率之和等于 1"
+      },
+      {
+        "key": "C",
+        "text": "概率之和等于取值的个数"
+      },
+      {
+        "key": "D",
+        "text": "概率可以是负数，只要和为 1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "概率不能为负，全部可能取值的概率要正好分完 1。",
+    "verify": "\"每个概率不小于 0，并且全部概率之和等于 1\""
+  },
+  {
+    "id": "cnm_h250_q4",
+    "topicId": "cnm_h250",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "P(X=0)=1/5，P(X=1)=4/5。这两个概率之和是多少？",
+    "answer": "1",
+    "explanation": "1/5+4/5=1，可以作为完整的分布列。",
+    "verify": "Fraction(1,5)+Fraction(4,5)"
+  },
+  {
+    "id": "cnm_h251_q1",
+    "topicId": "cnm_h251",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 服从两点分布，P(X=1)=1/4。P(X=0) 是多少？",
+    "answer": "3/4",
+    "explanation": "失败概率是 1−p=3/4。",
+    "verify": "1-Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h251_q2",
+    "topicId": "cnm_h251",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两点分布中 P(X=1)=1/4。X 的均值是多少？",
+    "answer": "1/4",
+    "explanation": "0×(1−p)+1×p=p，均值就是 1/4。",
+    "verify": "Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h251_q3",
+    "topicId": "cnm_h251",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "两点分布用来描述什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一次试验有无穷多个结果"
+      },
+      {
+        "key": "B",
+        "text": "必须连续做 n 次"
+      },
+      {
+        "key": "C",
+        "text": "一次试验只有成功和失败两种结果"
+      },
+      {
+        "key": "D",
+        "text": "取值可以是任意整数"
+      }
+    ],
+    "answer": "C",
+    "explanation": "成功记为 1，失败记为 0，所以只有两个点。",
+    "verify": "\"一次试验只有成功和失败两种结果\""
+  },
+  {
+    "id": "cnm_h251_q4",
+    "topicId": "cnm_h251",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "把硬币正面记为 1、反面记为 0，硬币均匀。P(X=1) 是多少？",
+    "answer": "1/2",
+    "explanation": "正面概率是 1/2。",
+    "verify": "Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h252_q1",
+    "topicId": "cnm_h252",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 取值 1、2、3，概率分别是 1/2、1/3、1/6。X 的均值是多少？",
+    "answer": "5/3",
+    "explanation": "1/2+2/3+1/2=5/3。",
+    "verify": "1*Fraction(1,2)+2*Fraction(1,3)+3*Fraction(1,6)"
+  },
+  {
+    "id": "cnm_h252_q2",
+    "topicId": "cnm_h252",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 取值 0、1，概率分别是 3/4、1/4。均值是多少？",
+    "answer": "1/4",
+    "explanation": "均值等于 1/4。",
+    "verify": "0*Fraction(3,4)+1*Fraction(1,4)"
+  },
+  {
+    "id": "cnm_h252_q3",
+    "topicId": "cnm_h252",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "离散型随机变量的均值是怎样平均的？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "把所有取值直接相加"
+      },
+      {
+        "key": "B",
+        "text": "只取概率最大的那个值"
+      },
+      {
+        "key": "C",
+        "text": "用取值的个数去除最大值"
+      },
+      {
+        "key": "D",
+        "text": "用概率做权，把取值加权相加"
+      }
+    ],
+    "answer": "D",
+    "explanation": "概率大的取值对均值影响更大。",
+    "verify": "\"用概率做权，把取值加权相加\""
+  },
+  {
+    "id": "cnm_h252_q4",
+    "topicId": "cnm_h252",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "X 取值 2 和 4，概率都是 1/2。均值是多少？",
+    "answer": "3",
+    "explanation": "1+2=3。",
+    "verify": "2*Fraction(1,2)+4*Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h253_q1",
+    "topicId": "cnm_h253",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 取值 0 和 1，概率都是 1/2。方差是多少？",
+    "answer": "1/4",
+    "explanation": "均值是 1/2。两个平方都是 1/4，再各乘 1/2，方差是 1/4。",
+    "verify": "(0-Fraction(1,2))**2*Fraction(1,2)+(1-Fraction(1,2))**2*Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h253_q2",
+    "topicId": "cnm_h253",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 取值 1 和 3，概率都是 1/2。方差是多少？",
+    "answer": "1",
+    "explanation": "均值是 2。两个偏差平方都是 1，加权后方差是 1。",
+    "verify": "(1-2)**2*Fraction(1,2)+(3-2)**2*Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h253_q3",
+    "topicId": "cnm_h253",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方差描述的是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "取值相对均值的离散程度"
+      },
+      {
+        "key": "B",
+        "text": "取值的个数"
+      },
+      {
+        "key": "C",
+        "text": "最大取值"
+      },
+      {
+        "key": "D",
+        "text": "概率之和"
+      }
+    ],
+    "answer": "A",
+    "explanation": "离均值越远、而且这种偏离的概率越大，方差越大。",
+    "verify": "\"取值相对均值的离散程度\""
+  },
+  {
+    "id": "cnm_h253_q4",
+    "topicId": "cnm_h253",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "X 总是取 5，也就是 P(X=5)=1。方差是多少？",
+    "answer": "0",
+    "explanation": "取值没有偏离均值，方差是 0。",
+    "verify": "(5-5)**2*1"
+  },
+  {
+    "id": "cnm_h254_q1",
+    "topicId": "cnm_h254",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "每次成功概率都是 1/5，而且各次独立。失败概率是多少？",
+    "answer": "4/5",
+    "explanation": "失败概率是 1−p=4/5。",
+    "verify": "1-Fraction(1,5)"
+  },
+  {
+    "id": "cnm_h254_q2",
+    "topicId": "cnm_h254",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "伯努利试验需要满足哪些条件？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "每次只有两个结果，成功概率不变，而且各次独立"
+      },
+      {
+        "key": "B",
+        "text": "每次可以有很多个结果"
+      },
+      {
+        "key": "C",
+        "text": "成功概率一次比一次大"
+      },
+      {
+        "key": "D",
+        "text": "各次结果必须互斥地合成一个结果"
+      }
+    ],
+    "answer": "A",
+    "explanation": "两个结果、概率不变、相互独立，这三条都要有。",
+    "verify": "\"每次只有两个结果，成功概率不变，而且各次独立\""
+  },
+  {
+    "id": "cnm_h254_q3",
+    "topicId": "cnm_h254",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "把同一个试验独立重复 4 次。试验次数 n 是多少？",
+    "answer": "4",
+    "explanation": "重复了 4 次，n=4。",
+    "verify": "4"
+  },
+  {
+    "id": "cnm_h254_q4",
+    "topicId": "cnm_h254",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "n=3，每次成功概率 p=1/2。单次失败的概率是多少？",
+    "answer": "1/2",
+    "explanation": "1−1/2=1/2。",
+    "verify": "1-Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h255_q1",
+    "topicId": "cnm_h255",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 服从 B(4,1/2)。P(X=2) 是多少？",
+    "answer": "3/8",
+    "explanation": "C(4,2)×(1/2)^4=6/16=3/8。",
+    "verify": "comb(4,2)*Fraction(1,2)**4"
+  },
+  {
+    "id": "cnm_h255_q2",
+    "topicId": "cnm_h255",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 服从 B(3,1/3)。P(X=0) 是多少？",
+    "answer": "8/27",
+    "explanation": "三次都失败：(2/3)^3=8/27。",
+    "verify": "Fraction(2,3)**3"
+  },
+  {
+    "id": "cnm_h255_q3",
+    "topicId": "cnm_h255",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "X 服从 B(2,1/2)。P(X=1) 是多少？",
+    "answer": "1/2",
+    "explanation": "C(2,1)×1/4=1/2。",
+    "verify": "comb(2,1)*Fraction(1,2)**2"
+  },
+  {
+    "id": "cnm_h255_q4",
+    "topicId": "cnm_h255",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "二项分布 B(n,p) 里的 X 表示什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "每一次试验的成功概率"
+      },
+      {
+        "key": "B",
+        "text": "试验失败时的取值个数"
+      },
+      {
+        "key": "C",
+        "text": "样本空间的全部结果数"
+      },
+      {
+        "key": "D",
+        "text": "n 次独立重复试验中的成功次数"
+      }
+    ],
+    "answer": "D",
+    "explanation": "X 取 0、1、…、n，记录成功了几次。",
+    "verify": "\"n 次独立重复试验中的成功次数\""
+  },
+  {
+    "id": "cnm_h256_q1",
+    "topicId": "cnm_h256",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 服从 B(10,1/5)。均值是多少？",
+    "answer": "2",
+    "explanation": "np=10×1/5=2。",
+    "verify": "10*Fraction(1,5)"
+  },
+  {
+    "id": "cnm_h256_q2",
+    "topicId": "cnm_h256",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "X 服从 B(10,1/5)。方差是多少？",
+    "answer": "8/5",
+    "explanation": "np(1−p)=2×4/5=8/5。",
+    "verify": "10*Fraction(1,5)*Fraction(4,5)"
+  },
+  {
+    "id": "cnm_h256_q3",
+    "topicId": "cnm_h256",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "X 服从 B(4,1/2)。均值是多少？",
+    "answer": "2",
+    "explanation": "4×1/2=2。",
+    "verify": "4*Fraction(1,2)"
+  },
+  {
+    "id": "cnm_h256_q4",
+    "topicId": "cnm_h256",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "二项分布的方差公式是哪一个？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "np(1−p)"
+      },
+      {
+        "key": "B",
+        "text": "np"
+      },
+      {
+        "key": "C",
+        "text": "n+p"
+      },
+      {
+        "key": "D",
+        "text": "p 除以 n"
+      }
+    ],
+    "answer": "A",
+    "explanation": "均值是 np。方差再乘上失败概率 1−p。",
+    "verify": "\"np(1−p)\""
+  },
+  {
+    "id": "cnm_h257_q1",
+    "topicId": "cnm_h257",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "10 件产品中有 4 件次品，不放回地抽 3 件。恰有 1 件次品的概率是多少？",
+    "answer": "1/2",
+    "explanation": "C(4,1)×C(6,2)/C(10,3)=4×15/120=1/2。",
+    "verify": "Fraction(comb(4,1)*comb(6,2), comb(10,3))"
+  },
+  {
+    "id": "cnm_h257_q2",
+    "topicId": "cnm_h257",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "10 件产品中有 4 件次品，不放回地抽 3 件。3 件都是次品的概率是多少？",
+    "answer": "1/30",
+    "explanation": "C(4,3)×C(6,0)/120=4/120=1/30。",
+    "verify": "Fraction(comb(4,3)*comb(6,0), comb(10,3))"
+  },
+  {
+    "id": "cnm_h257_q3",
+    "topicId": "cnm_h257",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "10 件产品中有 4 件次品，不放回地抽 3 件。没有次品的概率是多少？",
+    "answer": "1/6",
+    "explanation": "C(6,3)/120=20/120=1/6。",
+    "verify": "Fraction(comb(4,0)*comb(6,3), comb(10,3))"
+  },
+  {
+    "id": "cnm_h257_q4",
+    "topicId": "cnm_h257",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "超几何分布和二项分布的抽取方式有什么不同？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "超几何分布每次都放回"
+      },
+      {
+        "key": "B",
+        "text": "超几何分布是不放回抽取"
+      },
+      {
+        "key": "C",
+        "text": "两者都要求无限总体"
+      },
+      {
+        "key": "D",
+        "text": "超几何分布不能使用组合数"
+      }
+    ],
+    "answer": "B",
+    "explanation": "不放回时，箱里剩下的次品数会变，所以用组合数而不是固定的 p。",
+    "verify": "\"超几何分布是不放回抽取\""
+  },
+  {
+    "id": "cnm_h258_q1",
+    "topicId": "cnm_h258",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "总体 10 件，其中指定类 4 件，不放回地抽 3 件。抽到的指定类件数的均值是多少？",
+    "answer": "6/5",
+    "explanation": "nK/N=12/10=6/5。",
+    "verify": "Fraction(3*4,10)"
+  },
+  {
+    "id": "cnm_h258_q2",
+    "topicId": "cnm_h258",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "总体 8 件，其中指定类 2 件，不放回地抽 4 件。均值是多少？",
+    "answer": "1",
+    "explanation": "8/8=1。",
+    "verify": "Fraction(4*2,8)"
+  },
+  {
+    "id": "cnm_h258_q3",
+    "topicId": "cnm_h258",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "超几何分布均值 nK/N 中，K 表示什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "抽取的件数"
+      },
+      {
+        "key": "B",
+        "text": "总体里指定类的件数"
+      },
+      {
+        "key": "C",
+        "text": "总体的件数"
+      },
+      {
+        "key": "D",
+        "text": "抽取后剩下的件数"
+      }
+    ],
+    "answer": "B",
+    "explanation": "N 是总体件数，n 是抽取件数，K 是总体中那一类的件数。",
+    "verify": "\"总体里指定类的件数\""
+  },
+  {
+    "id": "cnm_h258_q4",
+    "topicId": "cnm_h258",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "总体 6 件，其中指定类 3 件，不放回地抽 2 件。均值是多少？",
+    "answer": "1",
+    "explanation": "6/6=1。",
+    "verify": "Fraction(2*3,6)"
+  },
+  {
+    "id": "cnm_h259_q1",
+    "topicId": "cnm_h259",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "一个正态分布的均值是 5。正态曲线对称轴对应的横坐标是多少？",
+    "answer": "5",
+    "explanation": "对称轴是 x 等于均值，所以是 5。",
+    "verify": "5"
+  },
+  {
+    "id": "cnm_h259_q2",
+    "topicId": "cnm_h259",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "正态曲线的形状有什么特点？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "有两个峰，并且向左偏"
+      },
+      {
+        "key": "B",
+        "text": "单峰，并且关于均值对称"
+      },
+      {
+        "key": "C",
+        "text": "是一条直线"
+      },
+      {
+        "key": "D",
+        "text": "只在负数一边有值"
+      }
+    ],
+    "answer": "B",
+    "explanation": "中间高、两边低，左右对称。",
+    "verify": "\"单峰，并且关于均值对称\""
+  },
+  {
+    "id": "cnm_h259_q3",
+    "topicId": "cnm_h259",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "方差变大时，正态曲线怎样变化？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "变得更瘦更高"
+      },
+      {
+        "key": "B",
+        "text": "对称轴移动到 0"
+      },
+      {
+        "key": "C",
+        "text": "变得更平坦，更向两边展开"
+      },
+      {
+        "key": "D",
+        "text": "变成折线"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方差大表示数据更分散，曲线就更扁。",
+    "verify": "\"变得更平坦，更向两边展开\""
+  },
+  {
+    "id": "cnm_h259_q4",
+    "topicId": "cnm_h259",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "标准正态分布的均值是多少？",
+    "answer": "0",
+    "explanation": "标准正态的均值是 0，方差是 1。",
+    "verify": "0"
+  },
+  {
+    "id": "cnm_h260_q1",
+    "topicId": "cnm_h260",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "正态分布的均值是 10，标准差是 2。均值左右 1 个标准差的区间，半宽是几个标准差？",
+    "answer": "1",
+    "explanation": "题目所问的就是 1 个标准差。",
+    "verify": "1"
+  },
+  {
+    "id": "cnm_h260_q2",
+    "topicId": "cnm_h260",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "按常用的经验规则，大约 95% 的取值落在哪里？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "均值左右 1 个标准差之内"
+      },
+      {
+        "key": "B",
+        "text": "只落在均值这一点"
+      },
+      {
+        "key": "C",
+        "text": "均值左右 2 个标准差之内"
+      },
+      {
+        "key": "D",
+        "text": "均值左右 10 个标准差之外"
+      }
+    ],
+    "answer": "C",
+    "explanation": "1 个标准差约 68%，2 个标准差约 95%。这是近似说法。",
+    "verify": "\"均值左右 2 个标准差之内\""
+  },
+  {
+    "id": "cnm_h260_q3",
+    "topicId": "cnm_h260",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "标准正态分布的标准差是 1。均值左右 3 个标准差，正方向的端点是多少？",
+    "answer": "3",
+    "explanation": "均值 0 再加上 3×1，端点是 3。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h260_q4",
+    "topicId": "cnm_h260",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "经验规则里的 68% 和 95% 应当怎样理解？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "近似描述，不是由本题数据精确算出来的"
+      },
+      {
+        "key": "B",
+        "text": "必须等于样本里的准确百分比"
+      },
+      {
+        "key": "C",
+        "text": "只适用于均匀分布"
+      },
+      {
+        "key": "D",
+        "text": "表示方差等于 68"
+      }
+    ],
+    "answer": "A",
+    "explanation": "它们是正态曲线下面积的常用近似，真正的面积需要积分。",
+    "verify": "\"近似描述，不是由本题数据精确算出来的\""
+  },
+  {
+    "id": "cnm_h261_q1",
+    "topicId": "cnm_h261",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "散点大致从左下到右上，这表示什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "负相关"
+      },
+      {
+        "key": "B",
+        "text": "一定是函数关系 y=x"
+      },
+      {
+        "key": "C",
+        "text": "正相关"
+      },
+      {
+        "key": "D",
+        "text": "没有相关性"
+      }
+    ],
+    "answer": "C",
+    "explanation": "x 增大时 y 总体也增大，称为正相关。点不在同一条直线上，所以不是确定的函数。",
+    "verify": "\"正相关\""
+  },
+  {
+    "id": "cnm_h261_q2",
+    "topicId": "cnm_h261",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "散点大致从左上到右下，这表示什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "正相关"
+      },
+      {
+        "key": "B",
+        "text": "方差为 0"
+      },
+      {
+        "key": "C",
+        "text": "样本容量为 0"
+      },
+      {
+        "key": "D",
+        "text": "负相关"
+      }
+    ],
+    "answer": "D",
+    "explanation": "x 增大时 y 总体减小，称为负相关。",
+    "verify": "\"负相关\""
+  },
+  {
+    "id": "cnm_h261_q3",
+    "topicId": "cnm_h261",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "三组成对数据是 (1，2)、(2，3)、(3，5)。第二个数大于第一个数的有多少组？",
+    "answer": "3",
+    "explanation": "2>1，3>2，5>3，三组都是第二个数更大。",
+    "verify": "3"
+  },
+  {
+    "id": "cnm_h261_q4",
+    "topicId": "cnm_h261",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "统计相关和函数关系的差别是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两者完全相同"
+      },
+      {
+        "key": "B",
+        "text": "相关允许点在直线附近波动，函数关系要求每个 x 对应确定的 y"
+      },
+      {
+        "key": "C",
+        "text": "相关要求所有点重合"
+      },
+      {
+        "key": "D",
+        "text": "函数关系不能画在坐标系里"
+      }
+    ],
+    "answer": "B",
+    "explanation": "成对数据通常有波动，所以说相关，不说每一个点都满足同一个等式。",
+    "verify": "\"相关允许点在直线附近波动，函数关系要求每个 x 对应确定的 y\""
+  },
+  {
+    "id": "cnm_h262_q1",
+    "topicId": "cnm_h262",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "数据 (1，2)、(2，4)、(3，6)。x 的平均数是 2，y 的平均数是 4。离差乘积之和是多少？",
+    "answer": "4",
+    "explanation": "离差分别是 (−1,−2)、(0,0)、(1,2)，乘积之和是 2+0+2=4。",
+    "verify": "(-1)*(-2)+0*0+1*2"
+  },
+  {
+    "id": "cnm_h262_q2",
+    "topicId": "cnm_h262",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "数据 (1，1)、(2，2)、(3，3)。x 和 y 的平均数都是 2。离差乘积之和是多少？",
+    "answer": "2",
+    "explanation": "乘积是 1、0、1，和为 2。这组数据的相关系数是 1。",
+    "verify": "(-1)*(-1)+0*0+1*1"
+  },
+  {
+    "id": "cnm_h262_q3",
+    "topicId": "cnm_h262",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "样本相关系数 r 的取值范围是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "从 0 到 100"
+      },
+      {
+        "key": "B",
+        "text": "从 −1 到 1"
+      },
+      {
+        "key": "C",
+        "text": "任意正整数"
+      },
+      {
+        "key": "D",
+        "text": "只能是 0 或 1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "r=1 是完全正相关，r=−1 是完全负相关，r=0 表示没有线性相关。",
+    "verify": "\"从 −1 到 1\""
+  },
+  {
+    "id": "cnm_h262_q4",
+    "topicId": "cnm_h262",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "r 等于 0 说明什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一定完全正相关"
+      },
+      {
+        "key": "B",
+        "text": "样本容量是 0"
+      },
+      {
+        "key": "C",
+        "text": "这组数据没有线性相关"
+      },
+      {
+        "key": "D",
+        "text": "每一个 y 都等于 x 的平方"
+      }
+    ],
+    "answer": "C",
+    "explanation": "r=0 只否定线性关系，不能由此推出没有任何别的关系。",
+    "verify": "\"这组数据没有线性相关\""
+  },
+  {
+    "id": "cnm_h263_q1",
+    "topicId": "cnm_h263",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两个样本相关系数是 −3/5 和 1/5。表示线性相关更强的那个绝对值是多少？",
+    "answer": "3/5",
+    "explanation": "|−3/5|=3/5，大于 1/5。负号只说明方向相反。",
+    "verify": "max(abs(Fraction(-3,5)), abs(Fraction(1,5)))"
+  },
+  {
+    "id": "cnm_h263_q2",
+    "topicId": "cnm_h263",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "|r|=0.9 和 |r|=0.2 哪一个线性相关更强？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "|r|=0.2 更强"
+      },
+      {
+        "key": "B",
+        "text": "|r|=0.9 更强"
+      },
+      {
+        "key": "C",
+        "text": "两者一样强"
+      },
+      {
+        "key": "D",
+        "text": "无法用绝对值比较"
+      }
+    ],
+    "answer": "B",
+    "explanation": "绝对值越接近 1，线性相关越强。",
+    "verify": "\"|r|=0.9 更强\""
+  },
+  {
+    "id": "cnm_h263_q3",
+    "topicId": "cnm_h263",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "r=0.8 和 r=−0.8 的线性相关强弱是否相同？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "不相同，正数一定更强"
+      },
+      {
+        "key": "B",
+        "text": "不相同，负数没有相关"
+      },
+      {
+        "key": "C",
+        "text": "相同，因为绝对值相等"
+      },
+      {
+        "key": "D",
+        "text": "相同，因为两个数的和是 0"
+      }
+    ],
+    "answer": "C",
+    "explanation": "符号表示正负相关，绝对值才表示强弱。",
+    "verify": "\"相同，因为绝对值相等\""
+  },
+  {
+    "id": "cnm_h263_q4",
+    "topicId": "cnm_h263",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "|−4/5| 等于多少？",
+    "answer": "4/5",
+    "explanation": "绝对值是 4/5。",
+    "verify": "abs(Fraction(-4,5))"
+  },
+  {
+    "id": "cnm_h264_q1",
+    "topicId": "cnm_h264",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "一元线性回归模型的基本形式是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "响应变量等于解释变量的平方"
+      },
+      {
+        "key": "B",
+        "text": "响应变量等于一次函数再加上随机误差"
+      },
+      {
+        "key": "C",
+        "text": "两个变量必须相等"
+      },
+      {
+        "key": "D",
+        "text": "模型里不能有误差"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观测点在直线附近波动，波动用随机误差表示。",
+    "verify": "\"响应变量等于一次函数再加上随机误差\""
+  },
+  {
+    "id": "cnm_h264_q2",
+    "topicId": "cnm_h264",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "若一次部分是 y=2x+1，且把误差先看成 0。x=3 时，这个一次部分等于多少？",
+    "answer": "7",
+    "explanation": "2×3+1=7。实际观测还可能再加上误差。",
+    "verify": "2*3+1"
+  },
+  {
+    "id": "cnm_h264_q3",
+    "topicId": "cnm_h264",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "回归模型里，通常用哪一个量去估计另一个量？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "用样本容量估计方差"
+      },
+      {
+        "key": "B",
+        "text": "用相关系数代替所有数据"
+      },
+      {
+        "key": "C",
+        "text": "不用数据，只靠排序"
+      },
+      {
+        "key": "D",
+        "text": "用解释变量估计响应变量"
+      }
+    ],
+    "answer": "D",
+    "explanation": "解释变量是输入，响应变量是想预测的量。",
+    "verify": "\"用解释变量估计响应变量\""
+  },
+  {
+    "id": "cnm_h264_q4",
+    "topicId": "cnm_h264",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "直线 y=−1+2x 在 x=0 处的值是多少？",
+    "answer": "-1",
+    "explanation": "把 x=0 代入，得 −1。这是直线的截距。",
+    "verify": "-1+2*0"
+  },
+  {
+    "id": "cnm_h265_q1",
+    "topicId": "cnm_h265",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "某个点的观测值是 5，直线给出的预测值是 3。残差是多少？",
+    "answer": "2",
+    "explanation": "残差=观测−预测=2。",
+    "verify": "5-3"
+  },
+  {
+    "id": "cnm_h265_q2",
+    "topicId": "cnm_h265",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "两个点 (0，0) 和 (2，2) 都在直线 y=x 上。这两个点的残差平方和是多少？",
+    "answer": "0",
+    "explanation": "两个残差都是 0，平方和是 0。",
+    "verify": "(0-0)**2+(2-2)**2"
+  },
+  {
+    "id": "cnm_h265_q3",
+    "topicId": "cnm_h265",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "最小二乘法选择直线的标准是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "残差平方和达到最小"
+      },
+      {
+        "key": "B",
+        "text": "残差的个数达到最小"
+      },
+      {
+        "key": "C",
+        "text": "斜率必须是 1"
+      },
+      {
+        "key": "D",
+        "text": "截距必须是 0"
+      }
+    ],
+    "answer": "A",
+    "explanation": "每个残差先平方再相加，避免正负抵消。使这个和最小的直线就是回归直线。",
+    "verify": "\"残差平方和达到最小\""
+  },
+  {
+    "id": "cnm_h265_q4",
+    "topicId": "cnm_h265",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "观测值是 4，预测值是 4。残差的平方是多少？",
+    "answer": "0",
+    "explanation": "残差是 0，平方仍是 0。",
+    "verify": "(4-4)**2"
+  },
+  {
+    "id": "cnm_h266_q1",
+    "topicId": "cnm_h266",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "点 (1，1)、(2，3)、(3，5)。用最小二乘公式，斜率 b 是多少？",
+    "answer": "2",
+    "explanation": "分子 3×22−54=12，分母 42−36=6，斜率是 2。",
+    "verify": "Fraction(3*(1+6+15)-6*9, 3*(1+4+9)-6*6)"
+  },
+  {
+    "id": "cnm_h266_q2",
+    "topicId": "cnm_h266",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "点 (1，1)、(2，3)、(3，5) 的回归斜率是 2，y 的平均数是 3，x 的平均数是 2。截距 a 是多少？",
+    "answer": "-1",
+    "explanation": "a=ȳ−b x̄=3−4=−1。",
+    "verify": "3-2*2"
+  },
+  {
+    "id": "cnm_h266_q3",
+    "topicId": "cnm_h266",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "点 (0，1)、(1，3)。斜率 (3−1)/(1−0) 是多少？",
+    "answer": "2",
+    "explanation": "这两点确定的斜率是 2。",
+    "verify": "Fraction(3-1,1-0)"
+  },
+  {
+    "id": "cnm_h266_q4",
+    "topicId": "cnm_h266",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "算出斜率 b 之后，截距 a 常用什么计算？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x 的平均数除以 y 的平均数"
+      },
+      {
+        "key": "B",
+        "text": "把所有 x 相加"
+      },
+      {
+        "key": "C",
+        "text": "y 的平均数减去 b 乘以 x 的平均数"
+      },
+      {
+        "key": "D",
+        "text": "斜率的倒数"
+      }
+    ],
+    "answer": "C",
+    "explanation": "回归直线经过样本中心 (x̄，ȳ)，所以 a=ȳ−b x̄。",
+    "verify": "\"y 的平均数减去 b 乘以 x 的平均数\""
+  },
+  {
+    "id": "cnm_h267_q1",
+    "topicId": "cnm_h267",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "回归直线是 y=2x−1。x=4 时，y 的预测值是多少？",
+    "answer": "7",
+    "explanation": "8−1=7。",
+    "verify": "2*4-1"
+  },
+  {
+    "id": "cnm_h267_q2",
+    "topicId": "cnm_h267",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "回归直线是 y=−2+3x。x=2 时，预测值是多少？",
+    "answer": "4",
+    "explanation": "−2+6=4。",
+    "verify": "-2+3*2"
+  },
+  {
+    "id": "cnm_h267_q3",
+    "topicId": "cnm_h267",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "用回归直线得到的数应当称作什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "必须等于下一次的实测值"
+      },
+      {
+        "key": "B",
+        "text": "样本容量"
+      },
+      {
+        "key": "C",
+        "text": "预测值，实际观测还可能偏离它"
+      },
+      {
+        "key": "D",
+        "text": "相关系数本身"
+      }
+    ],
+    "answer": "C",
+    "explanation": "直线给出的是估计。随机误差会使实测值不同。",
+    "verify": "\"预测值，实际观测还可能偏离它\""
+  },
+  {
+    "id": "cnm_h267_q4",
+    "topicId": "cnm_h267",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "回归直线是 y=5−x。x=0 时，预测值是多少？",
+    "answer": "5",
+    "explanation": "x=0 时预测值就是截距 5。",
+    "verify": "5-0"
+  },
+  {
+    "id": "cnm_h268_q1",
+    "topicId": "cnm_h268",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "列联表四格人数是 10、6、4、10。总人数是多少？",
+    "answer": "30",
+    "explanation": "四格相加：10+6+4+10=30。",
+    "verify": "10+6+4+10"
+  },
+  {
+    "id": "cnm_h268_q2",
+    "topicId": "cnm_h268",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "列联表第一行的两格是 10 和 6。这一行的合计是多少？",
+    "answer": "16",
+    "explanation": "10+6=16。",
+    "verify": "10+6"
+  },
+  {
+    "id": "cnm_h268_q3",
+    "topicId": "cnm_h268",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "2×2 列联表用来整理什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "一组连续测量的平均数"
+      },
+      {
+        "key": "B",
+        "text": "一条回归直线的斜率"
+      },
+      {
+        "key": "C",
+        "text": "排列数 A(n,k)"
+      },
+      {
+        "key": "D",
+        "text": "两个各有两类的分类变量"
+      }
+    ],
+    "answer": "D",
+    "explanation": "每个对象同时落入两个分类，所以可以放进四格表。",
+    "verify": "\"两个各有两类的分类变量\""
+  },
+  {
+    "id": "cnm_h268_q4",
+    "topicId": "cnm_h268",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "四格人数 3、5、2、6。总人数是多少？",
+    "answer": "16",
+    "explanation": "3+5+2+6=16。",
+    "verify": "3+5+2+6"
+  },
+  {
+    "id": "cnm_h269_q1",
+    "topicId": "cnm_h269",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "独立性检验开始时先做什么假设？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "假设两个变量一定有因果关系"
+      },
+      {
+        "key": "B",
+        "text": "假设样本容量是 0"
+      },
+      {
+        "key": "C",
+        "text": "假设两个分类变量相互独立"
+      },
+      {
+        "key": "D",
+        "text": "假设回归斜率是 1"
+      }
+    ],
+    "answer": "C",
+    "explanation": "先假设独立。若数据偏离得太远，再怀疑这个假设。",
+    "verify": "\"假设两个分类变量相互独立\""
+  },
+  {
+    "id": "cnm_h269_q2",
+    "topicId": "cnm_h269",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "列联表 a=2，b=3，c=4，d=6。ad−bc 等于多少？",
+    "answer": "0",
+    "explanation": "12−12=0。交叉乘积相等时，这种关联的对比是 0。",
+    "verify": "2*6-3*4"
+  },
+  {
+    "id": "cnm_h269_q3",
+    "topicId": "cnm_h269",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "观测到的列联表偏离独立假设很远时，可以怎样说？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "有较充分的证据认为两个变量有关联"
+      },
+      {
+        "key": "B",
+        "text": "已经证明两个变量没有关系"
+      },
+      {
+        "key": "C",
+        "text": "必须把概率改成大于 1"
+      },
+      {
+        "key": "D",
+        "text": "说明样本是全体总体"
+      }
+    ],
+    "answer": "A",
+    "explanation": "检验给出的是统计证据，不是逻辑上的绝对证明。",
+    "verify": "\"有较充分的证据认为两个变量有关联\""
+  },
+  {
+    "id": "cnm_h269_q4",
+    "topicId": "cnm_h269",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "独立性检验关注的是哪一类变量？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "只能是连续的回归残差"
+      },
+      {
+        "key": "B",
+        "text": "分类变量"
+      },
+      {
+        "key": "C",
+        "text": "只能是排列数"
+      },
+      {
+        "key": "D",
+        "text": "只能是正态标准差"
+      }
+    ],
+    "answer": "B",
+    "explanation": "列联表记录的是类别的频数，所以对象是分类变量。",
+    "verify": "\"分类变量\""
+  },
+  {
+    "id": "cnm_h270_q1",
+    "topicId": "cnm_h270",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "列联表 a=20，b=5，c=5，d=20。按 χ²=n(ad−bc)²/((a+b)(c+d)(a+c)(b+d)) 计算，结果是多少？",
+    "answer": "18",
+    "explanation": "n=50，ad−bc=375，分母是 25 的四次方。结果是 18。",
+    "verify": "Fraction(50*(20*20-5*5)**2, 25*25*25*25)"
+  },
+  {
+    "id": "cnm_h270_q2",
+    "topicId": "cnm_h270",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "列联表 a=4，b=1，c=1，d=4。用同一个 χ² 公式，结果是多少？",
+    "answer": "18/5",
+    "explanation": "n=10，ad−bc=15。10×225/625=18/5。",
+    "verify": "Fraction(10*(4*4-1*1)**2, 5*5*5*5)"
+  },
+  {
+    "id": "cnm_h270_q3",
+    "topicId": "cnm_h270",
+    "difficulty": "standard",
+    "type": "choice",
+    "prompt": "这个统计量很大时，说明什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "两个变量的频数一定都是 0"
+      },
+      {
+        "key": "B",
+        "text": "更倾向认为两个分类变量不独立"
+      },
+      {
+        "key": "C",
+        "text": "必须接受独立假设"
+      },
+      {
+        "key": "D",
+        "text": "样本相关系数一定是 1"
+      }
+    ],
+    "answer": "B",
+    "explanation": "偏离独立假设越远，统计量越大。是否拒绝还要和临界值比较。",
+    "verify": "\"更倾向认为两个分类变量不独立\""
+  },
+  {
+    "id": "cnm_h270_q4",
+    "topicId": "cnm_h270",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "列联表四格都是 1。用同一个 χ² 公式，结果是多少？",
+    "answer": "0",
+    "explanation": "ad−bc=0，所以统计量是 0。",
+    "verify": "Fraction(4*(1*1-1*1)**2, 2*2*2*2)"
+  },
+  {
+    "id": "cnm_h271_q1",
+    "topicId": "cnm_h271",
+    "difficulty": "basic",
+    "type": "numeric",
+    "prompt": "已经建立的直线是 y=3x+2。x=5 时，预测值是多少？",
+    "answer": "17",
+    "explanation": "15+2=17。",
+    "verify": "3*5+2"
+  },
+  {
+    "id": "cnm_h271_q2",
+    "topicId": "cnm_h271",
+    "difficulty": "basic",
+    "type": "choice",
+    "prompt": "用统计模型做预测，比较完整的顺序是什么？",
+    "choices": [
+      {
+        "key": "A",
+        "text": "先写结论，再决定要不要收集数据"
+      },
+      {
+        "key": "B",
+        "text": "提出问题，整理成对数据，建立模型，再检验预测"
+      },
+      {
+        "key": "C",
+        "text": "只计算排列数"
+      },
+      {
+        "key": "D",
+        "text": "用一次测验的名次代替全部数据"
+      }
+    ],
+    "answer": "B",
+    "explanation": "模型要经过数据和预测效果的检查，不是先写下答案。",
+    "verify": "\"提出问题，整理成对数据，建立模型，再检验预测\""
+  },
+  {
+    "id": "cnm_h271_q3",
+    "topicId": "cnm_h271",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "预测值是 10，随后的实测值是 8。绝对误差是多少？",
+    "answer": "2",
+    "explanation": "|10−8|=2。误差大时要回头检查模型。",
+    "verify": "abs(10-8)"
+  },
+  {
+    "id": "cnm_h271_q4",
+    "topicId": "cnm_h271",
+    "difficulty": "standard",
+    "type": "numeric",
+    "prompt": "模型甲的残差平方和是 4，模型乙的是 9。按残差平方和较小来选择，选中的那个和是多少？",
+    "answer": "4",
+    "explanation": "4 小于 9，选择甲，对应的和是 4。",
+    "verify": "min(4,9)"
+  }
+]

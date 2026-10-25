@@ -1,0 +1,2388 @@
+[
+ {
+  "id": "cnm_p177_q1",
+  "topicId": "cnm_p177",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2/7×3＝？",
+  "answer": "6/7",
+  "explanation": "2/7×3＝6/7。",
+  "verify": "2/7*3"
+ },
+ {
+  "id": "cnm_p177_q2",
+  "topicId": "cnm_p177",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3/4×2＝？",
+  "answer": "3/2",
+  "explanation": "3/4×2＝6/4＝3/2。",
+  "verify": "3/4*2"
+ },
+ {
+  "id": "cnm_p177_q3",
+  "topicId": "cnm_p177",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每瓶有 3/5 升果汁，4 瓶一共多少升？计算：3/5×4＝？",
+  "answer": "12/5",
+  "explanation": "3/5×4＝12/5。",
+  "verify": "3/5*4"
+ },
+ {
+  "id": "cnm_p177_q4",
+  "topicId": "cnm_p177",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "1/2×6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "B",
+  "explanation": "1/2×6＝3。",
+  "verify": "1/2*6"
+ },
+ {
+  "id": "cnm_p178_q1",
+  "topicId": "cnm_p178",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/2×1/3＝？",
+  "answer": "1/6",
+  "explanation": "1/2×1/3＝1/6。",
+  "verify": "1/2*1/3"
+ },
+ {
+  "id": "cnm_p178_q2",
+  "topicId": "cnm_p178",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2/3×3/4＝？",
+  "answer": "1/2",
+  "explanation": "2/3×3/4＝1/2。",
+  "verify": "2/3*3/4"
+ },
+ {
+  "id": "cnm_p178_q3",
+  "topicId": "cnm_p178",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一条路修了 1/2，其中 2/3 是上午修的。上午修了全程的几分之几？计算：1/2×2/3＝？",
+  "answer": "1/3",
+  "explanation": "1/2×2/3＝1/3。",
+  "verify": "1/2*2/3"
+ },
+ {
+  "id": "cnm_p178_q4",
+  "topicId": "cnm_p178",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3/5×5/6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1/3"
+   },
+   {
+    "key": "B",
+    "text": "2/3"
+   },
+   {
+    "key": "C",
+    "text": "5/6"
+   },
+   {
+    "key": "D",
+    "text": "1/2"
+   }
+  ],
+  "answer": "D",
+  "explanation": "3/5×5/6＝1/2。",
+  "verify": "3/5*5/6"
+ },
+ {
+  "id": "cnm_p179_q1",
+  "topicId": "cnm_p179",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：20×1/4＝？",
+  "answer": "5",
+  "explanation": "20 的 1/4 是 5。",
+  "verify": "20*1/4"
+ },
+ {
+  "id": "cnm_p179_q2",
+  "topicId": "cnm_p179",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18×2/3＝？",
+  "answer": "12",
+  "explanation": "18 的 2/3 是 12。",
+  "verify": "18*2/3"
+ },
+ {
+  "id": "cnm_p179_q3",
+  "topicId": "cnm_p179",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一桶油 30 升，用去 2/5。用去多少升？计算：30×2/5＝？",
+  "answer": "12",
+  "explanation": "30×2/5＝12。",
+  "verify": "30*2/5"
+ },
+ {
+  "id": "cnm_p179_q4",
+  "topicId": "cnm_p179",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "24×3/8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "9"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "B",
+  "explanation": "24×3/8＝9。",
+  "verify": "24*3/8"
+ },
+ {
+  "id": "cnm_p180_q1",
+  "topicId": "cnm_p180",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：300＋200＝？",
+  "answer": "500",
+  "explanation": "向东 300 米再向北 200 米，两段一共 500 米。",
+  "verify": "300+200"
+ },
+ {
+  "id": "cnm_p180_q2",
+  "topicId": "cnm_p180",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：500－120＝？",
+  "answer": "380",
+  "explanation": "原计划走 500 米，少走 120 米，实际 380 米。",
+  "verify": "500-120"
+ },
+ {
+  "id": "cnm_p180_q3",
+  "topicId": "cnm_p180",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "学校在商店北偏东 40 度、距离 800 米处。只问距离是多少米？计算：800＋0＝？",
+  "answer": "800",
+  "explanation": "距离是 800 米。",
+  "verify": "800+0"
+ },
+ {
+  "id": "cnm_p180_q4",
+  "topicId": "cnm_p180",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "150＋250 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "300"
+   },
+   {
+    "key": "B",
+    "text": "400"
+   },
+   {
+    "key": "C",
+    "text": "350"
+   },
+   {
+    "key": "D",
+    "text": "500"
+   }
+  ],
+  "answer": "B",
+  "explanation": "150＋250＝400。",
+  "verify": "150+250"
+ },
+ {
+  "id": "cnm_p181_q1",
+  "topicId": "cnm_p181",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：200＋150＋50＝？",
+  "answer": "400",
+  "explanation": "三段分别是 200、150、50 米，一共 400 米。",
+  "verify": "200+150+50"
+ },
+ {
+  "id": "cnm_p181_q2",
+  "topicId": "cnm_p181",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：400－250＝？",
+  "answer": "150",
+  "explanation": "总路程 400 米，已经走了 250 米，还剩 150 米。",
+  "verify": "400-250"
+ },
+ {
+  "id": "cnm_p181_q3",
+  "topicId": "cnm_p181",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先向东 120 米，再向南 80 米。两段一共多少米？计算：120＋80＝？",
+  "answer": "200",
+  "explanation": "120＋80＝200。",
+  "verify": "120+80"
+ },
+ {
+  "id": "cnm_p181_q4",
+  "topicId": "cnm_p181",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "90＋60 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "120"
+   },
+   {
+    "key": "B",
+    "text": "140"
+   },
+   {
+    "key": "C",
+    "text": "160"
+   },
+   {
+    "key": "D",
+    "text": "150"
+   }
+  ],
+  "answer": "D",
+  "explanation": "90＋60＝150。",
+  "verify": "90+60"
+ },
+ {
+  "id": "cnm_p182_q1",
+  "topicId": "cnm_p182",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4/5÷2＝？",
+  "answer": "2/5",
+  "explanation": "4/5÷2＝4/5×1/2＝2/5。",
+  "verify": "4/5/2"
+ },
+ {
+  "id": "cnm_p182_q2",
+  "topicId": "cnm_p182",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6/7÷3＝？",
+  "answer": "2/7",
+  "explanation": "6/7÷3＝2/7。",
+  "verify": "6/7/3"
+ },
+ {
+  "id": "cnm_p182_q3",
+  "topicId": "cnm_p182",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3/4 米绳子平均剪成 3 段。每段多少米？计算：3/4÷3＝？",
+  "answer": "1/4",
+  "explanation": "3/4÷3＝1/4。",
+  "verify": "(3/4)/3"
+ },
+ {
+  "id": "cnm_p182_q4",
+  "topicId": "cnm_p182",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8/9÷4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2/9"
+   },
+   {
+    "key": "B",
+    "text": "1/9"
+   },
+   {
+    "key": "C",
+    "text": "4/9"
+   },
+   {
+    "key": "D",
+    "text": "8/9"
+   }
+  ],
+  "answer": "A",
+  "explanation": "8/9÷4＝2/9。",
+  "verify": "8/9/4"
+ },
+ {
+  "id": "cnm_p183_q1",
+  "topicId": "cnm_p183",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：（3/4）÷（1/2）＝？",
+  "answer": "3/2",
+  "explanation": "3/4÷1/2＝3/4×2/1＝3/2。",
+  "verify": "(3/4)/(1/2)"
+ },
+ {
+  "id": "cnm_p183_q2",
+  "topicId": "cnm_p183",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：（2/3）÷（4/5）＝？",
+  "answer": "5/6",
+  "explanation": "2/3÷4/5＝2/3×5/4＝5/6。",
+  "verify": "(2/3)/(4/5)"
+ },
+ {
+  "id": "cnm_p183_q3",
+  "topicId": "cnm_p183",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一张纸的 6/7 平均分成 2/7 一份。可以分成多少份？计算：（6/7）÷（2/7）＝？",
+  "answer": "3",
+  "explanation": "6/7÷2/7＝3。",
+  "verify": "(6/7)/(2/7)"
+ },
+ {
+  "id": "cnm_p183_q4",
+  "topicId": "cnm_p183",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "（5/6）÷（5/12） 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1/2"
+   },
+   {
+    "key": "B",
+    "text": "1"
+   },
+   {
+    "key": "C",
+    "text": "5/2"
+   },
+   {
+    "key": "D",
+    "text": "2"
+   }
+  ],
+  "answer": "D",
+  "explanation": "5/6÷5/12＝2。",
+  "verify": "(5/6)/(5/12)"
+ },
+ {
+  "id": "cnm_p184_q1",
+  "topicId": "cnm_p184",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12÷（3/4）＝？",
+  "answer": "16",
+  "explanation": "一个数的 3/4 是 12，这个数是 12÷3/4＝16。",
+  "verify": "12/(3/4)"
+ },
+ {
+  "id": "cnm_p184_q2",
+  "topicId": "cnm_p184",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6÷（2/5）＝？",
+  "answer": "15",
+  "explanation": "6÷2/5＝15。",
+  "verify": "6/(2/5)"
+ },
+ {
+  "id": "cnm_p184_q3",
+  "topicId": "cnm_p184",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "修一条路，已经修了 2/5，长 8 千米。这条路全长多少千米？计算：8÷（2/5）＝？",
+  "answer": "20",
+  "explanation": "8÷2/5＝20。",
+  "verify": "8/(2/5)"
+ },
+ {
+  "id": "cnm_p184_q4",
+  "topicId": "cnm_p184",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9÷（3/5） 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "15"
+   },
+   {
+    "key": "B",
+    "text": "5"
+   },
+   {
+    "key": "C",
+    "text": "12"
+   },
+   {
+    "key": "D",
+    "text": "27"
+   }
+  ],
+  "answer": "A",
+  "explanation": "9÷3/5＝15。",
+  "verify": "9/(3/5)"
+ },
+ {
+  "id": "cnm_p185_q1",
+  "topicId": "cnm_p185",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "比的前项除以后项，得到的叫什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "比值"
+   },
+   {
+    "key": "B",
+    "text": "前项"
+   },
+   {
+    "key": "C",
+    "text": "后项"
+   }
+  ],
+  "answer": "A",
+  "explanation": "前项÷后项＝比值。",
+  "verify": "'比值'"
+ },
+ {
+  "id": "cnm_p185_q2",
+  "topicId": "cnm_p185",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "6：8 的比值是多少？",
+  "answer": "3/4",
+  "explanation": "6÷8＝3/4。",
+  "verify": "Fraction(6,8)"
+ },
+ {
+  "id": "cnm_p185_q3",
+  "topicId": "cnm_p185",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "12：4 的比值是多少？",
+  "answer": "3",
+  "explanation": "12÷4＝3。",
+  "verify": "Fraction(12,4)"
+ },
+ {
+  "id": "cnm_p185_q4",
+  "topicId": "cnm_p185",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "10÷2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "5"
+   },
+   {
+    "key": "B",
+    "text": "4"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "A",
+  "explanation": "10：2 的比值是 5。",
+  "verify": "10/2"
+ },
+ {
+  "id": "cnm_p186_q1",
+  "topicId": "cnm_p186",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "比 12：8 化成最简整数比后，前项是多少？",
+  "answer": "3",
+  "explanation": "12 和 8 的最大公因数是 4，前项是 3。",
+  "verify": "12//gcd(12,8)"
+ },
+ {
+  "id": "cnm_p186_q2",
+  "topicId": "cnm_p186",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "比 15：10 化成最简整数比后，前项是多少？",
+  "answer": "3",
+  "explanation": "最大公因数是 5，前项是 3。",
+  "verify": "15//gcd(15,10)"
+ },
+ {
+  "id": "cnm_p186_q3",
+  "topicId": "cnm_p186",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "比 18：12 化成最简整数比后，前项是多少？",
+  "answer": "3",
+  "explanation": "最大公因数是 6，前项是 3。",
+  "verify": "18//gcd(18,12)"
+ },
+ {
+  "id": "cnm_p186_q4",
+  "topicId": "cnm_p186",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "20÷4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "6"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "5"
+   }
+  ],
+  "answer": "D",
+  "explanation": "20：4 化简后前项对应的除法是 20÷4＝5，这里比已经是 5：1。",
+  "verify": "20/4"
+ },
+ {
+  "id": "cnm_p187_q1",
+  "topicId": "cnm_p187",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：30÷（2＋3）×2＝？",
+  "answer": "12",
+  "explanation": "总份数 5，每份 6，前项 2 份是 12。",
+  "verify": "30/(2+3)*2"
+ },
+ {
+  "id": "cnm_p187_q2",
+  "topicId": "cnm_p187",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：40÷（1＋3）＝？",
+  "answer": "10",
+  "explanation": "一共 4 份，每份 10。",
+  "verify": "40/(1+3)"
+ },
+ {
+  "id": "cnm_p187_q3",
+  "topicId": "cnm_p187",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "56 本本子按 3：4 分给两个班。先求每份多少本。计算：56÷（3＋4）＝？",
+  "answer": "8",
+  "explanation": "56÷7＝8，每份 8 本。",
+  "verify": "56/(3+4)"
+ },
+ {
+  "id": "cnm_p187_q4",
+  "topicId": "cnm_p187",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "90÷（2＋3） 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "15"
+   },
+   {
+    "key": "B",
+    "text": "20"
+   },
+   {
+    "key": "C",
+    "text": "30"
+   },
+   {
+    "key": "D",
+    "text": "18"
+   }
+  ],
+  "answer": "D",
+  "explanation": "90÷5＝18。",
+  "verify": "90/(2+3)"
+ },
+ {
+  "id": "cnm_p188_q1",
+  "topicId": "cnm_p188",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "圆上的点到圆心的距离怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "距离都等于半径"
+   },
+   {
+    "key": "B",
+    "text": "有的长有的短"
+   },
+   {
+    "key": "C",
+    "text": "等于直径的 2 倍"
+   }
+  ],
+  "answer": "A",
+  "explanation": "同一圆里，所有半径一样长。",
+  "verify": "'距离都等于半径'"
+ },
+ {
+  "id": "cnm_p188_q2",
+  "topicId": "cnm_p188",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4×2＝？",
+  "answer": "8",
+  "explanation": "半径 4 厘米，直径是 8 厘米。",
+  "verify": "4*2"
+ },
+ {
+  "id": "cnm_p188_q3",
+  "topicId": "cnm_p188",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "直径 10 厘米。半径是多少厘米？计算：10÷2＝？",
+  "answer": "5",
+  "explanation": "10÷2＝5。",
+  "verify": "10/2"
+ },
+ {
+  "id": "cnm_p188_q4",
+  "topicId": "cnm_p188",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6×2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "8"
+   },
+   {
+    "key": "B",
+    "text": "12"
+   },
+   {
+    "key": "C",
+    "text": "10"
+   },
+   {
+    "key": "D",
+    "text": "16"
+   }
+  ],
+  "answer": "B",
+  "explanation": "半径 6 厘米，直径 12 厘米。",
+  "verify": "6*2"
+ },
+ {
+  "id": "cnm_p189_q1",
+  "topicId": "cnm_p189",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "圆周率大约是多少？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3.14"
+   },
+   {
+    "key": "B",
+    "text": "3.41"
+   },
+   {
+    "key": "C",
+    "text": "31.4"
+   }
+  ],
+  "answer": "A",
+  "explanation": "周长÷直径≈3.14。这里计算用 314/100。",
+  "verify": "'3.14'"
+ },
+ {
+  "id": "cnm_p189_q2",
+  "topicId": "cnm_p189",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：10×314/100＝？（用小数作答）",
+  "answer": "31.4",
+  "explanation": "直径 10 厘米，周长约 31.4 厘米。",
+  "verify": "10*314/100"
+ },
+ {
+  "id": "cnm_p189_q3",
+  "topicId": "cnm_p189",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "直径 2 厘米的圆，周长大约多少厘米？圆周率按 314/100。计算：2×314/100＝？（用小数作答）",
+  "answer": "6.28",
+  "explanation": "2×3.14＝6.28。",
+  "verify": "2*314/100"
+ },
+ {
+  "id": "cnm_p189_q4",
+  "topicId": "cnm_p189",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：5×314÷100＝？（用小数作答）",
+  "answer": "15.7",
+  "explanation": "直径 5 厘米，周长约 15.7 厘米。",
+  "verify": "5*314/100"
+ },
+ {
+  "id": "cnm_p190_q1",
+  "topicId": "cnm_p190",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "半径 2 厘米的圆，周长是多少厘米？圆周率按 314/100。",
+  "answer": "12.56",
+  "explanation": "2×3.14×2＝12.56。",
+  "verify": "Fraction(2*314*2,100)"
+ },
+ {
+  "id": "cnm_p190_q2",
+  "topicId": "cnm_p190",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "半径 5 厘米的圆，周长是多少厘米？圆周率按 314/100。",
+  "answer": "31.4",
+  "explanation": "2×3.14×5＝31.4。",
+  "verify": "Fraction(2*314*5,100)"
+ },
+ {
+  "id": "cnm_p190_q3",
+  "topicId": "cnm_p190",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个圆的直径是 4 厘米。先算半径。半径是多少厘米？计算：4÷2＝？",
+  "answer": "2",
+  "explanation": "半径是 2 厘米，周长再乘 2×3.14。",
+  "verify": "4/2"
+ },
+ {
+  "id": "cnm_p190_q4",
+  "topicId": "cnm_p190",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：2×314×1÷100＝？（用小数作答）",
+  "answer": "6.28",
+  "explanation": "半径 1 厘米，周长是 6.28 厘米。",
+  "verify": "2*314*1/100"
+ },
+ {
+  "id": "cnm_p191_q1",
+  "topicId": "cnm_p191",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "半径 1 厘米的圆，周长是多少厘米？圆周率按 314/100。",
+  "answer": "6.28",
+  "explanation": "车轮半径 1 厘米，滚动一圈约 6.28 厘米。",
+  "verify": "Fraction(2*314*1,100)"
+ },
+ {
+  "id": "cnm_p191_q2",
+  "topicId": "cnm_p191",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：314/100×10＝？（用小数作答）",
+  "answer": "31.4",
+  "explanation": "直径 10 厘米，一圈约 31.4 厘米。",
+  "verify": "314/100*10"
+ },
+ {
+  "id": "cnm_p191_q3",
+  "topicId": "cnm_p191",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "圆形花坛直径 20 米，围一圈篱笆大约多少米？圆周率按 314/100。计算：20×314/100＝？（用小数作答）",
+  "answer": "62.8",
+  "explanation": "20×3.14＝62.8。",
+  "verify": "20*314/100"
+ },
+ {
+  "id": "cnm_p191_q4",
+  "topicId": "cnm_p191",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4×314÷100＝？（用小数作答）",
+  "answer": "12.56",
+  "explanation": "直径 4 厘米，周长 12.56 厘米。",
+  "verify": "4*314/100"
+ },
+ {
+  "id": "cnm_p192_q1",
+  "topicId": "cnm_p192",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "半径 2 厘米的圆，面积是多少平方厘米？圆周率按 314/100。",
+  "answer": "12.56",
+  "explanation": "3.14×4＝12.56。",
+  "verify": "Fraction(314*2*2,100)"
+ },
+ {
+  "id": "cnm_p192_q2",
+  "topicId": "cnm_p192",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "半径 10 厘米的圆，面积是多少平方厘米？圆周率按 314/100。",
+  "answer": "314",
+  "explanation": "3.14×100＝314。",
+  "verify": "Fraction(314*10*10,100)"
+ },
+ {
+  "id": "cnm_p192_q3",
+  "topicId": "cnm_p192",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "半径 5 厘米。先算半径乘半径。5×5 是多少？计算：5×5＝？",
+  "answer": "25",
+  "explanation": "5×5＝25，再乘 3.14 才是面积。",
+  "verify": "5*5"
+ },
+ {
+  "id": "cnm_p192_q4",
+  "topicId": "cnm_p192",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：314×1×1÷100＝？（用小数作答）",
+  "answer": "3.14",
+  "explanation": "半径 1 厘米，面积 3.14 平方厘米。",
+  "verify": "314*1*1/100"
+ },
+ {
+  "id": "cnm_p193_q1",
+  "topicId": "cnm_p193",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2＋1＝？",
+  "answer": "3",
+  "explanation": "扇形有 2 条半径和 1 条弧，三种线段一共数 3。",
+  "verify": "2+1"
+ },
+ {
+  "id": "cnm_p193_q2",
+  "topicId": "cnm_p193",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：90÷360＝？（用小数作答）",
+  "answer": "0.25",
+  "explanation": "圆心角 90 度是整圆 360 度的 1/4。",
+  "verify": "90/360"
+ },
+ {
+  "id": "cnm_p193_q3",
+  "topicId": "cnm_p193",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "圆心角 180 度，是整圆的几分之几？先算 180÷360。计算：180÷360＝？（用小数作答）",
+  "answer": "0.5",
+  "explanation": "180÷360＝0.5，是整圆的一半。",
+  "verify": "180/360"
+ },
+ {
+  "id": "cnm_p193_q4",
+  "topicId": "cnm_p193",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "60÷30 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "2"
+   },
+   {
+    "key": "D",
+    "text": "90"
+   }
+  ],
+  "answer": "C",
+  "explanation": "60 度是 30 度的 2 倍。",
+  "verify": "60/30"
+ },
+ {
+  "id": "cnm_p194_q1",
+  "topicId": "cnm_p194",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "百分数表示什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "一个数是另一个数的百分之几"
+   },
+   {
+    "key": "B",
+    "text": "一定是钱数"
+   },
+   {
+    "key": "C",
+    "text": "只能表示增加"
+   }
+  ],
+  "answer": "A",
+  "explanation": "50% 表示百分之五十。",
+  "verify": "'一个数是另一个数的百分之几'"
+ },
+ {
+  "id": "cnm_p194_q2",
+  "topicId": "cnm_p194",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "100 的 50% 是多少？",
+  "answer": "50",
+  "explanation": "100 的一半是 50。",
+  "verify": "Fraction(100*50,100)"
+ },
+ {
+  "id": "cnm_p194_q3",
+  "topicId": "cnm_p194",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：25÷100＝？（用小数作答）",
+  "answer": "0.25",
+  "explanation": "25%＝25/100＝0.25。",
+  "verify": "25/100"
+ },
+ {
+  "id": "cnm_p194_q4",
+  "topicId": "cnm_p194",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "1×100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "50"
+   },
+   {
+    "key": "C",
+    "text": "100"
+   },
+   {
+    "key": "D",
+    "text": "1000"
+   }
+  ],
+  "answer": "C",
+  "explanation": "1 的 100% 是 100。",
+  "verify": "1*100"
+ },
+ {
+  "id": "cnm_p195_q1",
+  "topicId": "cnm_p195",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25÷100＝？（用小数作答）",
+  "answer": "0.25",
+  "explanation": "25%＝0.25。",
+  "verify": "25/100"
+ },
+ {
+  "id": "cnm_p195_q2",
+  "topicId": "cnm_p195",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.4×100＝？（用小数作答）",
+  "answer": "40",
+  "explanation": "0.4＝40%。这里算出百分号前面的 40。",
+  "verify": "0.4*100"
+ },
+ {
+  "id": "cnm_p195_q3",
+  "topicId": "cnm_p195",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3/4 化成百分数，先写成小数。3÷4 是多少？计算：3÷4＝？（用小数作答）",
+  "answer": "0.75",
+  "explanation": "3÷4＝0.75，也就是 75%。",
+  "verify": "3/4"
+ },
+ {
+  "id": "cnm_p195_q4",
+  "topicId": "cnm_p195",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：8÷100＝？（用小数作答）",
+  "answer": "0.08",
+  "explanation": "8%＝0.08。",
+  "verify": "8/100"
+ },
+ {
+  "id": "cnm_p196_q1",
+  "topicId": "cnm_p196",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "80 的 25% 是多少？",
+  "answer": "20",
+  "explanation": "80×0.25＝20。",
+  "verify": "Fraction(80*25,100)"
+ },
+ {
+  "id": "cnm_p196_q2",
+  "topicId": "cnm_p196",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "200 的 10% 是多少？",
+  "answer": "20",
+  "explanation": "200×0.1＝20。",
+  "verify": "Fraction(200*10,100)"
+ },
+ {
+  "id": "cnm_p196_q3",
+  "topicId": "cnm_p196",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "60 的 50% 是多少？",
+  "answer": "30",
+  "explanation": "60 的一半是 30。",
+  "verify": "Fraction(60*50,100)"
+ },
+ {
+  "id": "cnm_p196_q4",
+  "topicId": "cnm_p196",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "40×5/100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "2"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "20"
+   }
+  ],
+  "answer": "B",
+  "explanation": "40 的 5% 是 2。",
+  "verify": "40*5/100"
+ },
+ {
+  "id": "cnm_p197_q1",
+  "topicId": "cnm_p197",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：20÷80×100＝？",
+  "answer": "25",
+  "explanation": "20 是 80 的 25%。这里算出 25。",
+  "verify": "20/80*100"
+ },
+ {
+  "id": "cnm_p197_q2",
+  "topicId": "cnm_p197",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：15÷50×100＝？",
+  "answer": "30",
+  "explanation": "15 是 50 的 30%。",
+  "verify": "15/50*100"
+ },
+ {
+  "id": "cnm_p197_q3",
+  "topicId": "cnm_p197",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "40 人里有 10 人达标。达标的占百分之多少？先算 10÷40×100。计算：10÷40×100＝？",
+  "answer": "25",
+  "explanation": "10÷40×100＝25，是 25%。",
+  "verify": "10/40*100"
+ },
+ {
+  "id": "cnm_p197_q4",
+  "topicId": "cnm_p197",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6÷20×100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "20"
+   },
+   {
+    "key": "B",
+    "text": "26"
+   },
+   {
+    "key": "C",
+    "text": "40"
+   },
+   {
+    "key": "D",
+    "text": "30"
+   }
+  ],
+  "answer": "D",
+  "explanation": "6 是 20 的 30%。",
+  "verify": "6/20*100"
+ },
+ {
+  "id": "cnm_p198_q1",
+  "topicId": "cnm_p198",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：20÷0.4＝？（用小数作答）",
+  "answer": "50",
+  "explanation": "一个数的 40% 是 20，这个数是 50。",
+  "verify": "20/0.4"
+ },
+ {
+  "id": "cnm_p198_q2",
+  "topicId": "cnm_p198",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：30÷0.5＝？（用小数作答）",
+  "answer": "60",
+  "explanation": "一个数的 50% 是 30，这个数是 60。",
+  "verify": "30/0.5"
+ },
+ {
+  "id": "cnm_p198_q3",
+  "topicId": "cnm_p198",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一本书看了 25%，正好 40 页。全书多少页？计算：40÷0.25＝？（用小数作答）",
+  "answer": "160",
+  "explanation": "40÷0.25＝160。",
+  "verify": "40/0.25"
+ },
+ {
+  "id": "cnm_p198_q4",
+  "topicId": "cnm_p198",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "18÷0.2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3.6"
+   },
+   {
+    "key": "B",
+    "text": "90"
+   },
+   {
+    "key": "C",
+    "text": "36"
+   },
+   {
+    "key": "D",
+    "text": "180"
+   }
+  ],
+  "answer": "B",
+  "explanation": "一个数的 20% 是 18，这个数是 90。",
+  "verify": "18/0.2"
+ },
+ {
+  "id": "cnm_p199_q1",
+  "topicId": "cnm_p199",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "扇形统计图适合看什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "各部分占总数的多少"
+   },
+   {
+    "key": "B",
+    "text": "数量怎样随时间变化"
+   },
+   {
+    "key": "C",
+    "text": "只能看出最大的数是几"
+   }
+  ],
+  "answer": "A",
+  "explanation": "扇形的大小表示所占的百分比。",
+  "verify": "'各部分占总数的多少'"
+ },
+ {
+  "id": "cnm_p199_q2",
+  "topicId": "cnm_p199",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "40 的 25% 是多少？",
+  "answer": "10",
+  "explanation": "总数 40，某一部分占 25%，是 10。",
+  "verify": "Fraction(40*25,100)"
+ },
+ {
+  "id": "cnm_p199_q3",
+  "topicId": "cnm_p199",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "全班 50 人，喜欢足球的占 40%。喜欢足球的有多少人？计算：50×40÷100＝？",
+  "answer": "20",
+  "explanation": "50×40÷100＝20。",
+  "verify": "50*40/100"
+ },
+ {
+  "id": "cnm_p199_q4",
+  "topicId": "cnm_p199",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "200×30/100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "30"
+   },
+   {
+    "key": "B",
+    "text": "50"
+   },
+   {
+    "key": "C",
+    "text": "80"
+   },
+   {
+    "key": "D",
+    "text": "60"
+   }
+  ],
+  "answer": "D",
+  "explanation": "200 的 30% 是 60。",
+  "verify": "200*30/100"
+ },
+ {
+  "id": "cnm_p200_q1",
+  "topicId": "cnm_p200",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1＋3＝？",
+  "answer": "4",
+  "explanation": "1，4，9 不是每次加相同的数；1＋3＝4，下一次加 5。这里先算 1＋3。",
+  "verify": "1+3"
+ },
+ {
+  "id": "cnm_p200_q2",
+  "topicId": "cnm_p200",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4＋5＝？",
+  "answer": "9",
+  "explanation": "1，4，9 的后一个是 9，由 4＋5 得到下一步的增加量。",
+  "verify": "4+5"
+ },
+ {
+  "id": "cnm_p200_q3",
+  "topicId": "cnm_p200",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "正方形点阵：1，4，9。9 的后面一个是 9＋7。9＋7 是多少？计算：9＋7＝？",
+  "answer": "16",
+  "explanation": "后一个平方数是 16。",
+  "verify": "9+7"
+ },
+ {
+  "id": "cnm_p200_q4",
+  "topicId": "cnm_p200",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "16＋9 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "20"
+   },
+   {
+    "key": "B",
+    "text": "24"
+   },
+   {
+    "key": "C",
+    "text": "25"
+   },
+   {
+    "key": "D",
+    "text": "36"
+   }
+  ],
+  "answer": "C",
+  "explanation": "4×4＝16，再加 9 是 25，也就是 5×5。",
+  "verify": "16+9"
+ },
+ {
+  "id": "cnm_p201_q1",
+  "topicId": "cnm_p201",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "负数表示的是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "与正数意义相反的量"
+   },
+   {
+    "key": "B",
+    "text": "比 100 大的数"
+   },
+   {
+    "key": "C",
+    "text": "只能表示温度，不能表示别的"
+   }
+  ],
+  "answer": "A",
+  "explanation": "收入可以用正数，支出可以用负数。",
+  "verify": "'与正数意义相反的量'"
+ },
+ {
+  "id": "cnm_p201_q2",
+  "topicId": "cnm_p201",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "温度零下用什么数表示？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "负数表示"
+   },
+   {
+    "key": "B",
+    "text": "只能用 0"
+   },
+   {
+    "key": "C",
+    "text": "用大于 10 的数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "零下 3 度记作 -3。",
+  "verify": "'负数表示'"
+ },
+ {
+  "id": "cnm_p201_q3",
+  "topicId": "cnm_p201",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "温度从零上 3 度降到零下 2 度。下降了多少度？计算：3＋2＝？",
+  "answer": "5",
+  "explanation": "从 +3 到 0 是 3 度，再降 2 度，一共下降 5 度。",
+  "verify": "3+2"
+ },
+ {
+  "id": "cnm_p201_q4",
+  "topicId": "cnm_p201",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "18＋4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "14"
+   },
+   {
+    "key": "B",
+    "text": "22"
+   },
+   {
+    "key": "C",
+    "text": "18"
+   },
+   {
+    "key": "D",
+    "text": "24"
+   }
+  ],
+  "answer": "B",
+  "explanation": "室温 18 度，冰箱零下 4 度，相差 22 度。",
+  "verify": "18+4"
+ },
+ {
+  "id": "cnm_p202_q1",
+  "topicId": "cnm_p202",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8－5＝？",
+  "answer": "3",
+  "explanation": "收入 8 元、支出 5 元，结余 3 元。",
+  "verify": "8-5"
+ },
+ {
+  "id": "cnm_p202_q2",
+  "topicId": "cnm_p202",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6＋3＝？",
+  "answer": "9",
+  "explanation": "先下降 6 米再下降 3 米，一共下降 9 米。",
+  "verify": "6+3"
+ },
+ {
+  "id": "cnm_p202_q3",
+  "topicId": "cnm_p202",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "电梯上升 12 层，又下降 5 层。比起点高多少层？计算：12－5＝？",
+  "answer": "7",
+  "explanation": "12－5＝7。",
+  "verify": "12-5"
+ },
+ {
+  "id": "cnm_p202_q4",
+  "topicId": "cnm_p202",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "20－7 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "12"
+   },
+   {
+    "key": "B",
+    "text": "14"
+   },
+   {
+    "key": "C",
+    "text": "27"
+   },
+   {
+    "key": "D",
+    "text": "13"
+   }
+  ],
+  "answer": "D",
+  "explanation": "存入 20 元、取出 7 元，还剩 13 元。",
+  "verify": "20-7"
+ },
+ {
+  "id": "cnm_p203_q1",
+  "topicId": "cnm_p203",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "折扣里的八折是什么意思？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "原价的 80%"
+   },
+   {
+    "key": "B",
+    "text": "原价再加上 80 元"
+   },
+   {
+    "key": "C",
+    "text": "原价的 8%"
+   }
+  ],
+  "answer": "A",
+  "explanation": "八折就是按原价的 80% 出售。",
+  "verify": "'原价的 80%'"
+ },
+ {
+  "id": "cnm_p203_q2",
+  "topicId": "cnm_p203",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "原价 50 元，打 8 折后是多少元？",
+  "answer": "40",
+  "explanation": "50×0.8＝40。",
+  "verify": "Fraction(50*8,10)"
+ },
+ {
+  "id": "cnm_p203_q3",
+  "topicId": "cnm_p203",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "原价 80 元，打 9 折后是多少元？",
+  "answer": "72",
+  "explanation": "80×0.9＝72。",
+  "verify": "Fraction(80*9,10)"
+ },
+ {
+  "id": "cnm_p203_q4",
+  "topicId": "cnm_p203",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "200×7/10 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "140"
+   },
+   {
+    "key": "B",
+    "text": "14"
+   },
+   {
+    "key": "C",
+    "text": "70"
+   },
+   {
+    "key": "D",
+    "text": "180"
+   }
+  ],
+  "answer": "A",
+  "explanation": "打七折是原价的 70%，200×0.7＝140。",
+  "verify": "200*7/10"
+ },
+ {
+  "id": "cnm_p204_q1",
+  "topicId": "cnm_p204",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "200 的 3% 是多少？",
+  "answer": "6",
+  "explanation": "本金 200 元，年利率 3%，利息 6 元。",
+  "verify": "Fraction(200*3,100)"
+ },
+ {
+  "id": "cnm_p204_q2",
+  "topicId": "cnm_p204",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "500 的 2% 是多少？",
+  "answer": "10",
+  "explanation": "500×2%＝10。",
+  "verify": "Fraction(500*2,100)"
+ },
+ {
+  "id": "cnm_p204_q3",
+  "topicId": "cnm_p204",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "把 1000 元存一年，年利率 4%。利息是多少元？计算：1000×4÷100＝？",
+  "answer": "40",
+  "explanation": "1000×4%＝40。",
+  "verify": "1000*4/100"
+ },
+ {
+  "id": "cnm_p204_q4",
+  "topicId": "cnm_p204",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "800×5/100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "40"
+   },
+   {
+    "key": "C",
+    "text": "20"
+   },
+   {
+    "key": "D",
+    "text": "80"
+   }
+  ],
+  "answer": "B",
+  "explanation": "800 的 5% 是 40。",
+  "verify": "800*5/100"
+ },
+ {
+  "id": "cnm_p205_q1",
+  "topicId": "cnm_p205",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "50 的 20% 是多少？",
+  "answer": "10",
+  "explanation": "50 增加 20%，增加的量是 10。",
+  "verify": "Fraction(50*20,100)"
+ },
+ {
+  "id": "cnm_p205_q2",
+  "topicId": "cnm_p205",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：80＋16＝？",
+  "answer": "96",
+  "explanation": "原来 80，增加 16，现在是 96。",
+  "verify": "80+16"
+ },
+ {
+  "id": "cnm_p205_q3",
+  "topicId": "cnm_p205",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "去年 40 人，今年 50 人。增加了多少人？计算：50－40＝？",
+  "answer": "10",
+  "explanation": "50－40＝10，10÷40＝25%，增长了 25%。",
+  "verify": "50-40"
+ },
+ {
+  "id": "cnm_p205_q4",
+  "topicId": "cnm_p205",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "200×15/100 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "15"
+   },
+   {
+    "key": "B",
+    "text": "30"
+   },
+   {
+    "key": "C",
+    "text": "20"
+   },
+   {
+    "key": "D",
+    "text": "40"
+   }
+  ],
+  "answer": "B",
+  "explanation": "200 的 15% 是 30。",
+  "verify": "200*15/100"
+ },
+ {
+  "id": "cnm_p206_q1",
+  "topicId": "cnm_p206",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "圆柱的两个底面是什么形状？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "是完全相同的圆"
+   },
+   {
+    "key": "B",
+    "text": "是两个三角形"
+   },
+   {
+    "key": "C",
+    "text": "是一底一大的两个圆"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两个底面半径相等。",
+  "verify": "'是完全相同的圆'"
+ },
+ {
+  "id": "cnm_p206_q2",
+  "topicId": "cnm_p206",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×2＝？",
+  "answer": "6",
+  "explanation": "底面半径 3 厘米，直径是 6 厘米。",
+  "verify": "3*2"
+ },
+ {
+  "id": "cnm_p206_q3",
+  "topicId": "cnm_p206",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "圆柱高 10 厘米，底面半径 2 厘米。只问高是多少厘米？计算：10＋0＝？",
+  "answer": "10",
+  "explanation": "高是 10 厘米。",
+  "verify": "10+0"
+ },
+ {
+  "id": "cnm_p206_q4",
+  "topicId": "cnm_p206",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5×2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "15"
+   }
+  ],
+  "answer": "A",
+  "explanation": "半径 5 厘米，直径 10 厘米。",
+  "verify": "5*2"
+ },
+ {
+  "id": "cnm_p207_q1",
+  "topicId": "cnm_p207",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底面半径 2 厘米、高 5 厘米的圆柱，体积是多少立方厘米？圆周率按 314/100。",
+  "answer": "62.8",
+  "explanation": "3.14×4×5＝62.8。",
+  "verify": "Fraction(314*2*2*5,100)"
+ },
+ {
+  "id": "cnm_p207_q2",
+  "topicId": "cnm_p207",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底面半径 1 厘米、高 10 厘米的圆柱，体积是多少立方厘米？圆周率按 314/100。",
+  "answer": "31.4",
+  "explanation": "3.14×1×10＝31.4。",
+  "verify": "Fraction(314*1*1*10,100)"
+ },
+ {
+  "id": "cnm_p207_q3",
+  "topicId": "cnm_p207",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "底面积 12 平方厘米、高 4 厘米的圆柱，体积是多少立方厘米？计算：12×4＝？",
+  "answer": "48",
+  "explanation": "12×4＝48。",
+  "verify": "12*4"
+ },
+ {
+  "id": "cnm_p207_q4",
+  "topicId": "cnm_p207",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：314×3×3×2÷100＝？（用小数作答）",
+  "answer": "56.52",
+  "explanation": "半径 3、高 2，体积 56.52 立方厘米。",
+  "verify": "314*3*3*2/100"
+ },
+ {
+  "id": "cnm_p208_q1",
+  "topicId": "cnm_p208",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12.56＋12.56＝？（用小数作答）",
+  "answer": "25.12",
+  "explanation": "两个底面各 12.56，合起来 25.12。",
+  "verify": "12.56+12.56"
+ },
+ {
+  "id": "cnm_p208_q2",
+  "topicId": "cnm_p208",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25.12＋31.4＝？（用小数作答）",
+  "answer": "56.52",
+  "explanation": "底面积和 25.12，侧面积 31.4，表面积 56.52。",
+  "verify": "25.12+31.4"
+ },
+ {
+  "id": "cnm_p208_q3",
+  "topicId": "cnm_p208",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "侧面展开是长 6.28 厘米、宽 5 厘米的长方形。侧面积是多少平方厘米？计算：6.28×5＝？（用小数作答）",
+  "answer": "31.4",
+  "explanation": "6.28×5＝31.4。",
+  "verify": "6.28*5"
+ },
+ {
+  "id": "cnm_p208_q4",
+  "topicId": "cnm_p208",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3.14×4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6.28"
+   },
+   {
+    "key": "B",
+    "text": "9.42"
+   },
+   {
+    "key": "C",
+    "text": "15.7"
+   },
+   {
+    "key": "D",
+    "text": "12.56"
+   }
+  ],
+  "answer": "D",
+  "explanation": "半径 2 的底面积是 3.14×4＝12.56。",
+  "verify": "3.14*4"
+ },
+ {
+  "id": "cnm_p209_q1",
+  "topicId": "cnm_p209",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "圆锥的底面是什么形状？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "是一个圆"
+   },
+   {
+    "key": "B",
+    "text": "是一个正方形"
+   },
+   {
+    "key": "C",
+    "text": "是两个圆"
+   }
+  ],
+  "answer": "A",
+  "explanation": "圆锥有一个圆形底面和一个顶点。",
+  "verify": "'是一个圆'"
+ },
+ {
+  "id": "cnm_p209_q2",
+  "topicId": "cnm_p209",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18.84÷3＝？（用小数作答）",
+  "answer": "6.28",
+  "explanation": "等底等高圆柱体积 18.84，圆锥是它的三分之一，18.84÷3＝6.28。",
+  "verify": "18.84/3"
+ },
+ {
+  "id": "cnm_p209_q3",
+  "topicId": "cnm_p209",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "圆柱体积 30 立方厘米，等底等高的圆锥体积是多少？计算：30÷3＝？",
+  "answer": "10",
+  "explanation": "30÷3＝10。",
+  "verify": "30/3"
+ },
+ {
+  "id": "cnm_p209_q4",
+  "topicId": "cnm_p209",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：314×3×3×6÷3÷100＝？（用小数作答）",
+  "answer": "56.52",
+  "explanation": "半径 3、高 6 的圆锥体积是 56.52。",
+  "verify": "314*3*3*6/3/100"
+ },
+ {
+  "id": "cnm_p210_q1",
+  "topicId": "cnm_p210",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "比例的两项外项之积与两项内项之积怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "等于两项内项之积"
+   },
+   {
+    "key": "B",
+    "text": "一定比内项之积大"
+   },
+   {
+    "key": "C",
+    "text": "没有固定关系"
+   }
+  ],
+  "answer": "A",
+  "explanation": "这是比例的基本性质。",
+  "verify": "'等于两项内项之积'"
+ },
+ {
+  "id": "cnm_p210_q2",
+  "topicId": "cnm_p210",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×6＝？",
+  "answer": "12",
+  "explanation": "2：3＝4：6 里，外项 2×6＝12。",
+  "verify": "2*6"
+ },
+ {
+  "id": "cnm_p210_q3",
+  "topicId": "cnm_p210",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×4＝？",
+  "answer": "12",
+  "explanation": "内项 3×4＝12，和外项之积相等。",
+  "verify": "3*4"
+ },
+ {
+  "id": "cnm_p210_q4",
+  "topicId": "cnm_p210",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5×8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "40"
+   },
+   {
+    "key": "B",
+    "text": "13"
+   },
+   {
+    "key": "C",
+    "text": "30"
+   },
+   {
+    "key": "D",
+    "text": "45"
+   }
+  ],
+  "answer": "A",
+  "explanation": "5：4＝10：8 的外项之积是 40。",
+  "verify": "5*8"
+ },
+ {
+  "id": "cnm_p211_q1",
+  "topicId": "cnm_p211",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2：3＝8：x。x 是多少？计算：8×3÷2＝？",
+  "answer": "12",
+  "explanation": "2x＝24，x＝12。",
+  "verify": "8*3/2"
+ },
+ {
+  "id": "cnm_p211_q2",
+  "topicId": "cnm_p211",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "4：5＝x：20。x 是多少？计算：4×20÷5＝？",
+  "answer": "16",
+  "explanation": "5x＝80，x＝16。",
+  "verify": "4*20/5"
+ },
+ {
+  "id": "cnm_p211_q3",
+  "topicId": "cnm_p211",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "6：x＝2：5。先算 6×5÷2。计算：6×5÷2＝？",
+  "answer": "15",
+  "explanation": "2x＝30，x＝15。",
+  "verify": "6*5/2"
+ },
+ {
+  "id": "cnm_p211_q4",
+  "topicId": "cnm_p211",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9×4÷3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "10"
+   },
+   {
+    "key": "C",
+    "text": "12"
+   },
+   {
+    "key": "D",
+    "text": "18"
+   }
+  ],
+  "answer": "C",
+  "explanation": "3：4＝9：x，x＝12。",
+  "verify": "9*4/3"
+ },
+ {
+  "id": "cnm_p212_q1",
+  "topicId": "cnm_p212",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "比例尺是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "图上距离与实际距离的比"
+   },
+   {
+    "key": "B",
+    "text": "图上距离加上实际距离"
+   },
+   {
+    "key": "C",
+    "text": "只表示方向"
+   }
+  ],
+  "answer": "A",
+  "explanation": "图上距离：实际距离＝比例尺。",
+  "verify": "'图上距离与实际距离的比'"
+ },
+ {
+  "id": "cnm_p212_q2",
+  "topicId": "cnm_p212",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "图上距离 4 厘米，比例尺是 1 厘米表示实际 100 厘米。实际多少厘米？计算：4×100＝？",
+  "answer": "400",
+  "explanation": "4×100＝400。",
+  "verify": "4*100"
+ },
+ {
+  "id": "cnm_p212_q3",
+  "topicId": "cnm_p212",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "实际距离 800 厘米，图上 4 厘米。图上 1 厘米表示实际多少厘米？计算：800÷4＝？",
+  "answer": "200",
+  "explanation": "800÷4＝200。",
+  "verify": "800/4"
+ },
+ {
+  "id": "cnm_p212_q4",
+  "topicId": "cnm_p212",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6×50 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "56"
+   },
+   {
+    "key": "B",
+    "text": "200"
+   },
+   {
+    "key": "C",
+    "text": "560"
+   },
+   {
+    "key": "D",
+    "text": "300"
+   }
+  ],
+  "answer": "D",
+  "explanation": "图上 6 厘米，每厘米表示 50 厘米，实际 300 厘米。",
+  "verify": "6*50"
+ },
+ {
+  "id": "cnm_p213_q1",
+  "topicId": "cnm_p213",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "成正比例的两种量有什么特征？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "比值一定"
+   },
+   {
+    "key": "B",
+    "text": "乘积一定"
+   },
+   {
+    "key": "C",
+    "text": "和一定"
+   }
+  ],
+  "answer": "A",
+  "explanation": "速度一定时，路程和时间成正比例。",
+  "verify": "'比值一定'"
+ },
+ {
+  "id": "cnm_p213_q2",
+  "topicId": "cnm_p213",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "速度一定，3 时行 180 千米。1 时行多少千米？计算：180÷3＝？",
+  "answer": "60",
+  "explanation": "180÷3＝60。",
+  "verify": "180/3"
+ },
+ {
+  "id": "cnm_p213_q3",
+  "topicId": "cnm_p213",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每本 4 元，买 7 本。一共多少元？计算：4×7＝？",
+  "answer": "28",
+  "explanation": "单价一定，总价和数量成正比例，4×7＝28。",
+  "verify": "4*7"
+ },
+ {
+  "id": "cnm_p213_q4",
+  "topicId": "cnm_p213",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12×5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "17"
+   },
+   {
+    "key": "B",
+    "text": "50"
+   },
+   {
+    "key": "C",
+    "text": "72"
+   },
+   {
+    "key": "D",
+    "text": "60"
+   }
+  ],
+  "answer": "D",
+  "explanation": "每小时 12 千米，5 小时是 60 千米。",
+  "verify": "12*5"
+ },
+ {
+  "id": "cnm_p214_q1",
+  "topicId": "cnm_p214",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "成反比例的两种量有什么特征？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "乘积一定"
+   },
+   {
+    "key": "B",
+    "text": "比值一定"
+   },
+   {
+    "key": "C",
+    "text": "差一定"
+   }
+  ],
+  "answer": "A",
+  "explanation": "总价一定时，单价和数量成反比例。",
+  "verify": "'乘积一定'"
+ },
+ {
+  "id": "cnm_p214_q2",
+  "topicId": "cnm_p214",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "总价一定，单价 4 元时能买 6 个。单价 3 元时能买几个？计算：4×6÷3＝？",
+  "answer": "8",
+  "explanation": "4×6＝24，24÷3＝8。",
+  "verify": "4*6/3"
+ },
+ {
+  "id": "cnm_p214_q3",
+  "topicId": "cnm_p214",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "修路，每天修 8 米要 6 天。每天修 12 米，要几天？计算：8×6÷12＝？",
+  "answer": "4",
+  "explanation": "工作总量 48 米，48÷12＝4 天。",
+  "verify": "8*6/12"
+ },
+ {
+  "id": "cnm_p214_q4",
+  "topicId": "cnm_p214",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "20×3÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "8"
+   },
+   {
+    "key": "B",
+    "text": "10"
+   },
+   {
+    "key": "C",
+    "text": "15"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "D",
+  "explanation": "20×3＝60，60÷5＝12。",
+  "verify": "20*3/5"
+ },
+ {
+  "id": "cnm_p215_q1",
+  "topicId": "cnm_p215",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "3 本笔记本 12 元，同样的笔记本 5 本多少元？计算：12÷3×5＝？",
+  "answer": "20",
+  "explanation": "每本 4 元，5 本 20 元。",
+  "verify": "12/3*5"
+ },
+ {
+  "id": "cnm_p215_q2",
+  "topicId": "cnm_p215",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 小时行 90 千米，同样的速度 4 小时行多少千米？计算：90÷2×4＝？",
+  "answer": "180",
+  "explanation": "每小时 45 千米，4 小时 180 千米。",
+  "verify": "90/2*4"
+ },
+ {
+  "id": "cnm_p215_q3",
+  "topicId": "cnm_p215",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "用 6 台机器 4 小时完成的工作，改用 8 台同样的机器要几小时？计算：6×4÷8＝？",
+  "answer": "3",
+  "explanation": "工作总量按台时算是 24，24÷8＝3。",
+  "verify": "6*4/8"
+ },
+ {
+  "id": "cnm_p215_q4",
+  "topicId": "cnm_p215",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "15×2÷6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "5"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "7"
+   }
+  ],
+  "answer": "A",
+  "explanation": "15×2÷6＝5。",
+  "verify": "15*2/6"
+ },
+ {
+  "id": "cnm_p216_q1",
+  "topicId": "cnm_p216",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "鸽巢问题是说什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "物体数比抽屉数多，必有一个抽屉至少放两个"
+   },
+   {
+    "key": "B",
+    "text": "每个抽屉只能放一个"
+   },
+   {
+    "key": "C",
+    "text": "物体数一定等于抽屉数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "这是抽屉原理最简单的情形。",
+  "verify": "'物体数比抽屉数多，必有一个抽屉至少放两个'"
+ },
+ {
+  "id": "cnm_p216_q2",
+  "topicId": "cnm_p216",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：5－3＝？",
+  "answer": "2",
+  "explanation": "5 支铅笔放进 3 个笔筒，5 比 3 多 2。",
+  "verify": "5-3"
+ },
+ {
+  "id": "cnm_p216_q3",
+  "topicId": "cnm_p216",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：7÷3",
+  "answer": "2，1",
+  "explanation": "7÷3＝2……1。7 本书放进 3 个书包，至少有一个书包放了 2 本。",
+  "verify": "(7//3, 7%3)"
+ },
+ {
+  "id": "cnm_p216_q4",
+  "topicId": "cnm_p216",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：8－3＝？",
+  "answer": "5",
+  "explanation": "8 本书放进 3 个书包，8 比 3 多，必有一个书包至少放 2 本。",
+  "verify": "8-3"
+ }
+]

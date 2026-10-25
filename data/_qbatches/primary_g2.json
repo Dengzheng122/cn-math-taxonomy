@@ -1,0 +1,1238 @@
+[
+ {
+  "id": "cnm_p037_q1",
+  "topicId": "cnm_p037",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "分类要先定标准。按形状把扣子分开，先要确定什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "分类标准"
+   },
+   {
+    "key": "B",
+    "text": "扣子的价钱"
+   },
+   {
+    "key": "C",
+    "text": "谁先捡到"
+   }
+  ],
+  "answer": "A",
+  "explanation": "标准不同，分出的类就不同。",
+  "verify": "'分类标准'"
+ },
+ {
+  "id": "cnm_p037_q2",
+  "topicId": "cnm_p037",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：5＋3＝？",
+  "answer": "8",
+  "explanation": "两类分别有 5 个和 3 个，一共 8 个。",
+  "verify": "5+3"
+ },
+ {
+  "id": "cnm_p037_q3",
+  "topicId": "cnm_p037",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "红色扣子 7 颗，蓝色扣子 4 颗。红色比蓝色多几颗？计算：7－4＝？",
+  "answer": "3",
+  "explanation": "7－4＝3。",
+  "verify": "7-4"
+ },
+ {
+  "id": "cnm_p037_q4",
+  "topicId": "cnm_p037",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "三角形 6 个，圆形 6 个。两种图形一共有多少个？计算：6＋6＝？",
+  "answer": "12",
+  "explanation": "6＋6＝12。",
+  "verify": "6+6"
+ },
+ {
+  "id": "cnm_p038_q1",
+  "topicId": "cnm_p038",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "乘法表示的是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "求几个相同加数的和"
+   },
+   {
+    "key": "B",
+    "text": "从总数里去掉一部分"
+   },
+   {
+    "key": "C",
+    "text": "比较谁更大"
+   }
+  ],
+  "answer": "A",
+  "explanation": "例如 2＋2＋2 可以写成 2×3。",
+  "verify": "'求几个相同加数的和'"
+ },
+ {
+  "id": "cnm_p038_q2",
+  "topicId": "cnm_p038",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2＋2＋2＝？",
+  "answer": "6",
+  "explanation": "3 个 2 相加是 6，也就是 2×3＝6。",
+  "verify": "2+2+2"
+ },
+ {
+  "id": "cnm_p038_q3",
+  "topicId": "cnm_p038",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4＋4＝？",
+  "answer": "8",
+  "explanation": "2 个 4 相加是 8。",
+  "verify": "4+4"
+ },
+ {
+  "id": "cnm_p038_q4",
+  "topicId": "cnm_p038",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每组有 3 人，有这样的 2 组。一共有多少人？计算：3＋3＝？",
+  "answer": "6",
+  "explanation": "2 个 3 是 6。",
+  "verify": "3+3"
+ },
+ {
+  "id": "cnm_p039_q1",
+  "topicId": "cnm_p039",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×6＝？",
+  "answer": "12",
+  "explanation": "2×6＝12。",
+  "verify": "2*6"
+ },
+ {
+  "id": "cnm_p039_q2",
+  "topicId": "cnm_p039",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×4＝？",
+  "answer": "12",
+  "explanation": "3×4＝12。",
+  "verify": "3*4"
+ },
+ {
+  "id": "cnm_p039_q3",
+  "topicId": "cnm_p039",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒有 5 个皮球，一共 6 盒。一共有多少个？计算：5×6＝？",
+  "answer": "30",
+  "explanation": "求 6 个 5 的和，用乘法，5×6＝30。",
+  "verify": "5*6"
+ },
+ {
+  "id": "cnm_p039_q4",
+  "topicId": "cnm_p039",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4×3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "16"
+   },
+   {
+    "key": "B",
+    "text": "13"
+   },
+   {
+    "key": "C",
+    "text": "7"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "D",
+  "explanation": "4×3＝12。",
+  "verify": "4*3"
+ },
+ {
+  "id": "cnm_p040_q1",
+  "topicId": "cnm_p040",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 厘米大约有多长？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "指甲盖的宽度大约是 1 厘米"
+   },
+   {
+    "key": "B",
+    "text": "教室大约长 1 厘米"
+   },
+   {
+    "key": "C",
+    "text": "一支铅笔大约长 1 厘米"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 厘米很短，大约是指甲盖的宽度。",
+  "verify": "'指甲盖的宽度大约是 1 厘米'"
+ },
+ {
+  "id": "cnm_p040_q2",
+  "topicId": "cnm_p040",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "4 厘米是多少毫米？",
+  "answer": "40",
+  "explanation": "1 厘米＝10 毫米，4 厘米＝40 毫米。这里先记住厘米很短。",
+  "verify": "4*10"
+ },
+ {
+  "id": "cnm_p040_q3",
+  "topicId": "cnm_p040",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：3＋2＝？",
+  "answer": "5",
+  "explanation": "两段分别长 3 厘米和 2 厘米，合起来 5 厘米。",
+  "verify": "3+2"
+ },
+ {
+  "id": "cnm_p040_q4",
+  "topicId": "cnm_p040",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一根纸条长 6 厘米，剪去 2 厘米。还剩多少厘米？计算：6－2＝？",
+  "answer": "4",
+  "explanation": "6－2＝4。",
+  "verify": "6-2"
+ },
+ {
+  "id": "cnm_p041_q1",
+  "topicId": "cnm_p041",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 米等于多少厘米？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "100厘米"
+   },
+   {
+    "key": "B",
+    "text": "10厘米"
+   },
+   {
+    "key": "C",
+    "text": "1000厘米"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 米＝100 厘米。",
+  "verify": "'100厘米'"
+ },
+ {
+  "id": "cnm_p041_q2",
+  "topicId": "cnm_p041",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 米是多少厘米？",
+  "answer": "200",
+  "explanation": "2×100＝200。",
+  "verify": "2*100"
+ },
+ {
+  "id": "cnm_p041_q3",
+  "topicId": "cnm_p041",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "4 米是多少厘米？",
+  "answer": "400",
+  "explanation": "4 米＝400 厘米。",
+  "verify": "4*100"
+ },
+ {
+  "id": "cnm_p041_q4",
+  "topicId": "cnm_p041",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "旗杆高约 3 米，讲台长约 1 米。旗杆比讲台大约高几米？计算：3－1＝？",
+  "answer": "2",
+  "explanation": "3－1＝2。",
+  "verify": "3-1"
+ },
+ {
+  "id": "cnm_p042_q1",
+  "topicId": "cnm_p042",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：7×8＝？",
+  "answer": "56",
+  "explanation": "7×8＝56。",
+  "verify": "7*8"
+ },
+ {
+  "id": "cnm_p042_q2",
+  "topicId": "cnm_p042",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：9×3＝？",
+  "answer": "27",
+  "explanation": "9×3＝27。",
+  "verify": "9*3"
+ },
+ {
+  "id": "cnm_p042_q3",
+  "topicId": "cnm_p042",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒有 8 本本子，一共 6 盒。一共有多少本？计算：8×6＝？",
+  "answer": "48",
+  "explanation": "求 6 个 8 的和，用乘法，8×6＝48。",
+  "verify": "8*6"
+ },
+ {
+  "id": "cnm_p042_q4",
+  "topicId": "cnm_p042",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9×9 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "90"
+   },
+   {
+    "key": "B",
+    "text": "81"
+   },
+   {
+    "key": "C",
+    "text": "82"
+   },
+   {
+    "key": "D",
+    "text": "18"
+   }
+  ],
+  "answer": "B",
+  "explanation": "9×9＝81。",
+  "verify": "9*9"
+ },
+ {
+  "id": "cnm_p043_q1",
+  "topicId": "cnm_p043",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "除法表示的是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "把总数平均分成几份，求每一份"
+   },
+   {
+    "key": "B",
+    "text": "求几个相同加数的和"
+   },
+   {
+    "key": "C",
+    "text": "比较两个数谁大"
+   }
+  ],
+  "answer": "A",
+  "explanation": "平均分用除法，除法是乘法的逆运算。",
+  "verify": "'把总数平均分成几份，求每一份'"
+ },
+ {
+  "id": "cnm_p043_q2",
+  "topicId": "cnm_p043",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12÷3＝？",
+  "answer": "4",
+  "explanation": "12÷3＝4。",
+  "verify": "12/3"
+ },
+ {
+  "id": "cnm_p043_q3",
+  "topicId": "cnm_p043",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：8÷2＝？",
+  "answer": "4",
+  "explanation": "8÷2＝4。",
+  "verify": "8/2"
+ },
+ {
+  "id": "cnm_p043_q4",
+  "topicId": "cnm_p043",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "12 颗糖平均分给 3 个同学。每人几颗？计算：12÷3＝？",
+  "answer": "4",
+  "explanation": "12÷3＝4。",
+  "verify": "12/3"
+ },
+ {
+  "id": "cnm_p044_q1",
+  "topicId": "cnm_p044",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：56÷7＝？",
+  "answer": "8",
+  "explanation": "56÷7＝8。",
+  "verify": "56/7"
+ },
+ {
+  "id": "cnm_p044_q2",
+  "topicId": "cnm_p044",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：72÷8＝？",
+  "answer": "9",
+  "explanation": "72÷8＝9。",
+  "verify": "72/8"
+ },
+ {
+  "id": "cnm_p044_q3",
+  "topicId": "cnm_p044",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "63 个气球，平均分成 9 份。每份有多少个？计算：63÷9＝？",
+  "answer": "7",
+  "explanation": "63÷9＝7。",
+  "verify": "63/9"
+ },
+ {
+  "id": "cnm_p044_q4",
+  "topicId": "cnm_p044",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "48÷8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "7"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "5"
+   },
+   {
+    "key": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "D",
+  "explanation": "48÷8＝6。",
+  "verify": "48/8"
+ },
+ {
+  "id": "cnm_p045_q1",
+  "topicId": "cnm_p045",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 厘米大约有多长？用身体上的尺子估测时，最短的一截常常接近什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "指甲盖的宽度大约是 1 厘米"
+   },
+   {
+    "key": "B",
+    "text": "一步大约是 1 厘米"
+   },
+   {
+    "key": "C",
+    "text": "教室长大约是 1 厘米"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 厘米很短；一步要比 1 厘米长得多。",
+  "verify": "'指甲盖的宽度大约是 1 厘米'"
+ },
+ {
+  "id": "cnm_p045_q2",
+  "topicId": "cnm_p045",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "一拃大约 1 分米，也就是 10 厘米。3 拃大约是多少厘米？计算：3×10＝？",
+  "answer": "30",
+  "explanation": "1 分米＝10 厘米，3 拃大约 30 厘米。",
+  "verify": "3*10"
+ },
+ {
+  "id": "cnm_p045_q3",
+  "topicId": "cnm_p045",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "课桌大约 2 拃，一拃按 10 厘米算。课桌大约多少厘米？计算：2×10＝？",
+  "answer": "20",
+  "explanation": "2×10＝20。",
+  "verify": "2*10"
+ },
+ {
+  "id": "cnm_p045_q4",
+  "topicId": "cnm_p045",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "用尺量出绳子长 15 厘米，估测是 12 厘米。量出的比估的多几厘米？计算：15－12＝？",
+  "answer": "3",
+  "explanation": "15－12＝3。",
+  "verify": "15-12"
+ },
+ {
+  "id": "cnm_p046_q1",
+  "topicId": "cnm_p046",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18÷3＝？",
+  "answer": "6",
+  "explanation": "18÷3＝6。",
+  "verify": "18/3"
+ },
+ {
+  "id": "cnm_p046_q2",
+  "topicId": "cnm_p046",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：24÷6＝？",
+  "answer": "4",
+  "explanation": "24÷6＝4。",
+  "verify": "24/6"
+ },
+ {
+  "id": "cnm_p046_q3",
+  "topicId": "cnm_p046",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "20 张贴纸，平均分成 4 份。每份有多少张？计算：20÷4＝？",
+  "answer": "5",
+  "explanation": "20÷4＝5。",
+  "verify": "20/4"
+ },
+ {
+  "id": "cnm_p046_q4",
+  "topicId": "cnm_p046",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "30÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "7"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "6"
+   },
+   {
+    "key": "D",
+    "text": "5"
+   }
+  ],
+  "answer": "C",
+  "explanation": "30÷5＝6。",
+  "verify": "30/5"
+ },
+ {
+  "id": "cnm_p047_q1",
+  "topicId": "cnm_p047",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6×4＝？",
+  "answer": "24",
+  "explanation": "24÷6＝4，因为 6×4＝24。",
+  "verify": "6*4"
+ },
+ {
+  "id": "cnm_p047_q2",
+  "topicId": "cnm_p047",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：7×8＝？",
+  "answer": "56",
+  "explanation": "56÷7＝8，因为 7×8＝56。",
+  "verify": "7*8"
+ },
+ {
+  "id": "cnm_p047_q3",
+  "topicId": "cnm_p047",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "有人说 36÷6＝5。用乘法检查：6×5 是多少？和 36 一样吗？先算出 6×5。计算：6×5＝？",
+  "answer": "30",
+  "explanation": "6×5＝30，不等于 36，所以商不是 5。",
+  "verify": "6*5"
+ },
+ {
+  "id": "cnm_p047_q4",
+  "topicId": "cnm_p047",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：9×4＝？",
+  "answer": "36",
+  "explanation": "36÷9＝4，验算 9×4＝36。",
+  "verify": "9*4"
+ },
+ {
+  "id": "cnm_p048_q1",
+  "topicId": "cnm_p048",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×6＝？",
+  "answer": "18",
+  "explanation": "3×6＝18。",
+  "verify": "3*6"
+ },
+ {
+  "id": "cnm_p048_q2",
+  "topicId": "cnm_p048",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4×7＝？",
+  "answer": "28",
+  "explanation": "4×7＝28。",
+  "verify": "4*7"
+ },
+ {
+  "id": "cnm_p048_q3",
+  "topicId": "cnm_p048",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒有 5 个鸡蛋，一共 8 盒。一共有多少个？计算：5×8＝？",
+  "answer": "40",
+  "explanation": "求 8 个 5 的和，用乘法，5×8＝40。",
+  "verify": "5*8"
+ },
+ {
+  "id": "cnm_p048_q4",
+  "topicId": "cnm_p048",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6×9 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "60"
+   },
+   {
+    "key": "B",
+    "text": "55"
+   },
+   {
+    "key": "C",
+    "text": "15"
+   },
+   {
+    "key": "D",
+    "text": "54"
+   }
+  ],
+  "answer": "D",
+  "explanation": "6×9＝54。",
+  "verify": "6*9"
+ },
+ {
+  "id": "cnm_p049_q1",
+  "topicId": "cnm_p049",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "东和西是什么关系？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "相反的方向"
+   },
+   {
+    "key": "B",
+    "text": "同一个方向"
+   },
+   {
+    "key": "C",
+    "text": "都在南边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "东和西相反，南和北相反。",
+  "verify": "'相反的方向'"
+ },
+ {
+  "id": "cnm_p049_q2",
+  "topicId": "cnm_p049",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "地图上通常是怎样定方向的？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "上北下南，左西右东"
+   },
+   {
+    "key": "B",
+    "text": "上南下北，左东右西"
+   },
+   {
+    "key": "C",
+    "text": "没有固定方向"
+   }
+  ],
+  "answer": "A",
+  "explanation": "看地图时通常按上北下南。",
+  "verify": "'上北下南，左西右东'"
+ },
+ {
+  "id": "cnm_p049_q3",
+  "topicId": "cnm_p049",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：1＋1＝？",
+  "answer": "2",
+  "explanation": "向东 1 格再向东 1 格，一共向东 2 格。",
+  "verify": "1+1"
+ },
+ {
+  "id": "cnm_p049_q4",
+  "topicId": "cnm_p049",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "从校门向北走 40 米，再向南走 10 米。这时在校门北面多少米？计算：40－10＝？",
+  "answer": "30",
+  "explanation": "向南走是往回，40－10＝30。",
+  "verify": "40-10"
+ },
+ {
+  "id": "cnm_p050_q1",
+  "topicId": "cnm_p050",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "有余数的除法里，余数和除数谁比较小？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "余数比除数小"
+   },
+   {
+    "key": "B",
+    "text": "余数比除数大"
+   },
+   {
+    "key": "C",
+    "text": "余数一定是 0"
+   }
+  ],
+  "answer": "A",
+  "explanation": "如果余数不比除数小，还可以再分一份。",
+  "verify": "'余数比除数小'"
+ },
+ {
+  "id": "cnm_p050_q2",
+  "topicId": "cnm_p050",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "13 颗糖，每 5 颗装一袋。先写商，再写余数。商和余数：13÷5",
+  "answer": "2，3",
+  "explanation": "13÷5＝2（袋）余 3，余数 3 比除数 5 小。",
+  "verify": "(13//5, 13%5)"
+ },
+ {
+  "id": "cnm_p050_q3",
+  "topicId": "cnm_p050",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "17 本本子，每 3 本捆一捆。先写商，再写余数。商和余数：17÷3",
+  "answer": "5，2",
+  "explanation": "17÷3＝5 余 2。",
+  "verify": "(17//3, 17%3)"
+ },
+ {
+  "id": "cnm_p050_q4",
+  "topicId": "cnm_p050",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：20÷6",
+  "answer": "3，2",
+  "explanation": "20÷6＝3 余 2。",
+  "verify": "(20//6, 20%6)"
+ },
+ {
+  "id": "cnm_p051_q1",
+  "topicId": "cnm_p051",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：14÷4",
+  "answer": "3，2",
+  "explanation": "4×3＝12，14－12＝2，商 3 余 2。",
+  "verify": "(14//4, 14%4)"
+ },
+ {
+  "id": "cnm_p051_q2",
+  "topicId": "cnm_p051",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：25÷7",
+  "answer": "3，4",
+  "explanation": "7×3＝21，25－21＝4，商 3 余 4。",
+  "verify": "(25//7, 25%7)"
+ },
+ {
+  "id": "cnm_p051_q3",
+  "topicId": "cnm_p051",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "30 个苹果，每袋装 8 个。先写商，再写余数。商和余数：30÷8",
+  "answer": "3，6",
+  "explanation": "8×3＝24，30－24＝6，商 3 余 6。",
+  "verify": "(30//8, 30%8)"
+ },
+ {
+  "id": "cnm_p051_q4",
+  "topicId": "cnm_p051",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：45÷6",
+  "answer": "7，3",
+  "explanation": "6×7＝42，45－42＝3，商 7 余 3。",
+  "verify": "(45//6, 45%6)"
+ },
+ {
+  "id": "cnm_p052_q1",
+  "topicId": "cnm_p052",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "23 个皮球，每 5 个装一袋。先写商，再写余数。商和余数：23÷5",
+  "answer": "4，3",
+  "explanation": "23÷5＝4 余 3，能装 4 袋，剩 3 个。",
+  "verify": "(23//5, 23%5)"
+ },
+ {
+  "id": "cnm_p052_q2",
+  "topicId": "cnm_p052",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：19÷4",
+  "answer": "4，3",
+  "explanation": "19÷4＝4 余 3。",
+  "verify": "(19//4, 19%4)"
+ },
+ {
+  "id": "cnm_p052_q3",
+  "topicId": "cnm_p052",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "28 人租船，每条船坐 6 人。先写商，再写余数。商和余数：28÷6",
+  "answer": "4，4",
+  "explanation": "28÷6＝4 余 4。",
+  "verify": "(28//6, 28%6)"
+ },
+ {
+  "id": "cnm_p052_q4",
+  "topicId": "cnm_p052",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：50÷8",
+  "answer": "6，2",
+  "explanation": "50÷8＝6 余 2。",
+  "verify": "(50//8, 50%8)"
+ },
+ {
+  "id": "cnm_p053_q1",
+  "topicId": "cnm_p053",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "999 的后面一个数是几？",
+  "answer": "1000",
+  "explanation": "999 再加 1 是 1000。",
+  "verify": "999+1"
+ },
+ {
+  "id": "cnm_p053_q2",
+  "topicId": "cnm_p053",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "1000 的前面一个数是几？",
+  "answer": "999",
+  "explanation": "1000 的前面是 999。",
+  "verify": "1000-1"
+ },
+ {
+  "id": "cnm_p053_q3",
+  "topicId": "cnm_p053",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3400 的百位是几？",
+  "answer": "4",
+  "explanation": "3400 的百位是 4。",
+  "verify": "4"
+ },
+ {
+  "id": "cnm_p053_q4",
+  "topicId": "cnm_p053",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "5060 的千位是几？",
+  "answer": "5",
+  "explanation": "5060 的千位是 5，百位是 0。",
+  "verify": "5"
+ },
+ {
+  "id": "cnm_p054_q1",
+  "topicId": "cnm_p054",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1000－999＝？",
+  "answer": "1",
+  "explanation": "1000 比 999 大 1。",
+  "verify": "1000-999"
+ },
+ {
+  "id": "cnm_p054_q2",
+  "topicId": "cnm_p054",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3200－2800＝？",
+  "answer": "400",
+  "explanation": "3200－2800＝400。",
+  "verify": "3200-2800"
+ },
+ {
+  "id": "cnm_p054_q3",
+  "topicId": "cnm_p054",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "图书馆有故事书 2500 本，科技书 1800 本。故事书比科技书多多少本？计算：2500－1800＝？",
+  "answer": "700",
+  "explanation": "2500－1800＝700。",
+  "verify": "2500-1800"
+ },
+ {
+  "id": "cnm_p054_q4",
+  "topicId": "cnm_p054",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4000－1500 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1500"
+   },
+   {
+    "key": "B",
+    "text": "3500"
+   },
+   {
+    "key": "C",
+    "text": "2500"
+   },
+   {
+    "key": "D",
+    "text": "5500"
+   }
+  ],
+  "answer": "C",
+  "explanation": "4000－1500＝2500。",
+  "verify": "4000-1500"
+ },
+ {
+  "id": "cnm_p055_q1",
+  "topicId": "cnm_p055",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2300 里面有几个百？",
+  "answer": "23",
+  "explanation": "2300 里有 23 个百。",
+  "verify": "23"
+ },
+ {
+  "id": "cnm_p055_q2",
+  "topicId": "cnm_p055",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "4000 里面有几个千？",
+  "answer": "4",
+  "explanation": "4000 是 4 个千。",
+  "verify": "4"
+ },
+ {
+  "id": "cnm_p055_q3",
+  "topicId": "cnm_p055",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "1600 的百位是几？",
+  "answer": "6",
+  "explanation": "1600 的百位是 6。",
+  "verify": "6"
+ },
+ {
+  "id": "cnm_p055_q4",
+  "topicId": "cnm_p055",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：2000＋300＋40＋5＝？",
+  "answer": "2345",
+  "explanation": "2 个千、3 个百、4 个十和 5 个一是 2345。",
+  "verify": "2000+300+40+5"
+ },
+ {
+  "id": "cnm_p056_q1",
+  "topicId": "cnm_p056",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 千克等于多少克？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1000克"
+   },
+   {
+    "key": "B",
+    "text": "100克"
+   },
+   {
+    "key": "C",
+    "text": "10克"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 千克＝1000 克。",
+  "verify": "'1000克'"
+ },
+ {
+  "id": "cnm_p056_q2",
+  "topicId": "cnm_p056",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 千克是多少克？",
+  "answer": "2000",
+  "explanation": "2×1000＝2000。",
+  "verify": "2*1000"
+ },
+ {
+  "id": "cnm_p056_q3",
+  "topicId": "cnm_p056",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "4 千克是多少克？",
+  "answer": "4000",
+  "explanation": "4 千克＝4000 克。",
+  "verify": "4*1000"
+ },
+ {
+  "id": "cnm_p056_q4",
+  "topicId": "cnm_p056",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一袋盐 500 克，两袋一共多少克？计算：500＋500＝？",
+  "answer": "1000",
+  "explanation": "500＋500＝1000，也就是 1 千克。",
+  "verify": "500+500"
+ },
+ {
+  "id": "cnm_p057_q1",
+  "topicId": "cnm_p057",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "先乘除、后加减。算式里既有乘法又有加减法，要先算什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "先算乘除，再算加减"
+   },
+   {
+    "key": "B",
+    "text": "一律从左往右，乘号也不优先"
+   },
+   {
+    "key": "C",
+    "text": "先算最大的数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "先乘除、后加减。",
+  "verify": "'先算乘除，再算加减'"
+ },
+ {
+  "id": "cnm_p057_q2",
+  "topicId": "cnm_p057",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×4＋5＝？",
+  "answer": "17",
+  "explanation": "先算 3×4＝12，再加 5 得 17。",
+  "verify": "3*4+5"
+ },
+ {
+  "id": "cnm_p057_q3",
+  "topicId": "cnm_p057",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：20－2×6＝？",
+  "answer": "8",
+  "explanation": "先算 2×6＝12，再算 20－12＝8。",
+  "verify": "20-2*6"
+ },
+ {
+  "id": "cnm_p057_q4",
+  "topicId": "cnm_p057",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒 4 支笔，买 3 盒，又单买 2 支。一共有多少支？计算：4×3＋2＝？",
+  "answer": "14",
+  "explanation": "先算 4×3＝12，再加 2 得 14。",
+  "verify": "4*3+2"
+ },
+ {
+  "id": "cnm_p058_q1",
+  "topicId": "cnm_p058",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "小括号要怎样算？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "先算小括号里面的"
+   },
+   {
+    "key": "B",
+    "text": "最后才算小括号"
+   },
+   {
+    "key": "C",
+    "text": "小括号可以不算"
+   }
+  ],
+  "answer": "A",
+  "explanation": "小括号用来改变运算顺序。",
+  "verify": "'先算小括号里面的'"
+ },
+ {
+  "id": "cnm_p058_q2",
+  "topicId": "cnm_p058",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：（8－3）×2＝？",
+  "answer": "10",
+  "explanation": "先算 8－3＝5，再算 5×2＝10。",
+  "verify": "(8-3)*2"
+ },
+ {
+  "id": "cnm_p058_q3",
+  "topicId": "cnm_p058",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：（2＋5）×4＝？",
+  "answer": "28",
+  "explanation": "先算 2＋5＝7，再算 7×4＝28。",
+  "verify": "(2+5)*4"
+ },
+ {
+  "id": "cnm_p058_q4",
+  "topicId": "cnm_p058",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "8 个同学平均分成 2 组，每组再来 3 人。这时每组有几人？计算：（8÷2）＋3＝？",
+  "answer": "7",
+  "explanation": "先算 8÷2＝4，再加 3 得 7。",
+  "verify": "(8/2)+3"
+ },
+ {
+  "id": "cnm_p059_q1",
+  "topicId": "cnm_p059",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：20＋15－8＝？",
+  "answer": "27",
+  "explanation": "先 20＋15＝35，再 35－8＝27。",
+  "verify": "20+15-8"
+ },
+ {
+  "id": "cnm_p059_q2",
+  "topicId": "cnm_p059",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：40－12－10＝？",
+  "answer": "18",
+  "explanation": "40－12＝28，28－10＝18。",
+  "verify": "40-12-10"
+ },
+ {
+  "id": "cnm_p059_q3",
+  "topicId": "cnm_p059",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "书店运来 25 本，又运来 17 本，卖出 13 本。还剩多少本？计算：25＋17－13＝？",
+  "answer": "29",
+  "explanation": "25＋17＝42，42－13＝29。",
+  "verify": "25+17-13"
+ },
+ {
+  "id": "cnm_p059_q4",
+  "topicId": "cnm_p059",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "上午 18 人、下午 12 人来借书，其中 6 人是重复来的。不同的有多少人？计算：（18＋12）－6＝？",
+  "answer": "24",
+  "explanation": "先算 18＋12＝30，再减 6 得 24。",
+  "verify": "(18+12)-6"
+ },
+ {
+  "id": "cnm_p060_q1",
+  "topicId": "cnm_p060",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "一列数 2，5，8。每次增加的一样多，8 的后面是多少？计算：8＋3＝？",
+  "answer": "11",
+  "explanation": "5－2＝3，每次加 3，8＋3＝11。",
+  "verify": "8+3"
+ },
+ {
+  "id": "cnm_p060_q2",
+  "topicId": "cnm_p060",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "一列数 16，14，12。每次减少的一样多，12 的后面是多少？计算：12－2＝？",
+  "answer": "10",
+  "explanation": "每次减 2，12－2＝10。",
+  "verify": "12-2"
+ },
+ {
+  "id": "cnm_p060_q3",
+  "topicId": "cnm_p060",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一列数 3，6，9，12。按每次加 3，12 的后面是多少？计算：12＋3＝？",
+  "answer": "15",
+  "explanation": "每次加 3，12＋3＝15。",
+  "verify": "12+3"
+ },
+ {
+  "id": "cnm_p060_q4",
+  "topicId": "cnm_p060",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一列数 30，25，20，15。按每次减 5，15 的后面是多少？计算：15－5＝？",
+  "answer": "10",
+  "explanation": "15－5＝10。",
+  "verify": "15-5"
+ }
+]

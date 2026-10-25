@@ -1,0 +1,1704 @@
+[
+ {
+  "id": "cnm_p061_q1",
+  "topicId": "cnm_p061",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "钟面上分针走一圈是多久？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "60分"
+   },
+   {
+    "key": "B",
+    "text": "60秒"
+   },
+   {
+    "key": "C",
+    "text": "12分"
+   }
+  ],
+  "answer": "A",
+  "explanation": "分针走一圈是 60 分，也就是 1 时。秒针走一圈才是 60 秒。",
+  "verify": "'60分'"
+ },
+ {
+  "id": "cnm_p061_q2",
+  "topicId": "cnm_p061",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 分是多少秒？",
+  "answer": "120",
+  "explanation": "1 分＝60 秒，2 分＝120 秒。",
+  "verify": "2*60"
+ },
+ {
+  "id": "cnm_p061_q3",
+  "topicId": "cnm_p061",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3 分是多少秒？",
+  "answer": "180",
+  "explanation": "3×60＝180。",
+  "verify": "3*60"
+ },
+ {
+  "id": "cnm_p061_q4",
+  "topicId": "cnm_p061",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：60－15＝？",
+  "answer": "45",
+  "explanation": "1 分是 60 秒，走过 15 秒还剩 45 秒。",
+  "verify": "60-15"
+ },
+ {
+  "id": "cnm_p062_q1",
+  "topicId": "cnm_p062",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 时等于多少分？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "60分"
+   },
+   {
+    "key": "B",
+    "text": "100分"
+   },
+   {
+    "key": "C",
+    "text": "24分"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 时＝60 分。",
+  "verify": "'60分'"
+ },
+ {
+  "id": "cnm_p062_q2",
+  "topicId": "cnm_p062",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 时是多少分？",
+  "answer": "120",
+  "explanation": "2×60＝120。",
+  "verify": "2*60"
+ },
+ {
+  "id": "cnm_p062_q3",
+  "topicId": "cnm_p062",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "4 分是多少秒？",
+  "answer": "240",
+  "explanation": "4×60＝240。",
+  "verify": "4*60"
+ },
+ {
+  "id": "cnm_p062_q4",
+  "topicId": "cnm_p062",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一节课 40 分，课间 10 分。从上课到下课铃后再过完课间，一共经过多少分？计算：40＋10＝？",
+  "answer": "50",
+  "explanation": "40＋10＝50。",
+  "verify": "40+10"
+ },
+ {
+  "id": "cnm_p063_q1",
+  "topicId": "cnm_p063",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：35－20＝？",
+  "answer": "15",
+  "explanation": "从 2 时 20 分到 2 时 35 分，经过 15 分。",
+  "verify": "35-20"
+ },
+ {
+  "id": "cnm_p063_q2",
+  "topicId": "cnm_p063",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：60－45＝？",
+  "answer": "15",
+  "explanation": "从 45 分到下一时的整点，经过 15 分。",
+  "verify": "60-45"
+ },
+ {
+  "id": "cnm_p063_q3",
+  "topicId": "cnm_p063",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "电影 7 时 15 分开始，7 时 50 分结束。放了多少分？计算：50－15＝？",
+  "answer": "35",
+  "explanation": "都在 7 时里，50－15＝35。",
+  "verify": "50-15"
+ },
+ {
+  "id": "cnm_p063_q4",
+  "topicId": "cnm_p063",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "跑步从 3 时 40 分开始，4 时整结束。跑了多少分？计算：60－40＝？",
+  "answer": "20",
+  "explanation": "从 40 分到整点是 20 分。",
+  "verify": "60-40"
+ },
+ {
+  "id": "cnm_p064_q1",
+  "topicId": "cnm_p064",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：300＋400＝？",
+  "answer": "700",
+  "explanation": "3 个百加 4 个百是 700。",
+  "verify": "300+400"
+ },
+ {
+  "id": "cnm_p064_q2",
+  "topicId": "cnm_p064",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：250＋30＝？",
+  "answer": "280",
+  "explanation": "250＋30＝280。",
+  "verify": "250+30"
+ },
+ {
+  "id": "cnm_p064_q3",
+  "topicId": "cnm_p064",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一箱 180 本，另一箱 140 本。两箱一共多少本？计算：180＋140＝？",
+  "answer": "320",
+  "explanation": "180＋140＝320。",
+  "verify": "180+140"
+ },
+ {
+  "id": "cnm_p064_q4",
+  "topicId": "cnm_p064",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：470＋250＝？",
+  "answer": "720",
+  "explanation": "470＋250＝720。",
+  "verify": "470+250"
+ },
+ {
+  "id": "cnm_p065_q1",
+  "topicId": "cnm_p065",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：800－300＝？",
+  "answer": "500",
+  "explanation": "800－300＝500。",
+  "verify": "800-300"
+ },
+ {
+  "id": "cnm_p065_q2",
+  "topicId": "cnm_p065",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：560－40＝？",
+  "answer": "520",
+  "explanation": "560－40＝520。",
+  "verify": "560-40"
+ },
+ {
+  "id": "cnm_p065_q3",
+  "topicId": "cnm_p065",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "图书馆有 730 本书，借出 280 本。还剩多少本？计算：730－280＝？",
+  "answer": "450",
+  "explanation": "730－280＝450。",
+  "verify": "730-280"
+ },
+ {
+  "id": "cnm_p065_q4",
+  "topicId": "cnm_p065",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：900－350＝？",
+  "answer": "550",
+  "explanation": "900－350＝550。",
+  "verify": "900-350"
+ },
+ {
+  "id": "cnm_p066_q1",
+  "topicId": "cnm_p066",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "估算是为了什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "很快知道大约是多少"
+   },
+   {
+    "key": "B",
+    "text": "一定算出精确得数"
+   },
+   {
+    "key": "C",
+    "text": "只用于减法"
+   }
+  ],
+  "answer": "A",
+  "explanation": "估算用来快速判断大约是多少。",
+  "verify": "'很快知道大约是多少'"
+ },
+ {
+  "id": "cnm_p066_q2",
+  "topicId": "cnm_p066",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：40＋30＝？",
+  "answer": "70",
+  "explanation": "38 接近 40，29 接近 30，和大约是 70。",
+  "verify": "40+30"
+ },
+ {
+  "id": "cnm_p066_q3",
+  "topicId": "cnm_p066",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一件衣服 198 元，一顶帽子 102 元。大约一共多少元？把它们看成 200 元和 100 元来算。计算：200＋100＝？",
+  "answer": "300",
+  "explanation": "198 接近 200，102 接近 100，大约 300 元。",
+  "verify": "200+100"
+ },
+ {
+  "id": "cnm_p066_q4",
+  "topicId": "cnm_p066",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：500＋300＝？",
+  "answer": "800",
+  "explanation": "486 接近 500，312 接近 300，大约 800。",
+  "verify": "500+300"
+ },
+ {
+  "id": "cnm_p067_q1",
+  "topicId": "cnm_p067",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "3 厘米是多少毫米？",
+  "answer": "30",
+  "explanation": "1 厘米＝10 毫米，3 厘米＝30 毫米。",
+  "verify": "3*10"
+ },
+ {
+  "id": "cnm_p067_q2",
+  "topicId": "cnm_p067",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "8 厘米是多少毫米？",
+  "answer": "80",
+  "explanation": "8×10＝80。",
+  "verify": "8*10"
+ },
+ {
+  "id": "cnm_p067_q3",
+  "topicId": "cnm_p067",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "钉子长 2 厘米，另一颗长 15 毫米。哪颗更长？先把 2 厘米化成毫米再比。2 厘米是多少毫米？计算：2×10＝？",
+  "answer": "20",
+  "explanation": "2 厘米＝20 毫米，比 15 毫米长。",
+  "verify": "2*10"
+ },
+ {
+  "id": "cnm_p067_q4",
+  "topicId": "cnm_p067",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：10－4＝？",
+  "answer": "6",
+  "explanation": "1 厘米＝10 毫米，用去 4 毫米还剩 6 毫米。",
+  "verify": "10-4"
+ },
+ {
+  "id": "cnm_p068_q1",
+  "topicId": "cnm_p068",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "5 分米是多少厘米？",
+  "answer": "50",
+  "explanation": "1 分米＝10 厘米。",
+  "verify": "5*10"
+ },
+ {
+  "id": "cnm_p068_q2",
+  "topicId": "cnm_p068",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "12 分米是多少厘米？",
+  "answer": "120",
+  "explanation": "12×10＝120。",
+  "verify": "12*10"
+ },
+ {
+  "id": "cnm_p068_q3",
+  "topicId": "cnm_p068",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "课桌高约 7 分米。7 分米是多少厘米？计算：7×10＝？",
+  "answer": "70",
+  "explanation": "7×10＝70。",
+  "verify": "7*10"
+ },
+ {
+  "id": "cnm_p068_q4",
+  "topicId": "cnm_p068",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：10－3＝？",
+  "answer": "7",
+  "explanation": "1 分米＝10 厘米，3 厘米比 1 分米少 7 厘米。",
+  "verify": "10-3"
+ },
+ {
+  "id": "cnm_p069_q1",
+  "topicId": "cnm_p069",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 千米等于多少米？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1000米"
+   },
+   {
+    "key": "B",
+    "text": "100米"
+   },
+   {
+    "key": "C",
+    "text": "10米"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 千米＝1000 米。",
+  "verify": "'1000米'"
+ },
+ {
+  "id": "cnm_p069_q2",
+  "topicId": "cnm_p069",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "3 千米是多少米？",
+  "answer": "3000",
+  "explanation": "3×1000＝3000。",
+  "verify": "3*1000"
+ },
+ {
+  "id": "cnm_p069_q3",
+  "topicId": "cnm_p069",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "6 千米是多少米？",
+  "answer": "6000",
+  "explanation": "6 千米＝6000 米。",
+  "verify": "6*1000"
+ },
+ {
+  "id": "cnm_p069_q4",
+  "topicId": "cnm_p069",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "学校到公园 2 千米，公园再到图书馆 1 千米。学校到图书馆一共多少千米？计算：2＋1＝？",
+  "answer": "3",
+  "explanation": "2＋1＝3。",
+  "verify": "2+1"
+ },
+ {
+  "id": "cnm_p070_q1",
+  "topicId": "cnm_p070",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 吨等于多少千克？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1000千克"
+   },
+   {
+    "key": "B",
+    "text": "100千克"
+   },
+   {
+    "key": "C",
+    "text": "1000克"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 吨＝1000 千克。",
+  "verify": "'1000千克'"
+ },
+ {
+  "id": "cnm_p070_q2",
+  "topicId": "cnm_p070",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 吨是多少千克？",
+  "answer": "2000",
+  "explanation": "2×1000＝2000。",
+  "verify": "2*1000"
+ },
+ {
+  "id": "cnm_p070_q3",
+  "topicId": "cnm_p070",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "5 吨是多少千克？",
+  "answer": "5000",
+  "explanation": "5 吨＝5000 千克。",
+  "verify": "5*1000"
+ },
+ {
+  "id": "cnm_p070_q4",
+  "topicId": "cnm_p070",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一辆卡车载重 4 吨，已经装了 1 吨。还能再装多少吨？计算：4－1＝？",
+  "answer": "3",
+  "explanation": "4－1＝3。",
+  "verify": "4-1"
+ },
+ {
+  "id": "cnm_p071_q1",
+  "topicId": "cnm_p071",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：234＋125＝？",
+  "answer": "359",
+  "explanation": "234＋125＝359。",
+  "verify": "234+125"
+ },
+ {
+  "id": "cnm_p071_q2",
+  "topicId": "cnm_p071",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：406＋270＝？",
+  "answer": "676",
+  "explanation": "406＋270＝676。",
+  "verify": "406+270"
+ },
+ {
+  "id": "cnm_p071_q3",
+  "topicId": "cnm_p071",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "两个仓库分别有 368 箱和 475 箱。一共有多少箱？计算：368＋475＝？",
+  "answer": "843",
+  "explanation": "个位 8＋5＝13，十位 6＋7＋1＝14，得 843。",
+  "verify": "368+475"
+ },
+ {
+  "id": "cnm_p071_q4",
+  "topicId": "cnm_p071",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：509＋286＝？",
+  "answer": "795",
+  "explanation": "509＋286＝795。",
+  "verify": "509+286"
+ },
+ {
+  "id": "cnm_p072_q1",
+  "topicId": "cnm_p072",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "验算加法可以用什么方法？这里用减法验算加法的逆运算：和减去一个加数。368＋475 的和是 843，843－475 应等于多少？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "用减法把和减去一个加数"
+   },
+   {
+    "key": "B",
+    "text": "把两个加数再乘一遍"
+   },
+   {
+    "key": "C",
+    "text": "只看个位"
+   }
+  ],
+  "answer": "A",
+  "explanation": "843－475＝368，说明加法可以这样回头检查。",
+  "verify": "'用减法把和减去一个加数'"
+ },
+ {
+  "id": "cnm_p072_q2",
+  "topicId": "cnm_p072",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：756－234＝？",
+  "answer": "522",
+  "explanation": "756－234＝522。",
+  "verify": "756-234"
+ },
+ {
+  "id": "cnm_p072_q3",
+  "topicId": "cnm_p072",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "书架上有 600 本书，搬走 248 本。还剩多少本？计算：600－248＝？",
+  "answer": "352",
+  "explanation": "600－248＝352。",
+  "verify": "600-248"
+ },
+ {
+  "id": "cnm_p072_q4",
+  "topicId": "cnm_p072",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：803－457＝？",
+  "answer": "346",
+  "explanation": "连续退位，803－457＝346。",
+  "verify": "803-457"
+ },
+ {
+  "id": "cnm_p073_q1",
+  "topicId": "cnm_p073",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6×3＝？",
+  "answer": "18",
+  "explanation": "6×3＝18。",
+  "verify": "6*3"
+ },
+ {
+  "id": "cnm_p073_q2",
+  "topicId": "cnm_p073",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8×4＝？",
+  "answer": "32",
+  "explanation": "8×4＝32。",
+  "verify": "8*4"
+ },
+ {
+  "id": "cnm_p073_q3",
+  "topicId": "cnm_p073",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒有 7 朵红花，一共 5 盒。一共有多少朵？计算：7×5＝？",
+  "answer": "35",
+  "explanation": "求 5 个 7 的和，用乘法，7×5＝35。",
+  "verify": "7*5"
+ },
+ {
+  "id": "cnm_p073_q4",
+  "topicId": "cnm_p073",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9×2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "18"
+   },
+   {
+    "key": "B",
+    "text": "27"
+   },
+   {
+    "key": "C",
+    "text": "19"
+   },
+   {
+    "key": "D",
+    "text": "11"
+   }
+  ],
+  "answer": "A",
+  "explanation": "9×2＝18。",
+  "verify": "9*2"
+ },
+ {
+  "id": "cnm_p074_q1",
+  "topicId": "cnm_p074",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：24×2＝？",
+  "answer": "48",
+  "explanation": "24×2＝48。",
+  "verify": "24*2"
+ },
+ {
+  "id": "cnm_p074_q2",
+  "topicId": "cnm_p074",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：13×3＝？",
+  "answer": "39",
+  "explanation": "13×3＝39。",
+  "verify": "13*3"
+ },
+ {
+  "id": "cnm_p074_q3",
+  "topicId": "cnm_p074",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒彩笔 36 元，买 4 盒。一共多少元？计算：36×4＝？",
+  "answer": "144",
+  "explanation": "36×4＝144。",
+  "verify": "36*4"
+ },
+ {
+  "id": "cnm_p074_q4",
+  "topicId": "cnm_p074",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：208×3＝？",
+  "answer": "624",
+  "explanation": "208×3＝624。",
+  "verify": "208*3"
+ },
+ {
+  "id": "cnm_p075_q1",
+  "topicId": "cnm_p075",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：30×4＝？",
+  "answer": "120",
+  "explanation": "3×4＝12，末尾补 0，得 120。",
+  "verify": "30*4"
+ },
+ {
+  "id": "cnm_p075_q2",
+  "topicId": "cnm_p075",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：50×6＝？",
+  "answer": "300",
+  "explanation": "50×6＝300。",
+  "verify": "50*6"
+ },
+ {
+  "id": "cnm_p075_q3",
+  "topicId": "cnm_p075",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每箱 105 个，4 箱一共多少个？计算：105×4＝？",
+  "answer": "420",
+  "explanation": "105×4＝420。",
+  "verify": "105*4"
+ },
+ {
+  "id": "cnm_p075_q4",
+  "topicId": "cnm_p075",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：200×7＝？",
+  "answer": "1400",
+  "explanation": "200×7＝1400。",
+  "verify": "200*7"
+ },
+ {
+  "id": "cnm_p076_q1",
+  "topicId": "cnm_p076",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "数字编码是为了什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "用数字表示事物，方便区分"
+   },
+   {
+    "key": "B",
+    "text": "把所有数都变成 0"
+   },
+   {
+    "key": "C",
+    "text": "只用来做加法"
+   }
+  ],
+  "answer": "A",
+  "explanation": "学号、门牌都可以用数字编码。",
+  "verify": "'用数字表示事物，方便区分'"
+ },
+ {
+  "id": "cnm_p076_q2",
+  "topicId": "cnm_p076",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "十位上是 2、个位上是 5，这个两位数是多少？",
+  "answer": "25",
+  "explanation": "若十位表示年级、个位表示班，25 可以表示二年级 5 班。",
+  "verify": "20+5"
+ },
+ {
+  "id": "cnm_p076_q3",
+  "topicId": "cnm_p076",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：100＋20＋4＝？",
+  "answer": "124",
+  "explanation": "百位 1、十位 2、个位 4 组成 124。",
+  "verify": "100+20+4"
+ },
+ {
+  "id": "cnm_p076_q4",
+  "topicId": "cnm_p076",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "编号从 1 编到 30。一共要编多少个号？计算：30－0＝？",
+  "answer": "30",
+  "explanation": "从 1 到 30 共 30 个号。",
+  "verify": "30-0"
+ },
+ {
+  "id": "cnm_p077_q1",
+  "topicId": "cnm_p077",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "长方形的对边怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "对边相等"
+   },
+   {
+    "key": "B",
+    "text": "四条边都不相等"
+   },
+   {
+    "key": "C",
+    "text": "没有直角"
+   }
+  ],
+  "answer": "A",
+  "explanation": "长方形两组对边分别相等，四个角是直角。",
+  "verify": "'对边相等'"
+ },
+ {
+  "id": "cnm_p077_q2",
+  "topicId": "cnm_p077",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "正方形的四条边怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "四条边都相等"
+   },
+   {
+    "key": "B",
+    "text": "只有对边相等"
+   },
+   {
+    "key": "C",
+    "text": "只有三条边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "正方形是特殊的长方形。",
+  "verify": "'四条边都相等'"
+ },
+ {
+  "id": "cnm_p077_q3",
+  "topicId": "cnm_p077",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4＋4＝？",
+  "answer": "8",
+  "explanation": "长方形一组对边都是 4 厘米，这两条边一共 8 厘米。",
+  "verify": "4+4"
+ },
+ {
+  "id": "cnm_p077_q4",
+  "topicId": "cnm_p077",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：6－6＝？",
+  "answer": "0",
+  "explanation": "正方形四条边一样长，两条边的差是 0。",
+  "verify": "6-6"
+ },
+ {
+  "id": "cnm_p078_q1",
+  "topicId": "cnm_p078",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "周长是什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "图形一周边线的长度"
+   },
+   {
+    "key": "B",
+    "text": "图形里面的大小"
+   },
+   {
+    "key": "C",
+    "text": "一条边的长度"
+   }
+  ],
+  "answer": "A",
+  "explanation": "围一圈的长度就是周长。",
+  "verify": "'图形一周边线的长度'"
+ },
+ {
+  "id": "cnm_p078_q2",
+  "topicId": "cnm_p078",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "长 6 厘米、宽 4 厘米的长方形，周长是多少厘米？",
+  "answer": "20",
+  "explanation": "（6＋4）×2＝20。",
+  "verify": "(6+4)*2"
+ },
+ {
+  "id": "cnm_p078_q3",
+  "topicId": "cnm_p078",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "边长 5 厘米的正方形，周长是多少厘米？",
+  "answer": "20",
+  "explanation": "5×4＝20。",
+  "verify": "5*4"
+ },
+ {
+  "id": "cnm_p078_q4",
+  "topicId": "cnm_p078",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块长方形菜地长 8 米、宽 3 米。篱笆至少要多少米？计算：（8＋3）×2＝？",
+  "answer": "22",
+  "explanation": "周长＝（8＋3）×2＝22。",
+  "verify": "(8+3)*2"
+ },
+ {
+  "id": "cnm_p079_q1",
+  "topicId": "cnm_p079",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "分数的分母表示什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "把整体平均分成了几份"
+   },
+   {
+    "key": "B",
+    "text": "拿走了几份"
+   },
+   {
+    "key": "C",
+    "text": "一共有多少个整体"
+   }
+  ],
+  "answer": "A",
+  "explanation": "分母是 4，就是平均分成 4 份。",
+  "verify": "'把整体平均分成了几份'"
+ },
+ {
+  "id": "cnm_p079_q2",
+  "topicId": "cnm_p079",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1÷2＝？（用小数作答）",
+  "answer": "0.5",
+  "explanation": "把 1 个饼平均分成 2 份，每份是 1/2。",
+  "verify": "1/2"
+ },
+ {
+  "id": "cnm_p079_q3",
+  "topicId": "cnm_p079",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：1÷4＝？（用小数作答）",
+  "answer": "0.25",
+  "explanation": "平均分成 4 份，每份是 1/4。",
+  "verify": "1/4"
+ },
+ {
+  "id": "cnm_p079_q4",
+  "topicId": "cnm_p079",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一张纸平均分成 8 份，涂了其中 1 份。涂色部分是这张纸的几分之几？用 1÷8 表示每一份。计算：1÷8＝？（用小数作答）",
+  "answer": "0.125",
+  "explanation": "每一份是 1/8。",
+  "verify": "1/8"
+ },
+ {
+  "id": "cnm_p080_q1",
+  "topicId": "cnm_p080",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/5＋2/5＝？",
+  "answer": "3/5",
+  "explanation": "分母不变，分子 1＋2＝3，得 3/5。",
+  "verify": "Fraction(1,5)+Fraction(2,5)"
+ },
+ {
+  "id": "cnm_p080_q2",
+  "topicId": "cnm_p080",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3/4－1/4＝？",
+  "answer": "1/2",
+  "explanation": "3/4－1/4＝2/4＝1/2。",
+  "verify": "Fraction(3,4)-Fraction(1,4)"
+ },
+ {
+  "id": "cnm_p080_q3",
+  "topicId": "cnm_p080",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一条绳子用去 2/8，又用去 3/8。一共用去几分之几？计算：2/8＋3/8＝？",
+  "answer": "5/8",
+  "explanation": "2/8＋3/8＝5/8。",
+  "verify": "Fraction(2,8)+Fraction(3,8)"
+ },
+ {
+  "id": "cnm_p080_q4",
+  "topicId": "cnm_p080",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：5/6－1/6＝？",
+  "answer": "2/3",
+  "explanation": "5/6－1/6＝4/6＝2/3。",
+  "verify": "Fraction(5,6)-Fraction(1,6)"
+ },
+ {
+  "id": "cnm_p081_q1",
+  "topicId": "cnm_p081",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "集合图里两边都有的人或物画在哪里？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "两个圈重叠的部分"
+   },
+   {
+    "key": "B",
+    "text": "两个圈的外面"
+   },
+   {
+    "key": "C",
+    "text": "只画在左边"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两边都参加的人画在重叠处，总数里只算一次。",
+  "verify": "'两个圈重叠的部分'"
+ },
+ {
+  "id": "cnm_p081_q2",
+  "topicId": "cnm_p081",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8＋6－3＝？",
+  "answer": "11",
+  "explanation": "参加跳绳 8 人、踢毽 6 人，其中 3 人两项都参加，总人数 8＋6－3＝11。",
+  "verify": "8+6-3"
+ },
+ {
+  "id": "cnm_p081_q3",
+  "topicId": "cnm_p081",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "语文小组 10 人，数学小组 9 人，两个小组都参加的有 4 人。只算一次的话，一共有多少人？计算：10＋9－4＝？",
+  "answer": "15",
+  "explanation": "10＋9－4＝15。",
+  "verify": "10+9-4"
+ },
+ {
+  "id": "cnm_p081_q4",
+  "topicId": "cnm_p081",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：12＋7－5＝？",
+  "answer": "14",
+  "explanation": "12＋7－5＝14。",
+  "verify": "12+7-5"
+ },
+ {
+  "id": "cnm_p082_q1",
+  "topicId": "cnm_p082",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "东和西是什么关系？东北的相反方向是哪一种关系？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "相反的方向"
+   },
+   {
+    "key": "B",
+    "text": "同一个方向"
+   },
+   {
+    "key": "C",
+    "text": "没有相反方向"
+   }
+  ],
+  "answer": "A",
+  "explanation": "东北和西南相反，东南和西北相反。",
+  "verify": "'相反的方向'"
+ },
+ {
+  "id": "cnm_p082_q2",
+  "topicId": "cnm_p082",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2＋2＝？",
+  "answer": "4",
+  "explanation": "向东 2 格再向北 2 格，横竖各走 2 格。",
+  "verify": "2+2"
+ },
+ {
+  "id": "cnm_p082_q3",
+  "topicId": "cnm_p082",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "向东走 40 米，再向北走 30 米。向东走了多少米？计算：40－0＝？",
+  "answer": "40",
+  "explanation": "向东的路程是 40 米。",
+  "verify": "40-0"
+ },
+ {
+  "id": "cnm_p082_q4",
+  "topicId": "cnm_p082",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "从广场向东南走到商店 50 米，再原路返回 20 米。现在离广场多少米？计算：50－20＝？",
+  "answer": "30",
+  "explanation": "50－20＝30。",
+  "verify": "50-20"
+ },
+ {
+  "id": "cnm_p083_q1",
+  "topicId": "cnm_p083",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：48÷2＝？",
+  "answer": "24",
+  "explanation": "48÷2＝24。",
+  "verify": "48/2"
+ },
+ {
+  "id": "cnm_p083_q2",
+  "topicId": "cnm_p083",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：69÷3＝？",
+  "answer": "23",
+  "explanation": "69÷3＝23。",
+  "verify": "69/3"
+ },
+ {
+  "id": "cnm_p083_q3",
+  "topicId": "cnm_p083",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "84 支铅笔平均分给 4 个组。每组多少支？计算：84÷4＝？",
+  "answer": "21",
+  "explanation": "84÷4＝21。",
+  "verify": "84/4"
+ },
+ {
+  "id": "cnm_p083_q4",
+  "topicId": "cnm_p083",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：105÷5＝？",
+  "answer": "21",
+  "explanation": "105÷5＝21。",
+  "verify": "105/5"
+ },
+ {
+  "id": "cnm_p084_q1",
+  "topicId": "cnm_p084",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：96÷3＝？",
+  "answer": "32",
+  "explanation": "96÷3＝32。",
+  "verify": "96/3"
+ },
+ {
+  "id": "cnm_p084_q2",
+  "topicId": "cnm_p084",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：75÷5＝？",
+  "answer": "15",
+  "explanation": "75÷5＝15。",
+  "verify": "75/5"
+ },
+ {
+  "id": "cnm_p084_q3",
+  "topicId": "cnm_p084",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "128 人平均坐 4 辆车。每辆坐多少人？计算：128÷4＝？",
+  "answer": "32",
+  "explanation": "128÷4＝32。",
+  "verify": "128/4"
+ },
+ {
+  "id": "cnm_p084_q4",
+  "topicId": "cnm_p084",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：200÷8＝？",
+  "answer": "25",
+  "explanation": "200÷8＝25。",
+  "verify": "200/8"
+ },
+ {
+  "id": "cnm_p085_q1",
+  "topicId": "cnm_p085",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12＋9＝？",
+  "answer": "21",
+  "explanation": "男生 12 人、女生 9 人，合计 21 人。",
+  "verify": "12+9"
+ },
+ {
+  "id": "cnm_p085_q2",
+  "topicId": "cnm_p085",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18－11＝？",
+  "answer": "7",
+  "explanation": "喜欢跳绳的 18 人，喜欢跑步的 11 人，多 7 人。",
+  "verify": "18-11"
+ },
+ {
+  "id": "cnm_p085_q3",
+  "topicId": "cnm_p085",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "上半年借出故事书 46 本、科技书 35 本。两类一共借出多少本？计算：46＋35＝？",
+  "answer": "81",
+  "explanation": "46＋35＝81。",
+  "verify": "46+35"
+ },
+ {
+  "id": "cnm_p085_q4",
+  "topicId": "cnm_p085",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一班 28 人参加，二班 23 人参加。一班比二班多几人？计算：28－23＝？",
+  "answer": "5",
+  "explanation": "28－23＝5。",
+  "verify": "28-23"
+ },
+ {
+  "id": "cnm_p086_q1",
+  "topicId": "cnm_p086",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12×11＝？",
+  "answer": "132",
+  "explanation": "12×11＝132。",
+  "verify": "12*11"
+ },
+ {
+  "id": "cnm_p086_q2",
+  "topicId": "cnm_p086",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：15×10＝？",
+  "answer": "150",
+  "explanation": "15×10＝150。",
+  "verify": "15*10"
+ },
+ {
+  "id": "cnm_p086_q3",
+  "topicId": "cnm_p086",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每盒 24 支，13 盒一共多少支？计算：24×13＝？",
+  "answer": "312",
+  "explanation": "24×13＝312。",
+  "verify": "24*13"
+ },
+ {
+  "id": "cnm_p086_q4",
+  "topicId": "cnm_p086",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：36×25＝？",
+  "answer": "900",
+  "explanation": "36×25＝900。",
+  "verify": "36*25"
+ },
+ {
+  "id": "cnm_p087_q1",
+  "topicId": "cnm_p087",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：16×12＝？",
+  "answer": "192",
+  "explanation": "16×12＝192。",
+  "verify": "16*12"
+ },
+ {
+  "id": "cnm_p087_q2",
+  "topicId": "cnm_p087",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25×14＝？",
+  "answer": "350",
+  "explanation": "25×14＝350。",
+  "verify": "25*14"
+ },
+ {
+  "id": "cnm_p087_q3",
+  "topicId": "cnm_p087",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每排 32 个座位，有 21 排。一共有多少个座位？计算：32×21＝？",
+  "answer": "672",
+  "explanation": "32×21＝672。",
+  "verify": "32*21"
+ },
+ {
+  "id": "cnm_p087_q4",
+  "topicId": "cnm_p087",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：18×15＝？",
+  "answer": "270",
+  "explanation": "18×15＝270。",
+  "verify": "18*15"
+ },
+ {
+  "id": "cnm_p088_q1",
+  "topicId": "cnm_p088",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "面积要用什么来表示大小？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "面积单位"
+   },
+   {
+    "key": "B",
+    "text": "只说一条边有多长"
+   },
+   {
+    "key": "C",
+    "text": "用千克"
+   }
+  ],
+  "answer": "A",
+  "explanation": "面积要用平方厘米、平方分米等面积单位。",
+  "verify": "'面积单位'"
+ },
+ {
+  "id": "cnm_p088_q2",
+  "topicId": "cnm_p088",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "周长是什么？它和面积不同。",
+  "choices": [
+   {
+    "key": "A",
+    "text": "图形一周边线的长度"
+   },
+   {
+    "key": "B",
+    "text": "图形里面铺满的大小"
+   },
+   {
+    "key": "C",
+    "text": "图形的重量"
+   }
+  ],
+  "answer": "A",
+  "explanation": "周长是一圈的长度，面积是里面的大小。",
+  "verify": "'图形一周边线的长度'"
+ },
+ {
+  "id": "cnm_p088_q3",
+  "topicId": "cnm_p088",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：2×3＝？",
+  "answer": "6",
+  "explanation": "用边长 1 厘米的小正方形去铺，横 2 个、竖 3 个，可以铺 6 个。",
+  "verify": "2*3"
+ },
+ {
+  "id": "cnm_p088_q4",
+  "topicId": "cnm_p088",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4×4＝？",
+  "answer": "16",
+  "explanation": "4×4＝16。",
+  "verify": "4*4"
+ },
+ {
+  "id": "cnm_p089_q1",
+  "topicId": "cnm_p089",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "长 8 厘米、宽 5 厘米的长方形，面积是多少平方厘米？",
+  "answer": "40",
+  "explanation": "8×5＝40。",
+  "verify": "8*5"
+ },
+ {
+  "id": "cnm_p089_q2",
+  "topicId": "cnm_p089",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "边长 6 厘米的正方形，面积是多少平方厘米？",
+  "answer": "36",
+  "explanation": "6×6＝36。",
+  "verify": "6*6"
+ },
+ {
+  "id": "cnm_p089_q3",
+  "topicId": "cnm_p089",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "黑板长 4 米、宽 1 米。面积是多少平方米？计算：4×1＝？",
+  "answer": "4",
+  "explanation": "4×1＝4。",
+  "verify": "4*1"
+ },
+ {
+  "id": "cnm_p089_q4",
+  "topicId": "cnm_p089",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "长 12 厘米、宽 3 厘米的长方形，面积是多少平方厘米？",
+  "answer": "36",
+  "explanation": "12×3＝36。",
+  "verify": "12*3"
+ },
+ {
+  "id": "cnm_p090_q1",
+  "topicId": "cnm_p090",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "2 平方米是多少平方分米？",
+  "answer": "200",
+  "explanation": "1 平方米＝100 平方分米。",
+  "verify": "2*100"
+ },
+ {
+  "id": "cnm_p090_q2",
+  "topicId": "cnm_p090",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "5 平方米是多少平方分米？",
+  "answer": "500",
+  "explanation": "5×100＝500。",
+  "verify": "5*100"
+ },
+ {
+  "id": "cnm_p090_q3",
+  "topicId": "cnm_p090",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块地 3 平方米。用平方分米表示是多少？计算：3×100＝？",
+  "answer": "300",
+  "explanation": "3×100＝300。",
+  "verify": "3*100"
+ },
+ {
+  "id": "cnm_p090_q4",
+  "topicId": "cnm_p090",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：100－40＝？",
+  "answer": "60",
+  "explanation": "1 平方米＝100 平方分米，用去 40 平方分米还剩 60 平方分米。",
+  "verify": "100-40"
+ },
+ {
+  "id": "cnm_p091_q1",
+  "topicId": "cnm_p091",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "一年有几个月？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "12个月"
+   },
+   {
+    "key": "B",
+    "text": "10个月"
+   },
+   {
+    "key": "C",
+    "text": "365个月"
+   }
+  ],
+  "answer": "A",
+  "explanation": "一年有 12 个月。",
+  "verify": "'12个月'"
+ },
+ {
+  "id": "cnm_p091_q2",
+  "topicId": "cnm_p091",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "平年的 2 月有几天？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "28天"
+   },
+   {
+    "key": "B",
+    "text": "29天"
+   },
+   {
+    "key": "C",
+    "text": "30天"
+   }
+  ],
+  "answer": "A",
+  "explanation": "平年 2 月 28 天，闰年 29 天。",
+  "verify": "'28天'"
+ },
+ {
+  "id": "cnm_p091_q3",
+  "topicId": "cnm_p091",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "闰年的 2 月有几天？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "29天"
+   },
+   {
+    "key": "B",
+    "text": "28天"
+   },
+   {
+    "key": "C",
+    "text": "31天"
+   }
+  ],
+  "answer": "A",
+  "explanation": "闰年 2 月多 1 天。",
+  "verify": "'29天'"
+ },
+ {
+  "id": "cnm_p091_q4",
+  "topicId": "cnm_p091",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：31－30＝？",
+  "answer": "1",
+  "explanation": "大月比小月多 1 天。",
+  "verify": "31-30"
+ },
+ {
+  "id": "cnm_p092_q1",
+  "topicId": "cnm_p092",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12＋1＝？",
+  "answer": "13",
+  "explanation": "下午 1 时是 13 时。",
+  "verify": "12+1"
+ },
+ {
+  "id": "cnm_p092_q2",
+  "topicId": "cnm_p092",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12＋3＝？",
+  "answer": "15",
+  "explanation": "下午 3 时是 15 时。",
+  "verify": "12+3"
+ },
+ {
+  "id": "cnm_p092_q3",
+  "topicId": "cnm_p092",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "火车 16 时开。16 时是下午几时？用 16－12 来算。计算：16－12＝？",
+  "answer": "4",
+  "explanation": "16－12＝4，是下午 4 时。",
+  "verify": "16-12"
+ },
+ {
+  "id": "cnm_p092_q4",
+  "topicId": "cnm_p092",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：12＋6＝？",
+  "answer": "18",
+  "explanation": "下午 6 时是 18 时。",
+  "verify": "12+6"
+ },
+ {
+  "id": "cnm_p093_q1",
+  "topicId": "cnm_p093",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.1＋0.2＝？（用小数作答）",
+  "answer": "0.3",
+  "explanation": "1 角加 2 角是 3 角，也就是 0.3 元。",
+  "verify": "0.1+0.2"
+ },
+ {
+  "id": "cnm_p093_q2",
+  "topicId": "cnm_p093",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.8－0.3＝？（用小数作答）",
+  "answer": "0.5",
+  "explanation": "0.8－0.3＝0.5。",
+  "verify": "0.8-0.3"
+ },
+ {
+  "id": "cnm_p093_q3",
+  "topicId": "cnm_p093",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一支笔 0.6 元，一块橡皮 0.2 元。一共多少元？计算：0.6＋0.2＝？（用小数作答）",
+  "answer": "0.8",
+  "explanation": "0.6＋0.2＝0.8。",
+  "verify": "0.6+0.2"
+ },
+ {
+  "id": "cnm_p093_q4",
+  "topicId": "cnm_p093",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "0.4＋0.5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0.8"
+   },
+   {
+    "key": "B",
+    "text": "0.9"
+   },
+   {
+    "key": "C",
+    "text": "1"
+   },
+   {
+    "key": "D",
+    "text": "0.45"
+   }
+  ],
+  "answer": "B",
+  "explanation": "0.4＋0.5＝0.9。",
+  "verify": "Fraction('0.4')+Fraction('0.5')"
+ },
+ {
+  "id": "cnm_p094_q1",
+  "topicId": "cnm_p094",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.7＋0.2＝？（用小数作答）",
+  "answer": "0.9",
+  "explanation": "0.7＋0.2＝0.9。",
+  "verify": "Fraction('0.7')+Fraction('0.2')"
+ },
+ {
+  "id": "cnm_p094_q2",
+  "topicId": "cnm_p094",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.6－0.1＝？（用小数作答）",
+  "answer": "0.5",
+  "explanation": "0.6－0.1＝0.5。",
+  "verify": "Fraction('0.6')-Fraction('0.1')"
+ },
+ {
+  "id": "cnm_p094_q3",
+  "topicId": "cnm_p094",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "绳子 1.2 米，又接上 0.4 米。现在长多少米？计算：1.2＋0.4＝？（用小数作答）",
+  "answer": "1.6",
+  "explanation": "1.2＋0.4＝1.6。",
+  "verify": "Fraction('1.2')+Fraction('0.4')"
+ },
+ {
+  "id": "cnm_p094_q4",
+  "topicId": "cnm_p094",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：1.5－0.8＝？（用小数作答）",
+  "answer": "0.7",
+  "explanation": "1.5－0.8＝0.7。",
+  "verify": "Fraction('1.5')-Fraction('0.8')"
+ },
+ {
+  "id": "cnm_p095_q1",
+  "topicId": "cnm_p095",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "搭配时交换顺序，如果顺序不同算不同，就要怎样数？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "如果顺序不同算不同，就要分开数"
+   },
+   {
+    "key": "B",
+    "text": "只算一种就可以"
+   },
+   {
+    "key": "C",
+    "text": "用减法去掉所有搭配"
+   }
+  ],
+  "answer": "A",
+  "explanation": "有序搭配时，先选定一种再配另一种。",
+  "verify": "'如果顺序不同算不同，就要分开数'"
+ },
+ {
+  "id": "cnm_p095_q2",
+  "topicId": "cnm_p095",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×3＝？",
+  "answer": "6",
+  "explanation": "2 件上衣配 3 条裙子，有 6 种搭配。",
+  "verify": "2*3"
+ },
+ {
+  "id": "cnm_p095_q3",
+  "topicId": "cnm_p095",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3 种面包和 2 种饮料，每种面包配每种饮料。一共有多少种搭配？计算：3×2＝？",
+  "answer": "6",
+  "explanation": "3×2＝6。",
+  "verify": "3*2"
+ },
+ {
+  "id": "cnm_p095_q4",
+  "topicId": "cnm_p095",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4×3＝？",
+  "answer": "12",
+  "explanation": "4×3＝12。",
+  "verify": "4*3"
+ }
+]

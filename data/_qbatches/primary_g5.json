@@ -1,0 +1,2870 @@
+[
+ {
+  "id": "cnm_p132_q1",
+  "topicId": "cnm_p132",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.3×4＝？（用小数作答）",
+  "answer": "1.2",
+  "explanation": "3×4＝12，一位小数，积是 1.2。",
+  "verify": "0.3*4"
+ },
+ {
+  "id": "cnm_p132_q2",
+  "topicId": "cnm_p132",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.5×2＝？（用小数作答）",
+  "answer": "3",
+  "explanation": "1.5×2＝3。",
+  "verify": "1.5*2"
+ },
+ {
+  "id": "cnm_p132_q3",
+  "topicId": "cnm_p132",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每支笔 1.2 元，买 4 支。一共多少元？计算：1.2×4＝？（用小数作答）",
+  "answer": "4.8",
+  "explanation": "1.2×4＝4.8。",
+  "verify": "1.2*4"
+ },
+ {
+  "id": "cnm_p132_q4",
+  "topicId": "cnm_p132",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "0.8×5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "0.4"
+   },
+   {
+    "key": "C",
+    "text": "3.2"
+   },
+   {
+    "key": "D",
+    "text": "4.8"
+   }
+  ],
+  "answer": "A",
+  "explanation": "0.8×5＝4。",
+  "verify": "0.8*5"
+ },
+ {
+  "id": "cnm_p133_q1",
+  "topicId": "cnm_p133",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.3×0.4＝？（用小数作答）",
+  "answer": "0.12",
+  "explanation": "3×4＝12，一共两位小数，积是 0.12。",
+  "verify": "0.3*0.4"
+ },
+ {
+  "id": "cnm_p133_q2",
+  "topicId": "cnm_p133",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.2×0.5＝？（用小数作答）",
+  "answer": "0.6",
+  "explanation": "1.2×0.5＝0.6。",
+  "verify": "1.2*0.5"
+ },
+ {
+  "id": "cnm_p133_q3",
+  "topicId": "cnm_p133",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "长 1.5 米、宽 0.4 米的长方形，面积是多少平方米？计算：1.5×0.4＝？（用小数作答）",
+  "answer": "0.6",
+  "explanation": "1.5×0.4＝0.6。",
+  "verify": "1.5*0.4"
+ },
+ {
+  "id": "cnm_p133_q4",
+  "topicId": "cnm_p133",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "0.25×0.4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0.01"
+   },
+   {
+    "key": "B",
+    "text": "0.9"
+   },
+   {
+    "key": "C",
+    "text": "0.1"
+   },
+   {
+    "key": "D",
+    "text": "1"
+   }
+  ],
+  "answer": "C",
+  "explanation": "0.25×0.4＝0.1。",
+  "verify": "0.25*0.4"
+ },
+ {
+  "id": "cnm_p134_q1",
+  "topicId": "cnm_p134",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2.5×6＝？（用小数作答）",
+  "answer": "15",
+  "explanation": "每千克 2.5 元，6 千克是 15 元。",
+  "verify": "2.5*6"
+ },
+ {
+  "id": "cnm_p134_q2",
+  "topicId": "cnm_p134",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.8×10＝？（用小数作答）",
+  "answer": "8",
+  "explanation": "0.8×10＝8。",
+  "verify": "0.8*10"
+ },
+ {
+  "id": "cnm_p134_q3",
+  "topicId": "cnm_p134",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每小时行 3.5 千米，行 2 小时。一共多少千米？计算：3.5×2＝？（用小数作答）",
+  "answer": "7",
+  "explanation": "3.5×2＝7。",
+  "verify": "3.5*2"
+ },
+ {
+  "id": "cnm_p134_q4",
+  "topicId": "cnm_p134",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "1.25×8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "8"
+   },
+   {
+    "key": "B",
+    "text": "9"
+   },
+   {
+    "key": "C",
+    "text": "12"
+   },
+   {
+    "key": "D",
+    "text": "10"
+   }
+  ],
+  "answer": "D",
+  "explanation": "1.25×8＝10。",
+  "verify": "1.25*8"
+ },
+ {
+  "id": "cnm_p135_q1",
+  "topicId": "cnm_p135",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.6×2.4＝？（用小数作答）",
+  "answer": "3.84",
+  "explanation": "1.6×2.4＝3.84。",
+  "verify": "1.6*2.4"
+ },
+ {
+  "id": "cnm_p135_q2",
+  "topicId": "cnm_p135",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "3.84 保留一位小数，百分位是 4，不向十分位进 1。保留到十分位可以先算 38÷10。计算：38÷10＝？（用小数作答）",
+  "answer": "3.8",
+  "explanation": "38÷10＝3.8。",
+  "verify": "38/10"
+ },
+ {
+  "id": "cnm_p135_q3",
+  "topicId": "cnm_p135",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：0.8×0.8＝？（用小数作答）",
+  "answer": "0.64",
+  "explanation": "0.8×0.8＝0.64。",
+  "verify": "0.8*0.8"
+ },
+ {
+  "id": "cnm_p135_q4",
+  "topicId": "cnm_p135",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "2.5×1.2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "2.5"
+   },
+   {
+    "key": "D",
+    "text": "4"
+   }
+  ],
+  "answer": "B",
+  "explanation": "2.5×1.2＝3。",
+  "verify": "2.5*1.2"
+ },
+ {
+  "id": "cnm_p136_q1",
+  "topicId": "cnm_p136",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "有序数对先写什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "先写列，再写行"
+   },
+   {
+    "key": "B",
+    "text": "先写行，再写列"
+   },
+   {
+    "key": "C",
+    "text": "只写一个数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "（3，2）表示第 3 列第 2 行。",
+  "verify": "'先写列，再写行'"
+ },
+ {
+  "id": "cnm_p136_q2",
+  "topicId": "cnm_p136",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "点在第 4 列。4 的个位是几？",
+  "answer": "4",
+  "explanation": "列数是 4，个位就是 4。",
+  "verify": "4"
+ },
+ {
+  "id": "cnm_p136_q3",
+  "topicId": "cnm_p136",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "点在第 3 列第 5 行。列数和行数相加是多少？计算：3＋5＝？",
+  "answer": "8",
+  "explanation": "3＋5＝8。",
+  "verify": "3+5"
+ },
+ {
+  "id": "cnm_p136_q4",
+  "topicId": "cnm_p136",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6＋2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "C",
+  "explanation": "第 6 列第 2 行，6＋2＝8。",
+  "verify": "6+2"
+ },
+ {
+  "id": "cnm_p137_q1",
+  "topicId": "cnm_p137",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.8÷2＝？（用小数作答）",
+  "answer": "0.4",
+  "explanation": "0.8÷2＝0.4。",
+  "verify": "0.8/2"
+ },
+ {
+  "id": "cnm_p137_q2",
+  "topicId": "cnm_p137",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6.3÷3＝？（用小数作答）",
+  "answer": "2.1",
+  "explanation": "6.3÷3＝2.1。",
+  "verify": "6.3/3"
+ },
+ {
+  "id": "cnm_p137_q3",
+  "topicId": "cnm_p137",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "3 条同样的绳子共长 4.5 米。每条多少米？计算：4.5÷3＝？（用小数作答）",
+  "answer": "1.5",
+  "explanation": "4.5÷3＝1.5。",
+  "verify": "4.5/3"
+ },
+ {
+  "id": "cnm_p137_q4",
+  "topicId": "cnm_p137",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9.6÷4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1.4"
+   },
+   {
+    "key": "B",
+    "text": "2.2"
+   },
+   {
+    "key": "C",
+    "text": "2.4"
+   },
+   {
+    "key": "D",
+    "text": "3.4"
+   }
+  ],
+  "answer": "C",
+  "explanation": "9.6÷4＝2.4。",
+  "verify": "9.6/4"
+ },
+ {
+  "id": "cnm_p138_q1",
+  "topicId": "cnm_p138",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：0.8÷0.2＝？（用小数作答）",
+  "answer": "4",
+  "explanation": "0.8÷0.2＝4。",
+  "verify": "0.8/0.2"
+ },
+ {
+  "id": "cnm_p138_q2",
+  "topicId": "cnm_p138",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1.5÷0.5＝？（用小数作答）",
+  "answer": "3",
+  "explanation": "1.5÷0.5＝3。",
+  "verify": "1.5/0.5"
+ },
+ {
+  "id": "cnm_p138_q3",
+  "topicId": "cnm_p138",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每块橡皮 0.4 元，2.4 元可以买几块？计算：2.4÷0.4＝？（用小数作答）",
+  "answer": "6",
+  "explanation": "2.4÷0.4＝6。",
+  "verify": "2.4/0.4"
+ },
+ {
+  "id": "cnm_p138_q4",
+  "topicId": "cnm_p138",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3.6÷0.9 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3"
+   },
+   {
+    "key": "B",
+    "text": "4"
+   },
+   {
+    "key": "C",
+    "text": "5"
+   },
+   {
+    "key": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "B",
+  "explanation": "3.6÷0.9＝4。",
+  "verify": "3.6/0.9"
+ },
+ {
+  "id": "cnm_p139_q1",
+  "topicId": "cnm_p139",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：7.2÷8＝？（用小数作答）",
+  "answer": "0.9",
+  "explanation": "7.2÷8＝0.9。",
+  "verify": "7.2/8"
+ },
+ {
+  "id": "cnm_p139_q2",
+  "topicId": "cnm_p139",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4.5÷0.5＝？（用小数作答）",
+  "answer": "9",
+  "explanation": "4.5÷0.5＝9。",
+  "verify": "4.5/0.5"
+ },
+ {
+  "id": "cnm_p139_q3",
+  "topicId": "cnm_p139",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "9.6 千米走了 3 小时。平均每小时多少千米？计算：9.6÷3＝？（用小数作答）",
+  "answer": "3.2",
+  "explanation": "9.6÷3＝3.2。",
+  "verify": "9.6/3"
+ },
+ {
+  "id": "cnm_p139_q4",
+  "topicId": "cnm_p139",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5.5÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1.1"
+   },
+   {
+    "key": "B",
+    "text": "0.5"
+   },
+   {
+    "key": "C",
+    "text": "1.5"
+   },
+   {
+    "key": "D",
+    "text": "2.1"
+   }
+  ],
+  "answer": "A",
+  "explanation": "5.5÷5＝1.1。",
+  "verify": "5.5/5"
+ },
+ {
+  "id": "cnm_p140_q1",
+  "topicId": "cnm_p140",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "一定发生的事情，可能性怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "可能性是确定的，一定会发生"
+   },
+   {
+    "key": "B",
+    "text": "可能发生也可能不发生"
+   },
+   {
+    "key": "C",
+    "text": "不会发生"
+   }
+  ],
+  "answer": "A",
+  "explanation": "太阳从东方升起，是一定发生的。",
+  "verify": "'可能性是确定的，一定会发生'"
+ },
+ {
+  "id": "cnm_p140_q2",
+  "topicId": "cnm_p140",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "不可能发生的事情会怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "不会发生"
+   },
+   {
+    "key": "B",
+    "text": "一定会发生"
+   },
+   {
+    "key": "C",
+    "text": "一半机会发生"
+   }
+  ],
+  "answer": "A",
+  "explanation": "口袋里全是红球，摸出蓝球是不可能的。",
+  "verify": "'不会发生'"
+ },
+ {
+  "id": "cnm_p140_q3",
+  "topicId": "cnm_p140",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：3＋2＝？",
+  "answer": "5",
+  "explanation": "袋中有 3 个红球和 2 个蓝球，一共 5 个，摸出的可能是红也可能是蓝。",
+  "verify": "3+2"
+ },
+ {
+  "id": "cnm_p140_q4",
+  "topicId": "cnm_p140",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4＋1 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3"
+   },
+   {
+    "key": "B",
+    "text": "5"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "B",
+  "explanation": "4 个红球加 1 个蓝球，一共 5 个。",
+  "verify": "4+1"
+ },
+ {
+  "id": "cnm_p141_q1",
+  "topicId": "cnm_p141",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "可能性相等时，几种结果怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "每种结果的机会一样大"
+   },
+   {
+    "key": "B",
+    "text": "一定先出现第一种"
+   },
+   {
+    "key": "C",
+    "text": "不可能出现"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两面一样的硬币，正面和反面机会一样大。",
+  "verify": "'每种结果的机会一样大'"
+ },
+ {
+  "id": "cnm_p141_q2",
+  "topicId": "cnm_p141",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：5－2＝？",
+  "answer": "3",
+  "explanation": "红球 5 个、蓝球 2 个，红球比蓝球多 3 个，摸到红球的可能性更大。",
+  "verify": "5-2"
+ },
+ {
+  "id": "cnm_p141_q3",
+  "topicId": "cnm_p141",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "袋中红球 4 个、黄球 4 个。两种球一共多少个？计算：4＋4＝？",
+  "answer": "8",
+  "explanation": "4＋4＝8，两种颜色一样多，可能性相等。",
+  "verify": "4+4"
+ },
+ {
+  "id": "cnm_p141_q4",
+  "topicId": "cnm_p141",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "7－3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3"
+   },
+   {
+    "key": "B",
+    "text": "5"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "10"
+   }
+  ],
+  "answer": "C",
+  "explanation": "7－3＝4。",
+  "verify": "7-3"
+ },
+ {
+  "id": "cnm_p142_q1",
+  "topicId": "cnm_p142",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "用字母表示数时，字母表示什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "一个可以变化的数"
+   },
+   {
+    "key": "B",
+    "text": "只能表示 1"
+   },
+   {
+    "key": "C",
+    "text": "表示一个图形的名字，不能计算"
+   }
+  ],
+  "answer": "A",
+  "explanation": "a 可以是 2，也可以是 5。",
+  "verify": "'一个可以变化的数'"
+ },
+ {
+  "id": "cnm_p142_q2",
+  "topicId": "cnm_p142",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "a＝6 时，5×a 是多少？计算：5×6＝？",
+  "answer": "30",
+  "explanation": "5×6＝30。",
+  "verify": "5*6"
+ },
+ {
+  "id": "cnm_p142_q3",
+  "topicId": "cnm_p142",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每本笔记本 x 元，买 3 本。x＝4 时要付多少元？计算：4×3＝？",
+  "answer": "12",
+  "explanation": "4×3＝12。",
+  "verify": "4*3"
+ },
+ {
+  "id": "cnm_p142_q4",
+  "topicId": "cnm_p142",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8×7 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "15"
+   },
+   {
+    "key": "B",
+    "text": "56"
+   },
+   {
+    "key": "C",
+    "text": "48"
+   },
+   {
+    "key": "D",
+    "text": "64"
+   }
+  ],
+  "answer": "B",
+  "explanation": "a＝7 时，8×a＝56。",
+  "verify": "8*7"
+ },
+ {
+  "id": "cnm_p143_q1",
+  "topicId": "cnm_p143",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12－7＝？",
+  "answer": "5",
+  "explanation": "x＋7＝12 里，x 是 5，因为 12－7＝5。",
+  "verify": "12-7"
+ },
+ {
+  "id": "cnm_p143_q2",
+  "topicId": "cnm_p143",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：20－8＝？",
+  "answer": "12",
+  "explanation": "x＋8＝20，x＝12。",
+  "verify": "20-8"
+ },
+ {
+  "id": "cnm_p143_q3",
+  "topicId": "cnm_p143",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "未知数 x 加上 6 等于 15。x 是多少？计算：15－6＝？",
+  "answer": "9",
+  "explanation": "15－6＝9。",
+  "verify": "15-6"
+ },
+ {
+  "id": "cnm_p143_q4",
+  "topicId": "cnm_p143",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "30－9 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "21"
+   },
+   {
+    "key": "B",
+    "text": "19"
+   },
+   {
+    "key": "C",
+    "text": "20"
+   },
+   {
+    "key": "D",
+    "text": "39"
+   }
+  ],
+  "answer": "A",
+  "explanation": "x＋9＝30，x＝21。",
+  "verify": "30-9"
+ },
+ {
+  "id": "cnm_p144_q1",
+  "topicId": "cnm_p144",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "方程两边同时加上同一个数，相等关系怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "相等关系不变"
+   },
+   {
+    "key": "B",
+    "text": "左边变大、右边不变"
+   },
+   {
+    "key": "C",
+    "text": "方程就不成立了"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两边同时加、同时减，相等关系不变。",
+  "verify": "'相等关系不变'"
+ },
+ {
+  "id": "cnm_p144_q2",
+  "topicId": "cnm_p144",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18－6＝？",
+  "answer": "12",
+  "explanation": "x＋6＝18，两边同时减 6，x＝12。",
+  "verify": "18-6"
+ },
+ {
+  "id": "cnm_p144_q3",
+  "topicId": "cnm_p144",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "x－4＝9。两边同时加上 4，x 是多少？计算：9＋4＝？",
+  "answer": "13",
+  "explanation": "9＋4＝13。",
+  "verify": "9+4"
+ },
+ {
+  "id": "cnm_p144_q4",
+  "topicId": "cnm_p144",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "7＋8 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "15"
+   },
+   {
+    "key": "C",
+    "text": "14"
+   },
+   {
+    "key": "D",
+    "text": "56"
+   }
+  ],
+  "answer": "B",
+  "explanation": "x－8＝7，x＝15。",
+  "verify": "7+8"
+ },
+ {
+  "id": "cnm_p145_q1",
+  "topicId": "cnm_p145",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：40－17＝？",
+  "answer": "23",
+  "explanation": "x＋17＝40，x＝23。",
+  "verify": "40-17"
+ },
+ {
+  "id": "cnm_p145_q2",
+  "topicId": "cnm_p145",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：24÷3＝？",
+  "answer": "8",
+  "explanation": "3x＝24，x＝8。",
+  "verify": "24/3"
+ },
+ {
+  "id": "cnm_p145_q3",
+  "topicId": "cnm_p145",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "2x＋5＝17。先算 17－5，再看 x。17－5 是多少？计算：17－5＝？",
+  "answer": "12",
+  "explanation": "17－5＝12，2x＝12，x＝6。",
+  "verify": "17-5"
+ },
+ {
+  "id": "cnm_p145_q4",
+  "topicId": "cnm_p145",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "36÷4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "8"
+   },
+   {
+    "key": "B",
+    "text": "12"
+   },
+   {
+    "key": "C",
+    "text": "9"
+   },
+   {
+    "key": "D",
+    "text": "32"
+   }
+  ],
+  "answer": "C",
+  "explanation": "4x＝36，x＝9。",
+  "verify": "36/4"
+ },
+ {
+  "id": "cnm_p146_q1",
+  "topicId": "cnm_p146",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "买 4 个同样的文具盒付了 28 元。每个多少元？计算：28÷4＝？",
+  "answer": "7",
+  "explanation": "4x＝28，x＝7。",
+  "verify": "28/4"
+ },
+ {
+  "id": "cnm_p146_q2",
+  "topicId": "cnm_p146",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "一条绳子用去 15 米，还剩 9 米。原来多少米？计算：15＋9＝？",
+  "answer": "24",
+  "explanation": "x－15＝9，x＝24。",
+  "verify": "15+9"
+ },
+ {
+  "id": "cnm_p146_q3",
+  "topicId": "cnm_p146",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "每小时行 12 千米，行了 x 小时共 36 千米。x 是多少？计算：36÷12＝？",
+  "answer": "3",
+  "explanation": "12x＝36，x＝3。",
+  "verify": "36/12"
+ },
+ {
+  "id": "cnm_p146_q4",
+  "topicId": "cnm_p146",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "50－18 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "28"
+   },
+   {
+    "key": "B",
+    "text": "32"
+   },
+   {
+    "key": "C",
+    "text": "42"
+   },
+   {
+    "key": "D",
+    "text": "68"
+   }
+  ],
+  "answer": "B",
+  "explanation": "x＋18＝50，x＝32。",
+  "verify": "50-18"
+ },
+ {
+  "id": "cnm_p147_q1",
+  "topicId": "cnm_p147",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底 7 厘米、高 4 厘米的平行四边形，面积是多少平方厘米？",
+  "answer": "28",
+  "explanation": "底×高＝7×4＝28。",
+  "verify": "7*4"
+ },
+ {
+  "id": "cnm_p147_q2",
+  "topicId": "cnm_p147",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底 9 厘米、高 5 厘米的平行四边形，面积是多少平方厘米？",
+  "answer": "45",
+  "explanation": "9×5＝45。",
+  "verify": "9*5"
+ },
+ {
+  "id": "cnm_p147_q3",
+  "topicId": "cnm_p147",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块平行四边形草地底 12 米、高 6 米。面积是多少平方米？计算：12×6＝？",
+  "answer": "72",
+  "explanation": "12×6＝72。",
+  "verify": "12*6"
+ },
+ {
+  "id": "cnm_p147_q4",
+  "topicId": "cnm_p147",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8×3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "18"
+   },
+   {
+    "key": "B",
+    "text": "24"
+   },
+   {
+    "key": "C",
+    "text": "22"
+   },
+   {
+    "key": "D",
+    "text": "32"
+   }
+  ],
+  "answer": "B",
+  "explanation": "底 8、高 3，面积 24。",
+  "verify": "8*3"
+ },
+ {
+  "id": "cnm_p148_q1",
+  "topicId": "cnm_p148",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底 8 厘米、高 5 厘米的三角形，面积是多少平方厘米？",
+  "answer": "20",
+  "explanation": "8×5÷2＝20。",
+  "verify": "8*5/2"
+ },
+ {
+  "id": "cnm_p148_q2",
+  "topicId": "cnm_p148",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "底 6 厘米、高 4 厘米的三角形，面积是多少平方厘米？",
+  "answer": "12",
+  "explanation": "6×4÷2＝12。",
+  "verify": "6*4/2"
+ },
+ {
+  "id": "cnm_p148_q3",
+  "topicId": "cnm_p148",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块三角形布料底 10 厘米、高 6 厘米。面积是多少平方厘米？计算：10×6÷2＝？",
+  "answer": "30",
+  "explanation": "10×6÷2＝30。",
+  "verify": "10*6/2"
+ },
+ {
+  "id": "cnm_p148_q4",
+  "topicId": "cnm_p148",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12×4÷2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "24"
+   },
+   {
+    "key": "B",
+    "text": "16"
+   },
+   {
+    "key": "C",
+    "text": "20"
+   },
+   {
+    "key": "D",
+    "text": "48"
+   }
+  ],
+  "answer": "A",
+  "explanation": "12×4÷2＝24。",
+  "verify": "12*4/2"
+ },
+ {
+  "id": "cnm_p149_q1",
+  "topicId": "cnm_p149",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "上底 2 厘米、下底 6 厘米、高 4 厘米的梯形，面积是多少平方厘米？",
+  "answer": "16",
+  "explanation": "（2＋6）×4÷2＝16。",
+  "verify": "(2+6)*4/2"
+ },
+ {
+  "id": "cnm_p149_q2",
+  "topicId": "cnm_p149",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "上底 3 厘米、下底 7 厘米、高 4 厘米的梯形，面积是多少平方厘米？",
+  "answer": "20",
+  "explanation": "（3＋7）×4÷2＝20。",
+  "verify": "(3+7)*4/2"
+ },
+ {
+  "id": "cnm_p149_q3",
+  "topicId": "cnm_p149",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块梯形田上底 4 米、下底 8 米、高 5 米。面积是多少平方米？计算：（4＋8）×5÷2＝？",
+  "answer": "30",
+  "explanation": "（4＋8）×5÷2＝30。",
+  "verify": "(4+8)*5/2"
+ },
+ {
+  "id": "cnm_p149_q4",
+  "topicId": "cnm_p149",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "（5＋9）×2÷2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "12"
+   },
+   {
+    "key": "C",
+    "text": "28"
+   },
+   {
+    "key": "D",
+    "text": "14"
+   }
+  ],
+  "answer": "D",
+  "explanation": "（5＋9）×2÷2＝14。",
+  "verify": "(5+9)*2/2"
+ },
+ {
+  "id": "cnm_p150_q1",
+  "topicId": "cnm_p150",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12＋8＝？",
+  "answer": "20",
+  "explanation": "长方形面积 12，三角形面积 8，合起来 20。",
+  "verify": "12+8"
+ },
+ {
+  "id": "cnm_p150_q2",
+  "topicId": "cnm_p150",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：30－6＝？",
+  "answer": "24",
+  "explanation": "大长方形 30，剪去 6，剩下 24。",
+  "verify": "30-6"
+ },
+ {
+  "id": "cnm_p150_q3",
+  "topicId": "cnm_p150",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个长方形面积 24 平方厘米，旁边拼上一个面积 10 平方厘米的三角形。一共多少平方厘米？计算：24＋10＝？",
+  "answer": "34",
+  "explanation": "24＋10＝34。",
+  "verify": "24+10"
+ },
+ {
+  "id": "cnm_p150_q4",
+  "topicId": "cnm_p150",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "40－15 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "20"
+   },
+   {
+    "key": "B",
+    "text": "35"
+   },
+   {
+    "key": "C",
+    "text": "25"
+   },
+   {
+    "key": "D",
+    "text": "55"
+   }
+  ],
+  "answer": "C",
+  "explanation": "40－15＝25。",
+  "verify": "40-15"
+ },
+ {
+  "id": "cnm_p151_q1",
+  "topicId": "cnm_p151",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "植树问题要先分清什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "两端都种、还是只种一端"
+   },
+   {
+    "key": "B",
+    "text": "树叶有几片"
+   },
+   {
+    "key": "C",
+    "text": "树干有多粗"
+   }
+  ],
+  "answer": "A",
+  "explanation": "两端都种，棵数＝间隔数＋1。",
+  "verify": "'两端都种、还是只种一端'"
+ },
+ {
+  "id": "cnm_p151_q2",
+  "topicId": "cnm_p151",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：5＋1＝？",
+  "answer": "6",
+  "explanation": "5 个间隔、两端都种，要种 6 棵。",
+  "verify": "5+1"
+ },
+ {
+  "id": "cnm_p151_q3",
+  "topicId": "cnm_p151",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一条路长 20 米，每隔 4 米种一棵，两端都种。间隔数是多少？计算：20÷4＝？",
+  "answer": "5",
+  "explanation": "20÷4＝5，两端都种则是 6 棵。",
+  "verify": "20/4"
+ },
+ {
+  "id": "cnm_p151_q4",
+  "topicId": "cnm_p151",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8＋1 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "7"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "10"
+   },
+   {
+    "key": "D",
+    "text": "9"
+   }
+  ],
+  "answer": "D",
+  "explanation": "8 个间隔、两端都种，是 9 棵。",
+  "verify": "8+1"
+ },
+ {
+  "id": "cnm_p152_q1",
+  "topicId": "cnm_p152",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "从正面、侧面、上面看简单物体，会怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "看到的形状可能不一样"
+   },
+   {
+    "key": "B",
+    "text": "三个方向一定相同"
+   },
+   {
+    "key": "C",
+    "text": "只能看到上面"
+   }
+  ],
+  "answer": "A",
+  "explanation": "三个方向的视图要合在一起才能确定物体。",
+  "verify": "'看到的形状可能不一样'"
+ },
+ {
+  "id": "cnm_p152_q2",
+  "topicId": "cnm_p152",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×2＝？",
+  "answer": "6",
+  "explanation": "正面有 3 列、每列 2 个，按 3×2 数是 6 个。",
+  "verify": "3*2"
+ },
+ {
+  "id": "cnm_p152_q3",
+  "topicId": "cnm_p152",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "上面看到 4 个方块，正面看到的层数是 2。如果每列都是 2 个高，一共多少个？计算：4×2＝？",
+  "answer": "8",
+  "explanation": "4×2＝8。",
+  "verify": "4*2"
+ },
+ {
+  "id": "cnm_p152_q4",
+  "topicId": "cnm_p152",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5×2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "10"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "A",
+  "explanation": "5×2＝10。",
+  "verify": "5*2"
+ },
+ {
+  "id": "cnm_p153_q1",
+  "topicId": "cnm_p153",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12÷3＝？",
+  "answer": "4",
+  "explanation": "12÷3＝4，所以 3 和 4 都是 12 的因数。",
+  "verify": "12/3"
+ },
+ {
+  "id": "cnm_p153_q2",
+  "topicId": "cnm_p153",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6×4＝？",
+  "answer": "24",
+  "explanation": "6×4＝24，24 是 6 的倍数。",
+  "verify": "6*4"
+ },
+ {
+  "id": "cnm_p153_q3",
+  "topicId": "cnm_p153",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "18 的一个因数是 6。18÷6 是多少？计算：18÷6＝？",
+  "answer": "3",
+  "explanation": "18÷6＝3，3 也是 18 的因数。",
+  "verify": "18/6"
+ },
+ {
+  "id": "cnm_p153_q4",
+  "topicId": "cnm_p153",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "7×5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "35"
+   },
+   {
+    "key": "B",
+    "text": "30"
+   },
+   {
+    "key": "C",
+    "text": "40"
+   },
+   {
+    "key": "D",
+    "text": "42"
+   }
+  ],
+  "answer": "A",
+  "explanation": "7×5＝35，35 是 7 的倍数。",
+  "verify": "7*5"
+ },
+ {
+  "id": "cnm_p154_q1",
+  "topicId": "cnm_p154",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "偶数的个位是哪些数字？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0、2、4、6 或 8"
+   },
+   {
+    "key": "B",
+    "text": "1、3、5、7 或 9"
+   },
+   {
+    "key": "C",
+    "text": "只能是 0"
+   }
+  ],
+  "answer": "A",
+  "explanation": "个位是这些数字的数是 2 的倍数，也就是偶数。",
+  "verify": "'0、2、4、6 或 8'"
+ },
+ {
+  "id": "cnm_p154_q2",
+  "topicId": "cnm_p154",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "一个数的个位是 0 或 5，这个数怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "是 5 的倍数"
+   },
+   {
+    "key": "B",
+    "text": "一定是奇数"
+   },
+   {
+    "key": "C",
+    "text": "不能被 5 整除"
+   }
+  ],
+  "answer": "A",
+  "explanation": "个位是 0 或 5，才能被 5 整除。",
+  "verify": "'是 5 的倍数'"
+ },
+ {
+  "id": "cnm_p154_q3",
+  "topicId": "cnm_p154",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "40 的个位是几？",
+  "answer": "0",
+  "explanation": "40 的个位是 0，它既是 2 的倍数，也是 5 的倍数。",
+  "verify": "40 % 10"
+ },
+ {
+  "id": "cnm_p154_q4",
+  "topicId": "cnm_p154",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "25÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "4"
+   },
+   {
+    "key": "B",
+    "text": "6"
+   },
+   {
+    "key": "C",
+    "text": "10"
+   },
+   {
+    "key": "D",
+    "text": "5"
+   }
+  ],
+  "answer": "D",
+  "explanation": "25÷5＝5。",
+  "verify": "25/5"
+ },
+ {
+  "id": "cnm_p155_q1",
+  "topicId": "cnm_p155",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1＋2＋3＝？",
+  "answer": "6",
+  "explanation": "123 的各位相加是 6，6 是 3 的倍数，所以 123 是 3 的倍数。",
+  "verify": "1+2+3"
+ },
+ {
+  "id": "cnm_p155_q2",
+  "topicId": "cnm_p155",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4＋5＝？",
+  "answer": "9",
+  "explanation": "45 的各位相加是 9，能被 3 整除。",
+  "verify": "4+5"
+ },
+ {
+  "id": "cnm_p155_q3",
+  "topicId": "cnm_p155",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "判断 27 是不是 3 的倍数，先算 2＋7。2＋7 是多少？计算：2＋7＝？",
+  "answer": "9",
+  "explanation": "2＋7＝9，9 能被 3 整除，所以 27 是。",
+  "verify": "2+7"
+ },
+ {
+  "id": "cnm_p155_q4",
+  "topicId": "cnm_p155",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8＋1 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "7"
+   },
+   {
+    "key": "B",
+    "text": "10"
+   },
+   {
+    "key": "C",
+    "text": "18"
+   },
+   {
+    "key": "D",
+    "text": "9"
+   }
+  ],
+  "answer": "D",
+  "explanation": "81 的各位相加是 9。",
+  "verify": "8+1"
+ },
+ {
+  "id": "cnm_p156_q1",
+  "topicId": "cnm_p156",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "偶数的个位可以是哪些数字？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "0、2、4、6 或 8"
+   },
+   {
+    "key": "B",
+    "text": "只能是 1 或 3"
+   },
+   {
+    "key": "C",
+    "text": "任何数字都可以"
+   }
+  ],
+  "answer": "A",
+  "explanation": "个位是奇数的数不是偶数。",
+  "verify": "'0、2、4、6 或 8'"
+ },
+ {
+  "id": "cnm_p156_q2",
+  "topicId": "cnm_p156",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "28 的个位是几？",
+  "answer": "8",
+  "explanation": "个位是 8，28 是偶数。",
+  "verify": "28 % 10"
+ },
+ {
+  "id": "cnm_p156_q3",
+  "topicId": "cnm_p156",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：13＋1＝？",
+  "answer": "14",
+  "explanation": "13 是奇数，下一个偶数是 14。",
+  "verify": "13+1"
+ },
+ {
+  "id": "cnm_p156_q4",
+  "topicId": "cnm_p156",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "7＋1 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "10"
+   }
+  ],
+  "answer": "C",
+  "explanation": "7 的下一个偶数是 8。",
+  "verify": "7+1"
+ },
+ {
+  "id": "cnm_p157_q1",
+  "topicId": "cnm_p157",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "质数的因数有哪些？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "只有 1 和它本身"
+   },
+   {
+    "key": "B",
+    "text": "只有 1"
+   },
+   {
+    "key": "C",
+    "text": "至少有 3 个因数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "2、3、5、7 都是质数。",
+  "verify": "'只有 1 和它本身'"
+ },
+ {
+  "id": "cnm_p157_q2",
+  "topicId": "cnm_p157",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "1 是质数还是合数？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1 既不是质数也不是合数"
+   },
+   {
+    "key": "B",
+    "text": "1 是最小的质数"
+   },
+   {
+    "key": "C",
+    "text": "1 是合数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "1 只有一个因数，所以两边都不是。",
+  "verify": "'1 既不是质数也不是合数'"
+ },
+ {
+  "id": "cnm_p157_q3",
+  "topicId": "cnm_p157",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：2×2＝？",
+  "answer": "4",
+  "explanation": "4＝2×2，除了 1 和 4 还有因数 2，所以 4 是合数。",
+  "verify": "2*2"
+ },
+ {
+  "id": "cnm_p157_q4",
+  "topicId": "cnm_p157",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3×3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "9"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "B",
+  "explanation": "9＝3×3，9 是合数。",
+  "verify": "3*3"
+ },
+ {
+  "id": "cnm_p158_q1",
+  "topicId": "cnm_p158",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：12÷6＝？",
+  "answer": "2",
+  "explanation": "6 是 12 和 18 的公因数，12÷6＝2。",
+  "verify": "12/6"
+ },
+ {
+  "id": "cnm_p158_q2",
+  "topicId": "cnm_p158",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：8÷4＝？",
+  "answer": "2",
+  "explanation": "8 和 12 的最大公因数是 4。",
+  "verify": "8/4"
+ },
+ {
+  "id": "cnm_p158_q3",
+  "topicId": "cnm_p158",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "18 和 24 的最大公因数是 6。18÷6 是多少？计算：18÷6＝？",
+  "answer": "3",
+  "explanation": "18÷6＝3。",
+  "verify": "18/6"
+ },
+ {
+  "id": "cnm_p158_q4",
+  "topicId": "cnm_p158",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "20÷5 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3"
+   },
+   {
+    "key": "B",
+    "text": "4"
+   },
+   {
+    "key": "C",
+    "text": "5"
+   },
+   {
+    "key": "D",
+    "text": "6"
+   }
+  ],
+  "answer": "B",
+  "explanation": "20 和 15 的最大公因数是 5，20÷5＝4。",
+  "verify": "20/5"
+ },
+ {
+  "id": "cnm_p159_q1",
+  "topicId": "cnm_p159",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4×3＝？",
+  "answer": "12",
+  "explanation": "4 和 3 的最小公倍数是 12。",
+  "verify": "4*3"
+ },
+ {
+  "id": "cnm_p159_q2",
+  "topicId": "cnm_p159",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6×5＝？",
+  "answer": "30",
+  "explanation": "6 和 5 互质，最小公倍数是 30。",
+  "verify": "6*5"
+ },
+ {
+  "id": "cnm_p159_q3",
+  "topicId": "cnm_p159",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "2 和 8 的最小公倍数就是 8。8÷2 是多少？计算：8÷2＝？",
+  "answer": "4",
+  "explanation": "8÷2＝4，8 是 2 的倍数。",
+  "verify": "8/2"
+ },
+ {
+  "id": "cnm_p159_q4",
+  "topicId": "cnm_p159",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6×4÷2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "12"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "10"
+   },
+   {
+    "key": "D",
+    "text": "24"
+   }
+  ],
+  "answer": "A",
+  "explanation": "6 和 4 的最小公倍数是 12。",
+  "verify": "6*4/2"
+ },
+ {
+  "id": "cnm_p160_q1",
+  "topicId": "cnm_p160",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "长方体有几个面？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6个"
+   },
+   {
+    "key": "B",
+    "text": "4个"
+   },
+   {
+    "key": "C",
+    "text": "8个"
+   }
+  ],
+  "answer": "A",
+  "explanation": "长方体有 6 个面、12 条棱、8 个顶点。",
+  "verify": "'6个'"
+ },
+ {
+  "id": "cnm_p160_q2",
+  "topicId": "cnm_p160",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "正方体的每条棱怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "一样长"
+   },
+   {
+    "key": "B",
+    "text": "只有 4 条一样长"
+   },
+   {
+    "key": "C",
+    "text": "长短都不一样"
+   }
+  ],
+  "answer": "A",
+  "explanation": "正方体 12 条棱长度都相等。",
+  "verify": "'一样长'"
+ },
+ {
+  "id": "cnm_p160_q3",
+  "topicId": "cnm_p160",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4×3＝？",
+  "answer": "12",
+  "explanation": "一个面是长 4 厘米、宽 3 厘米的长方形，这个面的面积是 12 平方厘米。",
+  "verify": "4*3"
+ },
+ {
+  "id": "cnm_p160_q4",
+  "topicId": "cnm_p160",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12－4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "7"
+   },
+   {
+    "key": "C",
+    "text": "8"
+   },
+   {
+    "key": "D",
+    "text": "16"
+   }
+  ],
+  "answer": "C",
+  "explanation": "12 条棱里已经数了 4 条，还剩 8 条。",
+  "verify": "12-4"
+ },
+ {
+  "id": "cnm_p161_q1",
+  "topicId": "cnm_p161",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：（5×4＋5×3＋4×3）×2＝？",
+  "answer": "94",
+  "explanation": "三个不同的面分别是 20、15、12，和是 47，再乘 2 得 94。",
+  "verify": "(5*4+5*3+4*3)*2"
+ },
+ {
+  "id": "cnm_p161_q2",
+  "topicId": "cnm_p161",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×3×6＝？",
+  "answer": "54",
+  "explanation": "正方体一个面 3×3＝9，六个面是 54。",
+  "verify": "3*3*6"
+ },
+ {
+  "id": "cnm_p161_q3",
+  "topicId": "cnm_p161",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个正方体棱长 2 厘米。一个面的面积是多少平方厘米？计算：2×2＝？",
+  "answer": "4",
+  "explanation": "2×2＝4，六个面一共 24。",
+  "verify": "2*2"
+ },
+ {
+  "id": "cnm_p161_q4",
+  "topicId": "cnm_p161",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4×4×6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "96"
+   },
+   {
+    "key": "B",
+    "text": "16"
+   },
+   {
+    "key": "C",
+    "text": "48"
+   },
+   {
+    "key": "D",
+    "text": "64"
+   }
+  ],
+  "answer": "A",
+  "explanation": "棱长 4 的正方体表面积是 96。",
+  "verify": "4*4*6"
+ },
+ {
+  "id": "cnm_p162_q1",
+  "topicId": "cnm_p162",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "体积要用什么来表示？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "体积单位"
+   },
+   {
+    "key": "B",
+    "text": "长度单位"
+   },
+   {
+    "key": "C",
+    "text": "只写一个数、不用单位"
+   }
+  ],
+  "answer": "A",
+  "explanation": "立方厘米、立方分米、立方米都是体积单位。",
+  "verify": "'体积单位'"
+ },
+ {
+  "id": "cnm_p162_q2",
+  "topicId": "cnm_p162",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×1000＝？",
+  "answer": "2000",
+  "explanation": "2 立方分米＝2000 立方厘米。",
+  "verify": "2*1000"
+ },
+ {
+  "id": "cnm_p162_q3",
+  "topicId": "cnm_p162",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "1 立方米等于 1000 立方分米。3 立方米是多少立方分米？计算：3×1000＝？",
+  "answer": "3000",
+  "explanation": "3×1000＝3000。",
+  "verify": "3*1000"
+ },
+ {
+  "id": "cnm_p162_q4",
+  "topicId": "cnm_p162",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5×1000 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "500"
+   },
+   {
+    "key": "B",
+    "text": "5000"
+   },
+   {
+    "key": "C",
+    "text": "1500"
+   },
+   {
+    "key": "D",
+    "text": "50000"
+   }
+  ],
+  "answer": "B",
+  "explanation": "5 立方分米＝5000 立方厘米。",
+  "verify": "5*1000"
+ },
+ {
+  "id": "cnm_p163_q1",
+  "topicId": "cnm_p163",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "长 5 厘米、宽 4 厘米、高 3 厘米的长方体，体积是多少立方厘米？",
+  "answer": "60",
+  "explanation": "5×4×3＝60。",
+  "verify": "5*4*3"
+ },
+ {
+  "id": "cnm_p163_q2",
+  "topicId": "cnm_p163",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "棱长 3 厘米的正方体，体积是多少立方厘米？",
+  "answer": "27",
+  "explanation": "3×3×3＝27。",
+  "verify": "3*3*3"
+ },
+ {
+  "id": "cnm_p163_q3",
+  "topicId": "cnm_p163",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一个长方体容器长 8 厘米、宽 5 厘米、高 2 厘米。容积是多少立方厘米？计算：8×5×2＝？",
+  "answer": "80",
+  "explanation": "8×5×2＝80。",
+  "verify": "8*5*2"
+ },
+ {
+  "id": "cnm_p163_q4",
+  "topicId": "cnm_p163",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4×4×4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "16"
+   },
+   {
+    "key": "B",
+    "text": "64"
+   },
+   {
+    "key": "C",
+    "text": "32"
+   },
+   {
+    "key": "D",
+    "text": "48"
+   }
+  ],
+  "answer": "B",
+  "explanation": "棱长 4 的正方体体积是 64。",
+  "verify": "4*4*4"
+ },
+ {
+  "id": "cnm_p164_q1",
+  "topicId": "cnm_p164",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1×1000＝？",
+  "answer": "1000",
+  "explanation": "1 升＝1000 毫升。",
+  "verify": "1*1000"
+ },
+ {
+  "id": "cnm_p164_q2",
+  "topicId": "cnm_p164",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3×1000＝？",
+  "answer": "3000",
+  "explanation": "3 升＝3000 毫升。",
+  "verify": "3*1000"
+ },
+ {
+  "id": "cnm_p164_q3",
+  "topicId": "cnm_p164",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "瓶中有 750 毫升水，又倒进 250 毫升。一共多少毫升？计算：750＋250＝？",
+  "answer": "1000",
+  "explanation": "750＋250＝1000，也就是 1 升。",
+  "verify": "750+250"
+ },
+ {
+  "id": "cnm_p164_q4",
+  "topicId": "cnm_p164",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "2×500 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "250"
+   },
+   {
+    "key": "B",
+    "text": "1000"
+   },
+   {
+    "key": "C",
+    "text": "700"
+   },
+   {
+    "key": "D",
+    "text": "1500"
+   }
+  ],
+  "answer": "B",
+  "explanation": "2×500＝1000。",
+  "verify": "2*500"
+ },
+ {
+  "id": "cnm_p165_q1",
+  "topicId": "cnm_p165",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "分数的分母表示什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "把整体平均分成了几份"
+   },
+   {
+    "key": "B",
+    "text": "取出了几份"
+   },
+   {
+    "key": "C",
+    "text": "一共有多少个整体"
+   }
+  ],
+  "answer": "A",
+  "explanation": "分子才表示取了其中的几份。",
+  "verify": "'把整体平均分成了几份'"
+ },
+ {
+  "id": "cnm_p165_q2",
+  "topicId": "cnm_p165",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1÷4＝？",
+  "answer": "1/4",
+  "explanation": "把 1 平均分成 4 份，每份是 1/4。",
+  "verify": "1/4"
+ },
+ {
+  "id": "cnm_p165_q3",
+  "topicId": "cnm_p165",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "8 块糖平均分成 4 份，每份是几块？计算：8÷4＝？",
+  "answer": "2",
+  "explanation": "8÷4＝2，每份是这些糖的 1/4，也就是 2 块。",
+  "verify": "8/4"
+ },
+ {
+  "id": "cnm_p165_q4",
+  "topicId": "cnm_p165",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "12÷3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "3"
+   },
+   {
+    "key": "B",
+    "text": "6"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "9"
+   }
+  ],
+  "answer": "C",
+  "explanation": "12 的 1/3 是 4。",
+  "verify": "12/3"
+ },
+ {
+  "id": "cnm_p166_q1",
+  "topicId": "cnm_p166",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "分子比分母小的分数是什么分数？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "真分数"
+   },
+   {
+    "key": "B",
+    "text": "假分数"
+   },
+   {
+    "key": "C",
+    "text": "带分数"
+   }
+  ],
+  "answer": "A",
+  "explanation": "分子比分母小，这个分数小于 1。",
+  "verify": "'真分数'"
+ },
+ {
+  "id": "cnm_p166_q2",
+  "topicId": "cnm_p166",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：7÷4＝？",
+  "answer": "7/4",
+  "explanation": "7÷4＝7/4，分子比分母大，是假分数。",
+  "verify": "7/4"
+ },
+ {
+  "id": "cnm_p166_q3",
+  "topicId": "cnm_p166",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "先写商，再写余数。商和余数：9÷4",
+  "answer": "2，1",
+  "explanation": "9÷4＝2 余 1，所以 9/4＝2 又 1/4。",
+  "verify": "(9//4, 9%4)"
+ },
+ {
+  "id": "cnm_p166_q4",
+  "topicId": "cnm_p166",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：8÷8＝？",
+  "answer": "1",
+  "explanation": "8÷8＝1，假分数可以等于 1。",
+  "verify": "8/8"
+ },
+ {
+  "id": "cnm_p167_q1",
+  "topicId": "cnm_p167",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1×3＝？",
+  "answer": "3",
+  "explanation": "1/2 的分子分母都乘 3，新的分子是 3。",
+  "verify": "1*3"
+ },
+ {
+  "id": "cnm_p167_q2",
+  "topicId": "cnm_p167",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×3＝？",
+  "answer": "6",
+  "explanation": "分母 2 也乘 3，得到 6，所以 1/2＝3/6。",
+  "verify": "2*3"
+ },
+ {
+  "id": "cnm_p167_q3",
+  "topicId": "cnm_p167",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "4/8 的分子和分母同时除以 4，分子变成多少？计算：4÷4＝？",
+  "answer": "1",
+  "explanation": "4÷4＝1，所以 4/8＝1/2。",
+  "verify": "4/4"
+ },
+ {
+  "id": "cnm_p167_q4",
+  "topicId": "cnm_p167",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "6÷3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1"
+   },
+   {
+    "key": "B",
+    "text": "3"
+   },
+   {
+    "key": "C",
+    "text": "4"
+   },
+   {
+    "key": "D",
+    "text": "2"
+   }
+  ],
+  "answer": "D",
+  "explanation": "6/9 分子分母同除以 3，分子是 2。",
+  "verify": "6/3"
+ },
+ {
+  "id": "cnm_p168_q1",
+  "topicId": "cnm_p168",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：6÷8＝？",
+  "answer": "3/4",
+  "explanation": "6 和 8 的最大公因数是 2，6/8＝3/4。",
+  "verify": "6/8"
+ },
+ {
+  "id": "cnm_p168_q2",
+  "topicId": "cnm_p168",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4÷10＝？",
+  "answer": "2/5",
+  "explanation": "4/10＝2/5。",
+  "verify": "4/10"
+ },
+ {
+  "id": "cnm_p168_q3",
+  "topicId": "cnm_p168",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "把 8/12 约分，先算 8 和 12 的最大公因数。12÷4 是多少？计算：12÷4＝？",
+  "answer": "3",
+  "explanation": "最大公因数是 4，12÷4＝3，8/12＝2/3。",
+  "verify": "12/4"
+ },
+ {
+  "id": "cnm_p168_q4",
+  "topicId": "cnm_p168",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "9÷3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "2"
+   },
+   {
+    "key": "B",
+    "text": "6"
+   },
+   {
+    "key": "C",
+    "text": "3"
+   },
+   {
+    "key": "D",
+    "text": "12"
+   }
+  ],
+  "answer": "C",
+  "explanation": "9/15 同除以 3，分子是 3。",
+  "verify": "9/3"
+ },
+ {
+  "id": "cnm_p169_q1",
+  "topicId": "cnm_p169",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3/5－1/5＝？",
+  "answer": "2/5",
+  "explanation": "分母相同，3/5 比 1/5 大，相差 2/5。",
+  "verify": "3/5-1/5"
+ },
+ {
+  "id": "cnm_p169_q2",
+  "topicId": "cnm_p169",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/2－1/3＝？",
+  "answer": "1/6",
+  "explanation": "通分后 3/6 比 2/6 大，相差 1/6。",
+  "verify": "1/2-1/3"
+ },
+ {
+  "id": "cnm_p169_q3",
+  "topicId": "cnm_p169",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一条绳子用去 3/8，另一条用去 5/8。谁用得多？先算差。计算：5/8－3/8＝？",
+  "answer": "1/4",
+  "explanation": "5/8－3/8＝2/8＝1/4。",
+  "verify": "5/8-3/8"
+ },
+ {
+  "id": "cnm_p169_q4",
+  "topicId": "cnm_p169",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "4/7－2/7 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1/7"
+   },
+   {
+    "key": "B",
+    "text": "2/7"
+   },
+   {
+    "key": "C",
+    "text": "3/7"
+   },
+   {
+    "key": "D",
+    "text": "6/7"
+   }
+  ],
+  "answer": "B",
+  "explanation": "4/7－2/7＝2/7。",
+  "verify": "4/7-2/7"
+ },
+ {
+  "id": "cnm_p170_q1",
+  "topicId": "cnm_p170",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3÷10＝？（用小数作答）",
+  "answer": "0.3",
+  "explanation": "3/10＝0.3。",
+  "verify": "3/10"
+ },
+ {
+  "id": "cnm_p170_q2",
+  "topicId": "cnm_p170",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：25÷100＝？（用小数作答）",
+  "answer": "0.25",
+  "explanation": "25/100＝0.25。",
+  "verify": "25/100"
+ },
+ {
+  "id": "cnm_p170_q3",
+  "topicId": "cnm_p170",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "0.7 是多少个 0.1？计算：0.7÷0.1＝？（用小数作答）",
+  "answer": "7",
+  "explanation": "0.7＝7/10。",
+  "verify": "0.7/0.1"
+ },
+ {
+  "id": "cnm_p170_q4",
+  "topicId": "cnm_p170",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "计算：4÷10＝？（用小数作答）",
+  "answer": "0.4",
+  "explanation": "4/10＝0.4。",
+  "verify": "4/10"
+ },
+ {
+  "id": "cnm_p171_q1",
+  "topicId": "cnm_p171",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "旋转之后，图形的大小和形状怎样？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "大小和形状都不变"
+   },
+   {
+    "key": "B",
+    "text": "一定变大"
+   },
+   {
+    "key": "C",
+    "text": "形状一定改变"
+   }
+  ],
+  "answer": "A",
+  "explanation": "旋转只改变位置和方向。",
+  "verify": "'大小和形状都不变'"
+ },
+ {
+  "id": "cnm_p171_q2",
+  "topicId": "cnm_p171",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：90＋90＝？",
+  "answer": "180",
+  "explanation": "顺时针转 90 度再转 90 度，一共转了 180 度。",
+  "verify": "90+90"
+ },
+ {
+  "id": "cnm_p171_q3",
+  "topicId": "cnm_p171",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "时针从 12 转到 3，转了 90 度。再转到 6，又转多少度？计算：90＋0＝？",
+  "answer": "90",
+  "explanation": "从 3 到 6 也是 90 度。",
+  "verify": "90+0"
+ },
+ {
+  "id": "cnm_p171_q4",
+  "topicId": "cnm_p171",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "360÷4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "90"
+   },
+   {
+    "key": "B",
+    "text": "60"
+   },
+   {
+    "key": "C",
+    "text": "80"
+   },
+   {
+    "key": "D",
+    "text": "120"
+   }
+  ],
+  "answer": "A",
+  "explanation": "转一圈 360 度的四分之一是 90 度。",
+  "verify": "360/4"
+ },
+ {
+  "id": "cnm_p172_q1",
+  "topicId": "cnm_p172",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：2×3＝？",
+  "answer": "6",
+  "explanation": "2 和 3 的最小公倍数是 6，用它做公分母。",
+  "verify": "2*3"
+ },
+ {
+  "id": "cnm_p172_q2",
+  "topicId": "cnm_p172",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：4×2＝？",
+  "answer": "8",
+  "explanation": "1/4 的分子分母都乘 2，得到 2/8。",
+  "verify": "4*2"
+ },
+ {
+  "id": "cnm_p172_q3",
+  "topicId": "cnm_p172",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "要把 1/6 和 1/3 通分，公分母可以是 6。1/3 的分母变成 6，要乘几？计算：6÷3＝？",
+  "answer": "2",
+  "explanation": "6÷3＝2，1/3＝2/6。",
+  "verify": "6/3"
+ },
+ {
+  "id": "cnm_p172_q4",
+  "topicId": "cnm_p172",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3×4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "7"
+   },
+   {
+    "key": "B",
+    "text": "12"
+   },
+   {
+    "key": "C",
+    "text": "9"
+   },
+   {
+    "key": "D",
+    "text": "16"
+   }
+  ],
+  "answer": "B",
+  "explanation": "3 和 4 的最小公倍数是 12。",
+  "verify": "3*4"
+ },
+ {
+  "id": "cnm_p173_q1",
+  "topicId": "cnm_p173",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/2＋1/4＝？",
+  "answer": "3/4",
+  "explanation": "1/2＝2/4，2/4＋1/4＝3/4。",
+  "verify": "1/2+1/4"
+ },
+ {
+  "id": "cnm_p173_q2",
+  "topicId": "cnm_p173",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/2－1/3＝？",
+  "answer": "1/6",
+  "explanation": "1/2＝3/6，1/3＝2/6，相差 1/6。",
+  "verify": "1/2-1/3"
+ },
+ {
+  "id": "cnm_p173_q3",
+  "topicId": "cnm_p173",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一块地，小麦占 1/2，玉米占 1/3。两种一共占这块地的几分之几？计算：1/2＋1/3＝？",
+  "answer": "5/6",
+  "explanation": "1/2＋1/3＝3/6＋2/6＝5/6。",
+  "verify": "1/2+1/3"
+ },
+ {
+  "id": "cnm_p173_q4",
+  "topicId": "cnm_p173",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "3/4－1/2 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1/8"
+   },
+   {
+    "key": "B",
+    "text": "1/4"
+   },
+   {
+    "key": "C",
+    "text": "1/2"
+   },
+   {
+    "key": "D",
+    "text": "5/4"
+   }
+  ],
+  "answer": "B",
+  "explanation": "3/4－2/4＝1/4。",
+  "verify": "3/4-1/2"
+ },
+ {
+  "id": "cnm_p174_q1",
+  "topicId": "cnm_p174",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：1/2＋1/4－1/4＝？",
+  "answer": "1/2",
+  "explanation": "1/4 先加上再减去，结果仍是 1/2。",
+  "verify": "1/2+1/4-1/4"
+ },
+ {
+  "id": "cnm_p174_q2",
+  "topicId": "cnm_p174",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：3/4－1/4＋1/2＝？",
+  "answer": "1",
+  "explanation": "3/4－1/4＝1/2，再加 1/2 得 1。",
+  "verify": "3/4-1/4+1/2"
+ },
+ {
+  "id": "cnm_p174_q3",
+  "topicId": "cnm_p174",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "一杯水先喝去 1/5，又喝去 2/5。一共喝去几分之几？计算：1/5＋2/5＝？",
+  "answer": "3/5",
+  "explanation": "1/5＋2/5＝3/5。",
+  "verify": "1/5+2/5"
+ },
+ {
+  "id": "cnm_p174_q4",
+  "topicId": "cnm_p174",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "5/6－1/6－1/6 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "1/6"
+   },
+   {
+    "key": "B",
+    "text": "2/3"
+   },
+   {
+    "key": "C",
+    "text": "5/6"
+   },
+   {
+    "key": "D",
+    "text": "1/2"
+   }
+  ],
+  "answer": "D",
+  "explanation": "5/6－1/6－1/6＝3/6＝1/2。",
+  "verify": "5/6-1/6-1/6"
+ },
+ {
+  "id": "cnm_p175_q1",
+  "topicId": "cnm_p175",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "折线统计图适合看什么？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "数量的变化"
+   },
+   {
+    "key": "B",
+    "text": "各部分占总数的多少"
+   },
+   {
+    "key": "C",
+    "text": "只能看出谁最高"
+   }
+  ],
+  "answer": "A",
+  "explanation": "折线向上表示增加，向下表示减少。",
+  "verify": "'数量的变化'"
+ },
+ {
+  "id": "cnm_p175_q2",
+  "topicId": "cnm_p175",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：18－12＝？",
+  "answer": "6",
+  "explanation": "后一天 18、前一天 12，增加了 6。",
+  "verify": "18-12"
+ },
+ {
+  "id": "cnm_p175_q3",
+  "topicId": "cnm_p175",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "星期一借出 20 本，星期二借出 15 本。星期二比星期一少几本？计算：20－15＝？",
+  "answer": "5",
+  "explanation": "20－15＝5。",
+  "verify": "20-15"
+ },
+ {
+  "id": "cnm_p175_q4",
+  "topicId": "cnm_p175",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "8＋6＋4 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "14"
+   },
+   {
+    "key": "B",
+    "text": "16"
+   },
+   {
+    "key": "C",
+    "text": "18"
+   },
+   {
+    "key": "D",
+    "text": "20"
+   }
+  ],
+  "answer": "C",
+  "explanation": "三天分别是 8、6、4，一共 18。",
+  "verify": "8+6+4"
+ },
+ {
+  "id": "cnm_p176_q1",
+  "topicId": "cnm_p176",
+  "difficulty": "basic",
+  "type": "choice",
+  "prompt": "找次品时每次要怎样做？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "把物品分成三份来称"
+   },
+   {
+    "key": "B",
+    "text": "每次只称一个"
+   },
+   {
+    "key": "C",
+    "text": "全部放在一起称一次就够"
+   }
+  ],
+  "answer": "A",
+  "explanation": "天平两边各放一份，剩下的一份先不放。",
+  "verify": "'把物品分成三份来称'"
+ },
+ {
+  "id": "cnm_p176_q2",
+  "topicId": "cnm_p176",
+  "difficulty": "basic",
+  "type": "numeric",
+  "prompt": "计算：9÷3＝？",
+  "answer": "3",
+  "explanation": "9 个零件分成 3 份，每份 3 个。",
+  "verify": "9/3"
+ },
+ {
+  "id": "cnm_p176_q3",
+  "topicId": "cnm_p176",
+  "difficulty": "standard",
+  "type": "numeric",
+  "prompt": "81 个零件，每次分成 3 份。第一次每份多少个？计算：81÷3＝？",
+  "answer": "27",
+  "explanation": "81÷3＝27。",
+  "verify": "81/3"
+ },
+ {
+  "id": "cnm_p176_q4",
+  "topicId": "cnm_p176",
+  "difficulty": "standard",
+  "type": "choice",
+  "prompt": "27÷3 的得数是哪一个？",
+  "choices": [
+   {
+    "key": "A",
+    "text": "6"
+   },
+   {
+    "key": "B",
+    "text": "8"
+   },
+   {
+    "key": "C",
+    "text": "12"
+   },
+   {
+    "key": "D",
+    "text": "9"
+   }
+  ],
+  "answer": "D",
+  "explanation": "27÷3＝9。",
+  "verify": "27/3"
+ }
+]

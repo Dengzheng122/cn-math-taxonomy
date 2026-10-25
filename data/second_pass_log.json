@@ -1,0 +1,120 @@
+{
+  "method": "独立第二遍复核（盲解）：由 Claude 子任务在看不到 answer / explanation / verify / 原作者推导的情况下重新解题，答案用 scripts/second_pass.py compare 与题库逐题比对，不一致的由我用 Python 精确计算裁决；解题者的工具调用记录已核对，只读过自己的 blind 文件。",
+  "caveats": "解题者与出题者是同一模型家族，系统性共同错误（对某个知识点的同样误解）不一定能被发现；几何题只按题干文字条件解，没有图形。",
+  "passes": [
+    {
+      "name": "A：全量盲解（一次性作答）",
+      "solvers": 19,
+      "questions": 1401,
+      "by_type": {
+        "numeric": 903,
+        "choice": 475,
+        "short": 23
+      },
+      "disagreements": 3,
+      "adjudication": "3 处全部是解题者出错，题库答案正确"
+    },
+    {
+      "name": "B：风险题仔细盲解（逐批推理 + Python 计算 + 每题写推导）",
+      "solvers": 16,
+      "questions": 752,
+      "scope": "没有 verify 自动核验的 numeric/choice/short 题 + 全部 advanced 题",
+      "disagreements": 0,
+      "flagged_doubtful": 0
+    },
+    {
+      "name": "C：小学题独立复核（primary_recheck，只读题干和选项，不读 answer / verify / explanation）",
+      "solver": "scripts/primary_recheck.py",
+      "questions": 864,
+      "by_type": {
+        "numeric": 644,
+        "choice": 220
+      },
+      "disagreements": 0,
+      "adjudication": "不一致的题必须先改目录再编译；本轮为 0"
+    },
+    {
+      "name": "D：高中必修题由生成脚本写 verify，再经 verify_questions.py 核对表达式与答案",
+      "solver": "scripts/hs_build.py + scripts/verify_questions.py",
+      "questions": 572,
+      "note": "答案由同一条 verify 表达式求值后写入，再被核验脚本比对，所以 mismatch 反映的是格式而不是另一遍独立解题。没有做初中 A/B 轮那种盲解。概念题的选项文字与 verify 返回的字符串相同。",
+      "disagreements": 0
+    },
+    {
+      "name": "E：高中选择性必修题由生成脚本写 verify，再经 verify_questions.py 核对表达式与答案",
+      "solver": "scripts/hs_sel_build.py + scripts/verify_questions.py",
+      "questions": 512,
+      "note": "答案由同一条 verify 表达式求值后写入，再被核验脚本比对，所以 mismatch 反映的是格式而不是另一遍独立解题。没有做初中 A/B 轮那种盲解。概念题的选项文字与 verify 返回的字符串相同。",
+      "disagreements": 0
+    }
+  ],
+  "checked": 1401,
+  "initial_mismatch_count": 3,
+  "answer_errors_found": 0,
+  "wording_fixes": 4,
+  "explanation_fixes": 1,
+  "fixed_count": 5,
+  "second_pass_mismatch": [],
+  "adjudicated_solver_errors": [
+    {
+      "id": "cnm_090_q3",
+      "题库答案": "2，3",
+      "独立答案": "3，3",
+      "裁决": "3x+2y=12 与 3x-y=3 相减得 3y=9，y=3，再得 3x=6，x=2；题库正确，解题者算错 x"
+    },
+    {
+      "id": "cnm_213_q4",
+      "题库答案": "9",
+      "独立答案": "6",
+      "裁决": "6 个数据的中位数是第 3、4 个数 7 与 a 的平均数，(7+a)/2=8，a=9，且 7<9<10 满足已排序；题库正确"
+    },
+    {
+      "id": "cnm_311_q4",
+      "题库答案": "1/3",
+      "独立答案": "2/3",
+      "裁决": "1、2、3 排成三位数共 6 种，个位是 2 才是偶数，有 2 种，概率 1/3；题库正确"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "cnm_053_q3",
+      "kind": "题干含糊",
+      "before": "……图中以这些点为端点的线段共有几条？",
+      "after": "……以这些点为端点的线段共有几条？",
+      "reason": "解题者指出题干提到「图中」但没有图；删去“图中”，答案 6 不变"
+    },
+    {
+      "id": "cnm_112_q1",
+      "kind": "题干含糊",
+      "before": "钝角三角形的高在三角形外部吗？",
+      "after": "钝角三角形的高在三角形外部吗？下列说法哪一个正确？",
+      "reason": "原句是是非问句，选项却是描述性陈述；补充问法，答案 B 不变"
+    },
+    {
+      "id": "cnm_133_q2",
+      "kind": "条件不全",
+      "before": "到线段 AB 两个端点距离相等的点，一定在：",
+      "after": "在同一平面内，到线段 AB 两个端点距离相等的点，一定在：",
+      "reason": "垂直平分线的判定只在平面内成立；补充“同一平面内”，答案 D 不变"
+    },
+    {
+      "id": "cnm_306_q2",
+      "kind": "口径歧义",
+      "before": "……样本方差是多少？（写成小数）",
+      "after": "……按“各数据与平均数之差的平方的平均数”计算，样本方差是多少？（写成小数）",
+      "reason": "样本方差除以 n 还是 n-1 有口径之分；初中按除以 n，写明公式，答案 0.4 不变"
+    },
+    {
+      "id": "cnm_151_q3",
+      "kind": "解析错误",
+      "before": "……B、C 没有提干净。",
+      "after": "……A 的结果不等于原式，B、D 没有提尽公因式。",
+      "reason": "解析把正确选项 C 误写成“没提干净”；由“解析中出现的选项字母与答案矛盾”的扫描发现，答案 C 不变"
+    }
+  ],
+  "doubtful_notes_reviewed": "解题者标出的 16 条存疑（分隔符格式、需要“同一平面内”、小数取舍、边界归属、口径等）逐条看过：除上面 4 处改题干外，其余题干条件已足以唯一确定答案（如 cnm_228_q4 已写明“要让顾客得到更多实惠”、cnm_293_q4 已写明“11~20（含 20）”、cnm_290_q1 已写明保留一位小数与 √3≈1.73），不改。",
+  "primary_checked": 864,
+  "primary_disagreements": [],
+  "high_school_checked_by_verify": 572,
+  "high_school_selective_checked_by_verify": 512
+}
